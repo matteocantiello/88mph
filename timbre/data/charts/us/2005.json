@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2005,
+  "context": "The iPod changed how we consumed music. Kanye West merged rap with soul and fashion. Green Day's American Idiot soundtracked political discontent. MySpace was birthing a new generation of indie artists.",
+  "tracks": [
+    { "rank": 1, "title": "We Belong Together", "artist": "Mariah Carey" },
+    { "rank": 2, "title": "Gold Digger", "artist": "Kanye West feat. Jamie Foxx" },
+    { "rank": 3, "title": "Boulevard of Broken Dreams", "artist": "Green Day" },
+    { "rank": 4, "title": "Let Me Love You", "artist": "Mario" },
+    { "rank": 5, "title": "Since U Been Gone", "artist": "Kelly Clarkson" },
+    { "rank": 6, "title": "1, 2 Step", "artist": "Ciara feat. Missy Elliott" },
+    { "rank": 7, "title": "Hollaback Girl", "artist": "Gwen Stefani" },
+    { "rank": 8, "title": "Candy Shop", "artist": "50 Cent feat. Olivia" },
+    { "rank": 9, "title": "Mr. Brightside", "artist": "The Killers" },
+    { "rank": 10, "title": "Feel Good Inc.", "artist": "Gorillaz" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 1985,
+  "context": "Peak European synth-pop. Austrian acts Opus and Falco achieved massive success, with 'Rock Me Amadeus' becoming a global phenomenon. Modern Talking became the biggest German pop export of the decade. Electronic pop ruled the continent.",
+  "tracks": [
+    { "rank": 1, "title": "Live Is Life", "artist": "Opus" },
+    { "rank": 2, "title": "You're My Heart, You're My Soul", "artist": "Modern Talking" },
+    { "rank": 3, "title": "Tarzan Boy", "artist": "Baltimora" },
+    { "rank": 4, "title": "Rock Me Amadeus", "artist": "Falco" },
+    { "rank": 5, "title": "(I'll Never Be) Maria Magdalena", "artist": "Sandra" },
+    { "rank": 6, "title": "We Don't Need Another Hero (Thunderdome)", "artist": "Tina Turner" },
+    { "rank": 7, "title": "You're a Woman", "artist": "Bad Boys Blue" },
+    { "rank": 8, "title": "Theme from Rocky", "artist": "Round One" },
+    { "rank": 9, "title": "Comanchero", "artist": "Raggio di Luna" },
+    { "rank": 10, "title": "Don't You (Forget About Me)", "artist": "Simple Minds" }
+  ]
+}

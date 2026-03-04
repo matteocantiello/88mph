@@ -1,0 +1,17 @@
+{
+  "country": "au",
+  "year": 1990,
+  "context": "International pop powerhouses dominated the Australian charts. Sinead O'Connor's raw 'Nothing Compares 2 U' was inescapable, MC Hammer brought hip-hop to the mainstream. The ARIA chart showed Australia deeply connected to global pop trends.",
+  "tracks": [
+    { "rank": 1, "title": "Nothing Compares 2 U", "artist": "Sinead O'Connor" },
+    { "rank": 2, "title": "U Can't Touch This", "artist": "MC Hammer" },
+    { "rank": 3, "title": "Vogue", "artist": "Madonna" },
+    { "rank": 4, "title": "It Must Have Been Love", "artist": "Roxette" },
+    { "rank": 5, "title": "All I Wanna Do Is Make Love to You", "artist": "Heart" },
+    { "rank": 6, "title": "Opposites Attract", "artist": "Paula Abdul" },
+    { "rank": 7, "title": "How Am I Supposed to Live Without You", "artist": "Michael Bolton" },
+    { "rank": 8, "title": "Unchained Melody", "artist": "The Righteous Brothers" },
+    { "rank": 9, "title": "Girl I'm Gonna Miss You", "artist": "Milli Vanilli" },
+    { "rank": 10, "title": "Love Shack", "artist": "The B-52's" }
+  ]
+}

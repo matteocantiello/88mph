@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 2010,
+  "context": "Defined by the FIFA World Cup and EDM's dominance. Unheilig's 'Geboren um zu leben' was a rare German-language chart-topper in an era of English dominance. Stromae's bilingual appeal crossed from France, and Shakira's World Cup anthem was omnipresent.",
+  "tracks": [
+    { "rank": 1, "title": "Geboren um zu leben", "artist": "Unheilig" },
+    { "rank": 2, "title": "Heavy Cross", "artist": "Gossip" },
+    { "rank": 3, "title": "Alors on danse", "artist": "Stromae" },
+    { "rank": 4, "title": "Waka Waka (This Time for Africa)", "artist": "Shakira feat. Freshlyground" },
+    { "rank": 5, "title": "Memories", "artist": "David Guetta feat. Kid Cudi" },
+    { "rank": 6, "title": "Tik Tok", "artist": "Ke$ha" },
+    { "rank": 7, "title": "Stereo Love", "artist": "Edward Maya & Vika Jigulina" },
+    { "rank": 8, "title": "Disco Pogo", "artist": "Frauenarzt & Manny Marc" },
+    { "rank": 9, "title": "Glow", "artist": "Madcon" },
+    { "rank": 10, "title": "I Gotta Feeling", "artist": "The Black Eyed Peas" }
+  ]
+}

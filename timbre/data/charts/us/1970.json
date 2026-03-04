@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1970,
+  "context": "A transitional year reflecting Vietnam-era upheaval. Simon & Garfunkel's 'Bridge Over Troubled Water' offered comfort, Edwin Starr's 'War' became an anti-war anthem, and The Beatles released their final single. Motown soul remained a powerful cultural force.",
+  "tracks": [
+    { "rank": 1, "title": "Bridge Over Troubled Water", "artist": "Simon & Garfunkel" },
+    { "rank": 2, "title": "(They Long to Be) Close to You", "artist": "The Carpenters" },
+    { "rank": 3, "title": "American Woman", "artist": "The Guess Who" },
+    { "rank": 4, "title": "Raindrops Keep Fallin' on My Head", "artist": "B.J. Thomas" },
+    { "rank": 5, "title": "War", "artist": "Edwin Starr" },
+    { "rank": 6, "title": "Let It Be", "artist": "The Beatles" },
+    { "rank": 7, "title": "The Tears of a Clown", "artist": "Smokey Robinson & The Miracles" },
+    { "rank": 8, "title": "Ain't No Mountain High Enough", "artist": "Diana Ross" },
+    { "rank": 9, "title": "I'll Be There", "artist": "Jackson 5" },
+    { "rank": 10, "title": "Ball of Confusion (That's What the World Is Today)", "artist": "The Temptations" }
+  ]
+}

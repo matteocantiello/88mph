@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 1999,
+  "context": "Lou Bega's 'Mambo No. 5' was a worldwide smash originating from Munich, blending mambo with hip-hop. The teen pop wave of Britney and Christina competed with dance music and R&B. Xavier Naidoo represented a growing German-language soul movement.",
+  "tracks": [
+    { "rank": 1, "title": "Mambo No. 5 (A Little Bit of...)", "artist": "Lou Bega" },
+    { "rank": 2, "title": "Blue (Da Ba Dee)", "artist": "Eiffel 65" },
+    { "rank": 3, "title": "My Love Is Your Love", "artist": "Whitney Houston" },
+    { "rank": 4, "title": "...Baby One More Time", "artist": "Britney Spears" },
+    { "rank": 5, "title": "Maria", "artist": "Blondie" },
+    { "rank": 6, "title": "King of My Castle", "artist": "Wamdue Project" },
+    { "rank": 7, "title": "Genie in a Bottle", "artist": "Christina Aguilera" },
+    { "rank": 8, "title": "All Out of Love", "artist": "Andru Donalds" },
+    { "rank": 9, "title": "Sie sieht mich nicht", "artist": "Xavier Naidoo" },
+    { "rank": 10, "title": "No Scrubs", "artist": "TLC" }
+  ]
+}

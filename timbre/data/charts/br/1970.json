@@ -1,0 +1,17 @@
+{
+  "country": "br",
+  "year": 1970,
+  "context": "The military dictatorship was at its most repressive, yet music flourished. 'Pra Frente Brasil' became the anthem of Brazil's World Cup victory. Tim Maia launched his soul-infused MPB career, while Paulinho da Viola carried samba tradition forward.",
+  "tracks": [
+    { "rank": 1, "title": "Foi um rio que passou em minha vida", "artist": "Paulinho da Viola" },
+    { "rank": 2, "title": "Pra Frente Brasil", "artist": "Coral Joab" },
+    { "rank": 3, "title": "Jesus Cristo", "artist": "Roberto Carlos" },
+    { "rank": 4, "title": "Madalena", "artist": "Elis Regina" },
+    { "rank": 5, "title": "Yellow River", "artist": "Christie" },
+    { "rank": 6, "title": "Bridge Over Troubled Water", "artist": "Simon & Garfunkel" },
+    { "rank": 7, "title": "Azul da cor do mar", "artist": "Tim Maia" },
+    { "rank": 8, "title": "Raindrops Keep Fallin' on My Head", "artist": "B.J. Thomas" },
+    { "rank": 9, "title": "Let It Be", "artist": "The Beatles" },
+    { "rank": 10, "title": "BR-3", "artist": "Tony Tornado & Trio Ternura" }
+  ]
+}

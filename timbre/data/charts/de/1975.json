@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 1975,
+  "context": "The German chart mixed Schlager (sentimental German-language pop) with Dutch and Greek easy-listening acts and British glam rock. Udo Jurgens' 'Griechischer Wein' became one of the most iconic German-language songs, a poetic tribute to immigrant workers.",
+  "tracks": [
+    { "rank": 1, "title": "Paloma Blanca", "artist": "George Baker Selection" },
+    { "rank": 2, "title": "Griechischer Wein", "artist": "Udo Jurgens" },
+    { "rank": 3, "title": "Deine Spuren im Sand", "artist": "Howard Carpendale" },
+    { "rank": 4, "title": "Only You Can", "artist": "Fox" },
+    { "rank": 5, "title": "Fox on the Run", "artist": "The Sweet" },
+    { "rank": 6, "title": "I Can Help", "artist": "Billy Swan" },
+    { "rank": 7, "title": "Schon wie Mona Lisa", "artist": "Demis Roussos" },
+    { "rank": 8, "title": "Ein Lied zieht hinaus in die Welt", "artist": "Jurgen Marcus" },
+    { "rank": 9, "title": "Guitar King", "artist": "Hank the Knife and the Jets" },
+    { "rank": 10, "title": "Ich trink' auf dein Wohl, Marie", "artist": "Frank Zander" }
+  ]
+}

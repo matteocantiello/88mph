@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1975,
+  "context": "Disco fever was rising, but rock held its ground. Fleetwood Mac reinvented themselves, Earth Wind & Fire brought cosmic funk, and Bruce Springsteen emerged from the Jersey Shore with poetry in his pocket.",
+  "tracks": [
+    { "rank": 1, "title": "Love Will Keep Us Together", "artist": "Captain & Tennille" },
+    { "rank": 2, "title": "Rhinestone Cowboy", "artist": "Glen Campbell" },
+    { "rank": 3, "title": "Philadelphia Freedom", "artist": "Elton John" },
+    { "rank": 4, "title": "Shining Star", "artist": "Earth, Wind & Fire" },
+    { "rank": 5, "title": "Fame", "artist": "David Bowie" },
+    { "rank": 6, "title": "Laughter in the Rain", "artist": "Neil Sedaka" },
+    { "rank": 7, "title": "One of These Nights", "artist": "Eagles" },
+    { "rank": 8, "title": "Thank God I'm a Country Boy", "artist": "John Denver" },
+    { "rank": 9, "title": "Jive Talkin'", "artist": "Bee Gees" },
+    { "rank": 10, "title": "Born to Run", "artist": "Bruce Springsteen" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "br",
+  "year": 1985,
+  "context": "Brazil's return to democracy after two decades of military rule, and the first Rock in Rio drew nearly 1.5 million attendees. Brazilian rock exploded with bands like RPM and artists like Cazuza challenging social norms. A country in cultural renaissance.",
+  "tracks": [
+    { "rank": 1, "title": "We Are the World", "artist": "USA for Africa" },
+    { "rank": 2, "title": "Dona", "artist": "Roupa Nova" },
+    { "rank": 3, "title": "Um dia de domingo", "artist": "Gal Costa & Tim Maia" },
+    { "rank": 4, "title": "Careless Whisper", "artist": "Wham! feat. George Michael" },
+    { "rank": 5, "title": "Louras Geladas", "artist": "RPM" },
+    { "rank": 6, "title": "Vitoriosa", "artist": "Ivan Lins" },
+    { "rank": 7, "title": "Like a Virgin", "artist": "Madonna" },
+    { "rank": 8, "title": "Exagerado", "artist": "Cazuza" },
+    { "rank": 9, "title": "Leva", "artist": "Tim Maia" },
+    { "rank": 10, "title": "Sintonia", "artist": "Tunai" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "au",
+  "year": 2015,
+  "context": "The ARIA chart was shaped by global streaming trends. 'Uptown Funk' dominated the entire year. EDM-pop crossovers thrived, and Adele's 'Hello' broke records. Australian-born Sia was notably present just outside this top 10.",
+  "tracks": [
+    { "rank": 1, "title": "Uptown Funk", "artist": "Mark Ronson feat. Bruno Mars" },
+    { "rank": 2, "title": "Cheerleader (Felix Jaehn Remix)", "artist": "OMI" },
+    { "rank": 3, "title": "See You Again", "artist": "Wiz Khalifa feat. Charlie Puth" },
+    { "rank": 4, "title": "Take Me to Church", "artist": "Hozier" },
+    { "rank": 5, "title": "Hello", "artist": "Adele" },
+    { "rank": 6, "title": "Lean On", "artist": "Major Lazer feat. MO & DJ Snake" },
+    { "rank": 7, "title": "Love Me Like You Do", "artist": "Ellie Goulding" },
+    { "rank": 8, "title": "Shut Up and Dance", "artist": "Walk the Moon" },
+    { "rank": 9, "title": "What Do You Mean?", "artist": "Justin Bieber" },
+    { "rank": 10, "title": "FourFiveSeconds", "artist": "Rihanna, Paul McCartney & Kanye West" }
+  ]
+}

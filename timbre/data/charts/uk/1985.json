@@ -1,0 +1,17 @@
+{
+  "country": "uk",
+  "year": 1985,
+  "context": "Live Aid at Wembley was the cultural event of the decade. New Romantics gave way to stadium rock. Band Aid's 'Do They Know It's Christmas?' proved pop's humanitarian power. Synth-pop was everywhere.",
+  "tracks": [
+    { "rank": 1, "title": "The Power of Love", "artist": "Jennifer Rush" },
+    { "rank": 2, "title": "I Know Him So Well", "artist": "Elaine Paige & Barbara Dickson" },
+    { "rank": 3, "title": "Frankie", "artist": "Sister Sledge" },
+    { "rank": 4, "title": "19", "artist": "Paul Hardcastle" },
+    { "rank": 5, "title": "I Want to Know What Love Is", "artist": "Foreigner" },
+    { "rank": 6, "title": "Move Closer", "artist": "Phyllis Nelson" },
+    { "rank": 7, "title": "Everybody Wants to Rule the World", "artist": "Tears for Fears" },
+    { "rank": 8, "title": "Easy Lover", "artist": "Philip Bailey & Phil Collins" },
+    { "rank": 9, "title": "A Good Heart", "artist": "Feargal Sharkey" },
+    { "rank": 10, "title": "Running Up That Hill", "artist": "Kate Bush" }
+  ]
+}

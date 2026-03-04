@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1985,
+  "context": "MTV ruled the culture. Synthesizers and drum machines transformed pop while hip-hop moved from the block party to the mainstream. Madonna and Prince were royalty. Live Aid proved music could still change the world.",
+  "tracks": [
+    { "rank": 1, "title": "Careless Whisper", "artist": "Wham!" },
+    { "rank": 2, "title": "Like a Virgin", "artist": "Madonna" },
+    { "rank": 3, "title": "Wake Me Up Before You Go-Go", "artist": "Wham!" },
+    { "rank": 4, "title": "I Want to Know What Love Is", "artist": "Foreigner" },
+    { "rank": 5, "title": "Everybody Wants to Rule the World", "artist": "Tears for Fears" },
+    { "rank": 6, "title": "Money for Nothing", "artist": "Dire Straits" },
+    { "rank": 7, "title": "Shout", "artist": "Tears for Fears" },
+    { "rank": 8, "title": "Take on Me", "artist": "a-ha" },
+    { "rank": 9, "title": "Don't You (Forget About Me)", "artist": "Simple Minds" },
+    { "rank": 10, "title": "We Are the World", "artist": "USA for Africa" }
+  ]
+}

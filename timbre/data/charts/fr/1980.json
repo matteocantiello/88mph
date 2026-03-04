@@ -1,0 +1,17 @@
+{
+  "country": "fr",
+  "year": 1980,
+  "context": "A transitional year bridging chanson tradition with new wave and disco influences. Pink Floyd and The Buggles topped the French charts alongside domestic artists. Beloved singer Joe Dassin passed away. Artists like Lio introduced a more irreverent sensibility.",
+  "tracks": [
+    { "rank": 1, "title": "Another Brick in the Wall (Part II)", "artist": "Pink Floyd" },
+    { "rank": 2, "title": "Banana Split", "artist": "Lio" },
+    { "rank": 3, "title": "T'es O.K., t'es bath, t'es in", "artist": "Ottawan" },
+    { "rank": 4, "title": "Gaby oh Gaby", "artist": "Alain Bashung" },
+    { "rank": 5, "title": "Amoureux solitaires", "artist": "Lio" },
+    { "rank": 6, "title": "Video Killed the Radio Star", "artist": "The Buggles" },
+    { "rank": 7, "title": "One Step Beyond", "artist": "Madness" },
+    { "rank": 8, "title": "Vis ta vie", "artist": "Jeane Manson" },
+    { "rank": 9, "title": "Les jardins du ciel", "artist": "Jairo" },
+    { "rank": 10, "title": "Woman in Love", "artist": "Barbra Streisand" }
+  ]
+}

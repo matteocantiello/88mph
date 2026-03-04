@@ -1,0 +1,17 @@
+{
+  "country": "it",
+  "year": 2000,
+  "context": "A strong influx of international dance-pop and rock. Eiffel 65 (an Italian act) achieved global success with two songs in the domestic top 10. Bon Jovi's anthems resonated strongly, while Paola e Chiara represented Italian pop's lighter side.",
+  "tracks": [
+    { "rank": 1, "title": "I'm Outta Love", "artist": "Anastacia" },
+    { "rank": 2, "title": "Freestyler", "artist": "Bomfunk MC's" },
+    { "rank": 3, "title": "It's My Life", "artist": "Bon Jovi" },
+    { "rank": 4, "title": "Goodnight Moon", "artist": "Shivaree" },
+    { "rank": 5, "title": "Move Your Body", "artist": "Eiffel 65" },
+    { "rank": 6, "title": "Vamos a bailar", "artist": "Paola e Chiara" },
+    { "rank": 7, "title": "Too Much of Heaven", "artist": "Eiffel 65" },
+    { "rank": 8, "title": "Music", "artist": "Madonna" },
+    { "rank": 9, "title": "Sexbomb", "artist": "Tom Jones feat. Mousse T" },
+    { "rank": 10, "title": "American Pie", "artist": "Madonna" }
+  ]
+}

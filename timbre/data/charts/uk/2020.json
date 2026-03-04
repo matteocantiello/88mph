@@ -1,0 +1,17 @@
+{
+  "country": "uk",
+  "year": 2020,
+  "context": "COVID-19 defined the year. Live venues closed, streaming became overwhelmingly dominant. The Weeknd's retro-synthwave 'Blinding Lights' provided escapist nostalgia during lockdown. TikTok's influence on chart success became undeniable.",
+  "tracks": [
+    { "rank": 1, "title": "Blinding Lights", "artist": "The Weeknd" },
+    { "rank": 2, "title": "Dance Monkey", "artist": "Tones and I" },
+    { "rank": 3, "title": "Roses", "artist": "Saint Jhn" },
+    { "rank": 4, "title": "Someone You Loved", "artist": "Lewis Capaldi" },
+    { "rank": 5, "title": "Don't Start Now", "artist": "Dua Lipa" },
+    { "rank": 6, "title": "Before You Go", "artist": "Lewis Capaldi" },
+    { "rank": 7, "title": "Watermelon Sugar", "artist": "Harry Styles" },
+    { "rank": 8, "title": "Rockstar", "artist": "DaBaby feat. Roddy Ricch" },
+    { "rank": 9, "title": "Say So", "artist": "Doja Cat" },
+    { "rank": 10, "title": "Adore You", "artist": "Harry Styles" }
+  ]
+}

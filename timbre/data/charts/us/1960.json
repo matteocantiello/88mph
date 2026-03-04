@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1960,
+  "context": "1960 straddled the fading first wave of rock and roll and the polished pop that would define the early '60s. Elvis remained dominant, but instrumental hits and teen idol ballads shared the charts. Chubby Checker's Twist was about to ignite a dance craze.",
+  "tracks": [
+    { "rank": 1, "title": "Theme from A Summer Place", "artist": "Percy Faith & His Orchestra" },
+    { "rank": 2, "title": "He'll Have to Go", "artist": "Jim Reeves" },
+    { "rank": 3, "title": "Cathy's Clown", "artist": "The Everly Brothers" },
+    { "rank": 4, "title": "Running Bear", "artist": "Johnny Preston" },
+    { "rank": 5, "title": "Teen Angel", "artist": "Mark Dinning" },
+    { "rank": 6, "title": "I'm Sorry", "artist": "Brenda Lee" },
+    { "rank": 7, "title": "It's Now or Never", "artist": "Elvis Presley" },
+    { "rank": 8, "title": "Handy Man", "artist": "Jimmy Jones" },
+    { "rank": 9, "title": "Stuck on You", "artist": "Elvis Presley" },
+    { "rank": 10, "title": "The Twist", "artist": "Chubby Checker" }
+  ]
+}

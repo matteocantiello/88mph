@@ -1,0 +1,17 @@
+{
+  "country": "uk",
+  "year": 2015,
+  "context": "Streaming fully transformed the UK charts. 'Uptown Funk' became a global phenomenon with 1.76 million combined sales and streams in the UK. Adele's 'Hello' smashed records, and Justin Bieber staged one of pop's great comebacks.",
+  "tracks": [
+    { "rank": 1, "title": "Uptown Funk", "artist": "Mark Ronson feat. Bruno Mars" },
+    { "rank": 2, "title": "Cheerleader (Felix Jaehn Remix)", "artist": "OMI" },
+    { "rank": 3, "title": "Take Me to Church", "artist": "Hozier" },
+    { "rank": 4, "title": "Love Me Like You Do", "artist": "Ellie Goulding" },
+    { "rank": 5, "title": "See You Again", "artist": "Wiz Khalifa feat. Charlie Puth" },
+    { "rank": 6, "title": "Hello", "artist": "Adele" },
+    { "rank": 7, "title": "Lean On", "artist": "Major Lazer feat. MO & DJ Snake" },
+    { "rank": 8, "title": "Hold Back the River", "artist": "James Bay" },
+    { "rank": 9, "title": "What Do You Mean?", "artist": "Justin Bieber" },
+    { "rank": 10, "title": "Sorry", "artist": "Justin Bieber" }
+  ]
+}

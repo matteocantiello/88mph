@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1980,
+  "context": "Disco faded as new wave, synth-pop, and arena rock surged forward. Blondie's 'Call Me' epitomized new wave crossover, Pink Floyd delivered a prog-rock anthem, and Michael Jackson's 'Rock with You' hinted at the pop dominance to come.",
+  "tracks": [
+    { "rank": 1, "title": "Call Me", "artist": "Blondie" },
+    { "rank": 2, "title": "Another Brick in the Wall, Part II", "artist": "Pink Floyd" },
+    { "rank": 3, "title": "Magic", "artist": "Olivia Newton-John" },
+    { "rank": 4, "title": "Rock with You", "artist": "Michael Jackson" },
+    { "rank": 5, "title": "Do That to Me One More Time", "artist": "Captain & Tennille" },
+    { "rank": 6, "title": "Crazy Little Thing Called Love", "artist": "Queen" },
+    { "rank": 7, "title": "Coming Up", "artist": "Paul McCartney" },
+    { "rank": 8, "title": "Funkytown", "artist": "Lipps Inc." },
+    { "rank": 9, "title": "It's Still Rock and Roll to Me", "artist": "Billy Joel" },
+    { "rank": 10, "title": "The Rose", "artist": "Bette Midler" }
+  ]
+}

@@ -1,0 +1,145 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0c0b0a;
+  --foreground: #ece7df;
+  --accent: #e8a849;
+  --accent-dim: #9a6e2e;
+  --surface: #1a1816;
+  --surface-raised: #242120;
+  --border: rgba(236, 231, 223, 0.08);
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Film Grain Overlay */
+.film-grain {
+  position: relative;
+}
+
+.film-grain::after {
+  content: "";
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  right: -50%;
+  bottom: -50%;
+  width: 200%;
+  height: 200%;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E");
+  pointer-events: none;
+  z-index: 9999;
+  opacity: 0.6;
+  animation: grain 6s steps(8) infinite;
+  mix-blend-mode: overlay;
+}
+
+@keyframes grain {
+  0%, 100% { transform: translate(0, 0); }
+  10% { transform: translate(-5%, -10%); }
+  30% { transform: translate(7%, -20%); }
+  50% { transform: translate(-12%, 8%); }
+  70% { transform: translate(3%, 15%); }
+  90% { transform: translate(-8%, 5%); }
+}
+
+/* Scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--surface-raised) transparent;
+}
+*::-webkit-scrollbar { width: 6px; height: 6px; }
+*::-webkit-scrollbar-track { background: transparent; }
+*::-webkit-scrollbar-thumb { background: var(--surface-raised); border-radius: 3px; }
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-20px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.96); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes revealLine {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+.anim-fade { animation: fadeIn 0.6s ease-out both; }
+.anim-slide-up { animation: slideUp 0.6s cubic-bezier(0.22, 1, 0.36, 1) both; }
+.anim-scale { animation: scaleIn 0.5s cubic-bezier(0.22, 1, 0.36, 1) both; }
+
+/* Year hero on chart pages */
+.year-hero {
+  font-size: clamp(7rem, 22vw, 16rem);
+  line-height: 0.82;
+  letter-spacing: -0.035em;
+}
+
+/* Era card hover lift */
+.era-card {
+  transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1),
+              box-shadow 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.era-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 60px -15px rgba(0, 0, 0, 0.5),
+              0 0 0 1px rgba(236, 231, 223, 0.06);
+}
+
+/* Vinyl spin for random button */
+@keyframes vinylSpin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.vinyl-spin {
+  animation: vinylSpin 1.5s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+}
+
+/* Track row stagger */
+.track-row {
+  animation: slideUp 0.5s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Horizontal scrollbar hide for timeline */
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-none::-webkit-scrollbar { display: none; }
+
+/* Divider line animation */
+.divider-animated::after {
+  content: "";
+  display: block;
+  height: 1px;
+  background: var(--accent);
+  opacity: 0.3;
+  animation: revealLine 0.8s ease-out both;
+}
+
+/* Selection */
+::selection {
+  background: var(--accent);
+  color: var(--background);
+}

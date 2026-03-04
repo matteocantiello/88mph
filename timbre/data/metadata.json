@@ -1,0 +1,63 @@
+{
+  "charts": [
+    { "country": "us", "year": 1940, "available": true },
+    { "country": "us", "year": 1950, "available": true },
+    { "country": "us", "year": 1955, "available": true },
+    { "country": "us", "year": 1960, "available": true },
+    { "country": "us", "year": 1965, "available": true },
+    { "country": "us", "year": 1970, "available": true },
+    { "country": "us", "year": 1975, "available": true },
+    { "country": "us", "year": 1980, "available": true },
+    { "country": "us", "year": 1985, "available": true },
+    { "country": "us", "year": 1990, "available": true },
+    { "country": "us", "year": 1995, "available": true },
+    { "country": "us", "year": 2000, "available": true },
+    { "country": "us", "year": 2005, "available": true },
+    { "country": "us", "year": 2010, "available": true },
+    { "country": "us", "year": 2015, "available": true },
+    { "country": "us", "year": 2020, "available": true },
+
+    { "country": "uk", "year": 1955, "available": true },
+    { "country": "uk", "year": 1965, "available": true },
+    { "country": "uk", "year": 1970, "available": true },
+    { "country": "uk", "year": 1975, "available": true },
+    { "country": "uk", "year": 1980, "available": true },
+    { "country": "uk", "year": 1985, "available": true },
+    { "country": "uk", "year": 1990, "available": true },
+    { "country": "uk", "year": 1995, "available": true },
+    { "country": "uk", "year": 2000, "available": true },
+    { "country": "uk", "year": 2005, "available": true },
+    { "country": "uk", "year": 2010, "available": true },
+    { "country": "uk", "year": 2015, "available": true },
+    { "country": "uk", "year": 2020, "available": true },
+
+    { "country": "fr", "year": 1965, "available": true },
+    { "country": "fr", "year": 1980, "available": true },
+    { "country": "fr", "year": 1995, "available": true },
+    { "country": "fr", "year": 2010, "available": true },
+
+    { "country": "de", "year": 1975, "available": true },
+    { "country": "de", "year": 1985, "available": true },
+    { "country": "de", "year": 1999, "available": true },
+    { "country": "de", "year": 2010, "available": true },
+
+    { "country": "br", "year": 1970, "available": true },
+    { "country": "br", "year": 1985, "available": true },
+    { "country": "br", "year": 2000, "available": true },
+    { "country": "br", "year": 2015, "available": true },
+
+    { "country": "jp", "year": 1975, "available": true },
+    { "country": "jp", "year": 1985, "available": true },
+    { "country": "jp", "year": 1995, "available": true },
+    { "country": "jp", "year": 2005, "available": true },
+
+    { "country": "au", "year": 1980, "available": true },
+    { "country": "au", "year": 1990, "available": true },
+    { "country": "au", "year": 2000, "available": true },
+    { "country": "au", "year": 2015, "available": true },
+
+    { "country": "it", "year": 1965, "available": true },
+    { "country": "it", "year": 1985, "available": true },
+    { "country": "it", "year": 2000, "available": true }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "au",
+  "year": 1980,
+  "context": "A vibrant year for Australian music. Split Enz topped the year-end chart while new wave reshaped pop. The charts captured the transition from disco to new wave, with punk energy seeping into the mainstream alongside lingering 1970s sensibilities.",
+  "tracks": [
+    { "rank": 1, "title": "I Got You", "artist": "Split Enz" },
+    { "rank": 2, "title": "Turning Japanese", "artist": "The Vapors" },
+    { "rank": 3, "title": "Crazy Little Thing Called Love", "artist": "Queen" },
+    { "rank": 4, "title": "Another Brick in the Wall (Part II)", "artist": "Pink Floyd" },
+    { "rank": 5, "title": "Brass in Pocket", "artist": "Pretenders" },
+    { "rank": 6, "title": "Can't Stop the Music", "artist": "Village People" },
+    { "rank": 7, "title": "Space Invaders", "artist": "Player One" },
+    { "rank": 8, "title": "More Than I Can Say", "artist": "Leo Sayer" },
+    { "rank": 9, "title": "Funkytown", "artist": "Lipps Inc." },
+    { "rank": 10, "title": "Please Don't Go", "artist": "KC & The Sunshine Band" }
+  ]
+}

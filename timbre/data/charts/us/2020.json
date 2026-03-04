@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2020,
+  "context": "The pandemic year. COVID-19 drove a massive shift to streaming, and TikTok emerged as a hitmaking platform. The Weeknd's synth-retro 'Blinding Lights' dominated, while viral hits like Roddy Ricch's 'The Box' showed social media's chart-shaping power.",
+  "tracks": [
+    { "rank": 1, "title": "Blinding Lights", "artist": "The Weeknd" },
+    { "rank": 2, "title": "Circles", "artist": "Post Malone" },
+    { "rank": 3, "title": "The Box", "artist": "Roddy Ricch" },
+    { "rank": 4, "title": "Don't Start Now", "artist": "Dua Lipa" },
+    { "rank": 5, "title": "Rockstar", "artist": "DaBaby feat. Roddy Ricch" },
+    { "rank": 6, "title": "Say So", "artist": "Doja Cat" },
+    { "rank": 7, "title": "death bed (coffee for your head)", "artist": "Powfu feat. beabadoobee" },
+    { "rank": 8, "title": "Someone You Loved", "artist": "Lewis Capaldi" },
+    { "rank": 9, "title": "WAP", "artist": "Cardi B feat. Megan Thee Stallion" },
+    { "rank": 10, "title": "Savage Love (Laxed - Siren Beat)", "artist": "Jawsh 685 & Jason Derulo" }
+  ]
+}

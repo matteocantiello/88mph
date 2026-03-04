@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2015,
+  "context": "Streaming rewrote the rules. Drake was everywhere. Kendrick's 'To Pimp a Butterfly' was hailed as a masterpiece. Adele proved albums still mattered. Taylor Swift pulled her catalog from Spotify and won.",
+  "tracks": [
+    { "rank": 1, "title": "Uptown Funk", "artist": "Mark Ronson feat. Bruno Mars" },
+    { "rank": 2, "title": "Thinking Out Loud", "artist": "Ed Sheeran" },
+    { "rank": 3, "title": "See You Again", "artist": "Wiz Khalifa feat. Charlie Puth" },
+    { "rank": 4, "title": "Trap Queen", "artist": "Fetty Wap" },
+    { "rank": 5, "title": "Sugar", "artist": "Maroon 5" },
+    { "rank": 6, "title": "Shut Up and Dance", "artist": "WALK THE MOON" },
+    { "rank": 7, "title": "Blank Space", "artist": "Taylor Swift" },
+    { "rank": 8, "title": "Watch Me (Whip/Nae Nae)", "artist": "Silentó" },
+    { "rank": 9, "title": "The Hills", "artist": "The Weeknd" },
+    { "rank": 10, "title": "Hello", "artist": "Adele" }
+  ]
+}

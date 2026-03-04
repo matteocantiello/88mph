@@ -1,0 +1,17 @@
+{
+  "country": "uk",
+  "year": 1995,
+  "context": "Britpop exploded with the Oasis vs. Blur rivalry, but the year-end chart told a different story: actors Robson & Jerome scored two of the year's biggest sellers. Take That were at their peak, and the charts showed remarkable diversity from gangsta rap to Eurodance.",
+  "tracks": [
+    { "rank": 1, "title": "Think Twice", "artist": "Celine Dion" },
+    { "rank": 2, "title": "Unchained Melody / White Cliffs of Dover", "artist": "Robson & Jerome" },
+    { "rank": 3, "title": "Boom Boom Boom", "artist": "The Outhere Brothers" },
+    { "rank": 4, "title": "Don't Stop (Wiggle Wiggle)", "artist": "The Outhere Brothers" },
+    { "rank": 5, "title": "Gangsta's Paradise", "artist": "Coolio feat. L.V." },
+    { "rank": 6, "title": "Cotton Eye Joe", "artist": "Rednex" },
+    { "rank": 7, "title": "You Are Not Alone", "artist": "Michael Jackson" },
+    { "rank": 8, "title": "Back for Good", "artist": "Take That" },
+    { "rank": 9, "title": "Fairground", "artist": "Simply Red" },
+    { "rank": 10, "title": "I Believe / Up on the Roof", "artist": "Robson & Jerome" }
+  ]
+}

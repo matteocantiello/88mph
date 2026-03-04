@@ -1,0 +1,17 @@
+{
+  "country": "fr",
+  "year": 1965,
+  "context": "The golden age of French ye-ye pop, inspired by American and British rock but sung in French. France Gall won Eurovision, Christophe's 'Aline' became an enduring classic, and chanson coexisted with the British Invasion's influence.",
+  "tracks": [
+    { "rank": 1, "title": "Aline", "artist": "Christophe" },
+    { "rank": 2, "title": "Poupee de cire, poupee de son", "artist": "France Gall" },
+    { "rank": 3, "title": "Capri c'est fini", "artist": "Herve Vilard" },
+    { "rank": 4, "title": "La Nuit", "artist": "Adamo" },
+    { "rank": 5, "title": "Mes Mains sur tes Hanches", "artist": "Adamo" },
+    { "rank": 6, "title": "Quand revient la nuit", "artist": "Johnny Hallyday" },
+    { "rank": 7, "title": "Les Choses de la Maison", "artist": "Claude Francois" },
+    { "rank": 8, "title": "Meme si tu revenais", "artist": "Claude Francois" },
+    { "rank": 9, "title": "N'avoue jamais", "artist": "Guy Mardel" },
+    { "rank": 10, "title": "Hier encore", "artist": "Charles Aznavour" }
+  ]
+}

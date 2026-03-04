@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1990,
+  "context": "Extraordinary diversity ruled the charts: new jack swing, power ballads, voguing culture, and Mariah Carey's debut all coexisted. Sinead O'Connor's raw 'Nothing Compares 2 U' became an unlikely worldwide smash, straddling late-80s polish and the grittier sounds ahead.",
+  "tracks": [
+    { "rank": 1, "title": "Hold On", "artist": "Wilson Phillips" },
+    { "rank": 2, "title": "It Must Have Been Love", "artist": "Roxette" },
+    { "rank": 3, "title": "Nothing Compares 2 U", "artist": "Sinead O'Connor" },
+    { "rank": 4, "title": "Poison", "artist": "Bell Biv DeVoe" },
+    { "rank": 5, "title": "Vogue", "artist": "Madonna" },
+    { "rank": 6, "title": "Vision of Love", "artist": "Mariah Carey" },
+    { "rank": 7, "title": "Another Day in Paradise", "artist": "Phil Collins" },
+    { "rank": 8, "title": "Escapade", "artist": "Janet Jackson" },
+    { "rank": 9, "title": "Black Velvet", "artist": "Alannah Myles" },
+    { "rank": 10, "title": "All the Man That I Need", "artist": "Whitney Houston" }
+  ]
+}

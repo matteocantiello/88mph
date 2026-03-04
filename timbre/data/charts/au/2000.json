@@ -1,0 +1,17 @@
+{
+  "country": "au",
+  "year": 2000,
+  "context": "A pop explosion with teen pop, dance, and R&B dominating. Homegrown acts like Bardot (from TV's Popstars), Madison Avenue, and Vanessa Amorosi showed Australian pop thriving alongside the global pop bubble of boy bands and dance-pop.",
+  "tracks": [
+    { "rank": 1, "title": "I'm Outta Love", "artist": "Anastacia" },
+    { "rank": 2, "title": "Teenage Dirtbag", "artist": "Wheatus" },
+    { "rank": 3, "title": "Freestyler", "artist": "Bomfunk MC's" },
+    { "rank": 4, "title": "Music", "artist": "Madonna" },
+    { "rank": 5, "title": "Say My Name", "artist": "Destiny's Child" },
+    { "rank": 6, "title": "Poison", "artist": "Bardot" },
+    { "rank": 7, "title": "Bye Bye Bye", "artist": "*NSYNC" },
+    { "rank": 8, "title": "Who the Hell Are You", "artist": "Madison Avenue" },
+    { "rank": 9, "title": "Groovejet (If This Ain't Love)", "artist": "Spiller feat. Sophie Ellis-Bextor" },
+    { "rank": 10, "title": "Shackles (Praise You)", "artist": "Mary Mary" }
+  ]
+}

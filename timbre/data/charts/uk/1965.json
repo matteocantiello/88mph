@@ -1,0 +1,17 @@
+{
+  "country": "uk",
+  "year": 1965,
+  "context": "Britain ruled the pop world. The Beatles and The Rolling Stones battled for supremacy while The Who and The Kinks carved their own paths. Carnaby Street fashion and Mod culture defined a generation.",
+  "tracks": [
+    { "rank": 1, "title": "Tears", "artist": "Ken Dodd" },
+    { "rank": 2, "title": "Get Off of My Cloud", "artist": "The Rolling Stones" },
+    { "rank": 3, "title": "Day Tripper / We Can Work It Out", "artist": "The Beatles" },
+    { "rank": 4, "title": "Help!", "artist": "The Beatles" },
+    { "rank": 5, "title": "Ticket to Ride", "artist": "The Beatles" },
+    { "rank": 6, "title": "I'll Never Find Another You", "artist": "The Seekers" },
+    { "rank": 7, "title": "It's Not Unusual", "artist": "Tom Jones" },
+    { "rank": 8, "title": "Tired of Waiting for You", "artist": "The Kinks" },
+    { "rank": 9, "title": "Mr. Tambourine Man", "artist": "The Byrds" },
+    { "rank": 10, "title": "I Got You Babe", "artist": "Sonny & Cher" }
+  ]
+}

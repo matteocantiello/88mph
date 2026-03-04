@@ -1,0 +1,17 @@
+{
+  "country": "jp",
+  "year": 2005,
+  "context": "The J-pop industry was shifting. Johnny & Associates idol groups still drove physical sales, but the market was shrinking from its 1990s peak. Anime tie-ins and drama themes were critical for chart success. Ketsumeishi's 'Sakura' represented J-hip-hop's mainstream crossover.",
+  "tracks": [
+    { "rank": 1, "title": "Seishun Amigo", "artist": "Shuuji to Akira" },
+    { "rank": 2, "title": "Sakura", "artist": "Ketsumeishi" },
+    { "rank": 3, "title": "Yonjigen Four Dimensions", "artist": "Mr.Children" },
+    { "rank": 4, "title": "*~Asterisk~", "artist": "Orange Range" },
+    { "rank": 5, "title": "SCREAM", "artist": "GLAY x EXILE" },
+    { "rank": 6, "title": "Anniversary", "artist": "KinKi Kids" },
+    { "rank": 7, "title": "Ocean", "artist": "B'z" },
+    { "rank": 8, "title": "Love Parade", "artist": "Orange Range" },
+    { "rank": 9, "title": "FANTASTIPO", "artist": "Toraji Haiji" },
+    { "rank": 10, "title": "GLAMOROUS SKY", "artist": "NANA starring Mika Nakashima" }
+  ]
+}

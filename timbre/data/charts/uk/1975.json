@@ -1,0 +1,17 @@
+{
+  "country": "uk",
+  "year": 1975,
+  "context": "Bay City Rollers mania swept Britain with teenage hysteria reminiscent of Beatlemania. The charts mixed glam pop, MOR ballads, and comedy novelty records. Queen's 'Bohemian Rhapsody' arrived and became one of the most iconic singles in British music history.",
+  "tracks": [
+    { "rank": 1, "title": "Bye Bye Baby", "artist": "Bay City Rollers" },
+    { "rank": 2, "title": "Sailing", "artist": "Rod Stewart" },
+    { "rank": 3, "title": "Whispering Grass", "artist": "Windsor Davies & Don Estelle" },
+    { "rank": 4, "title": "Bohemian Rhapsody", "artist": "Queen" },
+    { "rank": 5, "title": "Stand by Your Man", "artist": "Tammy Wynette" },
+    { "rank": 6, "title": "I Can't Give You Anything (But My Love)", "artist": "The Stylistics" },
+    { "rank": 7, "title": "Hold Me Close", "artist": "David Essex" },
+    { "rank": 8, "title": "I Only Have Eyes for You", "artist": "Art Garfunkel" },
+    { "rank": 9, "title": "Barbados", "artist": "Typically Tropical" },
+    { "rank": 10, "title": "Tears on My Pillow", "artist": "Johnny Nash" }
+  ]
+}

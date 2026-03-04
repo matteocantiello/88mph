@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2010,
+  "context": "Dance-pop and electropop conquered the mainstream. Ke$ha's party anthem topped the year, Lady Gaga and Katy Perry kept dancefloors packed, and hip-hop collabs thrived. Country crossover appeal reached new heights with Lady Antebellum's 'Need You Now.'",
+  "tracks": [
+    { "rank": 1, "title": "TiK ToK", "artist": "Ke$ha" },
+    { "rank": 2, "title": "Need You Now", "artist": "Lady Antebellum" },
+    { "rank": 3, "title": "Hey, Soul Sister", "artist": "Train" },
+    { "rank": 4, "title": "California Gurls", "artist": "Katy Perry feat. Snoop Dogg" },
+    { "rank": 5, "title": "OMG", "artist": "Usher feat. will.i.am" },
+    { "rank": 6, "title": "Airplanes", "artist": "B.o.B feat. Hayley Williams" },
+    { "rank": 7, "title": "Love the Way You Lie", "artist": "Eminem feat. Rihanna" },
+    { "rank": 8, "title": "Bad Romance", "artist": "Lady Gaga" },
+    { "rank": 9, "title": "Dynamite", "artist": "Taio Cruz" },
+    { "rank": 10, "title": "Break Your Heart", "artist": "Taio Cruz feat. Ludacris" }
+  ]
+}

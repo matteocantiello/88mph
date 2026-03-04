@@ -1,0 +1,17 @@
+{
+  "country": "uk",
+  "year": 1980,
+  "context": "New wave and post-punk flowered in the UK, with The Police and Dexy's Midnight Runners transforming British music. ABBA and disco-influenced pop lingered, while the M*A*S*H theme became an unlikely number one. John Lennon's assassination cast a shadow over year's end.",
+  "tracks": [
+    { "rank": 1, "title": "Crying", "artist": "Don McLean" },
+    { "rank": 2, "title": "Woman in Love", "artist": "Barbra Streisand" },
+    { "rank": 3, "title": "Super Trouper", "artist": "ABBA" },
+    { "rank": 4, "title": "Theme from M*A*S*H (Suicide Is Painless)", "artist": "MASH" },
+    { "rank": 5, "title": "Geno", "artist": "Dexy's Midnight Runners" },
+    { "rank": 6, "title": "Don't Stand So Close to Me", "artist": "The Police" },
+    { "rank": 7, "title": "Feels Like I'm in Love", "artist": "Kelly Marie" },
+    { "rank": 8, "title": "Use It Up and Wear It Out", "artist": "Odyssey" },
+    { "rank": 9, "title": "Working My Way Back to You", "artist": "The Detroit Spinners" },
+    { "rank": 10, "title": "Coward of the County", "artist": "Kenny Rogers" }
+  ]
+}

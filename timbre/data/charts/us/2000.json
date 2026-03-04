@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2000,
+  "context": "A remarkably eclectic pop landscape. Santana's comeback brought Latin rock to the mainstream. Boy bands and teen pop were at their commercial peak, but alternative acts like Vertical Horizon also broke through. R&B dominated with Destiny's Child leading the charge.",
+  "tracks": [
+    { "rank": 1, "title": "Breathe", "artist": "Faith Hill" },
+    { "rank": 2, "title": "Smooth", "artist": "Santana feat. Rob Thomas" },
+    { "rank": 3, "title": "Maria Maria", "artist": "Santana feat. The Product G&B" },
+    { "rank": 4, "title": "I Wanna Know", "artist": "Joe" },
+    { "rank": 5, "title": "Everything You Want", "artist": "Vertical Horizon" },
+    { "rank": 6, "title": "Say My Name", "artist": "Destiny's Child" },
+    { "rank": 7, "title": "I Knew I Loved You", "artist": "Savage Garden" },
+    { "rank": 8, "title": "Amazed", "artist": "Lonestar" },
+    { "rank": 9, "title": "Bent", "artist": "Matchbox Twenty" },
+    { "rank": 10, "title": "He Wasn't Man Enough", "artist": "Toni Braxton" }
+  ]
+}

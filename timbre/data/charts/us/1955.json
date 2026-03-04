@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1955,
+  "context": "Rock and roll exploded into the mainstream. Chuck Berry's guitar riffs and Bill Haley's anthems shook the foundations of popular music. A generation gap opened wide — and the teenagers weren't looking back.",
+  "tracks": [
+    { "rank": 1, "title": "Rock Around the Clock", "artist": "Bill Haley & His Comets" },
+    { "rank": 2, "title": "Cherry Pink and Apple Blossom White", "artist": "Pérez Prado" },
+    { "rank": 3, "title": "Sincerely", "artist": "The McGuire Sisters" },
+    { "rank": 4, "title": "Unchained Melody", "artist": "Al Hibbler" },
+    { "rank": 5, "title": "The Yellow Rose of Texas", "artist": "Mitch Miller" },
+    { "rank": 6, "title": "Ain't That a Shame", "artist": "Fats Domino" },
+    { "rank": 7, "title": "Sixteen Tons", "artist": "Tennessee Ernie Ford" },
+    { "rank": 8, "title": "Love Is a Many-Splendored Thing", "artist": "Four Aces" },
+    { "rank": 9, "title": "Maybellene", "artist": "Chuck Berry" },
+    { "rank": 10, "title": "Tutti Frutti", "artist": "Little Richard" }
+  ]
+}

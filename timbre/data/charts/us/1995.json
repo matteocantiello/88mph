@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1995,
+  "context": "The mid-90s were a musical battleground. Gangsta rap reached its zenith with 2Pac and Biggie. Grunge was giving way to alt-rock. TLC, Mariah, and Boyz II Men dominated pop. The CD era was in full bloom.",
+  "tracks": [
+    { "rank": 1, "title": "Gangsta's Paradise", "artist": "Coolio feat. L.V." },
+    { "rank": 2, "title": "Waterfalls", "artist": "TLC" },
+    { "rank": 3, "title": "Creep", "artist": "TLC" },
+    { "rank": 4, "title": "Kiss from a Rose", "artist": "Seal" },
+    { "rank": 5, "title": "On Bended Knee", "artist": "Boyz II Men" },
+    { "rank": 6, "title": "One Sweet Day", "artist": "Mariah Carey & Boyz II Men" },
+    { "rank": 7, "title": "Fantasy", "artist": "Mariah Carey" },
+    { "rank": 8, "title": "Take a Bow", "artist": "Madonna" },
+    { "rank": 9, "title": "Wonderwall", "artist": "Oasis" },
+    { "rank": 10, "title": "California Love", "artist": "2Pac feat. Dr. Dre" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "br",
+  "year": 2015,
+  "context": "Sertanejo universitario had become Brazil's dominant genre, with Luan Santana and Victor & Leo leading the charge. Funk carioca competed with global megahits. The Brazilian charts reflected both strong local traditions and the global streaming era.",
+  "tracks": [
+    { "rank": 1, "title": "Uptown Funk", "artist": "Mark Ronson feat. Bruno Mars" },
+    { "rank": 2, "title": "Escreve ai", "artist": "Luan Santana" },
+    { "rank": 3, "title": "10 Minutos Longe de Voce", "artist": "Victor & Leo feat. Henrique & Juliano" },
+    { "rank": 4, "title": "All About That Bass", "artist": "Meghan Trainor" },
+    { "rank": 5, "title": "Bad Blood (Remix)", "artist": "Taylor Swift feat. Kendrick Lamar" },
+    { "rank": 6, "title": "Can't Feel My Face", "artist": "The Weeknd" },
+    { "rank": 7, "title": "Suite 14", "artist": "Henrique & Diego feat. MC Guime" },
+    { "rank": 8, "title": "Love Me Like You Do", "artist": "Ellie Goulding" },
+    { "rank": 9, "title": "Lean On", "artist": "Major Lazer & DJ Snake feat. MO" },
+    { "rank": 10, "title": "See You Again", "artist": "Wiz Khalifa feat. Charlie Puth" }
+  ]
+}

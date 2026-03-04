@@ -1,0 +1,17 @@
+{
+  "country": "fr",
+  "year": 1995,
+  "context": "French charts blended domestic chanson with international pop. Celine Dion's 'Pour que tu m'aimes encore' (written by Jean-Jacques Goldman) dominated for weeks. The Cranberries and Coolio brought alt-rock and hip-hop, while Mylene Farmer continued her provocative reign.",
+  "tracks": [
+    { "rank": 1, "title": "Pour que tu m'aimes encore", "artist": "Celine Dion" },
+    { "rank": 2, "title": "Zombie", "artist": "The Cranberries" },
+    { "rank": 3, "title": "Gangsta's Paradise", "artist": "Coolio" },
+    { "rank": 4, "title": "XXL", "artist": "Mylene Farmer" },
+    { "rank": 5, "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)", "artist": "Scatman John" },
+    { "rank": 6, "title": "Je sais pas", "artist": "Celine Dion" },
+    { "rank": 7, "title": "Yeha-Noha", "artist": "Sacred Spirit" },
+    { "rank": 8, "title": "You Are Not Alone", "artist": "Michael Jackson" },
+    { "rank": 9, "title": "Respect", "artist": "Alliance Ethnik" },
+    { "rank": 10, "title": "Can You Feel the Love Tonight", "artist": "Elton John" }
+  ]
+}

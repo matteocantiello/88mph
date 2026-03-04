@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1940,
+  "context": "As WWII engulfed Europe, America found solace in the lush sounds of big band swing. Glenn Miller dominated the airwaves while Billie Holiday redefined vocal jazz. The jukebox became the heartbeat of every diner and dance hall.",
+  "tracks": [
+    { "rank": 1, "title": "In the Mood", "artist": "Glenn Miller" },
+    { "rank": 2, "title": "Frenesi", "artist": "Artie Shaw" },
+    { "rank": 3, "title": "I'll Never Smile Again", "artist": "Tommy Dorsey & Frank Sinatra" },
+    { "rank": 4, "title": "When You Wish Upon a Star", "artist": "Cliff Edwards" },
+    { "rank": 5, "title": "Tuxedo Junction", "artist": "Glenn Miller" },
+    { "rank": 6, "title": "Woodpecker Song", "artist": "Kay Kyser" },
+    { "rank": 7, "title": "Playmates", "artist": "Kay Kyser" },
+    { "rank": 8, "title": "Imagination", "artist": "Glenn Miller" },
+    { "rank": 9, "title": "Only Forever", "artist": "Bing Crosby" },
+    { "rank": 10, "title": "All the Things You Are", "artist": "Tommy Dorsey" }
+  ]
+}

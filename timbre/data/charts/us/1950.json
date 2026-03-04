@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1950,
+  "context": "Post-war America found comfort in traditional pop and the emerging folk revival. Crooners like Nat King Cole reigned supreme, while The Weavers brought folk to mainstream audiences. The jukebox era was at its peak, and rhythm and blues was just beginning to cross over.",
+  "tracks": [
+    { "rank": 1, "title": "Goodnight, Irene", "artist": "Gordon Jenkins & The Weavers" },
+    { "rank": 2, "title": "Mona Lisa", "artist": "Nat King Cole" },
+    { "rank": 3, "title": "Third Man Theme", "artist": "Anton Karas" },
+    { "rank": 4, "title": "Sam's Song", "artist": "Gary Crosby & Bing Crosby" },
+    { "rank": 5, "title": "Simple Melody", "artist": "Bing Crosby & Gary Crosby" },
+    { "rank": 6, "title": "Music! Music! Music!", "artist": "Teresa Brewer" },
+    { "rank": 7, "title": "Third Man Theme", "artist": "Guy Lombardo & His Royal Canadians" },
+    { "rank": 8, "title": "Chattanoogie Shoe Shine Boy", "artist": "Red Foley" },
+    { "rank": 9, "title": "Harbor Lights", "artist": "Sammy Kaye & His Orchestra" },
+    { "rank": 10, "title": "It Isn't Fair", "artist": "Sammy Kaye & Don Cornell" }
+  ]
+}

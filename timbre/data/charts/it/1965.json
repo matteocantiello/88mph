@@ -1,0 +1,17 @@
+{
+  "country": "it",
+  "year": 1965,
+  "context": "Defined by the Sanremo Music Festival, melodic pop, and early film soundtracks. Nini Rosso's trumpet instrumental 'Il Silenzio' was a pan-European hit, while Ennio Morricone's spaghetti western theme broke into pop. Mina, Gianni Morandi, and Adriano Celentano were at peak popularity.",
+  "tracks": [
+    { "rank": 1, "title": "Il Silenzio", "artist": "Nini Rosso" },
+    { "rank": 2, "title": "Il Mondo", "artist": "Jimmy Fontana" },
+    { "rank": 3, "title": "Un anno d'amore", "artist": "Mina" },
+    { "rank": 4, "title": "La Notte", "artist": "Adamo" },
+    { "rank": 5, "title": "Si fa sera", "artist": "Gianni Morandi" },
+    { "rank": 6, "title": "Ciao ciao (Downtown)", "artist": "Petula Clark" },
+    { "rank": 7, "title": "La Festa", "artist": "Adriano Celentano" },
+    { "rank": 8, "title": "Per un pugno di dollari", "artist": "Ennio Morricone" },
+    { "rank": 9, "title": "Piangi (Boys Cry)", "artist": "Richard Anthony" },
+    { "rank": 10, "title": "Lui", "artist": "Rita Pavone" }
+  ]
+}

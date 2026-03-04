@@ -1,0 +1,17 @@
+{
+  "country": "fr",
+  "year": 2010,
+  "context": "The French market was fully digital. Belgian-born Stromae's 'Alors on danse' became a European anthem. The FIFA World Cup made Shakira's 'Waka Waka' inescapable. David Guetta was at the height of his global crossover from French house to pop.",
+  "tracks": [
+    { "rank": 1, "title": "Baby", "artist": "Justin Bieber feat. Ludacris" },
+    { "rank": 2, "title": "Alors on danse", "artist": "Stromae" },
+    { "rank": 3, "title": "Dingue, Dingue, Dingue", "artist": "Christophe Mae" },
+    { "rank": 4, "title": "Allez Ola Ole", "artist": "Jessy Matador" },
+    { "rank": 5, "title": "Hot", "artist": "Inna" },
+    { "rank": 6, "title": "Wavin' Flag", "artist": "K'Naan" },
+    { "rank": 7, "title": "Rock That Body", "artist": "The Black Eyed Peas" },
+    { "rank": 8, "title": "This Is My Life", "artist": "Edward Maya" },
+    { "rank": 9, "title": "Memories", "artist": "David Guetta feat. Kid Cudi" },
+    { "rank": 10, "title": "Gettin' Over You", "artist": "David Guetta feat. Chris Willis, Fergie & LMFAO" }
+  ]
+}

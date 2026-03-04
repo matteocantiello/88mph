@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 1965,
+  "context": "The British Invasion collided with Motown's golden age. The Rolling Stones brought blues-rock swagger while The Supremes defined sophisticated pop. Bob Dylan went electric at Newport and nothing was the same.",
+  "tracks": [
+    { "rank": 1, "title": "(I Can't Get No) Satisfaction", "artist": "The Rolling Stones" },
+    { "rank": 2, "title": "Yesterday", "artist": "The Beatles" },
+    { "rank": 3, "title": "I Got You Babe", "artist": "Sonny & Cher" },
+    { "rank": 4, "title": "Stop! In the Name of Love", "artist": "The Supremes" },
+    { "rank": 5, "title": "Help!", "artist": "The Beatles" },
+    { "rank": 6, "title": "My Girl", "artist": "The Temptations" },
+    { "rank": 7, "title": "Like a Rolling Stone", "artist": "Bob Dylan" },
+    { "rank": 8, "title": "Turn! Turn! Turn!", "artist": "The Byrds" },
+    { "rank": 9, "title": "I Can't Help Myself", "artist": "Four Tops" },
+    { "rank": 10, "title": "Mr. Tambourine Man", "artist": "The Byrds" }
+  ]
+}
