@@ -15,14 +15,9 @@ export default async function HomePage() {
     totalCharts += years.length;
   }
 
-  // Load only the 3 spotlight charts
+  // Load 3 spotlight charts (only Spotify-enriched ones)
   const allEntries = metadata.charts.filter((e) => e.available);
-  const spotlightEntries = pickSpotlightEntries(allEntries);
-  const spotlights: ChartData[] = [];
-  for (const entry of spotlightEntries) {
-    const chart = await getChartData(entry.country, entry.year);
-    if (chart) spotlights.push(chart);
-  }
+  const spotlights = await pickSpotlightCharts(allEntries);
 
   return (
     <main className="min-h-screen bg-background">
@@ -199,14 +194,18 @@ function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
   );
 }
 
-function pickSpotlightEntries(entries: { country: string; year: number }[]): { country: string; year: number }[] {
+function hasSpotifyData(chart: ChartData): boolean {
+  return chart.tracks.some((t) => !!t.spotifyUri || !!t.previewUrl);
+}
+
+async function pickSpotlightCharts(entries: { country: string; year: number }[]): Promise<ChartData[]> {
   const eraBuckets: [number, number][] = [
     [1940, 1980],
     [1981, 2005],
     [2006, 2030],
   ];
 
-  const picks: { country: string; year: number }[] = [];
+  const picks: ChartData[] = [];
   const usedCountries = new Set<string>();
 
   for (const [lo, hi] of eraBuckets) {
@@ -218,10 +217,14 @@ function pickSpotlightEntries(entries: { country: string; year: number }[]): { c
       const j = Math.floor(Math.random() * (i + 1));
       [candidates[i], candidates[j]] = [candidates[j], candidates[i]];
     }
-    const pick = candidates[0];
-    if (pick) {
-      picks.push(pick);
-      usedCountries.add(pick.country);
+    // Try candidates until we find one with Spotify data
+    for (const candidate of candidates) {
+      const chart = await getChartData(candidate.country, candidate.year);
+      if (chart && hasSpotifyData(chart)) {
+        picks.push(chart);
+        usedCountries.add(candidate.country);
+        break;
+      }
     }
   }
 
