@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { COUNTRIES } from "@/lib/utils";
+import { COUNTRIES, REGIONS } from "@/lib/utils";
 import { Metadata, getAvailableYears } from "@/lib/data";
 import { getThemeForYear } from "@/lib/themes";
 
@@ -21,7 +21,9 @@ export default function TimeSelector({
 }: TimeSelectorProps) {
   const router = useRouter();
   const [country, setCountry] = useState(initialCountry);
+  const [showCountryPicker, setShowCountryPicker] = useState(false);
   const scrollRef = useRef<HTMLDivElement>(null);
+  const pickerRef = useRef<HTMLDivElement>(null);
   const availableYears = getAvailableYears(metadata, country);
 
   useEffect(() => {
@@ -31,31 +33,86 @@ export default function TimeSelector({
     }
   }, [initialYear, country]);
 
+  // Close picker on outside click
+  useEffect(() => {
+    function handleClick(e: MouseEvent) {
+      if (pickerRef.current && !pickerRef.current.contains(e.target as Node)) {
+        setShowCountryPicker(false);
+      }
+    }
+    if (showCountryPicker) {
+      document.addEventListener("mousedown", handleClick);
+      return () => document.removeEventListener("mousedown", handleClick);
+    }
+  }, [showCountryPicker]);
+
   const handleYearClick = (year: number) => {
     router.push(`/${country}/${year}`);
   };
 
-  const countryKeys = Object.keys(COUNTRIES);
+  const handleCountrySelect = (code: string) => {
+    setCountry(code);
+    setShowCountryPicker(false);
+    const years = getAvailableYears(metadata, code);
+    if (years.length > 0) {
+      router.push(`/${code}/${years[Math.floor(years.length / 2)]}`);
+    }
+  };
 
   return (
     <div className="w-full">
-      {/* Country Toggle */}
+      {/* Country selector (compact dropdown style) */}
       {!compact && (
-        <div className="flex gap-1 mb-5 p-1 bg-surface/60 rounded-full w-fit">
-          {countryKeys.map((code) => (
-            <button
-              key={code}
-              onClick={() => setCountry(code)}
-              className={`px-5 py-2 rounded-full font-body text-sm font-medium transition-all duration-300 ${
-                country === code
-                  ? "bg-foreground/[0.08] text-foreground"
-                  : "text-foreground/30 hover:text-foreground/60"
-              }`}
+        <div className="relative mb-5" ref={pickerRef}>
+          <button
+            onClick={() => setShowCountryPicker(!showCountryPicker)}
+            className="flex items-center gap-2.5 px-4 py-2.5 rounded-xl bg-white/[0.03] border border-white/[0.06] hover:border-white/[0.1] transition-all duration-300"
+          >
+            <span className="text-lg">{COUNTRIES[country]?.flag}</span>
+            <span className="font-body text-sm text-foreground/70 font-medium">
+              {COUNTRIES[country]?.name}
+            </span>
+            <svg
+              width="12"
+              height="12"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2.5"
+              className={`text-foreground/30 transition-transform duration-200 ${showCountryPicker ? "rotate-180" : ""}`}
             >
-              <span className="mr-1.5">{COUNTRIES[code].flag}</span>
-              {COUNTRIES[code].name}
-            </button>
-          ))}
+              <path d="M6 9l6 6 6-6" />
+            </svg>
+          </button>
+
+          {showCountryPicker && (
+            <div className="absolute top-full left-0 mt-2 w-72 max-h-80 overflow-y-auto bg-[#161514] border border-white/[0.08] rounded-xl shadow-2xl shadow-black/50 z-50 p-2">
+              {REGIONS.map((region) => (
+                <div key={region.name} className="mb-1">
+                  <p className="font-body text-[10px] uppercase tracking-[0.15em] text-foreground/20 px-3 py-1.5">
+                    {region.name}
+                  </p>
+                  {region.countries.map((code) => (
+                    <button
+                      key={code}
+                      onClick={() => handleCountrySelect(code)}
+                      className={`w-full flex items-center gap-2.5 px-3 py-2 rounded-lg text-left transition-colors duration-150 ${
+                        code === country
+                          ? "bg-accent/10 text-accent"
+                          : "text-foreground/50 hover:text-foreground/80 hover:bg-white/[0.04]"
+                      }`}
+                    >
+                      <span className="text-base">{COUNTRIES[code]?.flag}</span>
+                      <span className="font-body text-sm font-medium flex-1">{COUNTRIES[code]?.name}</span>
+                      <span className="font-body text-[10px] opacity-40">
+                        {getAvailableYears(metadata, code).length}
+                      </span>
+                    </button>
+                  ))}
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       )}
 

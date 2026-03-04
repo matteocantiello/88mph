@@ -143,3 +143,33 @@ body {
   background: var(--accent);
   color: var(--background);
 }
+
+/* Hero gradient */
+.hero-gradient {
+  background: radial-gradient(
+    ellipse 80% 60% at 30% 0%,
+    rgba(232, 168, 73, 0.03) 0%,
+    transparent 70%
+  );
+}
+
+/* Spotlight card hover */
+.spotlight-card {
+  transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1),
+              box-shadow 0.5s cubic-bezier(0.22, 1, 0.36, 1),
+              border-color 0.3s ease;
+}
+.spotlight-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 16px 48px -12px rgba(0, 0, 0, 0.4);
+}
+
+/* Country pill transition */
+.country-pill {
+  transition: all 0.25s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* Country charts grid animation */
+.country-charts-grid {
+  animation: fadeIn 0.3s ease-out both;
+}

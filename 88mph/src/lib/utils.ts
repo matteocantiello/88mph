@@ -41,3 +41,16 @@ export function formatOrdinal(n: number): string {
   const v = n % 100;
   return n + (s[(v - 20) % 10] || s[v] || s[0]);
 }
+
+export interface Region {
+  name: string;
+  countries: string[];
+}
+
+export const REGIONS: Region[] = [
+  { name: "Americas", countries: ["us", "br", "mx"] },
+  { name: "Europe", countries: ["uk", "fr", "de", "it", "es", "se", "no", "nl"] },
+  { name: "Asia", countries: ["jp", "kr", "in", "cn"] },
+  { name: "Eurasia", countries: ["ru"] },
+  { name: "Africa", countries: ["ng", "za"] },
+];
