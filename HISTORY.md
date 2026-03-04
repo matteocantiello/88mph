@@ -147,3 +147,17 @@
 
 **Key decisions**: Expand to new countries with verifiable chart data. Add Scandinavia (Sweden, Norway), Netherlands, Russia, China, Nigeria, South Africa, plus fill gaps in existing countries (Spain, Germany).
 **Artifacts produced**: 39 new chart JSON files (se/5, no/4, nl/5, ru/5, cn/4, ng/4, za/4, es/4 gap-fills, de/4 gap-fills), updated utils.ts (19 countries), metadata.json (133 entries), README.md
+
+### Prompt #22 — Landing Page Redesign
+
+> (via /frontend-design skill) Charts are not shown (it would be good to expose the chart with song title and artist). The layout is dismal and not very enticing. Let's work on it.
+
+**Key decisions**: Editorial hero layout with spotlight chart cards, regional country browser (Americas/Europe/Asia/Eurasia/Africa), dropdown country picker for chart pages.
+**Artifacts produced**: New CountryBrowser.tsx component, rewritten page.tsx, updated TimeSelector.tsx with dropdown, updated utils.ts (REGIONS), updated globals.css
+
+### Prompt #23 — Create sources.md and Update CLAUDE.md
+
+> Let's add to a source.md file the links used to extract all the charts used by 88mph. We should add to claude.md that this file should be updated everytime new charts data is ingested
+
+**Key decisions**: Create 88mph/SOURCES.md documenting all chart data sources. Add mandatory rule to CLAUDE.md requiring SOURCES.md updates on data ingestion.
+**Artifacts produced**: 88mph/SOURCES.md, updated CLAUDE.md

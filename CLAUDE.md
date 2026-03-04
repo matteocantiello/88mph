@@ -16,7 +16,16 @@ This creates a complete, reproducible trail of how the project was built. If you
 
 ---
 
+## ⚠️ MANDATORY: Chart Data Source Tracking
 
+**Every time new chart data is ingested or existing chart data is revised, you MUST update `88mph/SOURCES.md`.** This includes:
+- Adding new countries or years
+- Updating existing chart data with corrected information
+- Adding new data sources or verifying against official sources
+
+Update the relevant tables (Official Chart Organizations, Coverage by Country, etc.) and the total chart count. If a new source is used, add it to the appropriate section.
+
+---
 
 ## Workflow Orchestration
 
