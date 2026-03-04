@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, Outfit } from "next/font/google";
-import { Analytics } from "@vercel/analytics/next";
+import { Analytics } from "@vercel/analytics/react";
 import { PlayerProvider } from "@/contexts/PlayerContext";
 import MiniPlayer from "@/components/MiniPlayer";
 import "./globals.css";
