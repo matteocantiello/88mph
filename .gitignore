@@ -34,3 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# project history (local only)
+HISTORY.md
+
+# task tracking (local only)
+tasks/

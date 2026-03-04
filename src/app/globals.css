@@ -173,3 +173,67 @@ body {
 .country-charts-grid {
   animation: fadeIn 0.3s ease-out both;
 }
+
+/* ===== World Map ===== */
+.rsm-geography {
+  transition: fill 0.2s ease, stroke 0.2s ease, filter 0.2s ease;
+}
+
+/* ===== Time Circuit Panel ===== */
+.time-circuit-panel {
+  background: #080808;
+  box-shadow:
+    inset 0 2px 8px rgba(0,0,0,0.8),
+    inset 0 0 1px rgba(255,255,255,0.05),
+    0 4px 24px rgba(0,0,0,0.5);
+  border: 1px solid rgba(255,255,255,0.04);
+}
+
+/* LED digit styling */
+.led-digit {
+  font-family: 'Courier New', 'Menlo', monospace;
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.led-green {
+  color: #39ff14;
+  text-shadow: 0 0 8px rgba(57,255,20,0.6), 0 0 20px rgba(57,255,20,0.3);
+}
+.led-amber {
+  color: #ffbf00;
+  text-shadow: 0 0 8px rgba(255,191,0,0.6), 0 0 20px rgba(255,191,0,0.3);
+}
+.led-red {
+  color: #ff3131;
+  text-shadow: 0 0 8px rgba(255,49,49,0.6), 0 0 20px rgba(255,49,49,0.3);
+}
+.led-dim {
+  opacity: 0.25;
+  text-shadow: none;
+}
+
+/* Indicator dots */
+.indicator-green {
+  background: #39ff14;
+  box-shadow: 0 0 6px #39ff14, 0 0 12px rgba(57,255,20,0.4);
+}
+.indicator-amber {
+  background: #ffbf00;
+  box-shadow: 0 0 6px #ffbf00, 0 0 12px rgba(255,191,0,0.4);
+}
+.indicator-red {
+  background: #ff3131;
+  box-shadow: 0 0 6px #ff3131, 0 0 12px rgba(255,49,49,0.4);
+}
+
+/* GO button flux flash */
+@keyframes fluxFlash {
+  0% { box-shadow: 0 0 0 rgba(232,168,73,0); }
+  50% { box-shadow: 0 0 30px rgba(232,168,73,0.6), 0 0 60px rgba(232,168,73,0.3); }
+  100% { box-shadow: 0 0 0 rgba(232,168,73,0); }
+}
+.flux-flash {
+  animation: fluxFlash 0.5s ease-out;
+}

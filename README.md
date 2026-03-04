@@ -16,9 +16,12 @@ Open [http://localhost:3000](http://localhost:3000).
 ## What's Inside
 
 - **133 charts** across **19 countries**, spanning **1940–2020**
+- Interactive world map for browsing countries by region
+- Back to the Future–inspired time circuit display showing destination, present, and last departed eras
 - Decade-based color themes that shift the entire UI palette per era
 - Cultural context blurbs for every chart (what was happening in music that year)
 - Spotify album art, 30-second previews with a mini player, and "Play on Spotify" links
+- Save to Spotify — create playlists directly from any chart (requires Spotify OAuth)
 - Film grain overlay, editorial typography (Instrument Serif + Outfit), staggered animations
 - Random "teleport" button that drops you into a surprise era
 
@@ -94,6 +97,32 @@ node scripts/generate-data.mjs --country us  # single country
 
 The script is idempotent — re-running skips already-enriched tracks. It includes retry with backoff for rate limits and fallback search for non-Latin titles.
 
+### Save to Spotify
+
+Users can save any chart as a Spotify playlist directly from the app. This requires:
+
+1. A Spotify app with the `playlist-modify-private` scope
+2. Add your redirect URI (`{BASE_URL}/api/spotify/callback`) in the Spotify Developer Dashboard
+3. Set these environment variables:
+   - `NEXT_PUBLIC_ENABLE_SPOTIFY_SAVE=true`
+   - `SPOTIFY_COOKIE_SECRET` — generate with `openssl rand -hex 32`
+   - `NEXT_PUBLIC_BASE_URL` — your app's public URL
+
+The OAuth flow uses PKCE with CSRF state validation. Tokens are encrypted with AES-256-GCM and stored in httpOnly cookies.
+
+**Note:** Spotify's Development Mode limits apps to 25 users unless you request an extension.
+
+### Security
+
+The app includes several security hardening measures:
+
+- **Open redirect prevention** — `returnTo` parameters are validated to ensure they are relative paths
+- **Input validation** — Playlist API validates country names, year ranges, track URI format, and array sizes
+- **Sanitized error responses** — Client-facing errors are generic; detailed errors are logged server-side only
+- **Security headers** — `X-Frame-Options`, `X-Content-Type-Options`, `Referrer-Policy`, and `Permissions-Policy` are set on all routes
+- **Encrypted tokens** — Spotify OAuth tokens are encrypted with AES-256-GCM before cookie storage
+- **PKCE + CSRF** — OAuth flow uses Proof Key for Code Exchange and random state parameter validation
+
 ## Adding Chart Data
 
 Create `data/charts/{country}/{year}.json`:
@@ -117,26 +146,40 @@ Then add the entry to `data/metadata.json` and update `SOURCES.md` with the data
 src/
 ├── app/
 │   ├── layout.tsx              # Root layout (fonts, PlayerProvider)
-│   ├── page.tsx                # Landing page (hero, country browser)
+│   ├── page.tsx                # Landing page (hero, world map, country browser)
 │   ├── globals.css             # Film grain, themes, animations
 │   ├── [country]/[year]/       # Dynamic chart pages
-│   └── api/spotify/token/      # Spotify token proxy
+│   └── api/spotify/
+│       ├── auth/               # OAuth initiation (PKCE + state)
+│       ├── callback/           # OAuth callback (token exchange + encryption)
+│       ├── me/                 # Current user profile proxy
+│       ├── playlist/           # Playlist creation endpoint
+│       └── token/              # Client credentials token proxy
 ├── __tests__/                  # Test suite
 ├── components/
 │   ├── CountryBrowser.tsx      # Regional country + chart browser
 │   ├── TimeSelector.tsx        # Country dropdown + year timeline
-│   ├── ChartList.tsx           # Top 10 track list
+│   ├── ChartList.tsx           # Top 10 track list with Save to Spotify
 │   ├── TrackRow.tsx            # Track row with play button
 │   ├── MiniPlayer.tsx          # Fixed bottom audio controls
+│   ├── WorldMap.tsx            # Interactive SVG world map
+│   ├── TimeCircuit.tsx         # Back to the Future time circuit display
+│   ├── TimeTravelBrowser.tsx   # Combined map + time circuit browser
+│   ├── LastDepartedTracker.tsx # Tracks previously visited eras
+│   ├── SaveToSpotify.tsx       # Spotify playlist export button
+│   ├── FeaturedCard.tsx        # Featured chart card on landing page
 │   ├── RandomButton.tsx        # Random era teleport
 │   └── EraContext.tsx          # Cultural context blockquote
 ├── contexts/
 │   └── PlayerContext.tsx       # Audio playback state
-└── lib/
-    ├── data.ts                 # Data loading + metadata queries
-    ├── themes.ts               # Decade color themes + interpolation
-    ├── spotify.ts              # Spotify API client
-    └── utils.ts                # Countries, regions, helpers
+├── lib/
+│   ├── data.ts                 # Data loading + metadata queries
+│   ├── themes.ts               # Decade color themes + interpolation
+│   ├── spotify.ts              # Spotify API client (client credentials)
+│   ├── spotify-auth.ts         # OAuth PKCE, token encryption, refresh
+│   └── utils.ts                # Countries, regions, helpers
+├── types/
+│   └── react-simple-maps.d.ts  # Type declarations for world map
 data/
 ├── metadata.json               # Available (country, year) index
 └── charts/{country}/{year}.json
@@ -148,7 +191,8 @@ data/
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Jest](https://jestjs.io/) + [Testing Library](https://testing-library.com/)
-- [Spotify Web API](https://developer.spotify.com/documentation/web-api) (optional, client credentials flow)
+- [Spotify Web API](https://developer.spotify.com/documentation/web-api) (client credentials + OAuth PKCE)
+- [React Simple Maps](https://www.react-simple-maps.io/) (interactive world map)
 
 ## License
 

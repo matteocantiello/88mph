@@ -2,12 +2,20 @@
 
 import { Track } from "@/lib/data";
 import TrackRow from "./TrackRow";
+import SaveToSpotify from "./SaveToSpotify";
 
 interface ChartListProps {
   tracks: Track[];
+  country?: string;
+  countryName?: string;
+  year?: number;
 }
 
-export default function ChartList({ tracks }: ChartListProps) {
+export default function ChartList({ tracks, country, countryName, year }: ChartListProps) {
+  const trackUris = tracks
+    .map((t) => t.spotifyUri)
+    .filter((uri): uri is string => !!uri);
+
   return (
     <div className="divide-y divide-white/[0.04]">
       {/* Header */}
@@ -18,7 +26,16 @@ export default function ChartList({ tracks }: ChartListProps) {
         <span className="text-right font-body text-[11px] uppercase tracking-wider">#</span>
         <span />
         <span className="font-body text-[11px] uppercase tracking-wider">Title</span>
-        <span />
+        {country && countryName && year ? (
+          <SaveToSpotify
+            country={country}
+            countryName={countryName}
+            year={year}
+            trackUris={trackUris}
+          />
+        ) : (
+          <span />
+        )}
       </div>
 
       {/* Tracks */}

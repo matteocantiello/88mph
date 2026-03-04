@@ -14,7 +14,8 @@
   "dependencies": {
     "next": "14.2.35",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-simple-maps": "^3.0.0"
   },
   "devDependencies": {
     "@jest/types": "^30.2.0",

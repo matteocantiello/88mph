@@ -41,7 +41,8 @@ if (fs.existsSync(envPath)) {
 }
 
 const MAX_RETRIES = 5;
-const BASE_DELAY_MS = 1000;
+const BASE_DELAY_MS = 2000;
+let lastRateLimitTime = 0;
 
 // Parse --country flag
 const countryFlag = (() => {
@@ -76,16 +77,21 @@ async function getToken() {
 }
 
 async function fetchWithRetry(url, options) {
-  for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+  for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
     const res = await fetch(url, options);
 
     if (res.status === 429) {
+      if (attempt === MAX_RETRIES - 1) {
+        console.log(`    ✗ Rate limit exhausted after ${MAX_RETRIES} retries`);
+        return null;
+      }
       const retryAfter = res.headers.get("retry-after");
       const rawDelay = retryAfter
         ? parseInt(retryAfter, 10) * 1000
-        : BASE_DELAY_MS * Math.pow(2, attempt);
-      // Cap at 60 seconds — Spotify sometimes returns absurd retry-after values
-      const delayMs = Math.min(rawDelay, 60000);
+        : BASE_DELAY_MS * Math.pow(2, attempt + 1);
+      // Cap at 30s — Spotify sometimes returns absurd retry-after values
+      const delayMs = Math.min(rawDelay, 30_000);
+      lastRateLimitTime = Date.now();
       console.log(`    ⏳ Rate limited, waiting ${Math.round(delayMs / 1000)}s (attempt ${attempt + 1}/${MAX_RETRIES})...`);
       await new Promise((r) => setTimeout(r, delayMs));
       continue;
@@ -107,11 +113,17 @@ async function searchTrack(token, title, artist) {
     { headers }
   );
 
-  if (res && res.ok) {
+  // If rate limit exhausted (null), don't try fallback — Spotify is rejecting us
+  if (!res) return null;
+
+  if (res.ok) {
     const data = await res.json();
     const track = data.tracks?.items?.[0];
     if (track) return track;
   }
+
+  // Brief pause before fallback search
+  await new Promise((r) => setTimeout(r, 500));
 
   // Strategy 2: Plain query (just "title artist") — helps with non-Latin scripts
   const plainQuery = encodeURIComponent(`${title} ${artist}`);
@@ -204,8 +216,10 @@ async function main() {
           console.log(`    ✗ Not found`);
         }
 
-        // Rate limit: 100ms between requests
-        await new Promise((r) => setTimeout(r, 100));
+        // Adaptive delay: slow down if we've been rate-limited recently
+        const recentlyLimited = Date.now() - lastRateLimitTime < 120_000;
+        const delay = recentlyLimited ? 2000 : 500;
+        await new Promise((r) => setTimeout(r, delay));
       }
 
       if (modified) {

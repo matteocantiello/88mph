@@ -1,25 +1,28 @@
 import { getMetadata, getChartData, getAvailableYears, ChartData } from "@/lib/data";
-import { COUNTRIES, REGIONS } from "@/lib/utils";
+import { COUNTRIES } from "@/lib/utils";
 import RandomButton from "@/components/RandomButton";
-import CountryBrowser from "@/components/CountryBrowser";
+import TimeTravelBrowser from "@/components/TimeTravelBrowser";
 
 export default async function HomePage() {
   const metadata = await getMetadata();
 
-  // Load all charts grouped by country
-  const chartsByCountry: Record<string, ChartData[]> = {};
+  // Compute available years by country from metadata (no chart JSON loading needed)
+  const availableYearsByCountry: Record<string, number[]> = {};
+  let totalCharts = 0;
   for (const countryCode of Object.keys(COUNTRIES)) {
     const years = getAvailableYears(metadata, countryCode);
-    chartsByCountry[countryCode] = [];
-    for (const year of years) {
-      const chart = await getChartData(countryCode, year);
-      if (chart) chartsByCountry[countryCode].push(chart);
-    }
+    availableYearsByCountry[countryCode] = years;
+    totalCharts += years.length;
   }
 
-  // Pick 3 diverse spotlight charts
-  const allCharts = Object.values(chartsByCountry).flat();
-  const spotlights = pickSpotlights(allCharts);
+  // Load only the 3 spotlight charts
+  const allEntries = metadata.charts.filter((e) => e.available);
+  const spotlightEntries = pickSpotlightEntries(allEntries);
+  const spotlights: ChartData[] = [];
+  for (const entry of spotlightEntries) {
+    const chart = await getChartData(entry.country, entry.year);
+    if (chart) spotlights.push(chart);
+  }
 
   return (
     <main className="min-h-screen bg-background">
@@ -34,14 +37,14 @@ export default async function HomePage() {
             <div className="anim-slide-up">
               <p className="font-body text-[10px] uppercase tracking-[0.35em] text-accent/50 mb-5 flex items-center gap-2">
                 <span className="w-8 h-px bg-accent/30" />
-                Musical Time Machine
+                The past, on shuffle.
               </p>
               <h1 className="font-display text-7xl md:text-[7rem] lg:text-[8.5rem] text-foreground leading-[0.82] mb-5 tracking-tight">
                 88mph
               </h1>
               <p className="font-body text-foreground/30 text-base md:text-lg max-w-md leading-relaxed mb-8">
-                Travel through decades of music across 19 countries. From post-war
-                swing to Afrobeats, K-pop to bossa nova.
+                No algorithm. No &lsquo;you might also like.&rsquo; Just what the world was
+                actually listening to — whether you were there or not.
               </p>
               <div className="flex items-center gap-5">
                 <RandomButton metadata={metadata} />
@@ -53,7 +56,7 @@ export default async function HomePage() {
               {/* Stats */}
               <div className="flex items-center gap-8 mt-10 pt-8 border-t border-white/[0.04]">
                 <div>
-                  <span className="font-display text-3xl text-accent/80">{allCharts.length}</span>
+                  <span className="font-display text-3xl text-accent/80">{totalCharts}</span>
                   <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/20 mt-1">Charts</p>
                 </div>
                 <div>
@@ -85,10 +88,8 @@ export default async function HomePage() {
           <div className="divider-animated" />
         </div>
         <div className="max-w-7xl mx-auto px-6 py-12 md:py-16">
-          <CountryBrowser
-            regions={REGIONS}
-            chartsByCountry={chartsByCountry}
-            metadata={metadata}
+          <TimeTravelBrowser
+            availableYearsByCountry={availableYearsByCountry}
           />
         </div>
       </section>
@@ -103,7 +104,7 @@ export default async function HomePage() {
             </p>
           </div>
           <p className="font-body text-[11px] text-foreground/10">
-            {Object.keys(COUNTRIES).length} countries &middot; {allCharts.length} charts
+            {Object.keys(COUNTRIES).length} countries &middot; {totalCharts} charts
           </p>
         </div>
       </footer>
@@ -198,25 +199,23 @@ function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
   );
 }
 
-function pickSpotlights(charts: ChartData[]): ChartData[] {
-  // Pick 3 diverse charts from different decades and countries
+function pickSpotlightEntries(entries: { country: string; year: number }[]): { country: string; year: number }[] {
   const targets = [
     { yearRange: [1960, 1980], preferred: ["it", "br", "uk", "us", "jp"] },
     { yearRange: [1985, 2005], preferred: ["kr", "de", "ng", "ru", "in"] },
     { yearRange: [2005, 2025], preferred: ["ng", "za", "cn", "se", "mx"] },
   ];
 
-  const picks: ChartData[] = [];
+  const picks: { country: string; year: number }[] = [];
   const usedCountries = new Set<string>();
 
   for (const target of targets) {
-    const candidates = charts.filter(
+    const candidates = entries.filter(
       (c) =>
         c.year >= target.yearRange[0] &&
         c.year <= target.yearRange[1] &&
         !usedCountries.has(c.country)
     );
-    // Prefer target countries
     const preferred = candidates.find((c) => target.preferred.includes(c.country));
     const pick = preferred || candidates[Math.floor(Math.random() * candidates.length)];
     if (pick) {
