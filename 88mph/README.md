@@ -4,8 +4,8 @@ A cinematic web app that lets you travel through decades of music. Select a coun
 
 ## Features
 
-- **8 Countries** — USA, UK, France, Germany, Brazil, Japan, Australia, Italy
-- **52 Charts** — From 1940s big band swing to 2020s streaming era
+- **12 Countries** — USA, UK, France, Germany, Brazil, Japan, Australia, Italy, India, South Korea, Mexico, Spain
+- **66 Charts** — From 1940s big band swing to 2020s streaming era
 - **Decade Color Themes** — Visual design shifts to match each era
 - **30-Second Previews** — Play Spotify previews directly in the browser
 - **Mini Player** — Fixed bottom bar with playback controls
@@ -34,6 +34,10 @@ Open [http://localhost:3000](http://localhost:3000).
 | Japan | 1975, 1985, 1995, 2005 |
 | Australia | 1980, 1990, 2000, 2015 |
 | Italy | 1965, 1985, 2000 |
+| India | 1970, 1985, 1995, 2010 |
+| South Korea | 1990, 2000, 2010, 2020 |
+| Mexico | 1980, 1995, 2010 |
+| Spain | 1975, 1990, 2005 |
 
 ## Spotify Integration (Optional)
 
@@ -84,7 +88,11 @@ data/
     ├── br/*.json           # Brazil (4 charts)
     ├── jp/*.json           # Japan (4 charts)
     ├── au/*.json           # Australia (4 charts)
-    └── it/*.json           # Italy (3 charts)
+    ├── it/*.json           # Italy (3 charts)
+    ├── in/*.json           # India (4 charts)
+    ├── kr/*.json           # South Korea (4 charts)
+    ├── mx/*.json           # Mexico (3 charts)
+    └── es/*.json           # Spain (3 charts)
 ```
 
 ## Adding Data

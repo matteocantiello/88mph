@@ -7,6 +7,10 @@ export const COUNTRIES: Record<string, { name: string; flag: string }> = {
   jp: { name: "Japan", flag: "🇯🇵" },
   au: { name: "Australia", flag: "🇦🇺" },
   it: { name: "Italy", flag: "🇮🇹" },
+  in: { name: "India", flag: "🇮🇳" },
+  kr: { name: "South Korea", flag: "🇰🇷" },
+  mx: { name: "Mexico", flag: "🇲🇽" },
+  es: { name: "Spain", flag: "🇪🇸" },
 };
 
 export function getCountryName(code: string): string {

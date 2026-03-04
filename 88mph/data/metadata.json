@@ -58,6 +58,24 @@
 
     { "country": "it", "year": 1965, "available": true },
     { "country": "it", "year": 1985, "available": true },
-    { "country": "it", "year": 2000, "available": true }
+    { "country": "it", "year": 2000, "available": true },
+
+    { "country": "in", "year": 1970, "available": true },
+    { "country": "in", "year": 1985, "available": true },
+    { "country": "in", "year": 1995, "available": true },
+    { "country": "in", "year": 2010, "available": true },
+
+    { "country": "kr", "year": 1990, "available": true },
+    { "country": "kr", "year": 2000, "available": true },
+    { "country": "kr", "year": 2010, "available": true },
+    { "country": "kr", "year": 2020, "available": true },
+
+    { "country": "mx", "year": 1980, "available": true },
+    { "country": "mx", "year": 1995, "available": true },
+    { "country": "mx", "year": 2010, "available": true },
+
+    { "country": "es", "year": 1975, "available": true },
+    { "country": "es", "year": 1990, "available": true },
+    { "country": "es", "year": 2005, "available": true }
   ]
 }

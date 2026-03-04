@@ -1,0 +1,17 @@
+{
+  "country": "es",
+  "year": 1975,
+  "context": "1975 was pivotal in Spanish history — the year General Franco died on November 20, ending nearly four decades of dictatorship. Spanish popular music was dominated by romantic balladists like Camilo Sesto, Julio Iglesias, and the tragic Cecilia. Charts mixed Spanish pop and early flamenco-pop crossovers while protest songs circulated underground. Camilo Sesto's 'Melina' held #1 on Los 40 Principales for six consecutive weeks.",
+  "tracks": [
+    { "rank": 1, "title": "Melina", "artist": "Camilo Sesto" },
+    { "rank": 2, "title": "Un Ramito de Violetas", "artist": "Cecilia" },
+    { "rank": 3, "title": "Y Te Vas", "artist": "José Luis Perales" },
+    { "rank": 4, "title": "Getsemaní (Oración del Huerto)", "artist": "Camilo Sesto" },
+    { "rank": 5, "title": "Quiero", "artist": "Julio Iglesias" },
+    { "rank": 6, "title": "Para Que No Me Olvides", "artist": "Lorenzo Santamaría" },
+    { "rank": 7, "title": "Amor, Amor", "artist": "Lolita Flores" },
+    { "rank": 8, "title": "Quédate", "artist": "Miguel Gallardo" },
+    { "rank": 9, "title": "Mi Querida España", "artist": "Cecilia" },
+    { "rank": 10, "title": "Tu Volverás", "artist": "Sergio y Estíbaliz" }
+  ]
+}

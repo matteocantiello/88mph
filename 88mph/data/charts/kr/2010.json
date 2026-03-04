@@ -1,0 +1,17 @@
+{
+  "country": "kr",
+  "year": 2010,
+  "context": "2010 was the year the Gaon Chart launched as South Korea's first official national music chart. The second-generation idol wave was in full force, with girl groups dominating — half the year-end top 10 were girl group songs. miss A's debut 'Bad Girl Good Girl' topped the inaugural year-end chart. IU, then 17, scored a massive hit with 'Nagging,' foreshadowing her rise to become one of Korea's biggest solo artists.",
+  "tracks": [
+    { "rank": 1, "title": "Bad Girl Good Girl", "artist": "miss A" },
+    { "rank": 2, "title": "Jansori (Nagging)", "artist": "IU & Seulong (2AM)" },
+    { "rank": 3, "title": "Jugeuljamkeum Apeunikka (Because It Hurts)", "artist": "MC Mong" },
+    { "rank": 4, "title": "Oh!", "artist": "Girls' Generation" },
+    { "rank": 5, "title": "2 Different Tears", "artist": "Wonder Girls" },
+    { "rank": 6, "title": "Bap Jal Meokgo Danineunji (Still Eating Well)", "artist": "Homme" },
+    { "rank": 7, "title": "Go Away", "artist": "2NE1" },
+    { "rank": 8, "title": "Gobaek (Confession)", "artist": "Hot Potato" },
+    { "rank": 9, "title": "Sigana Meomchwora (Time Please Stop)", "artist": "Davichi" },
+    { "rank": 10, "title": "Jugeoudo Mot Bonae (Can't Send You Even If I Die)", "artist": "2AM" }
+  ]
+}

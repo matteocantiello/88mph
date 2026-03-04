@@ -1,0 +1,17 @@
+{
+  "country": "es",
+  "year": 2005,
+  "context": "Spain's 2005 music scene blended homegrown indie-pop (Amaral, El Canto del Loco, Pereza), Latin crossover superstars (Shakira, Juanes), and the earliest wave of reggaeton. Shakira's 'La Tortura' featuring Alejandro Sanz topped the PROMUSICAE chart and became one of the year's defining global Latin hits. Chambao brought flamenco-chill fusion to mainstream audiences via Los 40 Principales.",
+  "tracks": [
+    { "rank": 1, "title": "La Tortura", "artist": "Shakira feat. Alejandro Sanz" },
+    { "rank": 2, "title": "Princesas", "artist": "Pereza" },
+    { "rank": 3, "title": "El Universo Sobre Mí", "artist": "Amaral" },
+    { "rank": 4, "title": "Besos", "artist": "El Canto del Loco" },
+    { "rank": 5, "title": "Nunca Volverá", "artist": "El Sueño de Morfeo" },
+    { "rank": 6, "title": "Caminando por la Vida", "artist": "Melendi" },
+    { "rank": 7, "title": "Pokito a Poko", "artist": "Chambao" },
+    { "rank": 8, "title": "Vacaciones", "artist": "Estopa" },
+    { "rank": 9, "title": "Marta, Sebas, Guille y los Demás", "artist": "Amaral" },
+    { "rank": 10, "title": "Diles", "artist": "Malú" }
+  ]
+}

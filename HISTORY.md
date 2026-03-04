@@ -50,9 +50,51 @@
 
 **Artifacts modified**: git mv timbre/ 88mph/
 
+### Prompt #8 — Expand to India, South Korea, Mexico, Spain
+
+> How do we find more countries and years charts? Like we have almost nothing in asia (india, china etc.) [...] Let's do all of them
+
+**Key decisions**: Add India (Binaca Geetmala + Bollywood), South Korea (Gaon/K-pop), Mexico (Latin charts), Spain (PROMUSICAE). Research via Wikipedia and web sources.
+**Artifacts to produce**: New chart JSONs for 4 countries, updated metadata.json, updated utils.ts
+
 ### Prompt #6 — Research Top 10 Songs for 6 Countries Across Multiple Years
 
 > Research the top 10 songs for France (1965, 1980, 1995, 2010), Germany (1975, 1985, 1999, 2010), Brazil (1970, 1985, 2000, 2015), Japan (1975, 1985, 1995, 2005), Australia (1980, 1990, 2000, 2015), Italy (1965, 1985, 2000). Use Wikipedia and web searches. For each country+year: top 10 songs with title and artist, 2-3 sentence cultural context blurb, country code.
 
 **Key decisions**: Systematic web research using Wikipedia year-end charts and music history sources
 **Artifacts to produce**: Compiled research findings for all country/year combinations
+
+### Prompt #10 — Research Top 10 Songs in India (1970, 1985, 1995, 2010)
+
+> Research the top 10 most popular songs in India for 1970, 1985, 1995, 2010. For 1970 and 1985, search for "Binaca Geetmala" annual rankings. For 1995, search for Binaca Geetmala 1995 or popular Bollywood songs of 1995. For 2010, search for top Bollywood songs / Indian music charts 2010. Format: title by Artist (from Film Name). Include cultural context blurbs.
+
+**Key decisions**: Use Binaca Geetmala as primary source for pre-1994 years, Bollywood charts for later years
+**Artifacts to produce**: Compiled India chart research for 4 years
+
+### Prompt #11 — Research Top 10 Songs in Mexico (1980, 1995, 2010)
+
+> Research the top 10 most popular songs in Mexico for 1980, 1995, 2010. Search for Billboard Mexico, Monitor Latino, Mexican music charts, Wikipedia lists. Include both Spanish and English-language hits popular in Mexico. For each year: top 10 songs with title and artist, 2-3 sentence cultural context blurb, country code: mx.
+
+**Key decisions**: Web research using multiple chart sources for Mexican music history
+**Artifacts to produce**: Compiled Mexico chart research for 3 years
+
+### Prompt #12 — Research Top 10 Songs in South Korea (1990, 2000, 2010, 2020)
+
+> Research the top 10 most popular songs in South Korea for 1990, 2000, 2010, 2020. Search for Korean popular music charts, Gaon chart year-end data, KBS music chart, K-pop top songs, Wikipedia lists. For 1990/2000 look at emerging K-pop era (Seo Taiji, HOT, Sechs Kies, BoA). For 2010/2020 use Gaon/Circle chart data. Provide top 10 with romanized titles/artists and cultural context.
+
+**Key decisions**: Web research using multiple chart sources per era
+**Artifacts to produce**: Top 10 lists for 4 years with cultural context
+
+### Prompt #13 — Research Top 10 Songs in Spain (1975, 1990, 2005)
+
+> Research the top 10 most popular songs in Spain for 1975, 1990, 2005. Search for PROMUSICAE, Afydep (pre-1990s), and Wikipedia Spanish chart pages. Cultural context: 1975 = late Franco era, 1990 = movida aftermath / Euro-pop, 2005 = Spanish pop + reggaeton arrival. Country code: es.
+
+**Key decisions**: Web research across multiple chart sources for Spanish music history
+**Artifacts to produce**: Compiled Spain chart research for 3 years
+
+### Prompt #14 — Create Chart JSON Files for India, South Korea, Mexico, Spain
+
+> (Continuation from context recovery) Create all 14 chart JSON files from research, update metadata.json and utils.ts, build and verify.
+
+**Key decisions**: Created chart data for all 4 new countries based on research (Binaca Geetmala for India, K-pop/Gaon for South Korea, Latin charts for Mexico, PROMUSICAE/Los 40 for Spain)
+**Artifacts produced**: 14 new JSON chart files (in/1970,1985,1995,2010 + kr/1990,2000,2010,2020 + mx/1980,1995,2010 + es/1975,1990,2005), updated metadata.json (66 total charts), updated utils.ts (12 countries)

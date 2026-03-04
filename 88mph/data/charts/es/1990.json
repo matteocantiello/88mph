@@ -1,0 +1,17 @@
+{
+  "country": "es",
+  "year": 1990,
+  "context": "By 1990, Spain was deep into its post-Movida cultural renaissance and fully integrated into the European mainstream. The charts reflected a mix of domestic Spanish rock and pop — Radio Futura, El Último de la Fila, Luz Casal — alongside the international Eurodance wave. Phil Collins, Sinéad O'Connor, and Snap! competed with homegrown acts for chart dominance on Los 40 Principales.",
+  "tracks": [
+    { "rank": 1, "title": "Another Day in Paradise", "artist": "Phil Collins" },
+    { "rank": 2, "title": "I Been Thinking About You", "artist": "Londonbeat" },
+    { "rank": 3, "title": "Corazón de Tiza", "artist": "Radio Futura" },
+    { "rank": 4, "title": "Canta por Ti", "artist": "El Último de la Fila" },
+    { "rank": 5, "title": "Vogue", "artist": "Madonna" },
+    { "rank": 6, "title": "It Must Have Been Love", "artist": "Roxette" },
+    { "rank": 7, "title": "Nothing Compares 2 U", "artist": "Sinéad O'Connor" },
+    { "rank": 8, "title": "No Me Importa Nada", "artist": "Luz Casal" },
+    { "rank": 9, "title": "Enjoy the Silence", "artist": "Depeche Mode" },
+    { "rank": 10, "title": "Get Up (Before the Night Is Over)", "artist": "Technotronic" }
+  ]
+}

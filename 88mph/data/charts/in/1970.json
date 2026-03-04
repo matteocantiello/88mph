@@ -1,0 +1,17 @@
+{
+  "country": "in",
+  "year": 1970,
+  "context": "Bollywood's golden era of melody, with the Binaca Geetmala countdown on Radio Ceylon serving as India's definitive popularity chart. Lata Mangeshkar dominated the 1970 list with appearances in 7 of the top 10. Composers Laxmikant-Pyarelal and Sachin Dev Burman led the year's music. Film music was the primary popular music form for the entire nation.",
+  "tracks": [
+    { "rank": 1, "title": "Bindiya Chamkegi Chudi Khankegi", "artist": "Lata Mangeshkar" },
+    { "rank": 2, "title": "Meri Pyaari Behaniya Banegi Dulhaniya", "artist": "Kishore Kumar" },
+    { "rank": 3, "title": "Rangeela Re Tere Rang Mein", "artist": "Lata Mangeshkar" },
+    { "rank": 4, "title": "Woh Pari Kahan Se Laoon", "artist": "Suman Kalyanpur, Sharda & Mukesh" },
+    { "rank": 5, "title": "Khilauna Jaan Kar Tum To", "artist": "Mohammed Rafi" },
+    { "rank": 6, "title": "Iktara Bole Tun Tun", "artist": "Mahendra Kapoor" },
+    { "rank": 7, "title": "Ye Dil Deewana Hai", "artist": "Mohammed Rafi & Lata Mangeshkar" },
+    { "rank": 8, "title": "Sa Re Ga Ma Pa Main Hoon Bahaar", "artist": "Lata Mangeshkar & Kishore Kumar" },
+    { "rank": 9, "title": "Sharifon Ka Zamaane Mein", "artist": "Lata Mangeshkar" },
+    { "rank": 10, "title": "Shokhiyon Mein Ghola Jaaye", "artist": "Lata Mangeshkar & Kishore Kumar" }
+  ]
+}

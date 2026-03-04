@@ -1,0 +1,17 @@
+{
+  "country": "in",
+  "year": 1985,
+  "context": "The mid-1980s saw Bollywood music embrace synthesizers and disco beats under Bappi Lahiri's influence, while traditional melody persisted through Ravindra Jain and R.D. Burman. The cassette tape revolution was democratizing music distribution across India. Ram Teri Ganga Maili, Raj Kapoor's final directorial venture, produced the year's biggest musical hit 'Sun Sahiba Sun.'",
+  "tracks": [
+    { "rank": 1, "title": "Sun Sahiba Sun", "artist": "Lata Mangeshkar" },
+    { "rank": 2, "title": "Sagar Jaisi Aankhon Wali", "artist": "Kishore Kumar" },
+    { "rank": 3, "title": "Tumse Milkar Na Jaane Kyun", "artist": "Lata Mangeshkar & S.P. Balasubrahmanyam" },
+    { "rank": 4, "title": "Nainon Mein Sapna", "artist": "Kishore Kumar & Lata Mangeshkar" },
+    { "rank": 5, "title": "Mard Tangewala", "artist": "Mohammed Aziz" },
+    { "rank": 6, "title": "Jab Hum Jawan Honge", "artist": "Lata Mangeshkar & Shabbir Kumar" },
+    { "rank": 7, "title": "Sach Mere Yaar Hai", "artist": "Kishore Kumar" },
+    { "rank": 8, "title": "Manzilen Apni Jagah Hain", "artist": "Kishore Kumar" },
+    { "rank": 9, "title": "Tere Mere Beech Mein", "artist": "Lata Mangeshkar & S.P. Balasubrahmanyam" },
+    { "rank": 10, "title": "Dil Deewana Bin Sajna Ke", "artist": "Lata Mangeshkar" }
+  ]
+}

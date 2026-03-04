@@ -1,0 +1,17 @@
+{
+  "country": "mx",
+  "year": 2010,
+  "context": "By 2010, Monitor Latino had become Mexico's official singles chart, tracking radio airplay in real time. Camila's 'Mientes' and Enrique Iglesias with Juan Luis Guerra's 'Cuando Me Enamoro' each spent thirteen weeks at number one. All nine songs that reached #1 were entirely in Spanish. The year saw crossover between Latin pop, regional Mexican (banda, norteño), and international pop.",
+  "tracks": [
+    { "rank": 1, "title": "Cuando Me Enamoro", "artist": "Enrique Iglesias & Juan Luis Guerra" },
+    { "rank": 2, "title": "Mientes", "artist": "Camila" },
+    { "rank": 3, "title": "Si No Te Hubieras Ido", "artist": "Marco Antonio Solís" },
+    { "rank": 4, "title": "Loca", "artist": "Shakira" },
+    { "rank": 5, "title": "Tú Sabes Quién", "artist": "Alejandro Fernández" },
+    { "rank": 6, "title": "Bésame", "artist": "Camila" },
+    { "rank": 7, "title": "La Ocasión Para Amarnos", "artist": "María José" },
+    { "rank": 8, "title": "Lo Mejor De Mi Vida Eres Tú", "artist": "Ricky Martin" },
+    { "rank": 9, "title": "Los Amantes", "artist": "Playa Limbo" },
+    { "rank": 10, "title": "Disponible Para Mí", "artist": "La Arrolladora Banda El Limón" }
+  ]
+}
