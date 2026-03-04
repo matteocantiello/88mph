@@ -3,15 +3,95 @@
   "year": 1970,
   "context": "Australia's 1970 chart captures the final chapter of 1960s rock alongside softer pop-rock. The Beatles' swan song 'Let It Be' topped the year, while Simon & Garfunkel and Creedence Clearwater Revival each placed two entries. The Mixtures' local cover of 'In the Summertime' competed with Mungo Jerry's original — a uniquely Australian phenomenon where local covers often rivaled international originals.",
   "tracks": [
-    { "rank": 1, "title": "Let It Be", "artist": "The Beatles" },
-    { "rank": 2, "title": "(They Long to Be) Close to You", "artist": "Carpenters" },
-    { "rank": 3, "title": "In the Summertime", "artist": "Mungo Jerry" },
-    { "rank": 4, "title": "Spirit in the Sky", "artist": "Norman Greenbaum" },
-    { "rank": 5, "title": "Bridge Over Troubled Water", "artist": "Simon & Garfunkel" },
-    { "rank": 6, "title": "Lookin' Out My Back Door", "artist": "Creedence Clearwater Revival" },
-    { "rank": 7, "title": "El Condor Pasa", "artist": "Simon & Garfunkel" },
-    { "rank": 8, "title": "Up Around the Bend", "artist": "Creedence Clearwater Revival" },
-    { "rank": 9, "title": "Knock, Knock Who's There?", "artist": "Mary Hopkin" },
-    { "rank": 10, "title": "Heykens Second Serenade", "artist": "Royal Scots Dragoon Guards" }
+    {
+      "rank": 1,
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7iN1s7xHE4ifF5povM6A48",
+      "spotifyUrl": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "rank": 2,
+      "title": "(They Long to Be) Close to You",
+      "artist": "Carpenters",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02242cec3f8fc8c7fee302aac2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:50q2aUjWoTn6CJIfSPRJQA",
+      "spotifyUrl": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "rank": 3,
+      "title": "In the Summertime",
+      "artist": "Mungo Jerry",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022c32773808a599d9aa5f5a54",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:36xVTZU8HMpcgEdlJ4I3Kv",
+      "spotifyUrl": "https://open.spotify.com/track/36xVTZU8HMpcgEdlJ4I3Kv"
+    },
+    {
+      "rank": 4,
+      "title": "Spirit in the Sky",
+      "artist": "Norman Greenbaum",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c1c4d3d94d0e845bd1ebec1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0jvN7eQJJt4nxQzgQfZ1SP",
+      "spotifyUrl": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
+    },
+    {
+      "rank": 5,
+      "title": "Bridge Over Troubled Water",
+      "artist": "Simon & Garfunkel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028453b853c2cc9c077828eefb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6l8EbYRtQMgKOyc1gcDHF9",
+      "spotifyUrl": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "rank": 6,
+      "title": "Lookin' Out My Back Door",
+      "artist": "Creedence Clearwater Revival",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026e186edfb8fe3710fdc1f7c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1YqJSpIxdavjQ8BxAttU0r",
+      "spotifyUrl": "https://open.spotify.com/track/1YqJSpIxdavjQ8BxAttU0r"
+    },
+    {
+      "rank": 7,
+      "title": "El Condor Pasa",
+      "artist": "Simon & Garfunkel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028453b853c2cc9c077828eefb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1eN42Q7IWRzRBq8eW2Y2TE",
+      "spotifyUrl": "https://open.spotify.com/track/1eN42Q7IWRzRBq8eW2Y2TE"
+    },
+    {
+      "rank": 8,
+      "title": "Up Around the Bend",
+      "artist": "Creedence Clearwater Revival",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026e186edfb8fe3710fdc1f7c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:56dtB7EzO7EneUgYwX8krC",
+      "spotifyUrl": "https://open.spotify.com/track/56dtB7EzO7EneUgYwX8krC"
+    },
+    {
+      "rank": 9,
+      "title": "Knock, Knock Who's There?",
+      "artist": "Mary Hopkin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0274e1f94424ef721507c53e0a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1hSVmo4Qm0ry3tmUBHCEqN",
+      "spotifyUrl": "https://open.spotify.com/track/1hSVmo4Qm0ry3tmUBHCEqN"
+    },
+    {
+      "rank": 10,
+      "title": "Heykens Second Serenade",
+      "artist": "Royal Scots Dragoon Guards",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b8dc21428ac981923249d560",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6I0p2VXuwy0QTbD2uAIHX8",
+      "spotifyUrl": "https://open.spotify.com/track/6I0p2VXuwy0QTbD2uAIHX8"
+    }
   ]
 }

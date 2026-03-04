@@ -3,15 +3,95 @@
   "year": 1990,
   "context": "International pop powerhouses dominated the Australian charts. Sinead O'Connor's raw 'Nothing Compares 2 U' was inescapable, MC Hammer brought hip-hop to the mainstream. The ARIA chart showed Australia deeply connected to global pop trends.",
   "tracks": [
-    { "rank": 1, "title": "Nothing Compares 2 U", "artist": "Sinead O'Connor" },
-    { "rank": 2, "title": "U Can't Touch This", "artist": "MC Hammer" },
-    { "rank": 3, "title": "Vogue", "artist": "Madonna" },
-    { "rank": 4, "title": "It Must Have Been Love", "artist": "Roxette" },
-    { "rank": 5, "title": "All I Wanna Do Is Make Love to You", "artist": "Heart" },
-    { "rank": 6, "title": "Opposites Attract", "artist": "Paula Abdul" },
-    { "rank": 7, "title": "How Am I Supposed to Live Without You", "artist": "Michael Bolton" },
-    { "rank": 8, "title": "Unchained Melody", "artist": "The Righteous Brothers" },
-    { "rank": 9, "title": "Girl I'm Gonna Miss You", "artist": "Milli Vanilli" },
-    { "rank": 10, "title": "Love Shack", "artist": "The B-52's" }
+    {
+      "rank": 1,
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinead O'Connor",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02919c02d20d8634f96ccd75ae",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5GHY1DFWKz3Prg2V0Iodqo",
+      "spotifyUrl": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
+    },
+    {
+      "rank": 2,
+      "title": "U Can't Touch This",
+      "artist": "MC Hammer",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f5e5babccf665ef8c912b190",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1B75hgRqe7A4fwee3g3Wmu",
+      "spotifyUrl": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
+    },
+    {
+      "rank": 3,
+      "title": "Vogue",
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e275f1fbda1c7bc82f9c386b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7j5TIXPi0cCbSSqItmbyZy",
+      "spotifyUrl": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
+    },
+    {
+      "rank": 4,
+      "title": "It Must Have Been Love",
+      "artist": "Roxette",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c957c20238e5f9f543439be0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6kvoHl80mfCVTv7XnZkjQn",
+      "spotifyUrl": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn"
+    },
+    {
+      "rank": 5,
+      "title": "All I Wanna Do Is Make Love to You",
+      "artist": "Heart",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0257850545c0dc2cc537186070",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5YjKdeES9QRJ8NmF4Xc8pV",
+      "spotifyUrl": "https://open.spotify.com/track/5YjKdeES9QRJ8NmF4Xc8pV"
+    },
+    {
+      "rank": 6,
+      "title": "Opposites Attract",
+      "artist": "Paula Abdul",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cb3cea7439a97660b3aedb8c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7z38bideBRvGAgjXe2SECm",
+      "spotifyUrl": "https://open.spotify.com/track/7z38bideBRvGAgjXe2SECm"
+    },
+    {
+      "rank": 7,
+      "title": "How Am I Supposed to Live Without You",
+      "artist": "Michael Bolton",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e29b51efdf81e17c63880ef0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3RMeOetCdXttthQK0clPuz",
+      "spotifyUrl": "https://open.spotify.com/track/3RMeOetCdXttthQK0clPuz"
+    },
+    {
+      "rank": 8,
+      "title": "Unchained Melody",
+      "artist": "The Righteous Brothers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cd7530409d09802935c840f9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2qhASBzpbFhPRtrnZ5lLnz",
+      "spotifyUrl": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
+    },
+    {
+      "rank": 9,
+      "title": "Girl I'm Gonna Miss You",
+      "artist": "Milli Vanilli",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0211542dadbf7408521016590b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:122vb6LtwACmfBIWpwmN1w",
+      "spotifyUrl": "https://open.spotify.com/track/122vb6LtwACmfBIWpwmN1w"
+    },
+    {
+      "rank": 10,
+      "title": "Love Shack",
+      "artist": "The B-52's",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0293bf4c5e67f6a72149d94c94",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4W4wYHtsrgDiivRASVOINL",
+      "spotifyUrl": "https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL"
+    }
   ]
 }

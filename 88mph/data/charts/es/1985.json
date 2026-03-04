@@ -3,15 +3,95 @@
   "year": 1985,
   "context": "By 1985, La Movida Madrileña was at its peak — a cultural explosion of music, art, and film following Franco's death. Alaska y Dinarama, Mecano, and Hombres G defined a new generation of Spanish pop/rock, while international artists also performed strongly. The movement represented creative freedom and youthful energy in the new democratic Spain.",
   "tracks": [
-    { "rank": 1, "title": "Walk of Life", "artist": "Dire Straits" },
-    { "rank": 2, "title": "Ni Tú Ni Nadie", "artist": "Alaska y Dinarama" },
-    { "rank": 3, "title": "We Are the World", "artist": "USA for Africa" },
-    { "rank": 4, "title": "Part Time Lover", "artist": "Stevie Wonder" },
-    { "rank": 5, "title": "Life Is Life", "artist": "Opus" },
-    { "rank": 6, "title": "Angel", "artist": "Madonna" },
-    { "rank": 7, "title": "Amante Bandido", "artist": "Miguel Bosé" },
-    { "rank": 8, "title": "El Africano", "artist": "Georgie Dann" },
-    { "rank": 9, "title": "Baila Para Mí", "artist": "Objetivo Birmania" },
-    { "rank": 10, "title": "El Sur También Existe", "artist": "Joan Manuel Serrat" }
+    {
+      "rank": 1,
+      "title": "Walk of Life",
+      "artist": "Dire Straits",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fb995d2871f084b34afae3b3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:423o3ZHIaBtGXyhF1uH41a",
+      "spotifyUrl": "https://open.spotify.com/track/423o3ZHIaBtGXyhF1uH41a"
+    },
+    {
+      "rank": 2,
+      "title": "Ni Tú Ni Nadie",
+      "artist": "Alaska y Dinarama",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b7974ddc07f66321035ccf9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7LpS82vPDLgZAHWRtWBBRj",
+      "spotifyUrl": "https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj"
+    },
+    {
+      "rank": 3,
+      "title": "We Are the World",
+      "artist": "USA for Africa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02920f421260033ee54865d673",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Z2tPWiNiIpg8UMMoowHIk",
+      "spotifyUrl": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "rank": 4,
+      "title": "Part Time Lover",
+      "artist": "Stevie Wonder",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ed0ddbe4b2590f448e9845be",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Dm43YLUlGdePpSbI1ct8h",
+      "spotifyUrl": "https://open.spotify.com/track/0Dm43YLUlGdePpSbI1ct8h"
+    },
+    {
+      "rank": 5,
+      "title": "Life Is Life",
+      "artist": "Opus",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02680c56a0f621a43edf19046a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5luOvrlnzfvJQdQjrScVj4",
+      "spotifyUrl": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
+    },
+    {
+      "rank": 6,
+      "title": "Angel",
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0299d424b0873a9a714279a9f3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ov1nZ2QZc3LIuCXXERZP0",
+      "spotifyUrl": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
+    },
+    {
+      "rank": 7,
+      "title": "Amante Bandido",
+      "artist": "Miguel Bosé",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0223d18d1faa395db1f4a5ff06",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1hj6nYHeGclSY0VNTHMi27",
+      "spotifyUrl": "https://open.spotify.com/track/1hj6nYHeGclSY0VNTHMi27"
+    },
+    {
+      "rank": 8,
+      "title": "El Africano",
+      "artist": "Georgie Dann",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029035aea095eb0ca794da502a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7q3iST0sxM3RQHZXMdbRro",
+      "spotifyUrl": "https://open.spotify.com/track/7q3iST0sxM3RQHZXMdbRro"
+    },
+    {
+      "rank": 9,
+      "title": "Baila Para Mí",
+      "artist": "Objetivo Birmania",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b802b86eb8fef85ef8e6df4e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4Zx2pwUBs8WK50rP9uwIZx",
+      "spotifyUrl": "https://open.spotify.com/track/4Zx2pwUBs8WK50rP9uwIZx"
+    },
+    {
+      "rank": 10,
+      "title": "El Sur También Existe",
+      "artist": "Joan Manuel Serrat",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a10cdb46d29badb500bae05b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Z7S6VeLIygPnSPnP581u4",
+      "spotifyUrl": "https://open.spotify.com/track/2Z7S6VeLIygPnSPnP581u4"
+    }
   ]
 }

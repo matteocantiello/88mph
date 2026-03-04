@@ -3,15 +3,95 @@
   "year": 2000,
   "context": "MPB, axe, and pagode coexisted with global pop. Marisa Monte was at her artistic peak blending bossa nova and rock. Los Hermanos brought indie rock mainstream with 'Anna Julia,' while Ivete Sangalo became a national icon.",
   "tracks": [
-    { "rank": 1, "title": "Amor I Love You", "artist": "Marisa Monte" },
-    { "rank": 2, "title": "Se eu nao te amasse tanto assim", "artist": "Ivete Sangalo" },
-    { "rank": 3, "title": "Smooth", "artist": "Santana feat. Rob Thomas" },
-    { "rank": 4, "title": "Xibom Bombom", "artist": "As Meninas" },
-    { "rank": 5, "title": "To te filmando (Sorria)", "artist": "Os Travessos" },
-    { "rank": 6, "title": "What a Girl Wants", "artist": "Christina Aguilera" },
-    { "rank": 7, "title": "Anna Julia", "artist": "Los Hermanos" },
-    { "rank": 8, "title": "Music", "artist": "Madonna" },
-    { "rank": 9, "title": "El Arbi", "artist": "Khaled" },
-    { "rank": 10, "title": "Minha razao de viver", "artist": "Ara Ketu" }
+    {
+      "rank": 1,
+      "title": "Amor I Love You",
+      "artist": "Marisa Monte",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b8b0cd2aba0baaf566bcd625",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5nwT95l5rMdQPaydjGh32q",
+      "spotifyUrl": "https://open.spotify.com/track/5nwT95l5rMdQPaydjGh32q"
+    },
+    {
+      "rank": 2,
+      "title": "Se eu nao te amasse tanto assim",
+      "artist": "Ivete Sangalo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b0bfa572787ccbe19185a418",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7LxiQ3v6iEaejUgnBBphNS",
+      "spotifyUrl": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
+    },
+    {
+      "rank": 3,
+      "title": "Smooth",
+      "artist": "Santana feat. Rob Thomas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0205517e4e2defded1e818d3d0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2pX4FpOgwItRVPPUFdRcxA",
+      "spotifyUrl": "https://open.spotify.com/track/2pX4FpOgwItRVPPUFdRcxA"
+    },
+    {
+      "rank": 4,
+      "title": "Xibom Bombom",
+      "artist": "As Meninas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02761790dda76de7e736ac8cbf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3DRSpgSfeQlPVqPQ7YQiK3",
+      "spotifyUrl": "https://open.spotify.com/track/3DRSpgSfeQlPVqPQ7YQiK3"
+    },
+    {
+      "rank": 5,
+      "title": "To te filmando (Sorria)",
+      "artist": "Os Travessos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02424ac8d7d4cd2aa632421738",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Oi1rRW0QdWsE7SGATTE2z",
+      "spotifyUrl": "https://open.spotify.com/track/3Oi1rRW0QdWsE7SGATTE2z"
+    },
+    {
+      "rank": 6,
+      "title": "What a Girl Wants",
+      "artist": "Christina Aguilera",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f89996e214be1763b2a9e948",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5bGmuxShUba9maPswDnhCs",
+      "spotifyUrl": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
+    },
+    {
+      "rank": 7,
+      "title": "Anna Julia",
+      "artist": "Los Hermanos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022b4da5abb231f0dfc297ff09",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0aASUtDb1N96NJDwmWj5Gf",
+      "spotifyUrl": "https://open.spotify.com/track/0aASUtDb1N96NJDwmWj5Gf"
+    },
+    {
+      "rank": 8,
+      "title": "Music",
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024c8f092adc59b4bf4212389d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6WzRpISELf3YglGAh7TXcG",
+      "spotifyUrl": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "rank": 9,
+      "title": "El Arbi",
+      "artist": "Khaled",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027e2bd1ddeb38a0e50bdb516b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3NLsVjzX9nszomNGNOSJBK",
+      "spotifyUrl": "https://open.spotify.com/track/3NLsVjzX9nszomNGNOSJBK"
+    },
+    {
+      "rank": 10,
+      "title": "Minha razao de viver",
+      "artist": "Ara Ketu",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023467e07491cba3cc7be021c5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6BlJpOVPsshun4PsxiRYxf",
+      "spotifyUrl": "https://open.spotify.com/track/6BlJpOVPsshun4PsxiRYxf"
+    }
   ]
 }

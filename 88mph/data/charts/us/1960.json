@@ -3,15 +3,95 @@
   "year": 1960,
   "context": "1960 straddled the fading first wave of rock and roll and the polished pop that would define the early '60s. Elvis remained dominant, but instrumental hits and teen idol ballads shared the charts. Chubby Checker's Twist was about to ignite a dance craze.",
   "tracks": [
-    { "rank": 1, "title": "Theme from A Summer Place", "artist": "Percy Faith & His Orchestra" },
-    { "rank": 2, "title": "He'll Have to Go", "artist": "Jim Reeves" },
-    { "rank": 3, "title": "Cathy's Clown", "artist": "The Everly Brothers" },
-    { "rank": 4, "title": "Running Bear", "artist": "Johnny Preston" },
-    { "rank": 5, "title": "Teen Angel", "artist": "Mark Dinning" },
-    { "rank": 6, "title": "I'm Sorry", "artist": "Brenda Lee" },
-    { "rank": 7, "title": "It's Now or Never", "artist": "Elvis Presley" },
-    { "rank": 8, "title": "Handy Man", "artist": "Jimmy Jones" },
-    { "rank": 9, "title": "Stuck on You", "artist": "Elvis Presley" },
-    { "rank": 10, "title": "The Twist", "artist": "Chubby Checker" }
+    {
+      "rank": 1,
+      "title": "Theme from A Summer Place",
+      "artist": "Percy Faith & His Orchestra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae5534556d63b3935e7532e0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6zwvB879PJSpTyFcg2wwnL",
+      "spotifyUrl": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL"
+    },
+    {
+      "rank": 2,
+      "title": "He'll Have to Go",
+      "artist": "Jim Reeves",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022aedd8069da6df1e8a607320",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7DH5dXVuQaqcKf9oTy9oUN",
+      "spotifyUrl": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
+    },
+    {
+      "rank": 3,
+      "title": "Cathy's Clown",
+      "artist": "The Everly Brothers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02756ea9d6cee4360a152f5611",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:27bw4i8LnECzVlbMZ4kFHw",
+      "spotifyUrl": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
+    },
+    {
+      "rank": 4,
+      "title": "Running Bear",
+      "artist": "Johnny Preston",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e543e5883d0fac222add571b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0x6gSfnYA91AHPLvULn5NK",
+      "spotifyUrl": "https://open.spotify.com/track/0x6gSfnYA91AHPLvULn5NK"
+    },
+    {
+      "rank": 5,
+      "title": "Teen Angel",
+      "artist": "Mark Dinning",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02960d7979a7494654a07cea4b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3PymNAkWROfyEVeYq6XtjD",
+      "spotifyUrl": "https://open.spotify.com/track/3PymNAkWROfyEVeYq6XtjD"
+    },
+    {
+      "rank": 6,
+      "title": "I'm Sorry",
+      "artist": "Brenda Lee",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0294d826a48aa675028d2a94da",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4LJcNiq2pBb8OeqrGdBJQw",
+      "spotifyUrl": "https://open.spotify.com/track/4LJcNiq2pBb8OeqrGdBJQw"
+    },
+    {
+      "rank": 7,
+      "title": "It's Now or Never",
+      "artist": "Elvis Presley",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0253f941c094e3f95ff33034da",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1XunTmhOcj3xwh4b8P3isX",
+      "spotifyUrl": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
+    },
+    {
+      "rank": 8,
+      "title": "Handy Man",
+      "artist": "Jimmy Jones",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02541a2f5c109e025cb66b1696",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:63l4KCU2ZpXodzDzuHtyu4",
+      "spotifyUrl": "https://open.spotify.com/track/63l4KCU2ZpXodzDzuHtyu4"
+    },
+    {
+      "rank": 9,
+      "title": "Stuck on You",
+      "artist": "Elvis Presley",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0253f941c094e3f95ff33034da",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7bA1DHtoJAvqyL42gHwOLa",
+      "spotifyUrl": "https://open.spotify.com/track/7bA1DHtoJAvqyL42gHwOLa"
+    },
+    {
+      "rank": 10,
+      "title": "The Twist",
+      "artist": "Chubby Checker",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d3eefe1def522fa7598f717e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4YCnTYbq3oL1Lqpyxg33CU",
+      "spotifyUrl": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
+    }
   ]
 }

@@ -3,15 +3,95 @@
   "year": 2005,
   "context": "The iPod changed how we consumed music. Kanye West merged rap with soul and fashion. Green Day's American Idiot soundtracked political discontent. MySpace was birthing a new generation of indie artists.",
   "tracks": [
-    { "rank": 1, "title": "We Belong Together", "artist": "Mariah Carey" },
-    { "rank": 2, "title": "Gold Digger", "artist": "Kanye West feat. Jamie Foxx" },
-    { "rank": 3, "title": "Boulevard of Broken Dreams", "artist": "Green Day" },
-    { "rank": 4, "title": "Let Me Love You", "artist": "Mario" },
-    { "rank": 5, "title": "Since U Been Gone", "artist": "Kelly Clarkson" },
-    { "rank": 6, "title": "1, 2 Step", "artist": "Ciara feat. Missy Elliott" },
-    { "rank": 7, "title": "Hollaback Girl", "artist": "Gwen Stefani" },
-    { "rank": 8, "title": "Candy Shop", "artist": "50 Cent feat. Olivia" },
-    { "rank": 9, "title": "Mr. Brightside", "artist": "The Killers" },
-    { "rank": 10, "title": "Feel Good Inc.", "artist": "Gorillaz" }
+    {
+      "rank": 1,
+      "title": "We Belong Together",
+      "artist": "Mariah Carey",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02768bc8d9f078db929dfcfbd1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3LmvfNUQtglbTrydsdIqFU",
+      "spotifyUrl": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
+    },
+    {
+      "rank": 2,
+      "title": "Gold Digger",
+      "artist": "Kanye West feat. Jamie Foxx",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a40ed7b6dacb2ce8ef30c6aa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2kTI5wQALSW8lbTtLNCE5u",
+      "spotifyUrl": "https://open.spotify.com/track/2kTI5wQALSW8lbTtLNCE5u"
+    },
+    {
+      "rank": 3,
+      "title": "Boulevard of Broken Dreams",
+      "artist": "Green Day",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0291809a44f16f6434927c1e3f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0U87auHx1iZTEFcq9KVdmO",
+      "spotifyUrl": "https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO"
+    },
+    {
+      "rank": 4,
+      "title": "Let Me Love You",
+      "artist": "Mario",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c2248a5b79dededa74edfde0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5WphWTUIfRe7x8NZss79cY",
+      "spotifyUrl": "https://open.spotify.com/track/5WphWTUIfRe7x8NZss79cY"
+    },
+    {
+      "rank": 5,
+      "title": "Since U Been Gone",
+      "artist": "Kelly Clarkson",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0203dadde4d9d305c1c3e0d91c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3xrn9i8zhNZsTtcoWgQEAd",
+      "spotifyUrl": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
+    },
+    {
+      "rank": 6,
+      "title": "1, 2 Step",
+      "artist": "Ciara feat. Missy Elliott",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c1e3659212de0f437bbf395e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7uKcScNXuO3MWw6LowBjW1",
+      "spotifyUrl": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
+    },
+    {
+      "rank": 7,
+      "title": "Hollaback Girl",
+      "artist": "Gwen Stefani",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027c7136a182372ccdffb3d3c4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0LzrhCZFXW94Y8nwtTuRlw",
+      "spotifyUrl": "https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw"
+    },
+    {
+      "rank": 8,
+      "title": "Candy Shop",
+      "artist": "50 Cent feat. Olivia",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0291f7222996c531b981e7bb3d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5D2mYZuzcgjpchVY1pmTPh",
+      "spotifyUrl": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "rank": 9,
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ccdddd46119a4ff53eaf1f5d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:003vvx7Niy0yvhvHt4a68B",
+      "spotifyUrl": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "rank": 10,
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02622aefd794f6fe4d8e714358",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0d28khcov6AiegSCpG5TuT",
+      "spotifyUrl": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
+    }
   ]
 }

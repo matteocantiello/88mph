@@ -3,15 +3,95 @@
   "year": 1955,
   "context": "Rock and roll exploded into the mainstream. Chuck Berry's guitar riffs and Bill Haley's anthems shook the foundations of popular music. A generation gap opened wide — and the teenagers weren't looking back.",
   "tracks": [
-    { "rank": 1, "title": "Rock Around the Clock", "artist": "Bill Haley & His Comets" },
-    { "rank": 2, "title": "Cherry Pink and Apple Blossom White", "artist": "Pérez Prado" },
-    { "rank": 3, "title": "Sincerely", "artist": "The McGuire Sisters" },
-    { "rank": 4, "title": "Unchained Melody", "artist": "Al Hibbler" },
-    { "rank": 5, "title": "The Yellow Rose of Texas", "artist": "Mitch Miller" },
-    { "rank": 6, "title": "Ain't That a Shame", "artist": "Fats Domino" },
-    { "rank": 7, "title": "Sixteen Tons", "artist": "Tennessee Ernie Ford" },
-    { "rank": 8, "title": "Love Is a Many-Splendored Thing", "artist": "Four Aces" },
-    { "rank": 9, "title": "Maybellene", "artist": "Chuck Berry" },
-    { "rank": 10, "title": "Tutti Frutti", "artist": "Little Richard" }
+    {
+      "rank": 1,
+      "title": "Rock Around the Clock",
+      "artist": "Bill Haley & His Comets",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029060a2c0a01366ee03274597",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1uRKT2LRANv4baowBWHfDS",
+      "spotifyUrl": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+    },
+    {
+      "rank": 2,
+      "title": "Cherry Pink and Apple Blossom White",
+      "artist": "Pérez Prado",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020cb71a67899d301bd358f256",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5HisVcYPaIB4uHdrnW6HCt",
+      "spotifyUrl": "https://open.spotify.com/track/5HisVcYPaIB4uHdrnW6HCt"
+    },
+    {
+      "rank": 3,
+      "title": "Sincerely",
+      "artist": "The McGuire Sisters",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ade50f10ae82f937ed8e0c8d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:50AhgOXYVm9ASB6PlKdKk0",
+      "spotifyUrl": "https://open.spotify.com/track/50AhgOXYVm9ASB6PlKdKk0"
+    },
+    {
+      "rank": 4,
+      "title": "Unchained Melody",
+      "artist": "Al Hibbler",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f5802cf65f3498f2974ad7e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5S7xpy76J04zx588shgjDG",
+      "spotifyUrl": "https://open.spotify.com/track/5S7xpy76J04zx588shgjDG"
+    },
+    {
+      "rank": 5,
+      "title": "The Yellow Rose of Texas",
+      "artist": "Mitch Miller",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0290b13d287a280ae63e86afcf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7985fUI9WlsIIrQuO9TBDh",
+      "spotifyUrl": "https://open.spotify.com/track/7985fUI9WlsIIrQuO9TBDh"
+    },
+    {
+      "rank": 6,
+      "title": "Ain't That a Shame",
+      "artist": "Fats Domino",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0274e3823e9643fabc830851dd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4ZfQwNx3FlCN07cnUvekh3",
+      "spotifyUrl": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+    },
+    {
+      "rank": 7,
+      "title": "Sixteen Tons",
+      "artist": "Tennessee Ernie Ford",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d996db70f458c900f23a225e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4KM77RUl2IKdXGhtOBbKIS",
+      "spotifyUrl": "https://open.spotify.com/track/4KM77RUl2IKdXGhtOBbKIS"
+    },
+    {
+      "rank": 8,
+      "title": "Love Is a Many-Splendored Thing",
+      "artist": "Four Aces",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a27aea15f808f9086f60349",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5koEBSDfDV8MQVN0tg67z5",
+      "spotifyUrl": "https://open.spotify.com/track/5koEBSDfDV8MQVN0tg67z5"
+    },
+    {
+      "rank": 9,
+      "title": "Maybellene",
+      "artist": "Chuck Berry",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a496dc8c33ca6d10668b3157",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3SQhmctWreNM0X6Zkm2K5R",
+      "spotifyUrl": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
+    },
+    {
+      "rank": 10,
+      "title": "Tutti Frutti",
+      "artist": "Little Richard",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028a22827b01e5d68d3736d58b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2iXcvnD3d1gfLBum0cE5Eg",
+      "spotifyUrl": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
+    }
   ]
 }

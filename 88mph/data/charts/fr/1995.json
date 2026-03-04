@@ -3,15 +3,95 @@
   "year": 1995,
   "context": "French charts blended domestic chanson with international pop. Celine Dion's 'Pour que tu m'aimes encore' (written by Jean-Jacques Goldman) dominated for weeks. The Cranberries and Coolio brought alt-rock and hip-hop, while Mylene Farmer continued her provocative reign.",
   "tracks": [
-    { "rank": 1, "title": "Pour que tu m'aimes encore", "artist": "Celine Dion" },
-    { "rank": 2, "title": "Zombie", "artist": "The Cranberries" },
-    { "rank": 3, "title": "Gangsta's Paradise", "artist": "Coolio" },
-    { "rank": 4, "title": "XXL", "artist": "Mylene Farmer" },
-    { "rank": 5, "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)", "artist": "Scatman John" },
-    { "rank": 6, "title": "Je sais pas", "artist": "Celine Dion" },
-    { "rank": 7, "title": "Yeha-Noha", "artist": "Sacred Spirit" },
-    { "rank": 8, "title": "You Are Not Alone", "artist": "Michael Jackson" },
-    { "rank": 9, "title": "Respect", "artist": "Alliance Ethnik" },
-    { "rank": 10, "title": "Can You Feel the Love Tonight", "artist": "Elton John" }
+    {
+      "rank": 1,
+      "title": "Pour que tu m'aimes encore",
+      "artist": "Celine Dion",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a33e2b9d221b420f2ab1d29f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6qlpXtA29VcxCNgLWR5IWx",
+      "spotifyUrl": "https://open.spotify.com/track/6qlpXtA29VcxCNgLWR5IWx"
+    },
+    {
+      "rank": 2,
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0220a28883cdd0fc7d5f85a9a9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
+      "spotifyUrl": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
+    },
+    {
+      "rank": 3,
+      "title": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027438996f6fe67c59d75d4e43",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1DIXPcTDzTj8ZMHt3PDt8p",
+      "spotifyUrl": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
+    },
+    {
+      "rank": 4,
+      "title": "XXL",
+      "artist": "Mylene Farmer",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027f768cedd14fc6de1cdd09ef",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6k6LOLHzLj3D4zd1xmzLs4",
+      "spotifyUrl": "https://open.spotify.com/track/6k6LOLHzLj3D4zd1xmzLs4"
+    },
+    {
+      "rank": 5,
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "artist": "Scatman John",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7ed51b9dc1014285cae2ae2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:623rRTKwGmgjH6sjE9uWLh",
+      "spotifyUrl": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "rank": 6,
+      "title": "Je sais pas",
+      "artist": "Celine Dion",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a33e2b9d221b420f2ab1d29f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:19ncRYEjjcGiRQgvqXOExO",
+      "spotifyUrl": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
+    },
+    {
+      "rank": 7,
+      "title": "Yeha-Noha",
+      "artist": "Sacred Spirit",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029556b3134bd8ceeb6d5ce931",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6pfdfnkhql0kR3x5cRZhQI",
+      "spotifyUrl": "https://open.spotify.com/track/6pfdfnkhql0kR3x5cRZhQI"
+    },
+    {
+      "rank": 8,
+      "title": "You Are Not Alone",
+      "artist": "Michael Jackson",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b4a878f008a0eda552446701",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3AoeaZs8dFemFJr3JdzOL0",
+      "spotifyUrl": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
+    },
+    {
+      "rank": 9,
+      "title": "Respect",
+      "artist": "Alliance Ethnik",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f05438406a5201bb8cedba3b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3mgFUpTSGwwyZL11YTu8cw",
+      "spotifyUrl": "https://open.spotify.com/track/3mgFUpTSGwwyZL11YTu8cw"
+    },
+    {
+      "rank": 10,
+      "title": "Can You Feel the Love Tonight",
+      "artist": "Elton John",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02285a5c29d3b2d05895781820",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:67HKtdqchK0rmODxsBeWT8",
+      "spotifyUrl": "https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8"
+    }
   ]
 }

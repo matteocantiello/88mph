@@ -3,15 +3,95 @@
   "year": 1960,
   "context": "By 1960, Germany's postwar recovery was in full swing and Schlager reached peak popularity with romantic ballads and sailor-themed songs. International artists like Edith Piaf and Rocco Granata crossed into the German charts alongside domestic stars like Freddy Quinn and Lolita. The charts reflected a Europe reconnecting with cosmopolitan culture and the romance of travel.",
   "tracks": [
-    { "rank": 1, "title": "Banjo Boy", "artist": "Jan & Kjeld" },
-    { "rank": 2, "title": "Marina", "artist": "Rocco Granata" },
-    { "rank": 3, "title": "Seemann (Deine Heimat ist das Meer)", "artist": "Lolita" },
-    { "rank": 4, "title": "Unter fremden Sternen", "artist": "Freddy Quinn" },
-    { "rank": 5, "title": "Wir wollen niemals auseinander gehn", "artist": "Heidi Brühl" },
-    { "rank": 6, "title": "Milord", "artist": "Edith Piaf" },
-    { "rank": 7, "title": "Ein Schiff wird kommen", "artist": "Lale Andersen" },
-    { "rank": 8, "title": "Hohe Tannen", "artist": "Hellberg Duo" },
-    { "rank": 9, "title": "Schlafe mein Prinzchen", "artist": "Papa Bue's Jazzband" },
-    { "rank": 10, "title": "Kein Land kann schöner sein", "artist": "René Carol" }
+    {
+      "rank": 1,
+      "title": "Banjo Boy",
+      "artist": "Jan & Kjeld",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c741228c9e3acad9a854b113",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:160FzRVybGTYTwFFOuPOzM",
+      "spotifyUrl": "https://open.spotify.com/track/160FzRVybGTYTwFFOuPOzM"
+    },
+    {
+      "rank": 2,
+      "title": "Marina",
+      "artist": "Rocco Granata",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0228e6cab868bedd1ae08b8a5f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4hFhb8YNgPc94Fq0NANpIB",
+      "spotifyUrl": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
+    },
+    {
+      "rank": 3,
+      "title": "Seemann (Deine Heimat ist das Meer)",
+      "artist": "Lolita",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029c43319ab4910aef80704790",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0yENugv2EXE1wVU9gcqKdq",
+      "spotifyUrl": "https://open.spotify.com/track/0yENugv2EXE1wVU9gcqKdq"
+    },
+    {
+      "rank": 4,
+      "title": "Unter fremden Sternen",
+      "artist": "Freddy Quinn",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02930c8dd0203987fcfd74bd16",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0oBSl08ADFjd0RKvg0xTTR",
+      "spotifyUrl": "https://open.spotify.com/track/0oBSl08ADFjd0RKvg0xTTR"
+    },
+    {
+      "rank": 5,
+      "title": "Wir wollen niemals auseinander gehn",
+      "artist": "Heidi Brühl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025717ef10b7ae5aa93619c77c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5GOcpIjkczXSfe7yitVuG3",
+      "spotifyUrl": "https://open.spotify.com/track/5GOcpIjkczXSfe7yitVuG3"
+    },
+    {
+      "rank": 6,
+      "title": "Milord",
+      "artist": "Edith Piaf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023d69a1082b9d676263912178",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0qAtbrY5DNGHtAl1L0CQzS",
+      "spotifyUrl": "https://open.spotify.com/track/0qAtbrY5DNGHtAl1L0CQzS"
+    },
+    {
+      "rank": 7,
+      "title": "Ein Schiff wird kommen",
+      "artist": "Lale Andersen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029a55f5dee57cebfe56eaa6f6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2KwyJRAJ1NYpzY4MsfYY9R",
+      "spotifyUrl": "https://open.spotify.com/track/2KwyJRAJ1NYpzY4MsfYY9R"
+    },
+    {
+      "rank": 8,
+      "title": "Hohe Tannen",
+      "artist": "Hellberg Duo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f7e657e5ad29bc19aac79924",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:47DNRHwetyKx0DJ7rE4bpa",
+      "spotifyUrl": "https://open.spotify.com/track/47DNRHwetyKx0DJ7rE4bpa"
+    },
+    {
+      "rank": 9,
+      "title": "Schlafe mein Prinzchen",
+      "artist": "Papa Bue's Jazzband",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029422e2e1447cf4b23441ff07",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0SwvN8SQBx728qJDqjByPl",
+      "spotifyUrl": "https://open.spotify.com/track/0SwvN8SQBx728qJDqjByPl"
+    },
+    {
+      "rank": 10,
+      "title": "Kein Land kann schöner sein",
+      "artist": "René Carol",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025665c29563be79fcbbbe2141",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3PhA46f3wgdVFx5AMHWyyL",
+      "spotifyUrl": "https://open.spotify.com/track/3PhA46f3wgdVFx5AMHWyyL"
+    }
   ]
 }

@@ -3,15 +3,95 @@
   "year": 1985,
   "context": "Peak European synth-pop. Austrian acts Opus and Falco achieved massive success, with 'Rock Me Amadeus' becoming a global phenomenon. Modern Talking became the biggest German pop export of the decade. Electronic pop ruled the continent.",
   "tracks": [
-    { "rank": 1, "title": "Live Is Life", "artist": "Opus" },
-    { "rank": 2, "title": "You're My Heart, You're My Soul", "artist": "Modern Talking" },
-    { "rank": 3, "title": "Tarzan Boy", "artist": "Baltimora" },
-    { "rank": 4, "title": "Rock Me Amadeus", "artist": "Falco" },
-    { "rank": 5, "title": "(I'll Never Be) Maria Magdalena", "artist": "Sandra" },
-    { "rank": 6, "title": "We Don't Need Another Hero (Thunderdome)", "artist": "Tina Turner" },
-    { "rank": 7, "title": "You're a Woman", "artist": "Bad Boys Blue" },
-    { "rank": 8, "title": "Theme from Rocky", "artist": "Round One" },
-    { "rank": 9, "title": "Comanchero", "artist": "Raggio di Luna" },
-    { "rank": 10, "title": "Don't You (Forget About Me)", "artist": "Simple Minds" }
+    {
+      "rank": 1,
+      "title": "Live Is Life",
+      "artist": "Opus",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02680c56a0f621a43edf19046a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5luOvrlnzfvJQdQjrScVj4",
+      "spotifyUrl": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
+    },
+    {
+      "rank": 2,
+      "title": "You're My Heart, You're My Soul",
+      "artist": "Modern Talking",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0299aab0b95eb4bb1e7e24c795",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Zn63G0XTiqXwr1KSmARWz",
+      "spotifyUrl": "https://open.spotify.com/track/0Zn63G0XTiqXwr1KSmARWz"
+    },
+    {
+      "rank": 3,
+      "title": "Tarzan Boy",
+      "artist": "Baltimora",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02de82204a5baa683ce85d57cb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:273uCXd7NPrInaiNqtkOrA",
+      "spotifyUrl": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA"
+    },
+    {
+      "rank": 4,
+      "title": "Rock Me Amadeus",
+      "artist": "Falco",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02731d2eb04541bef9e4434d4e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0DfG1ltJnZyq4Tx3ZLL7ZU",
+      "spotifyUrl": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"
+    },
+    {
+      "rank": 5,
+      "title": "(I'll Never Be) Maria Magdalena",
+      "artist": "Sandra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ade47900d03a0276737982b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7LNP6YNYDeMgBeG4JBfAdq",
+      "spotifyUrl": "https://open.spotify.com/track/7LNP6YNYDeMgBeG4JBfAdq"
+    },
+    {
+      "rank": 6,
+      "title": "We Don't Need Another Hero (Thunderdome)",
+      "artist": "Tina Turner",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0269284341c1d703caaa1e0ee1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:50XXRUFNjs85P0MjCZ1c9X",
+      "spotifyUrl": "https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X"
+    },
+    {
+      "rank": 7,
+      "title": "You're a Woman",
+      "artist": "Bad Boys Blue",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02982630895c9b2d63c843e6cc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1oP3OXN5VK57w5UveOjZmW",
+      "spotifyUrl": "https://open.spotify.com/track/1oP3OXN5VK57w5UveOjZmW"
+    },
+    {
+      "rank": 8,
+      "title": "Theme from Rocky",
+      "artist": "Round One",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0262bdb29b3022c1a3bfe89597",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0zZeWfwi8AX80wu2bPtYgR",
+      "spotifyUrl": "https://open.spotify.com/track/0zZeWfwi8AX80wu2bPtYgR"
+    },
+    {
+      "rank": 9,
+      "title": "Comanchero",
+      "artist": "Raggio di Luna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b495deb30c042c41e98bc74d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1MVdxUH6E9kyu1a9tKS9H0",
+      "spotifyUrl": "https://open.spotify.com/track/1MVdxUH6E9kyu1a9tKS9H0"
+    },
+    {
+      "rank": 10,
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025695a657aef0e81bde0c6001",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3fH4KjXFYMmljxrcGrbPj9",
+      "spotifyUrl": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    }
   ]
 }

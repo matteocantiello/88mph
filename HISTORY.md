@@ -167,4 +167,30 @@
 > Let's update the readme.md for github. We also want to create tests and implement Continuous integration via github actions
 
 **Key decisions**: Overhaul README for GitHub presentation. Add test suite (Jest + React Testing Library). Set up GitHub Actions CI pipeline for lint, type-check, tests, and build.
-**Artifacts to produce**: Updated README.md, test files, jest config, GitHub Actions workflow
+**Artifacts produced**: Updated README.md, 4 test files (563 tests), jest.config.js, jest.setup.ts, .github/workflows/ci.yml, updated package.json
+
+### Prompt #25 — Implement Spotify Preview Playback
+
+> Can we implement spotify preview? Currently we only show the songs, but we can't listen to them. Let's make a detailed plan, add to tasks/todo.md and then implement
+
+**Key decisions**: TBD — plan mode
+**Artifacts to produce**: Spotify integration enabling 30-second previews for all chart tracks
+
+### Prompt #26 — Execute Spotify Preview Integration Plan
+
+> Implement the following plan: [Spotify Preview Integration Plan — 7 steps covering enrichment script improvements, Track interface update, TrackRow fallback, running enrichment, test updates, E2E verification, and commit]
+
+**Key decisions**: Add retry/backoff to enrichment script, fallback search for non-Latin titles, spotifyUrl for "Play on Spotify" link, idempotent re-runs
+**Artifacts to modify**: `scripts/generate-data.mjs`, `src/lib/data.ts`, `src/components/TrackRow.tsx`, `src/__tests__/charts-integrity.test.ts`
+
+### Prompt #27 — Set Up .env.local for Spotify Credentials
+
+> Can I store these in a secure .env file that is ignored by git? And is not exposed in any way when using the platform?
+
+**Key decisions**: Confirmed `.env.local` already gitignored, credentials server-side only, user created `.env.local` with real Spotify credentials
+
+### Prompt #28 — Run Enrichment Script
+
+> ok, done (credentials set up in .env.local)
+
+**Key decisions**: Run enrichment script on all 133 charts

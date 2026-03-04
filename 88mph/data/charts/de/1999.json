@@ -3,15 +3,95 @@
   "year": 1999,
   "context": "Lou Bega's 'Mambo No. 5' was a worldwide smash originating from Munich, blending mambo with hip-hop. The teen pop wave of Britney and Christina competed with dance music and R&B. Xavier Naidoo represented a growing German-language soul movement.",
   "tracks": [
-    { "rank": 1, "title": "Mambo No. 5 (A Little Bit of...)", "artist": "Lou Bega" },
-    { "rank": 2, "title": "Blue (Da Ba Dee)", "artist": "Eiffel 65" },
-    { "rank": 3, "title": "My Love Is Your Love", "artist": "Whitney Houston" },
-    { "rank": 4, "title": "...Baby One More Time", "artist": "Britney Spears" },
-    { "rank": 5, "title": "Maria", "artist": "Blondie" },
-    { "rank": 6, "title": "King of My Castle", "artist": "Wamdue Project" },
-    { "rank": 7, "title": "Genie in a Bottle", "artist": "Christina Aguilera" },
-    { "rank": 8, "title": "All Out of Love", "artist": "Andru Donalds" },
-    { "rank": 9, "title": "Sie sieht mich nicht", "artist": "Xavier Naidoo" },
-    { "rank": 10, "title": "No Scrubs", "artist": "TLC" }
+    {
+      "rank": 1,
+      "title": "Mambo No. 5 (A Little Bit of...)",
+      "artist": "Lou Bega",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cf505191afa6a1978418fdf8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6x4tKaOzfNJpEJHySoiJcs",
+      "spotifyUrl": "https://open.spotify.com/track/6x4tKaOzfNJpEJHySoiJcs"
+    },
+    {
+      "rank": 2,
+      "title": "Blue (Da Ba Dee)",
+      "artist": "Eiffel 65",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263d5a6f7b79c5b7d75d2ace9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4GewRLEiI4BDTQsoH8BRVV",
+      "spotifyUrl": "https://open.spotify.com/track/4GewRLEiI4BDTQsoH8BRVV"
+    },
+    {
+      "rank": 3,
+      "title": "My Love Is Your Love",
+      "artist": "Whitney Houston",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0284b84d08fdbaebb99098890c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1ckU1EhAO0Nr73QYw24SWJ",
+      "spotifyUrl": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
+    },
+    {
+      "rank": 4,
+      "title": "...Baby One More Time",
+      "artist": "Britney Spears",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0236cf58e3e7cf36a145b1da18",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3MjUtNVVq3C8Fn0MP3zhXa",
+      "spotifyUrl": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "rank": 5,
+      "title": "Maria",
+      "artist": "Blondie",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020c69fa62568695cb1879997b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4yHHx0rMvgCOoYoDWNdcR3",
+      "spotifyUrl": "https://open.spotify.com/track/4yHHx0rMvgCOoYoDWNdcR3"
+    },
+    {
+      "rank": 6,
+      "title": "King of My Castle",
+      "artist": "Wamdue Project",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02478b1bf3c8a06e07c48572ab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5ov3LhsdEifKENMIlLCuJo",
+      "spotifyUrl": "https://open.spotify.com/track/5ov3LhsdEifKENMIlLCuJo"
+    },
+    {
+      "rank": 7,
+      "title": "Genie in a Bottle",
+      "artist": "Christina Aguilera",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f89996e214be1763b2a9e948",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:11mwFrKvLXCbcVGNxffGyP",
+      "spotifyUrl": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
+    },
+    {
+      "rank": 8,
+      "title": "All Out of Love",
+      "artist": "Andru Donalds",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f77c152ffc36da042c033dc6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:455rnAh4vl39UWinIuOcNl",
+      "spotifyUrl": "https://open.spotify.com/track/455rnAh4vl39UWinIuOcNl"
+    },
+    {
+      "rank": 9,
+      "title": "Sie sieht mich nicht",
+      "artist": "Xavier Naidoo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c4d166265fe90fb0b24f12a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3a3PdavN2xzZTe9TtmnNyE",
+      "spotifyUrl": "https://open.spotify.com/track/3a3PdavN2xzZTe9TtmnNyE"
+    },
+    {
+      "rank": 10,
+      "title": "No Scrubs",
+      "artist": "TLC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0261ffafd5e31a37336531cf95",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1KGi9sZVMeszgZOWivFpxs",
+      "spotifyUrl": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
+    }
   ]
 }

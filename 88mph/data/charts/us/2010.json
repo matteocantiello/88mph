@@ -3,15 +3,95 @@
   "year": 2010,
   "context": "Dance-pop and electropop conquered the mainstream. Ke$ha's party anthem topped the year, Lady Gaga and Katy Perry kept dancefloors packed, and hip-hop collabs thrived. Country crossover appeal reached new heights with Lady Antebellum's 'Need You Now.'",
   "tracks": [
-    { "rank": 1, "title": "TiK ToK", "artist": "Ke$ha" },
-    { "rank": 2, "title": "Need You Now", "artist": "Lady Antebellum" },
-    { "rank": 3, "title": "Hey, Soul Sister", "artist": "Train" },
-    { "rank": 4, "title": "California Gurls", "artist": "Katy Perry feat. Snoop Dogg" },
-    { "rank": 5, "title": "OMG", "artist": "Usher feat. will.i.am" },
-    { "rank": 6, "title": "Airplanes", "artist": "B.o.B feat. Hayley Williams" },
-    { "rank": 7, "title": "Love the Way You Lie", "artist": "Eminem feat. Rihanna" },
-    { "rank": 8, "title": "Bad Romance", "artist": "Lady Gaga" },
-    { "rank": 9, "title": "Dynamite", "artist": "Taio Cruz" },
-    { "rank": 10, "title": "Break Your Heart", "artist": "Taio Cruz feat. Ludacris" }
+    {
+      "rank": 1,
+      "title": "TiK ToK",
+      "artist": "Ke$ha",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0297c7b770b28ffeed164f4d0e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
+      "spotifyUrl": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
+    },
+    {
+      "rank": 2,
+      "title": "Need You Now",
+      "artist": "Lady Antebellum",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023a2cc6c5cdd9f07a95efa51b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:11EX5yhxr9Ihl3IN1asrfK",
+      "spotifyUrl": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
+    },
+    {
+      "rank": 3,
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026ff8bc258e3ebc835ffe14ca",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4HlFJV71xXKIGcU3kRyttv",
+      "spotifyUrl": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
+    },
+    {
+      "rank": 4,
+      "title": "California Gurls",
+      "artist": "Katy Perry feat. Snoop Dogg",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7e5280ce47dc37761b98f17",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3glgou0Tu1wEYeo5Lt87In",
+      "spotifyUrl": "https://open.spotify.com/track/3glgou0Tu1wEYeo5Lt87In"
+    },
+    {
+      "rank": 5,
+      "title": "OMG",
+      "artist": "Usher feat. will.i.am",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0286b0c9728ad3ed338eaeea79",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1bM50INir8voAkVoKuvEUI",
+      "spotifyUrl": "https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI"
+    },
+    {
+      "rank": 6,
+      "title": "Airplanes",
+      "artist": "B.o.B feat. Hayley Williams",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02caa23612279c2d059a0d3a82",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "spotifyUrl": "https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO"
+    },
+    {
+      "rank": 7,
+      "title": "Love the Way You Lie",
+      "artist": "Eminem feat. Rihanna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c08d5fa5c0f1a834acef5100",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "spotifyUrl": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "rank": 8,
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0SiywuOBRcynK0uKGWdCnn",
+      "spotifyUrl": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+    },
+    {
+      "rank": 9,
+      "title": "Dynamite",
+      "artist": "Taio Cruz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a9006ae892a2255a865c0f7a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1DqdF42leyFIzqNDv9CjId",
+      "spotifyUrl": "https://open.spotify.com/track/1DqdF42leyFIzqNDv9CjId"
+    },
+    {
+      "rank": 10,
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz feat. Ludacris",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a9006ae892a2255a865c0f7a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1CdqVF1ywD0ZO1zXtB9yWa",
+      "spotifyUrl": "https://open.spotify.com/track/1CdqVF1ywD0ZO1zXtB9yWa"
+    }
   ]
 }

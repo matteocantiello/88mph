@@ -8,6 +8,10 @@ interface Track {
   rank: number;
   title: string;
   artist: string;
+  albumArt?: string;
+  previewUrl?: string | null;
+  spotifyUri?: string;
+  spotifyUrl?: string;
 }
 
 interface ChartData {
@@ -84,6 +88,26 @@ describe("Chart data integrity", () => {
     const ranks = data.tracks.map((t) => t.rank).sort((a, b) => a - b);
     for (let i = 0; i < ranks.length; i++) {
       expect(ranks[i]).toBe(i + 1);
+    }
+  });
+
+  it.each(chartFiles)("$country/$year.json Spotify fields are valid when present", ({ filePath }) => {
+    const data: ChartData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+    const urlPattern = /^https?:\/\/.+/;
+
+    for (const track of data.tracks) {
+      if (track.albumArt !== undefined && track.albumArt !== null) {
+        expect(track.albumArt).toMatch(urlPattern);
+      }
+      if (track.previewUrl !== undefined && track.previewUrl !== null) {
+        expect(track.previewUrl).toMatch(urlPattern);
+      }
+      if (track.spotifyUri !== undefined) {
+        expect(track.spotifyUri).toMatch(/^spotify:track:.+/);
+      }
+      if (track.spotifyUrl !== undefined && track.spotifyUrl !== null) {
+        expect(track.spotifyUrl).toMatch(urlPattern);
+      }
     }
   });
 });

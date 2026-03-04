@@ -3,15 +3,95 @@
   "year": 2010,
   "context": "The French market was fully digital. Belgian-born Stromae's 'Alors on danse' became a European anthem. The FIFA World Cup made Shakira's 'Waka Waka' inescapable. David Guetta was at the height of his global crossover from French house to pop.",
   "tracks": [
-    { "rank": 1, "title": "Baby", "artist": "Justin Bieber feat. Ludacris" },
-    { "rank": 2, "title": "Alors on danse", "artist": "Stromae" },
-    { "rank": 3, "title": "Dingue, Dingue, Dingue", "artist": "Christophe Mae" },
-    { "rank": 4, "title": "Allez Ola Ole", "artist": "Jessy Matador" },
-    { "rank": 5, "title": "Hot", "artist": "Inna" },
-    { "rank": 6, "title": "Wavin' Flag", "artist": "K'Naan" },
-    { "rank": 7, "title": "Rock That Body", "artist": "The Black Eyed Peas" },
-    { "rank": 8, "title": "This Is My Life", "artist": "Edward Maya" },
-    { "rank": 9, "title": "Memories", "artist": "David Guetta feat. Kid Cudi" },
-    { "rank": 10, "title": "Gettin' Over You", "artist": "David Guetta feat. Chris Willis, Fergie & LMFAO" }
+    {
+      "rank": 1,
+      "title": "Baby",
+      "artist": "Justin Bieber feat. Ludacris",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025286d68006830fa33624f398",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2qaz5PjOGBPJP4iwD1ijNp",
+      "spotifyUrl": "https://open.spotify.com/track/2qaz5PjOGBPJP4iwD1ijNp"
+    },
+    {
+      "rank": 2,
+      "title": "Alors on danse",
+      "artist": "Stromae",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae373174b14e3eac81554402",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2GYHyAoLWpkxLVa4oYTVko",
+      "spotifyUrl": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "rank": 3,
+      "title": "Dingue, Dingue, Dingue",
+      "artist": "Christophe Mae",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e7c749aa13fa49db9226521f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0mR80lwmVmIxl4safmmQsk",
+      "spotifyUrl": "https://open.spotify.com/track/0mR80lwmVmIxl4safmmQsk"
+    },
+    {
+      "rank": 4,
+      "title": "Allez Ola Ole",
+      "artist": "Jessy Matador",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029fe87f06a7100f7461ff49d9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1xSl7uE9De7aLDEGXahCJB",
+      "spotifyUrl": "https://open.spotify.com/track/1xSl7uE9De7aLDEGXahCJB"
+    },
+    {
+      "rank": 5,
+      "title": "Hot",
+      "artist": "Inna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023d6413c7dc24318bdbd5b366",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7F1lHcpnTycnimQrCxDFI5",
+      "spotifyUrl": "https://open.spotify.com/track/7F1lHcpnTycnimQrCxDFI5"
+    },
+    {
+      "rank": 6,
+      "title": "Wavin' Flag",
+      "artist": "K'Naan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bc777b7053754412f01d52d0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4nOygULhEuDO5ZBRNPFaso",
+      "spotifyUrl": "https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso"
+    },
+    {
+      "rank": 7,
+      "title": "Rock That Body",
+      "artist": "The Black Eyed Peas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02382514f0114ba8f4a16d5db4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7K8XoQXZBffc4xG2xIQHMO",
+      "spotifyUrl": "https://open.spotify.com/track/7K8XoQXZBffc4xG2xIQHMO"
+    },
+    {
+      "rank": 8,
+      "title": "This Is My Life",
+      "artist": "Edward Maya",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025dc208b0e81d0d594cc52e77",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4ox6EdBdbyui3rvl5K7zDs",
+      "spotifyUrl": "https://open.spotify.com/track/4ox6EdBdbyui3rvl5K7zDs"
+    },
+    {
+      "rank": 9,
+      "title": "Memories",
+      "artist": "David Guetta feat. Kid Cudi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028049549d4bc25e366788a6b3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5p3SJ3CYqrmFbboAtfNo5n",
+      "spotifyUrl": "https://open.spotify.com/track/5p3SJ3CYqrmFbboAtfNo5n"
+    },
+    {
+      "rank": 10,
+      "title": "Gettin' Over You",
+      "artist": "David Guetta feat. Chris Willis, Fergie & LMFAO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b2e43ed3850e072831f7b2c6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6FbGlkHKGkYqpSCuBgurn3",
+      "spotifyUrl": "https://open.spotify.com/track/6FbGlkHKGkYqpSCuBgurn3"
+    }
   ]
 }

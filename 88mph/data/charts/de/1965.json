@@ -3,15 +3,95 @@
   "year": 1965,
   "context": "The mid-1960s saw the British Invasion crack the German charts alongside traditional Schlager. Instrumental hits, British pop (Petula Clark, Rolling Stones), and American novelty rock competed with rising German stars like Roy Black. France Gall's Eurovision winner 'Poupée de cire, Poupée de son' became a major German hit, reflecting pan-European pop culture exchange.",
   "tracks": [
-    { "rank": 1, "title": "Il Silenzio", "artist": "Nini Rosso" },
-    { "rank": 2, "title": "Downtown", "artist": "Petula Clark" },
-    { "rank": 3, "title": "Kleine Annabell", "artist": "Ronny" },
-    { "rank": 4, "title": "Wooly Bully", "artist": "Sam the Sham & The Pharaohs" },
-    { "rank": 5, "title": "Du bist nicht allein", "artist": "Roy Black" },
-    { "rank": 6, "title": "Don't Ha Ha", "artist": "Casey Jones & The Governors" },
-    { "rank": 7, "title": "Das war mein schönster Tanz", "artist": "Bernd Spier" },
-    { "rank": 8, "title": "Rag Doll", "artist": "The Four Tops" },
-    { "rank": 9, "title": "The Last Time", "artist": "The Rolling Stones" },
-    { "rank": 10, "title": "Poupée de cire, Poupée de son", "artist": "France Gall" }
+    {
+      "rank": 1,
+      "title": "Il Silenzio",
+      "artist": "Nini Rosso",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240d46584b438ea834d30e9f5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4wlSpF2uWIShMAmSVDgeZ7",
+      "spotifyUrl": "https://open.spotify.com/track/4wlSpF2uWIShMAmSVDgeZ7"
+    },
+    {
+      "rank": 2,
+      "title": "Downtown",
+      "artist": "Petula Clark",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0251c5bc666e98ec2ec7dd303c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6S55C80YzjhSrCRRd1p80b",
+      "spotifyUrl": "https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b"
+    },
+    {
+      "rank": 3,
+      "title": "Kleine Annabell",
+      "artist": "Ronny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0226984194d209446baad65bee",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:55rYhUqW04sNFMZbHy2Bwr",
+      "spotifyUrl": "https://open.spotify.com/track/55rYhUqW04sNFMZbHy2Bwr"
+    },
+    {
+      "rank": 4,
+      "title": "Wooly Bully",
+      "artist": "Sam the Sham & The Pharaohs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02009bb3b8a5b27dd004eb9031",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4GNmvOYZW11lGzcZm0FKGY",
+      "spotifyUrl": "https://open.spotify.com/track/4GNmvOYZW11lGzcZm0FKGY"
+    },
+    {
+      "rank": 5,
+      "title": "Du bist nicht allein",
+      "artist": "Roy Black",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ace015e0236283b11dc325b1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2ukIzpSbG2dZorsz9rOu5p",
+      "spotifyUrl": "https://open.spotify.com/track/2ukIzpSbG2dZorsz9rOu5p"
+    },
+    {
+      "rank": 6,
+      "title": "Don't Ha Ha",
+      "artist": "Casey Jones & The Governors",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e5b0ddb2db724ad8a7df345c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:50SOU5qaxilS7iPBsIf6hi",
+      "spotifyUrl": "https://open.spotify.com/track/50SOU5qaxilS7iPBsIf6hi"
+    },
+    {
+      "rank": 7,
+      "title": "Das war mein schönster Tanz",
+      "artist": "Bernd Spier",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0221ef909413f193b5f08f7cff",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2BHfvwa7gxhN7h0rxQMubR",
+      "spotifyUrl": "https://open.spotify.com/track/2BHfvwa7gxhN7h0rxQMubR"
+    },
+    {
+      "rank": 8,
+      "title": "Rag Doll",
+      "artist": "The Four Tops",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b817f4f0b09667c97c5d2401",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4phFmbNGw4nrxhhIy6KWd1",
+      "spotifyUrl": "https://open.spotify.com/track/4phFmbNGw4nrxhhIy6KWd1"
+    },
+    {
+      "rank": 9,
+      "title": "The Last Time",
+      "artist": "The Rolling Stones",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0205c5be85b64eaff732f7cb0b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7foiOmd1Je7Z0D3TaZCDro",
+      "spotifyUrl": "https://open.spotify.com/track/7foiOmd1Je7Z0D3TaZCDro"
+    },
+    {
+      "rank": 10,
+      "title": "Poupée de cire, Poupée de son",
+      "artist": "France Gall",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027fe0b9c3098a70df0b8fc5a5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:26tXIAnv90FCv1eJiCUusH",
+      "spotifyUrl": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
+    }
   ]
 }

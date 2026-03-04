@@ -3,15 +3,95 @@
   "year": 2020,
   "context": "Germany's 2020 chart was shaped by the COVID-19 pandemic, with The Weeknd's 'Blinding Lights' achieving historic dominance at 10 weeks at #1. German-language rap had become a chart force, with Apache 207 placing two songs in the top 10. The chart reflected viral remix culture (SAINt JHN's 'Roses') and the global dance-pop wave.",
   "tracks": [
-    { "rank": 1, "title": "Blinding Lights", "artist": "The Weeknd" },
-    { "rank": 2, "title": "Dance Monkey", "artist": "Tones and I" },
-    { "rank": 3, "title": "Roller", "artist": "Apache 207" },
-    { "rank": 4, "title": "Roses (Imanbek Remix)", "artist": "SAINt JHN" },
-    { "rank": 5, "title": "Breaking Me", "artist": "Topic ft. A7S" },
-    { "rank": 6, "title": "Emotions", "artist": "UFO361" },
-    { "rank": 7, "title": "Savage Love (Laxed - Siren Beat)", "artist": "Jawsh 685 & Jason Derulo" },
-    { "rank": 8, "title": "Rockstar", "artist": "Loredana" },
-    { "rank": 9, "title": "Ride It", "artist": "Regard" },
-    { "rank": 10, "title": "Fame", "artist": "Apache 207" }
+    {
+      "rank": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "rank": 2,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02931a1c33d7850f20ee23a5e1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2N8m6CYs74qQO4mjVcXO30",
+      "spotifyUrl": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "rank": 3,
+      "title": "Roller",
+      "artist": "Apache 207",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025ad6a8a3acb89efcdc51bde8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6hw1Sy9wZ8UCxYGdpKrU6M",
+      "spotifyUrl": "https://open.spotify.com/track/6hw1Sy9wZ8UCxYGdpKrU6M"
+    },
+    {
+      "rank": 4,
+      "title": "Roses (Imanbek Remix)",
+      "artist": "SAINt JHN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028e51ad44471425be0ddcc6a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:72GVdRHK49beKrC1NqRCqj",
+      "spotifyUrl": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "rank": 5,
+      "title": "Breaking Me",
+      "artist": "Topic ft. A7S",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0277750198a4b9297befeca20d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2fD39z0fZCcPvaby4mjZdb",
+      "spotifyUrl": "https://open.spotify.com/track/2fD39z0fZCcPvaby4mjZdb"
+    },
+    {
+      "rank": 6,
+      "title": "Emotions",
+      "artist": "UFO361",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02efe0774ce6fef88c8ffde224",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4O4YjcteBewBS603SK1enn",
+      "spotifyUrl": "https://open.spotify.com/track/4O4YjcteBewBS603SK1enn"
+    },
+    {
+      "rank": 7,
+      "title": "Savage Love (Laxed - Siren Beat)",
+      "artist": "Jawsh 685 & Jason Derulo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020f619e50cfa37c94e3f8300e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1xQ6trAsedVPCdbtDAmk0c",
+      "spotifyUrl": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
+    },
+    {
+      "rank": 8,
+      "title": "Rockstar",
+      "artist": "Loredana",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029df4afc234d25327c4fc4af7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3toZ6vbwTXTeg4PxAEkcLv",
+      "spotifyUrl": "https://open.spotify.com/track/3toZ6vbwTXTeg4PxAEkcLv"
+    },
+    {
+      "rank": 9,
+      "title": "Ride It",
+      "artist": "Regard",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c27813ae019011fcb370c78",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2tnVG71enUj33Ic2nFN6kZ",
+      "spotifyUrl": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ"
+    },
+    {
+      "rank": 10,
+      "title": "Fame",
+      "artist": "Apache 207",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026be811aa94c18a198e8bc705",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0QjjaCaXE45mvhCnV3C0TA",
+      "spotifyUrl": "https://open.spotify.com/track/0QjjaCaXE45mvhCnV3C0TA"
+    }
   ]
 }

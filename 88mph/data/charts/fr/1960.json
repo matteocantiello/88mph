@@ -3,15 +3,95 @@
   "year": 1960,
   "context": "1960 was pivotal as the yé-yé generation began to emerge. Johnny Hallyday's 'T'aimer follement' marked the 17-year-old's explosive arrival and the beginning of French rock and roll. Luis Mariano's 'Les enfants du Pirée' spent nearly five months at #1, and Dalida placed three songs in the top 10. Bob Azzam's 'Ya Mostafa' brought North African-influenced pop into the French mainstream.",
   "tracks": [
-    { "rank": 1, "title": "Les enfants du Pirée", "artist": "Luis Mariano" },
-    { "rank": 2, "title": "Ya Mostafa (Mustapha)", "artist": "Bob Azzam" },
-    { "rank": 3, "title": "Itsi bitsi petit bikini", "artist": "Dalida" },
-    { "rank": 4, "title": "T'aimer follement", "artist": "Johnny Hallyday" },
-    { "rank": 5, "title": "Le marchand de bonheur", "artist": "Les Compagnons de la Chanson" },
-    { "rank": 6, "title": "Romantica", "artist": "Dalida" },
-    { "rank": 7, "title": "Salade de fruits", "artist": "Bourvil" },
-    { "rank": 8, "title": "Bleu, blanc, blond", "artist": "Marcel Amont" },
-    { "rank": 9, "title": "C'est un jour à Naples", "artist": "Dalida" },
-    { "rank": 10, "title": "Tu t'laisses aller", "artist": "Charles Aznavour" }
+    {
+      "rank": 1,
+      "title": "Les enfants du Pirée",
+      "artist": "Luis Mariano",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263daef111db9d82d64bca5c9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7nkzqGWY2sI43Cwk6655k5",
+      "spotifyUrl": "https://open.spotify.com/track/7nkzqGWY2sI43Cwk6655k5"
+    },
+    {
+      "rank": 2,
+      "title": "Ya Mostafa (Mustapha)",
+      "artist": "Bob Azzam",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0223ca3e7e0df7c981093c1efa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2PgelsznMnyLbIQgeNqwoj",
+      "spotifyUrl": "https://open.spotify.com/track/2PgelsznMnyLbIQgeNqwoj"
+    },
+    {
+      "rank": 3,
+      "title": "Itsi bitsi petit bikini",
+      "artist": "Dalida",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023b7765b61e99af2ae360e759",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:58d1Duljvjx8bwG4nlLgK6",
+      "spotifyUrl": "https://open.spotify.com/track/58d1Duljvjx8bwG4nlLgK6"
+    },
+    {
+      "rank": 4,
+      "title": "T'aimer follement",
+      "artist": "Johnny Hallyday",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a26eefd7653e34999476ec26",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:24wMmhPYXzLkaB2JvoXz3m",
+      "spotifyUrl": "https://open.spotify.com/track/24wMmhPYXzLkaB2JvoXz3m"
+    },
+    {
+      "rank": 5,
+      "title": "Le marchand de bonheur",
+      "artist": "Les Compagnons de la Chanson",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024ae6f47bdc484e68859261dd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4C9AWdU94FC3Ho14Amxg5P",
+      "spotifyUrl": "https://open.spotify.com/track/4C9AWdU94FC3Ho14Amxg5P"
+    },
+    {
+      "rank": 6,
+      "title": "Romantica",
+      "artist": "Dalida",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02efff79766b1d15323d6b3512",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:72s9wbnn0NAu6nrgpGu6Hs",
+      "spotifyUrl": "https://open.spotify.com/track/72s9wbnn0NAu6nrgpGu6Hs"
+    },
+    {
+      "rank": 7,
+      "title": "Salade de fruits",
+      "artist": "Bourvil",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025e25da1eadd26bb14f5312ee",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4yvuxFp9SAPviEb7J9dtAc",
+      "spotifyUrl": "https://open.spotify.com/track/4yvuxFp9SAPviEb7J9dtAc"
+    },
+    {
+      "rank": 8,
+      "title": "Bleu, blanc, blond",
+      "artist": "Marcel Amont",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02308b00d315ae39f7be8dda35",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2jstbdAPs6o4uWxOpayHfG",
+      "spotifyUrl": "https://open.spotify.com/track/2jstbdAPs6o4uWxOpayHfG"
+    },
+    {
+      "rank": 9,
+      "title": "C'est un jour à Naples",
+      "artist": "Dalida",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02efff79766b1d15323d6b3512",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:03D5oxvcJD7IrJAUGncaCb",
+      "spotifyUrl": "https://open.spotify.com/track/03D5oxvcJD7IrJAUGncaCb"
+    },
+    {
+      "rank": 10,
+      "title": "Tu t'laisses aller",
+      "artist": "Charles Aznavour",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0271fbabeaed3a846de508df17",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6lXD8uCd15z3wg1BVjYVKS",
+      "spotifyUrl": "https://open.spotify.com/track/6lXD8uCd15z3wg1BVjYVKS"
+    }
   ]
 }

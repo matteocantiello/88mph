@@ -3,15 +3,95 @@
   "year": 2005,
   "context": "Firmly the 'Jay Chou era' in Mandopop. Jay Chou's 'November's Chopin' cemented his status as the undisputed King of Mandopop with R&B, rap, and Chinese traditional fusion. Guang Liang's 'Tonghua' became a pan-Asian hit. Mainland China declared 2005 'The First Year of Digital Music' as the internet began reshaping consumption, and the Super Girl talent show became a cultural sensation.",
   "tracks": [
-    { "rank": 1, "title": "Ye Qu (Nocturne)", "artist": "Jay Chou" },
-    { "rank": 2, "title": "Tian Kong (Sky)", "artist": "Jolin Tsai" },
-    { "rank": 3, "title": "Tonghua (Fairy Tale)", "artist": "Guang Liang" },
-    { "rank": 4, "title": "Xin Zhong De Ri Yue (Sun and Moon in My Heart)", "artist": "Wang Leehom" },
-    { "rank": 5, "title": "Shanhu Hai (Coral Sea)", "artist": "Jay Chou ft. Lara" },
-    { "rank": 6, "title": "Lian Ai ING (Love-ING)", "artist": "Mayday" },
-    { "rank": 7, "title": "Di Yi Tian (The First Day)", "artist": "Stefanie Sun" },
-    { "rank": 8, "title": "Ai Mei (Ambiguous)", "artist": "Rainie Yang" },
-    { "rank": 9, "title": "Honey", "artist": "Cyndi Wang" },
-    { "rank": 10, "title": "Ke Xi Bu Shi Ni (Too Bad It's Not You)", "artist": "Fish Leong" }
+    {
+      "rank": 1,
+      "title": "Ye Qu (Nocturne)",
+      "artist": "Jay Chou",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022642de36b3fed494f653b015",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1oLmDOpJtIMFdRFBXdnOvj",
+      "spotifyUrl": "https://open.spotify.com/track/1oLmDOpJtIMFdRFBXdnOvj"
+    },
+    {
+      "rank": 2,
+      "title": "Tian Kong (Sky)",
+      "artist": "Jolin Tsai",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027d694c066491ced8ed257524",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5A9lN6V16umzZIAOUtq6SJ",
+      "spotifyUrl": "https://open.spotify.com/track/5A9lN6V16umzZIAOUtq6SJ"
+    },
+    {
+      "rank": 3,
+      "title": "Tonghua (Fairy Tale)",
+      "artist": "Guang Liang",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f73e82f8d25943149091fea",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5P7iSIghgpH7mUiZrywbOq",
+      "spotifyUrl": "https://open.spotify.com/track/5P7iSIghgpH7mUiZrywbOq"
+    },
+    {
+      "rank": 4,
+      "title": "Xin Zhong De Ri Yue (Sun and Moon in My Heart)",
+      "artist": "Wang Leehom",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0204a297ff388c2048cf404788",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:740KtWw1r4f5Gd6UXzhYNp",
+      "spotifyUrl": "https://open.spotify.com/track/740KtWw1r4f5Gd6UXzhYNp"
+    },
+    {
+      "rank": 5,
+      "title": "Shanhu Hai (Coral Sea)",
+      "artist": "Jay Chou ft. Lara",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022642de36b3fed494f653b015",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Qj9Fy8BPbWmICTiNkuqB7",
+      "spotifyUrl": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"
+    },
+    {
+      "rank": 6,
+      "title": "Lian Ai ING (Love-ING)",
+      "artist": "Mayday",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02967d61995a2fca07c3d21f39",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7JPuQB1mBiZhKtOKIpDDlw",
+      "spotifyUrl": "https://open.spotify.com/track/7JPuQB1mBiZhKtOKIpDDlw"
+    },
+    {
+      "rank": 7,
+      "title": "Di Yi Tian (The First Day)",
+      "artist": "Stefanie Sun",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02922f416ac7354ef37a70ec29",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2rZ2o4dlEbzvFQFVbcyhoh",
+      "spotifyUrl": "https://open.spotify.com/track/2rZ2o4dlEbzvFQFVbcyhoh"
+    },
+    {
+      "rank": 8,
+      "title": "Ai Mei (Ambiguous)",
+      "artist": "Rainie Yang",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029ff3fbd7ba89d30b3242b1cf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4loHxMUzS2Xw9negcxEclY",
+      "spotifyUrl": "https://open.spotify.com/track/4loHxMUzS2Xw9negcxEclY"
+    },
+    {
+      "rank": 9,
+      "title": "Honey",
+      "artist": "Cyndi Wang",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0273052d75cbbdb24753e1625f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1TcBf44nIa6pkculvBjxtU",
+      "spotifyUrl": "https://open.spotify.com/track/1TcBf44nIa6pkculvBjxtU"
+    },
+    {
+      "rank": 10,
+      "title": "Ke Xi Bu Shi Ni (Too Bad It's Not You)",
+      "artist": "Fish Leong",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02736efd28176769a88b7bf474",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4m4e3vIghV2QkHuOf83M7N",
+      "spotifyUrl": "https://open.spotify.com/track/4m4e3vIghV2QkHuOf83M7N"
+    }
   ]
 }

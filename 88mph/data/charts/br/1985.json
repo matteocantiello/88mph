@@ -3,15 +3,95 @@
   "year": 1985,
   "context": "Brazil's return to democracy after two decades of military rule, and the first Rock in Rio drew nearly 1.5 million attendees. Brazilian rock exploded with bands like RPM and artists like Cazuza challenging social norms. A country in cultural renaissance.",
   "tracks": [
-    { "rank": 1, "title": "We Are the World", "artist": "USA for Africa" },
-    { "rank": 2, "title": "Dona", "artist": "Roupa Nova" },
-    { "rank": 3, "title": "Um dia de domingo", "artist": "Gal Costa & Tim Maia" },
-    { "rank": 4, "title": "Careless Whisper", "artist": "Wham! feat. George Michael" },
-    { "rank": 5, "title": "Louras Geladas", "artist": "RPM" },
-    { "rank": 6, "title": "Vitoriosa", "artist": "Ivan Lins" },
-    { "rank": 7, "title": "Like a Virgin", "artist": "Madonna" },
-    { "rank": 8, "title": "Exagerado", "artist": "Cazuza" },
-    { "rank": 9, "title": "Leva", "artist": "Tim Maia" },
-    { "rank": 10, "title": "Sintonia", "artist": "Tunai" }
+    {
+      "rank": 1,
+      "title": "We Are the World",
+      "artist": "USA for Africa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02920f421260033ee54865d673",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Z2tPWiNiIpg8UMMoowHIk",
+      "spotifyUrl": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    },
+    {
+      "rank": 2,
+      "title": "Dona",
+      "artist": "Roupa Nova",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0252f64465cdb6b0f4f469ec8b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4Bd8jSFBXHC1K7JAKW9Ojm",
+      "spotifyUrl": "https://open.spotify.com/track/4Bd8jSFBXHC1K7JAKW9Ojm"
+    },
+    {
+      "rank": 3,
+      "title": "Um dia de domingo",
+      "artist": "Gal Costa & Tim Maia",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02512fc3181183cb3e0a429419",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7Ig5s4DAS2dOWL1AeDo5cm",
+      "spotifyUrl": "https://open.spotify.com/track/7Ig5s4DAS2dOWL1AeDo5cm"
+    },
+    {
+      "rank": 4,
+      "title": "Careless Whisper",
+      "artist": "Wham! feat. George Michael",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c4b3c23c4588631a04f8c6a1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3znmKJPs3Nmokl598rl8Lz",
+      "spotifyUrl": "https://open.spotify.com/track/3znmKJPs3Nmokl598rl8Lz"
+    },
+    {
+      "rank": 5,
+      "title": "Louras Geladas",
+      "artist": "RPM",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02589037de723d1763f13c7396",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2zfkReKDo2ubvp49fIbkiJ",
+      "spotifyUrl": "https://open.spotify.com/track/2zfkReKDo2ubvp49fIbkiJ"
+    },
+    {
+      "rank": 6,
+      "title": "Vitoriosa",
+      "artist": "Ivan Lins",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02485cb6d9c1560fa1ceb81eb8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3vJJqxkNLVHibD3gRttOHP",
+      "spotifyUrl": "https://open.spotify.com/track/3vJJqxkNLVHibD3gRttOHP"
+    },
+    {
+      "rank": 7,
+      "title": "Like a Virgin",
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0299d424b0873a9a714279a9f3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1ZPlNanZsJSPK5h9YZZFbZ",
+      "spotifyUrl": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
+    },
+    {
+      "rank": 8,
+      "title": "Exagerado",
+      "artist": "Cazuza",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e662ee7aaed07bedec85e564",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4d0DpU7Odiv0ztvX2GxJlk",
+      "spotifyUrl": "https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk"
+    },
+    {
+      "rank": 9,
+      "title": "Leva",
+      "artist": "Tim Maia",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02455714f8055a474928a7f214",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3fak0qjHByUubKQY2JM3ux",
+      "spotifyUrl": "https://open.spotify.com/track/3fak0qjHByUubKQY2JM3ux"
+    },
+    {
+      "rank": 10,
+      "title": "Sintonia",
+      "artist": "Tunai",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0259a0942f4a4c589063b8661f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0uGzkO0OJdSFrK0RcwOxDU",
+      "spotifyUrl": "https://open.spotify.com/track/0uGzkO0OJdSFrK0RcwOxDU"
+    }
   ]
 }

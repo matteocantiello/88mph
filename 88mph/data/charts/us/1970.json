@@ -3,15 +3,95 @@
   "year": 1970,
   "context": "A transitional year reflecting Vietnam-era upheaval. Simon & Garfunkel's 'Bridge Over Troubled Water' offered comfort, Edwin Starr's 'War' became an anti-war anthem, and The Beatles released their final single. Motown soul remained a powerful cultural force.",
   "tracks": [
-    { "rank": 1, "title": "Bridge Over Troubled Water", "artist": "Simon & Garfunkel" },
-    { "rank": 2, "title": "(They Long to Be) Close to You", "artist": "The Carpenters" },
-    { "rank": 3, "title": "American Woman", "artist": "The Guess Who" },
-    { "rank": 4, "title": "Raindrops Keep Fallin' on My Head", "artist": "B.J. Thomas" },
-    { "rank": 5, "title": "War", "artist": "Edwin Starr" },
-    { "rank": 6, "title": "Let It Be", "artist": "The Beatles" },
-    { "rank": 7, "title": "The Tears of a Clown", "artist": "Smokey Robinson & The Miracles" },
-    { "rank": 8, "title": "Ain't No Mountain High Enough", "artist": "Diana Ross" },
-    { "rank": 9, "title": "I'll Be There", "artist": "Jackson 5" },
-    { "rank": 10, "title": "Ball of Confusion (That's What the World Is Today)", "artist": "The Temptations" }
+    {
+      "rank": 1,
+      "title": "Bridge Over Troubled Water",
+      "artist": "Simon & Garfunkel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028453b853c2cc9c077828eefb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6l8EbYRtQMgKOyc1gcDHF9",
+      "spotifyUrl": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "rank": 2,
+      "title": "(They Long to Be) Close to You",
+      "artist": "The Carpenters",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02242cec3f8fc8c7fee302aac2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:50q2aUjWoTn6CJIfSPRJQA",
+      "spotifyUrl": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "rank": 3,
+      "title": "American Woman",
+      "artist": "The Guess Who",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d75b73c14d050fbce3d85790",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2FT4gakd3matx4vI6YCTD8",
+      "spotifyUrl": "https://open.spotify.com/track/2FT4gakd3matx4vI6YCTD8"
+    },
+    {
+      "rank": 4,
+      "title": "Raindrops Keep Fallin' on My Head",
+      "artist": "B.J. Thomas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0206ca44cb5a5cc81212b56051",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2s1Yh0AywJhLsKKZ9vM0tm",
+      "spotifyUrl": "https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm"
+    },
+    {
+      "rank": 5,
+      "title": "War",
+      "artist": "Edwin Starr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a58f13adfca5813264bf1149",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4ZEEcEMGjkWOfZNBcIB9yE",
+      "spotifyUrl": "https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE"
+    },
+    {
+      "rank": 6,
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7iN1s7xHE4ifF5povM6A48",
+      "spotifyUrl": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "rank": 7,
+      "title": "The Tears of a Clown",
+      "artist": "Smokey Robinson & The Miracles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02855c2e10b46e09da14e8b3c8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4Dq749x2QP6OXTURJ9GGY8",
+      "spotifyUrl": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "rank": 8,
+      "title": "Ain't No Mountain High Enough",
+      "artist": "Diana Ross",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025efb83257d6be956a8cad4fb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5PIgwTDsrWXvW7VU6QCEOf",
+      "spotifyUrl": "https://open.spotify.com/track/5PIgwTDsrWXvW7VU6QCEOf"
+    },
+    {
+      "rank": 9,
+      "title": "I'll Be There",
+      "artist": "Jackson 5",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0220112a0321d2efc7384db456",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5RdhBLmB4DyFHLglRrfx63",
+      "spotifyUrl": "https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63"
+    },
+    {
+      "rank": 10,
+      "title": "Ball of Confusion (That's What the World Is Today)",
+      "artist": "The Temptations",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dabb260cf41a2fbb2c842787",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6SN51pk4UOfKa9Q9DoXEtF",
+      "spotifyUrl": "https://open.spotify.com/track/6SN51pk4UOfKa9Q9DoXEtF"
+    }
   ]
 }

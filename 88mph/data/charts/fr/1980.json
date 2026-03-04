@@ -3,15 +3,95 @@
   "year": 1980,
   "context": "A transitional year bridging chanson tradition with new wave and disco influences. Pink Floyd and The Buggles topped the French charts alongside domestic artists. Beloved singer Joe Dassin passed away. Artists like Lio introduced a more irreverent sensibility.",
   "tracks": [
-    { "rank": 1, "title": "Another Brick in the Wall (Part II)", "artist": "Pink Floyd" },
-    { "rank": 2, "title": "Banana Split", "artist": "Lio" },
-    { "rank": 3, "title": "T'es O.K., t'es bath, t'es in", "artist": "Ottawan" },
-    { "rank": 4, "title": "Gaby oh Gaby", "artist": "Alain Bashung" },
-    { "rank": 5, "title": "Amoureux solitaires", "artist": "Lio" },
-    { "rank": 6, "title": "Video Killed the Radio Star", "artist": "The Buggles" },
-    { "rank": 7, "title": "One Step Beyond", "artist": "Madness" },
-    { "rank": 8, "title": "Vis ta vie", "artist": "Jeane Manson" },
-    { "rank": 9, "title": "Les jardins du ciel", "artist": "Jairo" },
-    { "rank": 10, "title": "Woman in Love", "artist": "Barbra Streisand" }
+    {
+      "rank": 1,
+      "title": "Another Brick in the Wall (Part II)",
+      "artist": "Pink Floyd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b694e89ba937dd2631ff584c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4gMgiXfqyzZLMhsksGmbQV",
+      "spotifyUrl": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
+    },
+    {
+      "rank": 2,
+      "title": "Banana Split",
+      "artist": "Lio",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029189e8089146a75efcd4c516",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2cxYHwnueAkc9G6K8Ve0Wn",
+      "spotifyUrl": "https://open.spotify.com/track/2cxYHwnueAkc9G6K8Ve0Wn"
+    },
+    {
+      "rank": 3,
+      "title": "T'es O.K., t'es bath, t'es in",
+      "artist": "Ottawan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0281d0cb3fee06e1d15de6add7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7wJp2M6vsnGIhirviHwQp3",
+      "spotifyUrl": "https://open.spotify.com/track/7wJp2M6vsnGIhirviHwQp3"
+    },
+    {
+      "rank": 4,
+      "title": "Gaby oh Gaby",
+      "artist": "Alain Bashung",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022014f410989ddbf6b700dedf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:505XP0vyEM7oUz5JdcPpT1",
+      "spotifyUrl": "https://open.spotify.com/track/505XP0vyEM7oUz5JdcPpT1"
+    },
+    {
+      "rank": 5,
+      "title": "Amoureux solitaires",
+      "artist": "Lio",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0293c63d043f1b84a5207a00c6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0ZJgIjGJdYzgb03LSH09Gx",
+      "spotifyUrl": "https://open.spotify.com/track/0ZJgIjGJdYzgb03LSH09Gx"
+    },
+    {
+      "rank": 6,
+      "title": "Video Killed the Radio Star",
+      "artist": "The Buggles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0270b6cfff0487d653a8c7ce01",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6t1FIJlZWTQfIZhsGjaulM",
+      "spotifyUrl": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
+    },
+    {
+      "rank": 7,
+      "title": "One Step Beyond",
+      "artist": "Madness",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02639f8237894a40c6690392e6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1G6eFFDRaLr9EbThnhzMBD",
+      "spotifyUrl": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+    },
+    {
+      "rank": 8,
+      "title": "Vis ta vie",
+      "artist": "Jeane Manson",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0200b58f309b8a5ab307cac15f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2TBjK0QfslDNtrKQMzbI0o",
+      "spotifyUrl": "https://open.spotify.com/track/2TBjK0QfslDNtrKQMzbI0o"
+    },
+    {
+      "rank": 9,
+      "title": "Les jardins du ciel",
+      "artist": "Jairo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02893517a5fb2f8a1767ef0020",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1aP634bwbFpQsHuVGEvOQR",
+      "spotifyUrl": "https://open.spotify.com/track/1aP634bwbFpQsHuVGEvOQR"
+    },
+    {
+      "rank": 10,
+      "title": "Woman in Love",
+      "artist": "Barbra Streisand",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02af1bb86907b4457c4e83390f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1pTGc8pwyo6xtgXBKCBcFn",
+      "spotifyUrl": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
+    }
   ]
 }

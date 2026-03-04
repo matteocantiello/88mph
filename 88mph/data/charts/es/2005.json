@@ -3,15 +3,95 @@
   "year": 2005,
   "context": "Spain's 2005 music scene blended homegrown indie-pop (Amaral, El Canto del Loco, Pereza), Latin crossover superstars (Shakira, Juanes), and the earliest wave of reggaeton. Shakira's 'La Tortura' featuring Alejandro Sanz topped the PROMUSICAE chart and became one of the year's defining global Latin hits. Chambao brought flamenco-chill fusion to mainstream audiences via Los 40 Principales.",
   "tracks": [
-    { "rank": 1, "title": "La Tortura", "artist": "Shakira feat. Alejandro Sanz" },
-    { "rank": 2, "title": "Princesas", "artist": "Pereza" },
-    { "rank": 3, "title": "El Universo Sobre Mí", "artist": "Amaral" },
-    { "rank": 4, "title": "Besos", "artist": "El Canto del Loco" },
-    { "rank": 5, "title": "Nunca Volverá", "artist": "El Sueño de Morfeo" },
-    { "rank": 6, "title": "Caminando por la Vida", "artist": "Melendi" },
-    { "rank": 7, "title": "Pokito a Poko", "artist": "Chambao" },
-    { "rank": 8, "title": "Vacaciones", "artist": "Estopa" },
-    { "rank": 9, "title": "Marta, Sebas, Guille y los Demás", "artist": "Amaral" },
-    { "rank": 10, "title": "Diles", "artist": "Malú" }
+    {
+      "rank": 1,
+      "title": "La Tortura",
+      "artist": "Shakira feat. Alejandro Sanz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02afccde0243b5c750c07f6825",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:53AafWSzYsiJKnAtJTUB5f",
+      "spotifyUrl": "https://open.spotify.com/track/53AafWSzYsiJKnAtJTUB5f"
+    },
+    {
+      "rank": 2,
+      "title": "Princesas",
+      "artist": "Pereza",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020bf6f5fb8b6b5017823d76b4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3hlWUNjAlbZ6nOjAbrivBv",
+      "spotifyUrl": "https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv"
+    },
+    {
+      "rank": 3,
+      "title": "El Universo Sobre Mí",
+      "artist": "Amaral",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b8c251debe14b27b4f118b66",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1jJn6iK6o2Vg7iUKHztRTk",
+      "spotifyUrl": "https://open.spotify.com/track/1jJn6iK6o2Vg7iUKHztRTk"
+    },
+    {
+      "rank": 4,
+      "title": "Besos",
+      "artist": "El Canto del Loco",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02732969a215824cccc2febc7a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7MKO7rUZzjw8p87zdZDgqa",
+      "spotifyUrl": "https://open.spotify.com/track/7MKO7rUZzjw8p87zdZDgqa"
+    },
+    {
+      "rank": 5,
+      "title": "Nunca Volverá",
+      "artist": "El Sueño de Morfeo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0280ac40d870864997ed8770c6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3TZiiTNmVhLRMhPksHqk8M",
+      "spotifyUrl": "https://open.spotify.com/track/3TZiiTNmVhLRMhPksHqk8M"
+    },
+    {
+      "rank": 6,
+      "title": "Caminando por la Vida",
+      "artist": "Melendi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fdf0ca257453adac7d1167b2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3v1dCP3hk2djfWryqfp7sx",
+      "spotifyUrl": "https://open.spotify.com/track/3v1dCP3hk2djfWryqfp7sx"
+    },
+    {
+      "rank": 7,
+      "title": "Pokito a Poko",
+      "artist": "Chambao",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e75a4a564c5b4ae3e85e4f5f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7LrM28pPWCpJYmbnaxHBmu",
+      "spotifyUrl": "https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu"
+    },
+    {
+      "rank": 8,
+      "title": "Vacaciones",
+      "artist": "Estopa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020082a6dd678d2d201fdae8b2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Aj18tBmQKLTGU3KEpbZ40",
+      "spotifyUrl": "https://open.spotify.com/track/3Aj18tBmQKLTGU3KEpbZ40"
+    },
+    {
+      "rank": 9,
+      "title": "Marta, Sebas, Guille y los Demás",
+      "artist": "Amaral",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b8c251debe14b27b4f118b66",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:30ddpolNHwXlrS5XO8MiiO",
+      "spotifyUrl": "https://open.spotify.com/track/30ddpolNHwXlrS5XO8MiiO"
+    },
+    {
+      "rank": 10,
+      "title": "Diles",
+      "artist": "Malú",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025ce15e87967339141a7c7078",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0wYIVpj2bARnfPMTLpJaGG",
+      "spotifyUrl": "https://open.spotify.com/track/0wYIVpj2bARnfPMTLpJaGG"
+    }
   ]
 }

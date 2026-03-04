@@ -3,15 +3,95 @@
   "year": 1970,
   "context": "West Germany's 1970 charts mixed international pop/rock hits with domestic Schlager. Simon & Garfunkel's folk-rock dominated, while Peter Maffay — who would become one of Germany's best-selling artists — had his breakthrough with 'Du.' The Krautrock movement (Kraftwerk, Can) was beginning underground but had not yet penetrated the charts.",
   "tracks": [
-    { "rank": 1, "title": "El Condor Pasa", "artist": "Simon & Garfunkel" },
-    { "rank": 2, "title": "Mademoiselle Ninette", "artist": "Soulful Dynamics" },
-    { "rank": 3, "title": "Du", "artist": "Peter Maffay" },
-    { "rank": 4, "title": "In the Summertime", "artist": "Mungo Jerry" },
-    { "rank": 5, "title": "A Song of Joy", "artist": "Miguel Ríos" },
-    { "rank": 6, "title": "Yellow River", "artist": "Christie" },
-    { "rank": 7, "title": "Ein Mädchen nach Maß", "artist": "Chris Roberts" },
-    { "rank": 8, "title": "Cecilia", "artist": "Simon & Garfunkel" },
-    { "rank": 9, "title": "Dein Schönstes Geschenk", "artist": "Roy Black" },
-    { "rank": 10, "title": "All Right Now", "artist": "Free" }
+    {
+      "rank": 1,
+      "title": "El Condor Pasa",
+      "artist": "Simon & Garfunkel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028453b853c2cc9c077828eefb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1eN42Q7IWRzRBq8eW2Y2TE",
+      "spotifyUrl": "https://open.spotify.com/track/1eN42Q7IWRzRBq8eW2Y2TE"
+    },
+    {
+      "rank": 2,
+      "title": "Mademoiselle Ninette",
+      "artist": "Soulful Dynamics",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a3edae5f11a187dd7a4fa5b5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4MgthJ8GuJcveKOZJ1qPPT",
+      "spotifyUrl": "https://open.spotify.com/track/4MgthJ8GuJcveKOZJ1qPPT"
+    },
+    {
+      "rank": 3,
+      "title": "Du",
+      "artist": "Peter Maffay",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028d61e6f36077fe877a723f02",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6fFshpRdAV1MHSpzXP3Yyk",
+      "spotifyUrl": "https://open.spotify.com/track/6fFshpRdAV1MHSpzXP3Yyk"
+    },
+    {
+      "rank": 4,
+      "title": "In the Summertime",
+      "artist": "Mungo Jerry",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022c32773808a599d9aa5f5a54",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:36xVTZU8HMpcgEdlJ4I3Kv",
+      "spotifyUrl": "https://open.spotify.com/track/36xVTZU8HMpcgEdlJ4I3Kv"
+    },
+    {
+      "rank": 5,
+      "title": "A Song of Joy",
+      "artist": "Miguel Ríos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026d3d938b0a1fb70cb891b716",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:35axcNSnlqi2Eh4S5fFYxi",
+      "spotifyUrl": "https://open.spotify.com/track/35axcNSnlqi2Eh4S5fFYxi"
+    },
+    {
+      "rank": 6,
+      "title": "Yellow River",
+      "artist": "Christie",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f8acc5384b30790e5254362f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4VnzKUBMB6cvog8Jvv1few",
+      "spotifyUrl": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
+    },
+    {
+      "rank": 7,
+      "title": "Ein Mädchen nach Maß",
+      "artist": "Chris Roberts",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0242aa9ba1388e58f075ac9ecf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4S5JzODqObmeZyJinBs3Mn",
+      "spotifyUrl": "https://open.spotify.com/track/4S5JzODqObmeZyJinBs3Mn"
+    },
+    {
+      "rank": 8,
+      "title": "Cecilia",
+      "artist": "Simon & Garfunkel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028453b853c2cc9c077828eefb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6QhXQOpyYvbpdbyjgAqKdY",
+      "spotifyUrl": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
+    },
+    {
+      "rank": 9,
+      "title": "Dein Schönstes Geschenk",
+      "artist": "Roy Black",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0294a7808c7d65447f919ed15f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1fx8Zs277kU1bxTUFlHBWi",
+      "spotifyUrl": "https://open.spotify.com/track/1fx8Zs277kU1bxTUFlHBWi"
+    },
+    {
+      "rank": 10,
+      "title": "All Right Now",
+      "artist": "Free",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02753c41c7fdc5e78ba017bbf5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1gcESexgftSuLuML57Y69q",
+      "spotifyUrl": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
+    }
   ]
 }

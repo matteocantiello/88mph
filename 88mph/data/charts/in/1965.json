@@ -3,15 +3,95 @@
   "year": 1965,
   "context": "The mid-1960s saw Hindi cinema embracing a wider range of styles, from the twist dance craze (Manna Dey's 'Aao Twist Kare') to devotional songs and romantic ballads. Shankar-Jaikishan and Kalyanji-Anandji dominated as music directors. The rare appearance of classical vocalist Kishori Amonkar at #10 showcased the blurring of boundaries between classical and film music.",
   "tracks": [
-    { "rank": 1, "title": "Jis Dil Me Basa Tha Pyar Tera", "artist": "Lata Mangeshkar" },
-    { "rank": 2, "title": "Jis Dil Me Basa Tha Pyar Tera", "artist": "Mukesh" },
-    { "rank": 3, "title": "Aao Twist Kare", "artist": "Manna Dey" },
-    { "rank": 4, "title": "Laal Chhadi Maidan Khadi", "artist": "Mohammed Rafi" },
-    { "rank": 5, "title": "Tumhi Mere Mandir, Tumhi Meri Pooja", "artist": "Lata Mangeshkar" },
-    { "rank": 6, "title": "Ek Tu Na Mila", "artist": "Lata Mangeshkar" },
-    { "rank": 7, "title": "Aaja Aai Bahar, Dil Hai Beqraar", "artist": "Lata Mangeshkar" },
-    { "rank": 8, "title": "Tumse Achchha Kaun Hai", "artist": "Mohammed Rafi" },
-    { "rank": 9, "title": "Vaqt Se Din Aur Raat", "artist": "Mohammed Rafi" },
-    { "rank": 10, "title": "Saanson Ke Taar Par", "artist": "Kishori Amonkar" }
+    {
+      "rank": 1,
+      "title": "Jis Dil Me Basa Tha Pyar Tera",
+      "artist": "Lata Mangeshkar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cbd8398addf094e099339e38",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4Nzt4CQV5O9iycaCDcAF6W",
+      "spotifyUrl": "https://open.spotify.com/track/4Nzt4CQV5O9iycaCDcAF6W"
+    },
+    {
+      "rank": 2,
+      "title": "Jis Dil Me Basa Tha Pyar Tera",
+      "artist": "Mukesh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cbd8398addf094e099339e38",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:55fHhcA5e0AawlGtjkun5u",
+      "spotifyUrl": "https://open.spotify.com/track/55fHhcA5e0AawlGtjkun5u"
+    },
+    {
+      "rank": 3,
+      "title": "Aao Twist Kare",
+      "artist": "Manna Dey",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aab14711cb2fe8f9e3b67ead",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3GgehofiOSBorNz6CT1bID",
+      "spotifyUrl": "https://open.spotify.com/track/3GgehofiOSBorNz6CT1bID"
+    },
+    {
+      "rank": 4,
+      "title": "Laal Chhadi Maidan Khadi",
+      "artist": "Mohammed Rafi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c649c44f73ba9679d0fd1674",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5tyfgN9FzDLu7DhV3Xmems",
+      "spotifyUrl": "https://open.spotify.com/track/5tyfgN9FzDLu7DhV3Xmems"
+    },
+    {
+      "rank": 5,
+      "title": "Tumhi Mere Mandir, Tumhi Meri Pooja",
+      "artist": "Lata Mangeshkar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029f9375fbc187e3381a1a235a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7GlIzjiqzwdzx6KNK2ZKR5",
+      "spotifyUrl": "https://open.spotify.com/track/7GlIzjiqzwdzx6KNK2ZKR5"
+    },
+    {
+      "rank": 6,
+      "title": "Ek Tu Na Mila",
+      "artist": "Lata Mangeshkar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e0e571a2479687842853c6e6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:03O9KGk9sL87OTISNZs3aE",
+      "spotifyUrl": "https://open.spotify.com/track/03O9KGk9sL87OTISNZs3aE"
+    },
+    {
+      "rank": 7,
+      "title": "Aaja Aai Bahar, Dil Hai Beqraar",
+      "artist": "Lata Mangeshkar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020add161ad1ac955ea702c804",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3PBNAFfTBkaQWevaO3OHYR",
+      "spotifyUrl": "https://open.spotify.com/track/3PBNAFfTBkaQWevaO3OHYR"
+    },
+    {
+      "rank": 8,
+      "title": "Tumse Achchha Kaun Hai",
+      "artist": "Mohammed Rafi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0255abf9a6253be9459f370a22",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7q3EiJJPMSkcFrOrUOf8jn",
+      "spotifyUrl": "https://open.spotify.com/track/7q3EiJJPMSkcFrOrUOf8jn"
+    },
+    {
+      "rank": 9,
+      "title": "Vaqt Se Din Aur Raat",
+      "artist": "Mohammed Rafi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022297d77fe723a5a3c8f41ed3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0C8SMUhJhFXzr4PICotjyB",
+      "spotifyUrl": "https://open.spotify.com/track/0C8SMUhJhFXzr4PICotjyB"
+    },
+    {
+      "rank": 10,
+      "title": "Saanson Ke Taar Par",
+      "artist": "Kishori Amonkar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021e848d77adc5389718b98ad5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1OCVThz6t2GwzG0NGrgLX7",
+      "spotifyUrl": "https://open.spotify.com/track/1OCVThz6t2GwzG0NGrgLX7"
+    }
   ]
 }

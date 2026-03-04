@@ -5,6 +5,7 @@ export interface Track {
   albumArt?: string;
   spotifyUri?: string;
   previewUrl?: string;
+  spotifyUrl?: string;
 }
 
 export interface ChartData {

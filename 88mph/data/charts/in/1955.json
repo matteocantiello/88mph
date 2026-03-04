@@ -3,15 +3,95 @@
   "year": 1955,
   "context": "The Binaca Geetmala countdown on Radio Ceylon was the definitive arbiter of Hindi film song popularity. 1955 was dominated by Raj Kapoor's landmark film Shree 420, whose 'Mera Joota Hai Japani' became an anthem of post-independence India. The snake-charmer film Nagin contributed two top-10 hits, while patriotic songs from Jagriti reflected the idealism of the Nehruvian era.",
   "tracks": [
-    { "rank": 1, "title": "Mera Joota Hai Japani", "artist": "Mukesh" },
-    { "rank": 2, "title": "Meraa Salaam Le Ja", "artist": "Lata Mangeshkar" },
-    { "rank": 3, "title": "Man Dole Mera Tan Dole", "artist": "Lata Mangeshkar" },
-    { "rank": 4, "title": "Chale Aaj Tum Jahaan Se", "artist": "Mohammed Rafi" },
-    { "rank": 5, "title": "Ichak Dana Bichak Dana", "artist": "Lata Mangeshkar & Mukesh" },
-    { "rank": 6, "title": "Dekh Tere Sansaar Ki Haalat", "artist": "Kavi Pradeep" },
-    { "rank": 7, "title": "Meraa Dil Ye Pukaare Aa Jaa", "artist": "Lata Mangeshkar" },
-    { "rank": 8, "title": "De Di Hame Aazadi Bina Khadag Bina Dhaal", "artist": "Asha Bhosle" },
-    { "rank": 9, "title": "Jeevan Ke Safar Mein Rahi", "artist": "Kishore Kumar" },
-    { "rank": 10, "title": "Chalo Chale Mann Sapano Ke Ganv Me", "artist": "Asha Bhosle" }
+    {
+      "rank": 1,
+      "title": "Mera Joota Hai Japani",
+      "artist": "Mukesh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0235baae0447967f567db43a69",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5w4Si2yztoM0WEt8OnAXFM",
+      "spotifyUrl": "https://open.spotify.com/track/5w4Si2yztoM0WEt8OnAXFM"
+    },
+    {
+      "rank": 2,
+      "title": "Meraa Salaam Le Ja",
+      "artist": "Lata Mangeshkar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ffe8788e9b2ebbf8d0e0a1ea",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0q6jBe5FZtMslcVErUgQeZ",
+      "spotifyUrl": "https://open.spotify.com/track/0q6jBe5FZtMslcVErUgQeZ"
+    },
+    {
+      "rank": 3,
+      "title": "Man Dole Mera Tan Dole",
+      "artist": "Lata Mangeshkar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b77f6379edbf8c1937e908f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6umpwR6rQvkfIGlWFxzi3X",
+      "spotifyUrl": "https://open.spotify.com/track/6umpwR6rQvkfIGlWFxzi3X"
+    },
+    {
+      "rank": 4,
+      "title": "Chale Aaj Tum Jahaan Se",
+      "artist": "Mohammed Rafi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240494b35d483ac255db4ce93",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4xmkpE1Si5JL7NFxWrhV0S",
+      "spotifyUrl": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S"
+    },
+    {
+      "rank": 5,
+      "title": "Ichak Dana Bichak Dana",
+      "artist": "Lata Mangeshkar & Mukesh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029021abe80310a9acfbd507f4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:26Pdx0MzfeVsBT7bCyCn2q",
+      "spotifyUrl": "https://open.spotify.com/track/26Pdx0MzfeVsBT7bCyCn2q"
+    },
+    {
+      "rank": 6,
+      "title": "Dekh Tere Sansaar Ki Haalat",
+      "artist": "Kavi Pradeep",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024dca7d1b4e812398457ce645",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5hEMAMFdwsc0SMUxC6fts4",
+      "spotifyUrl": "https://open.spotify.com/track/5hEMAMFdwsc0SMUxC6fts4"
+    },
+    {
+      "rank": 7,
+      "title": "Meraa Dil Ye Pukaare Aa Jaa",
+      "artist": "Lata Mangeshkar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0205cab9cd025dfa26ce8f66a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3l9rEXfCtKN8bkBSAGsslt",
+      "spotifyUrl": "https://open.spotify.com/track/3l9rEXfCtKN8bkBSAGsslt"
+    },
+    {
+      "rank": 8,
+      "title": "De Di Hame Aazadi Bina Khadag Bina Dhaal",
+      "artist": "Asha Bhosle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0220bde754b4e988ba3a6ed66a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5AdvODwQkwiSviimAVRVQc",
+      "spotifyUrl": "https://open.spotify.com/track/5AdvODwQkwiSviimAVRVQc"
+    },
+    {
+      "rank": 9,
+      "title": "Jeevan Ke Safar Mein Rahi",
+      "artist": "Kishore Kumar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028d6acf2fe05ce93e584febda",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:68LRAMaY95QTXPnqhuEKvk",
+      "spotifyUrl": "https://open.spotify.com/track/68LRAMaY95QTXPnqhuEKvk"
+    },
+    {
+      "rank": 10,
+      "title": "Chalo Chale Mann Sapano Ke Ganv Me",
+      "artist": "Asha Bhosle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0238f03713897df1dbe196a43a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4iZ6dD04nQcVmsDHbgPagb",
+      "spotifyUrl": "https://open.spotify.com/track/4iZ6dD04nQcVmsDHbgPagb"
+    }
   ]
 }

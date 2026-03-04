@@ -3,15 +3,95 @@
   "year": 1995,
   "context": "The mid-90s were a musical battleground. Gangsta rap reached its zenith with 2Pac and Biggie. Grunge was giving way to alt-rock. TLC, Mariah, and Boyz II Men dominated pop. The CD era was in full bloom.",
   "tracks": [
-    { "rank": 1, "title": "Gangsta's Paradise", "artist": "Coolio feat. L.V." },
-    { "rank": 2, "title": "Waterfalls", "artist": "TLC" },
-    { "rank": 3, "title": "Creep", "artist": "TLC" },
-    { "rank": 4, "title": "Kiss from a Rose", "artist": "Seal" },
-    { "rank": 5, "title": "On Bended Knee", "artist": "Boyz II Men" },
-    { "rank": 6, "title": "One Sweet Day", "artist": "Mariah Carey & Boyz II Men" },
-    { "rank": 7, "title": "Fantasy", "artist": "Mariah Carey" },
-    { "rank": 8, "title": "Take a Bow", "artist": "Madonna" },
-    { "rank": 9, "title": "Wonderwall", "artist": "Oasis" },
-    { "rank": 10, "title": "California Love", "artist": "2Pac feat. Dr. Dre" }
+    {
+      "rank": 1,
+      "title": "Gangsta's Paradise",
+      "artist": "Coolio feat. L.V.",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a4e509950320df67cc8684b0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1pgPH8vxnGW3lueCl55QxP",
+      "spotifyUrl": "https://open.spotify.com/track/1pgPH8vxnGW3lueCl55QxP"
+    },
+    {
+      "rank": 2,
+      "title": "Waterfalls",
+      "artist": "TLC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023ae63e3e2d9da8366e33fdab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6qspW4YKycviDFjHBOaqUY",
+      "spotifyUrl": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
+    },
+    {
+      "rank": 3,
+      "title": "Creep",
+      "artist": "TLC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023ae63e3e2d9da8366e33fdab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1aWV3uY3SIEZVbmv45oFWS",
+      "spotifyUrl": "https://open.spotify.com/track/1aWV3uY3SIEZVbmv45oFWS"
+    },
+    {
+      "rank": 4,
+      "title": "Kiss from a Rose",
+      "artist": "Seal",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0233d4866ed921300e8ef50808",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3YKptz29AsOlm7WAVnztBh",
+      "spotifyUrl": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
+    },
+    {
+      "rank": 5,
+      "title": "On Bended Knee",
+      "artist": "Boyz II Men",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026b3b28022871bae1a5d0f057",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7MYmo0JJJDmu4MZTSAF9y3",
+      "spotifyUrl": "https://open.spotify.com/track/7MYmo0JJJDmu4MZTSAF9y3"
+    },
+    {
+      "rank": 6,
+      "title": "One Sweet Day",
+      "artist": "Mariah Carey & Boyz II Men",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02749e9bfa78277f30ad2c9a9c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ySbfLwdCwl1EM0zNCJZ38",
+      "spotifyUrl": "https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38"
+    },
+    {
+      "rank": 7,
+      "title": "Fantasy",
+      "artist": "Mariah Carey",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02749e9bfa78277f30ad2c9a9c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6xkryXuiZU360Lngd4sx13",
+      "spotifyUrl": "https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13"
+    },
+    {
+      "rank": 8,
+      "title": "Take a Bow",
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240cbf5330f808105d7ba9a44",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5oqukcHWfqq7HGjyKwLX1y",
+      "spotifyUrl": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
+    },
+    {
+      "rank": 9,
+      "title": "Wonderwall",
+      "artist": "Oasis",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a4c8c59851c88f6794c3cbf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ygpwy2qP3NbrxVkHvUhXY",
+      "spotifyUrl": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "rank": 10,
+      "title": "California Love",
+      "artist": "2Pac feat. Dr. Dre",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f12cf892af891d8f3679470c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1Zk62Z905Z7R1bYCfoaKLB",
+      "spotifyUrl": "https://open.spotify.com/track/1Zk62Z905Z7R1bYCfoaKLB"
+    }
   ]
 }

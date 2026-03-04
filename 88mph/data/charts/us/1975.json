@@ -3,15 +3,95 @@
   "year": 1975,
   "context": "Disco fever was rising, but rock held its ground. Fleetwood Mac reinvented themselves, Earth Wind & Fire brought cosmic funk, and Bruce Springsteen emerged from the Jersey Shore with poetry in his pocket.",
   "tracks": [
-    { "rank": 1, "title": "Love Will Keep Us Together", "artist": "Captain & Tennille" },
-    { "rank": 2, "title": "Rhinestone Cowboy", "artist": "Glen Campbell" },
-    { "rank": 3, "title": "Philadelphia Freedom", "artist": "Elton John" },
-    { "rank": 4, "title": "Shining Star", "artist": "Earth, Wind & Fire" },
-    { "rank": 5, "title": "Fame", "artist": "David Bowie" },
-    { "rank": 6, "title": "Laughter in the Rain", "artist": "Neil Sedaka" },
-    { "rank": 7, "title": "One of These Nights", "artist": "Eagles" },
-    { "rank": 8, "title": "Thank God I'm a Country Boy", "artist": "John Denver" },
-    { "rank": 9, "title": "Jive Talkin'", "artist": "Bee Gees" },
-    { "rank": 10, "title": "Born to Run", "artist": "Bruce Springsteen" }
+    {
+      "rank": 1,
+      "title": "Love Will Keep Us Together",
+      "artist": "Captain & Tennille",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e21a289d04d5f3d623807bee",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4pCNJwixy2ImFncaPY2yE2",
+      "spotifyUrl": "https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2"
+    },
+    {
+      "rank": 2,
+      "title": "Rhinestone Cowboy",
+      "artist": "Glen Campbell",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263134b3cf76a63e91647e1bb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0VwTeYNjcl30DyQlt3GPe0",
+      "spotifyUrl": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
+    },
+    {
+      "rank": 3,
+      "title": "Philadelphia Freedom",
+      "artist": "Elton John",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5cd9f8c221709f64bf6f470",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2hl9ONQ7YGgZGYx0OSHvIq",
+      "spotifyUrl": "https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq"
+    },
+    {
+      "rank": 4,
+      "title": "Shining Star",
+      "artist": "Earth, Wind & Fire",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023e716266190c38e929f209cf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0RgcOUQg4qYAEt9RIdf3oB",
+      "spotifyUrl": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "rank": 5,
+      "title": "Fame",
+      "artist": "David Bowie",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b3bd6493ad6e29dcd2ad5a37",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1PehfITh0TTRx3LkDdV4h3",
+      "spotifyUrl": "https://open.spotify.com/track/1PehfITh0TTRx3LkDdV4h3"
+    },
+    {
+      "rank": 6,
+      "title": "Laughter in the Rain",
+      "artist": "Neil Sedaka",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0251ebe0e8ad19f7cc04fcec20",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1TJKuVrkDIvAdr5qQeB9lj",
+      "spotifyUrl": "https://open.spotify.com/track/1TJKuVrkDIvAdr5qQeB9lj"
+    },
+    {
+      "rank": 7,
+      "title": "One of These Nights",
+      "artist": "Eagles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025d0a8e54aba5181c79593b94",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:608xszaAxVh4m7NcKJiAbF",
+      "spotifyUrl": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF"
+    },
+    {
+      "rank": 8,
+      "title": "Thank God I'm a Country Boy",
+      "artist": "John Denver",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023c16761584c4015495bdda87",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:69HICMmc6nNLucAx3aJX9M",
+      "spotifyUrl": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+    },
+    {
+      "rank": 9,
+      "title": "Jive Talkin'",
+      "artist": "Bee Gees",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0283566f12b1105339207b01c4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4t0Pj3iBnSCZv5pDEPNmzG",
+      "spotifyUrl": "https://open.spotify.com/track/4t0Pj3iBnSCZv5pDEPNmzG"
+    },
+    {
+      "rank": 10,
+      "title": "Born to Run",
+      "artist": "Bruce Springsteen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028c5b6f7dcdc5817dc5050b2a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6hTcuIQa0sxrrByu9wTD7s",
+      "spotifyUrl": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    }
   ]
 }

@@ -3,15 +3,95 @@
   "year": 1965,
   "context": "Spain in 1965 was in the late Franco era, but youth music was exploding. Los Brincos, dubbed 'the Spanish Beatles,' spearheaded the beat boom. The yé-yé movement produced Conchita Velasco's iconic 'Chica Ye-Ye.' France Gall's Eurovision winner crossed the Pyrenees easily, while Italian and Anglo-American hits charted strongly, reflecting Spain's growing openness to international pop culture.",
   "tracks": [
-    { "rank": 1, "title": "La Yenka", "artist": "Johnny & Charley" },
-    { "rank": 2, "title": "Flamenco", "artist": "Los Brincos" },
-    { "rank": 3, "title": "Chica Ye-Ye", "artist": "Conchita Velasco" },
-    { "rank": 4, "title": "Poupée de cire, Poupée de son", "artist": "France Gall" },
-    { "rank": 5, "title": "El Mundo (Il Mondo)", "artist": "Jimmy Fontana" },
-    { "rank": 6, "title": "Esos Ojitos Negros", "artist": "Dúo Dinámico" },
-    { "rank": 7, "title": "A Hard Day's Night", "artist": "The Beatles" },
-    { "rank": 8, "title": "The House of the Rising Sun", "artist": "The Animals" },
-    { "rank": 9, "title": "Downtown", "artist": "Petula Clark" },
-    { "rank": 10, "title": "Me Lo Dijo Pérez", "artist": "Los Tres Sudamericanos" }
+    {
+      "rank": 1,
+      "title": "La Yenka",
+      "artist": "Johnny & Charley",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f6d4ed2b29e5ea6f5b4add0a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7nRbvkokbGoklmK255bVuY",
+      "spotifyUrl": "https://open.spotify.com/track/7nRbvkokbGoklmK255bVuY"
+    },
+    {
+      "rank": 2,
+      "title": "Flamenco",
+      "artist": "Los Brincos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02172de17291673ce0c2bfa314",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0hWNl8SlXHJ3dt0VG6hjK0",
+      "spotifyUrl": "https://open.spotify.com/track/0hWNl8SlXHJ3dt0VG6hjK0"
+    },
+    {
+      "rank": 3,
+      "title": "Chica Ye-Ye",
+      "artist": "Conchita Velasco",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02523e80251f7b9121ae90c9da",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3ogMLkKSDhlUnWEr1LqEJp",
+      "spotifyUrl": "https://open.spotify.com/track/3ogMLkKSDhlUnWEr1LqEJp"
+    },
+    {
+      "rank": 4,
+      "title": "Poupée de cire, Poupée de son",
+      "artist": "France Gall",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027fe0b9c3098a70df0b8fc5a5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:26tXIAnv90FCv1eJiCUusH",
+      "spotifyUrl": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
+    },
+    {
+      "rank": 5,
+      "title": "El Mundo (Il Mondo)",
+      "artist": "Jimmy Fontana",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244eb51522f3a22d18adee2fc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6aHhNeb6HQEVSkMzc3T2dN",
+      "spotifyUrl": "https://open.spotify.com/track/6aHhNeb6HQEVSkMzc3T2dN"
+    },
+    {
+      "rank": 6,
+      "title": "Esos Ojitos Negros",
+      "artist": "Dúo Dinámico",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021a45d294a66a957bdea60553",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7M72s7rNOVx71dNihtqqJe",
+      "spotifyUrl": "https://open.spotify.com/track/7M72s7rNOVx71dNihtqqJe"
+    },
+    {
+      "rank": 7,
+      "title": "A Hard Day's Night",
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e230f303815e82a86713eedd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:65vdMBskhx3akkG9vQlSH1",
+      "spotifyUrl": "https://open.spotify.com/track/65vdMBskhx3akkG9vQlSH1"
+    },
+    {
+      "rank": 8,
+      "title": "The House of the Rising Sun",
+      "artist": "The Animals",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023c534611bd3658006378a2d7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7BY005dacJkbO6EPiOh2wb",
+      "spotifyUrl": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
+    },
+    {
+      "rank": 9,
+      "title": "Downtown",
+      "artist": "Petula Clark",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0251c5bc666e98ec2ec7dd303c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6S55C80YzjhSrCRRd1p80b",
+      "spotifyUrl": "https://open.spotify.com/track/6S55C80YzjhSrCRRd1p80b"
+    },
+    {
+      "rank": 10,
+      "title": "Me Lo Dijo Pérez",
+      "artist": "Los Tres Sudamericanos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ba21450bc9c20ab486efedf3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Ie1tiIJofuStMIAK9ZDVa",
+      "spotifyUrl": "https://open.spotify.com/track/6Ie1tiIJofuStMIAK9ZDVa"
+    }
   ]
 }

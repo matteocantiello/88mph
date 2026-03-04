@@ -3,15 +3,95 @@
   "year": 2000,
   "context": "Spain's music scene in 2000 featured a mix of domestic pop-rock (La Oreja de Van Gogh, Estopa, Alejandro Sanz) and international Latin pop. Santana's 'Supernatural' comeback was a phenomenon. Operación Triunfo had not yet launched (it debuted in 2001), but the Spanish pop-rock scene was thriving with bands from the Basque Country and Catalonia.",
   "tracks": [
-    { "rank": 1, "title": "Corazón Espinado", "artist": "Santana ft. Maná" },
-    { "rank": 2, "title": "La Playa", "artist": "La Oreja de Van Gogh" },
-    { "rank": 3, "title": "Maria Maria", "artist": "Santana ft. The Product G&B" },
-    { "rank": 4, "title": "Bomba", "artist": "King Africa" },
-    { "rank": 5, "title": "Tu Calorro", "artist": "Estopa" },
-    { "rank": 6, "title": "El Alma al Aire", "artist": "Alejandro Sanz" },
-    { "rank": 7, "title": "Livin' la Vida Loca", "artist": "Ricky Martin" },
-    { "rank": 8, "title": "Muévete", "artist": "Merche" },
-    { "rank": 9, "title": "Cuando Me Vaya", "artist": "Estopa" },
-    { "rank": 10, "title": "Cuánta Razón", "artist": "La Oreja de Van Gogh" }
+    {
+      "rank": 1,
+      "title": "Corazón Espinado",
+      "artist": "Santana ft. Maná",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022d2fe9b688f0addbeee7bdbe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5h66IVrqYL1JdJSM4wx25L",
+      "spotifyUrl": "https://open.spotify.com/track/5h66IVrqYL1JdJSM4wx25L"
+    },
+    {
+      "rank": 2,
+      "title": "La Playa",
+      "artist": "La Oreja de Van Gogh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fb01108d92974ffab07a05fb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2DNyZP4Py6f4zMASLBnIu6",
+      "spotifyUrl": "https://open.spotify.com/track/2DNyZP4Py6f4zMASLBnIu6"
+    },
+    {
+      "rank": 3,
+      "title": "Maria Maria",
+      "artist": "Santana ft. The Product G&B",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e5c067fa4511c1eb78307870",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1JtUfaBdpOigxLP5qOSqRk",
+      "spotifyUrl": "https://open.spotify.com/track/1JtUfaBdpOigxLP5qOSqRk"
+    },
+    {
+      "rank": 4,
+      "title": "Bomba",
+      "artist": "King Africa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021f6a4bf042bca388fcbaef75",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:27PX39s143e1NVFNB7UhJb",
+      "spotifyUrl": "https://open.spotify.com/track/27PX39s143e1NVFNB7UhJb"
+    },
+    {
+      "rank": 5,
+      "title": "Tu Calorro",
+      "artist": "Estopa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ed1c8aff132830890f91faa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0DXI6c9tNWsI4tvUftkQN8",
+      "spotifyUrl": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
+    },
+    {
+      "rank": 6,
+      "title": "El Alma al Aire",
+      "artist": "Alejandro Sanz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024d18fc9d6ca4804130f41ffa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Bs7Y5vCIzuvFTS9SLBPn8",
+      "spotifyUrl": "https://open.spotify.com/track/0Bs7Y5vCIzuvFTS9SLBPn8"
+    },
+    {
+      "rank": 7,
+      "title": "Livin' la Vida Loca",
+      "artist": "Ricky Martin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e7e9b85cc1f021ec12130d80",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Ph6L4l8dYUuXFmb71Ajnd",
+      "spotifyUrl": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd"
+    },
+    {
+      "rank": 8,
+      "title": "Muévete",
+      "artist": "Merche",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a1f92ce8f70c24484b59441",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0fvFUnGbpF5UDULp8jksTW",
+      "spotifyUrl": "https://open.spotify.com/track/0fvFUnGbpF5UDULp8jksTW"
+    },
+    {
+      "rank": 9,
+      "title": "Cuando Me Vaya",
+      "artist": "Estopa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02256e4fd17616bfe624911861",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2uPMsTEKx79gJ8rB3AcT0v",
+      "spotifyUrl": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
+    },
+    {
+      "rank": 10,
+      "title": "Cuánta Razón",
+      "artist": "La Oreja de Van Gogh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02662c904563f8edd735f46b73",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1bosDxu5WS8An28jgQdLbd",
+      "spotifyUrl": "https://open.spotify.com/track/1bosDxu5WS8An28jgQdLbd"
+    }
   ]
 }

@@ -3,15 +3,95 @@
   "year": 1970,
   "context": "The military dictatorship was at its most repressive, yet music flourished. 'Pra Frente Brasil' became the anthem of Brazil's World Cup victory. Tim Maia launched his soul-infused MPB career, while Paulinho da Viola carried samba tradition forward.",
   "tracks": [
-    { "rank": 1, "title": "Foi um rio que passou em minha vida", "artist": "Paulinho da Viola" },
-    { "rank": 2, "title": "Pra Frente Brasil", "artist": "Coral Joab" },
-    { "rank": 3, "title": "Jesus Cristo", "artist": "Roberto Carlos" },
-    { "rank": 4, "title": "Madalena", "artist": "Elis Regina" },
-    { "rank": 5, "title": "Yellow River", "artist": "Christie" },
-    { "rank": 6, "title": "Bridge Over Troubled Water", "artist": "Simon & Garfunkel" },
-    { "rank": 7, "title": "Azul da cor do mar", "artist": "Tim Maia" },
-    { "rank": 8, "title": "Raindrops Keep Fallin' on My Head", "artist": "B.J. Thomas" },
-    { "rank": 9, "title": "Let It Be", "artist": "The Beatles" },
-    { "rank": 10, "title": "BR-3", "artist": "Tony Tornado & Trio Ternura" }
+    {
+      "rank": 1,
+      "title": "Foi um rio que passou em minha vida",
+      "artist": "Paulinho da Viola",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025a2cde827c855b47435154fe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0uEVdsaRVRcjKIkGn7Wu4e",
+      "spotifyUrl": "https://open.spotify.com/track/0uEVdsaRVRcjKIkGn7Wu4e"
+    },
+    {
+      "rank": 2,
+      "title": "Pra Frente Brasil",
+      "artist": "Coral Joab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02726e3becf21cd3f0ad995e35",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0GK9gh6PGVWqF40X9iR1nr",
+      "spotifyUrl": "https://open.spotify.com/track/0GK9gh6PGVWqF40X9iR1nr"
+    },
+    {
+      "rank": 3,
+      "title": "Jesus Cristo",
+      "artist": "Roberto Carlos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d1f69ef137588ce251369165",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:34IqERodcAzU3BI5K5Omu9",
+      "spotifyUrl": "https://open.spotify.com/track/34IqERodcAzU3BI5K5Omu9"
+    },
+    {
+      "rank": 4,
+      "title": "Madalena",
+      "artist": "Elis Regina",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028e0d64d9f85c63531b94b9de",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0IRQkXY4szWA1RNBeV6lu1",
+      "spotifyUrl": "https://open.spotify.com/track/0IRQkXY4szWA1RNBeV6lu1"
+    },
+    {
+      "rank": 5,
+      "title": "Yellow River",
+      "artist": "Christie",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f8acc5384b30790e5254362f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4VnzKUBMB6cvog8Jvv1few",
+      "spotifyUrl": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
+    },
+    {
+      "rank": 6,
+      "title": "Bridge Over Troubled Water",
+      "artist": "Simon & Garfunkel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028453b853c2cc9c077828eefb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6l8EbYRtQMgKOyc1gcDHF9",
+      "spotifyUrl": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
+    },
+    {
+      "rank": 7,
+      "title": "Azul da cor do mar",
+      "artist": "Tim Maia",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02052bd0ef86fa73c77263bfbe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6vgKWE1KV4E7p1Dv75z0kL",
+      "spotifyUrl": "https://open.spotify.com/track/6vgKWE1KV4E7p1Dv75z0kL"
+    },
+    {
+      "rank": 8,
+      "title": "Raindrops Keep Fallin' on My Head",
+      "artist": "B.J. Thomas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0206ca44cb5a5cc81212b56051",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2s1Yh0AywJhLsKKZ9vM0tm",
+      "spotifyUrl": "https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm"
+    },
+    {
+      "rank": 9,
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7iN1s7xHE4ifF5povM6A48",
+      "spotifyUrl": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
+    },
+    {
+      "rank": 10,
+      "title": "BR-3",
+      "artist": "Tony Tornado & Trio Ternura",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02faf1cf92416be4d75b2d7be5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:70mpYOq7kaEVOZD6IIJAaw",
+      "spotifyUrl": "https://open.spotify.com/track/70mpYOq7kaEVOZD6IIJAaw"
+    }
   ]
 }

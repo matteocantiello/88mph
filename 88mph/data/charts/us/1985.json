@@ -3,15 +3,95 @@
   "year": 1985,
   "context": "MTV ruled the culture. Synthesizers and drum machines transformed pop while hip-hop moved from the block party to the mainstream. Madonna and Prince were royalty. Live Aid proved music could still change the world.",
   "tracks": [
-    { "rank": 1, "title": "Careless Whisper", "artist": "Wham!" },
-    { "rank": 2, "title": "Like a Virgin", "artist": "Madonna" },
-    { "rank": 3, "title": "Wake Me Up Before You Go-Go", "artist": "Wham!" },
-    { "rank": 4, "title": "I Want to Know What Love Is", "artist": "Foreigner" },
-    { "rank": 5, "title": "Everybody Wants to Rule the World", "artist": "Tears for Fears" },
-    { "rank": 6, "title": "Money for Nothing", "artist": "Dire Straits" },
-    { "rank": 7, "title": "Shout", "artist": "Tears for Fears" },
-    { "rank": 8, "title": "Take on Me", "artist": "a-ha" },
-    { "rank": 9, "title": "Don't You (Forget About Me)", "artist": "Simple Minds" },
-    { "rank": 10, "title": "We Are the World", "artist": "USA for Africa" }
+    {
+      "rank": 1,
+      "title": "Careless Whisper",
+      "artist": "Wham!",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02813629baee66b2ec5f90ebee",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5WDLRQ3VCdVrKw0njWe5E5",
+      "spotifyUrl": "https://open.spotify.com/track/5WDLRQ3VCdVrKw0njWe5E5"
+    },
+    {
+      "rank": 2,
+      "title": "Like a Virgin",
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0299d424b0873a9a714279a9f3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1ZPlNanZsJSPK5h9YZZFbZ",
+      "spotifyUrl": "https://open.spotify.com/track/1ZPlNanZsJSPK5h9YZZFbZ"
+    },
+    {
+      "rank": 3,
+      "title": "Wake Me Up Before You Go-Go",
+      "artist": "Wham!",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a2fc41b0dd6ce4f0d16a4c46",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0ikz6tENMONtK6qGkOrU3c",
+      "spotifyUrl": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
+    },
+    {
+      "rank": 4,
+      "title": "I Want to Know What Love Is",
+      "artist": "Foreigner",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023e030a7e606959674643d274",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1JLn8RhQzHz3qDqsChcmBl",
+      "spotifyUrl": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
+    },
+    {
+      "rank": 5,
+      "title": "Everybody Wants to Rule the World",
+      "artist": "Tears for Fears",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0222463d6939fec9e17b2a6235",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE",
+      "spotifyUrl": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "rank": 6,
+      "title": "Money for Nothing",
+      "artist": "Dire Straits",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fb995d2871f084b34afae3b3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4yqtwO7MQIIXqoiRBPHAgR",
+      "spotifyUrl": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+    },
+    {
+      "rank": 7,
+      "title": "Shout",
+      "artist": "Tears for Fears",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029565c4df27be4aee5edc8009",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2gQaQUhDCNGfBVXTvxAmXQ",
+      "spotifyUrl": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "rank": 8,
+      "title": "Take on Me",
+      "artist": "a-ha",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e8dd4db47e7177c63b0b7d53",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2WfaOiMkCvy7F5fcp2zZ8L",
+      "spotifyUrl": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+    },
+    {
+      "rank": 9,
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025695a657aef0e81bde0c6001",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3fH4KjXFYMmljxrcGrbPj9",
+      "spotifyUrl": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9"
+    },
+    {
+      "rank": 10,
+      "title": "We Are the World",
+      "artist": "USA for Africa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02920f421260033ee54865d673",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Z2tPWiNiIpg8UMMoowHIk",
+      "spotifyUrl": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
+    }
   ]
 }

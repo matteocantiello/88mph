@@ -3,15 +3,95 @@
   "year": 1995,
   "context": "The apex of the Four Heavenly Kings era in Cantopop — Andy Lau, Jacky Cheung, Leon Lai, and Aaron Kwok dominated pop culture across Chinese-speaking Asia. Faye Wong emerged as a genre-defying force, bridging Cantopop and alternative aesthetics after her 'Chungking Express' breakthrough. Eason Chan launched what would become one of the longest careers in Cantopop.",
   "tracks": [
-    { "rank": 1, "title": "Wang Qing Shui (Forgetful Water)", "artist": "Andy Lau" },
-    { "rank": 2, "title": "Wo Zhen De Shou Shang Le (I'm Really Hurt)", "artist": "Jacky Cheung" },
-    { "rank": 3, "title": "Di-Dar", "artist": "Faye Wong" },
-    { "rank": 4, "title": "Deng Ni Deng Dao Wo Xin Tong (Waiting Until My Heart Aches)", "artist": "Jacky Cheung" },
-    { "rank": 5, "title": "Jin Ye Ni Hui Bu Hui Lai (Will You Come Tonight)", "artist": "Leon Lai" },
-    { "rank": 6, "title": "Ai De Hu Huan (Love's Call)", "artist": "Aaron Kwok" },
-    { "rank": 7, "title": "Zhui (Chase)", "artist": "Faye Wong" },
-    { "rank": 8, "title": "Beloved (Chongxin Kaitou)", "artist": "Leslie Cheung" },
-    { "rank": 9, "title": "Nuanuan De Tai Yang (Warm Sun)", "artist": "Eason Chan" },
-    { "rank": 10, "title": "Dan Shen Qingge (Single Love Song)", "artist": "Sandy Lam" }
+    {
+      "rank": 1,
+      "title": "Wang Qing Shui (Forgetful Water)",
+      "artist": "Andy Lau",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021253ff7ac2748e785737a796",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5ufg2o33urFZ1AQfTxwNZO",
+      "spotifyUrl": "https://open.spotify.com/track/5ufg2o33urFZ1AQfTxwNZO"
+    },
+    {
+      "rank": 2,
+      "title": "Wo Zhen De Shou Shang Le (I'm Really Hurt)",
+      "artist": "Jacky Cheung",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e5d21e4766ba1edf5496eae9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Iiu6fPiTBPr9Uao2MJlAr",
+      "spotifyUrl": "https://open.spotify.com/track/2Iiu6fPiTBPr9Uao2MJlAr"
+    },
+    {
+      "rank": 3,
+      "title": "Di-Dar",
+      "artist": "Faye Wong",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a52ec02803c076d6df485451",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3XTPq0tLfxwUpy63aVkQRc",
+      "spotifyUrl": "https://open.spotify.com/track/3XTPq0tLfxwUpy63aVkQRc"
+    },
+    {
+      "rank": 4,
+      "title": "Deng Ni Deng Dao Wo Xin Tong (Waiting Until My Heart Aches)",
+      "artist": "Jacky Cheung",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aecc2f7397c65a69ba3b6f47",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5M2MzFVZ7dEkLrP4Hg7S2d",
+      "spotifyUrl": "https://open.spotify.com/track/5M2MzFVZ7dEkLrP4Hg7S2d"
+    },
+    {
+      "rank": 5,
+      "title": "Jin Ye Ni Hui Bu Hui Lai (Will You Come Tonight)",
+      "artist": "Leon Lai",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029ffb98928511ad56f2ed7450",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2QyEqtetkZqCNOMkshxuhh",
+      "spotifyUrl": "https://open.spotify.com/track/2QyEqtetkZqCNOMkshxuhh"
+    },
+    {
+      "rank": 6,
+      "title": "Ai De Hu Huan (Love's Call)",
+      "artist": "Aaron Kwok",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c8f83584eb035b5acb7d3b1f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6mn3MOnUpXYEIi5qTRqAik",
+      "spotifyUrl": "https://open.spotify.com/track/6mn3MOnUpXYEIi5qTRqAik"
+    },
+    {
+      "rank": 7,
+      "title": "Zhui (Chase)",
+      "artist": "Faye Wong",
+      "albumArt": "https://i.scdn.co/image/fe26346459e770591ec9147b53a2b156f6815e0f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5l94Up12BJSjhH7Mhr2ji4",
+      "spotifyUrl": "https://open.spotify.com/track/5l94Up12BJSjhH7Mhr2ji4"
+    },
+    {
+      "rank": 8,
+      "title": "Beloved (Chongxin Kaitou)",
+      "artist": "Leslie Cheung",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029a2d28fc9538b98fd7ed9bf8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3SrQXRbmG9fb8YJK3YB01D",
+      "spotifyUrl": "https://open.spotify.com/track/3SrQXRbmG9fb8YJK3YB01D"
+    },
+    {
+      "rank": 9,
+      "title": "Nuanuan De Tai Yang (Warm Sun)",
+      "artist": "Eason Chan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02356c63799afa3457b830fdae",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5vVRNnABCgt55Olo04H3t2",
+      "spotifyUrl": "https://open.spotify.com/track/5vVRNnABCgt55Olo04H3t2"
+    },
+    {
+      "rank": 10,
+      "title": "Dan Shen Qingge (Single Love Song)",
+      "artist": "Sandy Lam",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0258e3bd220bc911adbf3b390f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4arcrPMPxXrUEPqn8oFXbr",
+      "spotifyUrl": "https://open.spotify.com/track/4arcrPMPxXrUEPqn8oFXbr"
+    }
   ]
 }

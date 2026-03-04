@@ -3,15 +3,95 @@
   "year": 2015,
   "context": "The ARIA chart was shaped by global streaming trends. 'Uptown Funk' dominated the entire year. EDM-pop crossovers thrived, and Adele's 'Hello' broke records. Australian-born Sia was notably present just outside this top 10.",
   "tracks": [
-    { "rank": 1, "title": "Uptown Funk", "artist": "Mark Ronson feat. Bruno Mars" },
-    { "rank": 2, "title": "Cheerleader (Felix Jaehn Remix)", "artist": "OMI" },
-    { "rank": 3, "title": "See You Again", "artist": "Wiz Khalifa feat. Charlie Puth" },
-    { "rank": 4, "title": "Take Me to Church", "artist": "Hozier" },
-    { "rank": 5, "title": "Hello", "artist": "Adele" },
-    { "rank": 6, "title": "Lean On", "artist": "Major Lazer feat. MO & DJ Snake" },
-    { "rank": 7, "title": "Love Me Like You Do", "artist": "Ellie Goulding" },
-    { "rank": 8, "title": "Shut Up and Dance", "artist": "Walk the Moon" },
-    { "rank": 9, "title": "What Do You Mean?", "artist": "Justin Bieber" },
-    { "rank": 10, "title": "FourFiveSeconds", "artist": "Rihanna, Paul McCartney & Kanye West" }
+    {
+      "rank": 1,
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson feat. Bruno Mars",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029860171ddfee17f77a570cf6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:32OlwWuMpZ6b0aN2RZOeMS",
+      "spotifyUrl": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "rank": 2,
+      "title": "Cheerleader (Felix Jaehn Remix)",
+      "artist": "OMI",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021c61cec78c70409b783d1480",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:023OVLNzXhX0j7CxswUt6D",
+      "spotifyUrl": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
+    },
+    {
+      "rank": 3,
+      "title": "See You Again",
+      "artist": "Wiz Khalifa feat. Charlie Puth",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e5df11b17b2727da2b718d8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2JzZzZUQj3Qff7wapcbKjc",
+      "spotifyUrl": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
+    },
+    {
+      "rank": 4,
+      "title": "Take Me to Church",
+      "artist": "Hozier",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bd5c6f1a9461fc68c5dc1623",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1CS7Sd1u5tWkstBhpssyjP",
+      "spotifyUrl": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
+    },
+    {
+      "rank": 5,
+      "title": "Hello",
+      "artist": "Adele",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0247ce408fb4926d69da6713c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:62PaSfnXSMyLshYJrlTuL3",
+      "spotifyUrl": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
+    },
+    {
+      "rank": 6,
+      "title": "Lean On",
+      "artist": "Major Lazer feat. MO & DJ Snake",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ebfa624d999cf26524bfb90",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0gL7suKdyvMzjm752AQzMd",
+      "spotifyUrl": "https://open.spotify.com/track/0gL7suKdyvMzjm752AQzMd"
+    },
+    {
+      "rank": 7,
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026bdee14242f244d9d6ddf2fd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3zHq9ouUJQFQRf3cm1rRLu",
+      "spotifyUrl": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
+    },
+    {
+      "rank": 8,
+      "title": "Shut Up and Dance",
+      "artist": "Walk the Moon",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fc39eb9eb3f3824a58f338dc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4kbj5MwxO1bq9wjT5g9HaA",
+      "spotifyUrl": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
+    },
+    {
+      "rank": 9,
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4B0JvthVoAAuygILe3n4Bs",
+      "spotifyUrl": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
+    },
+    {
+      "rank": 10,
+      "title": "FourFiveSeconds",
+      "artist": "Rihanna, Paul McCartney & Kanye West",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0236a9ed72b45e54ff307641be",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:78TTtXnFQPzwqlbtbwqN0y",
+      "spotifyUrl": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
+    }
   ]
 }

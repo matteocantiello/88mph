@@ -3,15 +3,95 @@
   "year": 1960,
   "context": "1960 was the year bossa nova consolidated as a global phenomenon. João Gilberto's second album introduced compositions by Antonio Carlos Jobim that would become jazz standards worldwide. Brazil was in a period of optimism under President Kubitschek, who had just inaugurated the new capital Brasília, and the cool sophistication of bossa nova perfectly reflected this modernizing spirit.",
   "tracks": [
-    { "rank": 1, "title": "Samba de Uma Nota Só (One Note Samba)", "artist": "João Gilberto" },
-    { "rank": 2, "title": "Corcovado (Quiet Nights of Quiet Stars)", "artist": "João Gilberto" },
-    { "rank": 3, "title": "O Pato", "artist": "João Gilberto" },
-    { "rank": 4, "title": "Meditação (Meditation)", "artist": "João Gilberto" },
-    { "rank": 5, "title": "Eu Sei Que Vou Te Amar", "artist": "João Gilberto" },
-    { "rank": 6, "title": "Minha Namorada", "artist": "Carlos Lyra" },
-    { "rank": 7, "title": "Discussão", "artist": "João Gilberto" },
-    { "rank": 8, "title": "Doralice", "artist": "João Gilberto" },
-    { "rank": 9, "title": "Se É Tarde Me Perdoa", "artist": "Carlos Lyra" },
-    { "rank": 10, "title": "Manhã de Carnaval", "artist": "Luiz Bonfá" }
+    {
+      "rank": 1,
+      "title": "Samba de Uma Nota Só (One Note Samba)",
+      "artist": "João Gilberto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02360032ee95ddcd644bc5a4fa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2zd9LVZFGJ8mTPlnOwyUW6",
+      "spotifyUrl": "https://open.spotify.com/track/2zd9LVZFGJ8mTPlnOwyUW6"
+    },
+    {
+      "rank": 2,
+      "title": "Corcovado (Quiet Nights of Quiet Stars)",
+      "artist": "João Gilberto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02417cc363d7286a88489dee3c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Wh99eifNTNqDFRtzWhCE2",
+      "spotifyUrl": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
+    },
+    {
+      "rank": 3,
+      "title": "O Pato",
+      "artist": "João Gilberto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02937268cc4480e4ae7dcc6570",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5nHimcXKoQiJtKytX9Gx21",
+      "spotifyUrl": "https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21"
+    },
+    {
+      "rank": 4,
+      "title": "Meditação (Meditation)",
+      "artist": "João Gilberto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02937268cc4480e4ae7dcc6570",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0mdesrM7UZZuDAu8RjBkMy",
+      "spotifyUrl": "https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy"
+    },
+    {
+      "rank": 5,
+      "title": "Eu Sei Que Vou Te Amar",
+      "artist": "João Gilberto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d9e6016d3452a2001ef8faa5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1qIAd4J0X3WyxFOkiJshLo",
+      "spotifyUrl": "https://open.spotify.com/track/1qIAd4J0X3WyxFOkiJshLo"
+    },
+    {
+      "rank": 6,
+      "title": "Minha Namorada",
+      "artist": "Carlos Lyra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e39ee0f6461668aded57209a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:36hQwYXJ2D1VBZvMKJg7AX",
+      "spotifyUrl": "https://open.spotify.com/track/36hQwYXJ2D1VBZvMKJg7AX"
+    },
+    {
+      "rank": 7,
+      "title": "Discussão",
+      "artist": "João Gilberto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02937268cc4480e4ae7dcc6570",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3VnhsZlQH67PzGHZNK5SWL",
+      "spotifyUrl": "https://open.spotify.com/track/3VnhsZlQH67PzGHZNK5SWL"
+    },
+    {
+      "rank": 8,
+      "title": "Doralice",
+      "artist": "João Gilberto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02417cc363d7286a88489dee3c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2s9UFO4G23DGzo8kYBkZcT",
+      "spotifyUrl": "https://open.spotify.com/track/2s9UFO4G23DGzo8kYBkZcT"
+    },
+    {
+      "rank": 9,
+      "title": "Se É Tarde Me Perdoa",
+      "artist": "Carlos Lyra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e45a9a525c00927f07d8f94d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7u6HCgW0Nlljh83hbr64VX",
+      "spotifyUrl": "https://open.spotify.com/track/7u6HCgW0Nlljh83hbr64VX"
+    },
+    {
+      "rank": 10,
+      "title": "Manhã de Carnaval",
+      "artist": "Luiz Bonfá",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fc68119636179eb966102594",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2fQbtkh0GJLHbOCdbdb5Lm",
+      "spotifyUrl": "https://open.spotify.com/track/2fQbtkh0GJLHbOCdbdb5Lm"
+    }
   ]
 }

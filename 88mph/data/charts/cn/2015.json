@@ -3,15 +3,95 @@
   "year": 2015,
   "context": "Mainland China had become the center of gravity in C-pop, with QQ Music, NetEase Cloud Music, and Kugou dominating streaming. The idol group TFBoys became a massive phenomenon with three songs in the top ten. Faye Wong made a notable return with film soundtrack work. The 'Little Fresh Meat' idol culture was at its peak, and Karen Mok's rendition of W.B. Yeats became a cross-generational hit.",
   "tracks": [
-    { "rank": 1, "title": "Congcong Na Nian (Fleet in Time)", "artist": "Faye Wong" },
-    { "rank": 2, "title": "Xi Huan Ni (Like You)", "artist": "G.E.M. (Deng Ziqi)" },
-    { "rank": 3, "title": "Xiao Pingguo (Little Apple)", "artist": "Chopstick Brothers" },
-    { "rank": 4, "title": "Yang (Young)", "artist": "TFBoys" },
-    { "rank": 5, "title": "Dang Ni Lao Le (When You Are Old)", "artist": "Karen Mok" },
-    { "rank": 6, "title": "Chong Ai (Favour)", "artist": "TFBoys" },
-    { "rank": 7, "title": "Xing Zou De Li Liang (Power to Go)", "artist": "Li Ronghao" },
-    { "rank": 8, "title": "Qingping Diao (Qingping Tune)", "artist": "Teresa Teng & Faye Wong" },
-    { "rank": 9, "title": "Qingchun Xiulian Shouce (Manual of Youth)", "artist": "TFBoys" },
-    { "rank": 10, "title": "Duoqing De Yueguang (Amorous Moonlight)", "artist": "Zhengyue Shiwu" }
+    {
+      "rank": 1,
+      "title": "Congcong Na Nian (Fleet in Time)",
+      "artist": "Faye Wong",
+      "albumArt": "https://i.scdn.co/image/9dce39ee8ac5118e388fa17d032cb1bacf5d5670",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3z4leqkfSaXQPAyGwQruTe",
+      "spotifyUrl": "https://open.spotify.com/track/3z4leqkfSaXQPAyGwQruTe"
+    },
+    {
+      "rank": 2,
+      "title": "Xi Huan Ni (Like You)",
+      "artist": "G.E.M. (Deng Ziqi)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02077c859486401e13004173d6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:531YRSNm2wgteKtGLU0hlM",
+      "spotifyUrl": "https://open.spotify.com/track/531YRSNm2wgteKtGLU0hlM"
+    },
+    {
+      "rank": 3,
+      "title": "Xiao Pingguo (Little Apple)",
+      "artist": "Chopstick Brothers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02da6e6250672ebf37cc78f436",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7Bhbj37CdHl15fN9CFiXUx",
+      "spotifyUrl": "https://open.spotify.com/track/7Bhbj37CdHl15fN9CFiXUx"
+    },
+    {
+      "rank": 4,
+      "title": "Yang (Young)",
+      "artist": "TFBoys",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023b9bcb0efc5c52af936e92a8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0yiQHp0XPLlGWyGAxlY2gy",
+      "spotifyUrl": "https://open.spotify.com/track/0yiQHp0XPLlGWyGAxlY2gy"
+    },
+    {
+      "rank": 5,
+      "title": "Dang Ni Lao Le (When You Are Old)",
+      "artist": "Karen Mok",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0258513cbc1bba4cd4c5f472ce",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:79EyMEZdtzSoAvVA381QUf",
+      "spotifyUrl": "https://open.spotify.com/track/79EyMEZdtzSoAvVA381QUf"
+    },
+    {
+      "rank": 6,
+      "title": "Chong Ai (Favour)",
+      "artist": "TFBoys",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbfc24d8f522e86bafde1667",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0zvjTOVFiHET7WrCplAHej",
+      "spotifyUrl": "https://open.spotify.com/track/0zvjTOVFiHET7WrCplAHej"
+    },
+    {
+      "rank": 7,
+      "title": "Xing Zou De Li Liang (Power to Go)",
+      "artist": "Li Ronghao",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027edf7790eb47a687a7c2f1da",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2kcYhDncCP6TBM76mhoggf",
+      "spotifyUrl": "https://open.spotify.com/track/2kcYhDncCP6TBM76mhoggf"
+    },
+    {
+      "rank": 8,
+      "title": "Qingping Diao (Qingping Tune)",
+      "artist": "Teresa Teng & Faye Wong",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020bb043c2eea09bdad7dfaf85",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3DtXqHm1YYZIfmYjuqVJUx",
+      "spotifyUrl": "https://open.spotify.com/track/3DtXqHm1YYZIfmYjuqVJUx"
+    },
+    {
+      "rank": 9,
+      "title": "Qingchun Xiulian Shouce (Manual of Youth)",
+      "artist": "TFBoys",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282f9c612adc8bc8d1d62461a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6FjZctpzcmeKbQFsAFLxVo",
+      "spotifyUrl": "https://open.spotify.com/track/6FjZctpzcmeKbQFsAFLxVo"
+    },
+    {
+      "rank": 10,
+      "title": "Duoqing De Yueguang (Amorous Moonlight)",
+      "artist": "Zhengyue Shiwu",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028ae584ac889710009b25f814",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6MhQ3C00sl72D0N3vS3ZOt",
+      "spotifyUrl": "https://open.spotify.com/track/6MhQ3C00sl72D0N3vS3ZOt"
+    }
   ]
 }

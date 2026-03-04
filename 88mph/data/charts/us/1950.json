@@ -3,15 +3,95 @@
   "year": 1950,
   "context": "Post-war America found comfort in traditional pop and the emerging folk revival. Crooners like Nat King Cole reigned supreme, while The Weavers brought folk to mainstream audiences. The jukebox era was at its peak, and rhythm and blues was just beginning to cross over.",
   "tracks": [
-    { "rank": 1, "title": "Goodnight, Irene", "artist": "Gordon Jenkins & The Weavers" },
-    { "rank": 2, "title": "Mona Lisa", "artist": "Nat King Cole" },
-    { "rank": 3, "title": "Third Man Theme", "artist": "Anton Karas" },
-    { "rank": 4, "title": "Sam's Song", "artist": "Gary Crosby & Bing Crosby" },
-    { "rank": 5, "title": "Simple Melody", "artist": "Bing Crosby & Gary Crosby" },
-    { "rank": 6, "title": "Music! Music! Music!", "artist": "Teresa Brewer" },
-    { "rank": 7, "title": "Third Man Theme", "artist": "Guy Lombardo & His Royal Canadians" },
-    { "rank": 8, "title": "Chattanoogie Shoe Shine Boy", "artist": "Red Foley" },
-    { "rank": 9, "title": "Harbor Lights", "artist": "Sammy Kaye & His Orchestra" },
-    { "rank": 10, "title": "It Isn't Fair", "artist": "Sammy Kaye & Don Cornell" }
+    {
+      "rank": 1,
+      "title": "Goodnight, Irene",
+      "artist": "Gordon Jenkins & The Weavers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024b849b662914cb4d329cda03",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:45zQMiUWAzODSGbIRulxBj",
+      "spotifyUrl": "https://open.spotify.com/track/45zQMiUWAzODSGbIRulxBj"
+    },
+    {
+      "rank": 2,
+      "title": "Mona Lisa",
+      "artist": "Nat King Cole",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fdd261528e3590ac36bb85f0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5dae01pKNjRQtgOeAkFzPY",
+      "spotifyUrl": "https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY"
+    },
+    {
+      "rank": 3,
+      "title": "Third Man Theme",
+      "artist": "Anton Karas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022d92e50a2af30a182344c3e7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1jWbae7ESwl2fWHGwcLvLk",
+      "spotifyUrl": "https://open.spotify.com/track/1jWbae7ESwl2fWHGwcLvLk"
+    },
+    {
+      "rank": 4,
+      "title": "Sam's Song",
+      "artist": "Gary Crosby & Bing Crosby",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f2d081693e25cc52d620802f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1Wnlagmoyo7M7Ine1wY71p",
+      "spotifyUrl": "https://open.spotify.com/track/1Wnlagmoyo7M7Ine1wY71p"
+    },
+    {
+      "rank": 5,
+      "title": "Simple Melody",
+      "artist": "Bing Crosby & Gary Crosby",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0206a3579c60daa638a161d453",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4Vni1RirjdHWgp075KSumm",
+      "spotifyUrl": "https://open.spotify.com/track/4Vni1RirjdHWgp075KSumm"
+    },
+    {
+      "rank": 6,
+      "title": "Music! Music! Music!",
+      "artist": "Teresa Brewer",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b8f913d82e640cb8dbac90ea",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:68ZOKozM9xmlp1iwaQSwY7",
+      "spotifyUrl": "https://open.spotify.com/track/68ZOKozM9xmlp1iwaQSwY7"
+    },
+    {
+      "rank": 7,
+      "title": "Third Man Theme",
+      "artist": "Guy Lombardo & His Royal Canadians",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e1c6928ce9454c2e20f78776",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5iIf8Fum1trKgTJo5liWDN",
+      "spotifyUrl": "https://open.spotify.com/track/5iIf8Fum1trKgTJo5liWDN"
+    },
+    {
+      "rank": 8,
+      "title": "Chattanoogie Shoe Shine Boy",
+      "artist": "Red Foley",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e620e5a233c1fb08e5da43fd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7Jf323ttHKUnPylFWiaGl3",
+      "spotifyUrl": "https://open.spotify.com/track/7Jf323ttHKUnPylFWiaGl3"
+    },
+    {
+      "rank": 9,
+      "title": "Harbor Lights",
+      "artist": "Sammy Kaye & His Orchestra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0285e3b1a8039abef513d43f9c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:00vJeips2Rwr2qN1qODvyf",
+      "spotifyUrl": "https://open.spotify.com/track/00vJeips2Rwr2qN1qODvyf"
+    },
+    {
+      "rank": 10,
+      "title": "It Isn't Fair",
+      "artist": "Sammy Kaye & Don Cornell",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021fbc4e33cef6a29a1ea8179d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1h6aiaUzVWhCKGnMaPieGF",
+      "spotifyUrl": "https://open.spotify.com/track/1h6aiaUzVWhCKGnMaPieGF"
+    }
   ]
 }

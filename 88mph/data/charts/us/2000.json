@@ -3,15 +3,95 @@
   "year": 2000,
   "context": "A remarkably eclectic pop landscape. Santana's comeback brought Latin rock to the mainstream. Boy bands and teen pop were at their commercial peak, but alternative acts like Vertical Horizon also broke through. R&B dominated with Destiny's Child leading the charge.",
   "tracks": [
-    { "rank": 1, "title": "Breathe", "artist": "Faith Hill" },
-    { "rank": 2, "title": "Smooth", "artist": "Santana feat. Rob Thomas" },
-    { "rank": 3, "title": "Maria Maria", "artist": "Santana feat. The Product G&B" },
-    { "rank": 4, "title": "I Wanna Know", "artist": "Joe" },
-    { "rank": 5, "title": "Everything You Want", "artist": "Vertical Horizon" },
-    { "rank": 6, "title": "Say My Name", "artist": "Destiny's Child" },
-    { "rank": 7, "title": "I Knew I Loved You", "artist": "Savage Garden" },
-    { "rank": 8, "title": "Amazed", "artist": "Lonestar" },
-    { "rank": 9, "title": "Bent", "artist": "Matchbox Twenty" },
-    { "rank": 10, "title": "He Wasn't Man Enough", "artist": "Toni Braxton" }
+    {
+      "rank": 1,
+      "title": "Breathe",
+      "artist": "Faith Hill",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f4adbbdcd39b09e5f0b9e03e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3y4LxiYMgDl4RethdzpmNe",
+      "spotifyUrl": "https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe"
+    },
+    {
+      "rank": 2,
+      "title": "Smooth",
+      "artist": "Santana feat. Rob Thomas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0205517e4e2defded1e818d3d0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2pX4FpOgwItRVPPUFdRcxA",
+      "spotifyUrl": "https://open.spotify.com/track/2pX4FpOgwItRVPPUFdRcxA"
+    },
+    {
+      "rank": 3,
+      "title": "Maria Maria",
+      "artist": "Santana feat. The Product G&B",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0247eb3ea5a92904c19e102e54",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3XKIUb7HzIF1Vu9usunMzc",
+      "spotifyUrl": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc"
+    },
+    {
+      "rank": 4,
+      "title": "I Wanna Know",
+      "artist": "Joe",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a922b88ddf084fada794caf9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1m2xMsxbtxv21Brome189p",
+      "spotifyUrl": "https://open.spotify.com/track/1m2xMsxbtxv21Brome189p"
+    },
+    {
+      "rank": 5,
+      "title": "Everything You Want",
+      "artist": "Vertical Horizon",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dde37a43468f6a6f60f782e1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4cKGldbhGJniI8BrB3K6tb",
+      "spotifyUrl": "https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb"
+    },
+    {
+      "rank": 6,
+      "title": "Say My Name",
+      "artist": "Destiny's Child",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023718df75b57340c1947747e8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7H6ev70Weq6DdpZyyTmUXk",
+      "spotifyUrl": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
+    },
+    {
+      "rank": 7,
+      "title": "I Knew I Loved You",
+      "artist": "Savage Garden",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f2acb28c792e4594c0f11e8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6nozDLxeL0TE4MS9GqYU1v",
+      "spotifyUrl": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
+    },
+    {
+      "rank": 8,
+      "title": "Amazed",
+      "artist": "Lonestar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0241d35bfbac1ba0af6180206f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6qc34bnVOyqGDPni8H5W0U",
+      "spotifyUrl": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+      "rank": 9,
+      "title": "Bent",
+      "artist": "Matchbox Twenty",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023813e6d5d97334659fb1daed",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6fA7akEuTUL3dW1V0GELaZ",
+      "spotifyUrl": "https://open.spotify.com/track/6fA7akEuTUL3dW1V0GELaZ"
+    },
+    {
+      "rank": 10,
+      "title": "He Wasn't Man Enough",
+      "artist": "Toni Braxton",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02126720399a6b06e1c6bd46c6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7f1Dmr246cJ9uQYdbplTbh",
+      "spotifyUrl": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
+    }
   ]
 }

@@ -3,15 +3,95 @@
   "year": 1980,
   "context": "A vibrant year for Australian music. Split Enz topped the year-end chart while new wave reshaped pop. The charts captured the transition from disco to new wave, with punk energy seeping into the mainstream alongside lingering 1970s sensibilities.",
   "tracks": [
-    { "rank": 1, "title": "I Got You", "artist": "Split Enz" },
-    { "rank": 2, "title": "Turning Japanese", "artist": "The Vapors" },
-    { "rank": 3, "title": "Crazy Little Thing Called Love", "artist": "Queen" },
-    { "rank": 4, "title": "Another Brick in the Wall (Part II)", "artist": "Pink Floyd" },
-    { "rank": 5, "title": "Brass in Pocket", "artist": "Pretenders" },
-    { "rank": 6, "title": "Can't Stop the Music", "artist": "Village People" },
-    { "rank": 7, "title": "Space Invaders", "artist": "Player One" },
-    { "rank": 8, "title": "More Than I Can Say", "artist": "Leo Sayer" },
-    { "rank": 9, "title": "Funkytown", "artist": "Lipps Inc." },
-    { "rank": 10, "title": "Please Don't Go", "artist": "KC & The Sunshine Band" }
+    {
+      "rank": 1,
+      "title": "I Got You",
+      "artist": "Split Enz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b465d43924a1b17ebec394c3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3KOPorZiKeW6gFeIViqMoq",
+      "spotifyUrl": "https://open.spotify.com/track/3KOPorZiKeW6gFeIViqMoq"
+    },
+    {
+      "rank": 2,
+      "title": "Turning Japanese",
+      "artist": "The Vapors",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b95526b717c68e15eef722d7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:30cHDhxUqgnHq78hv5UjMx",
+      "spotifyUrl": "https://open.spotify.com/track/30cHDhxUqgnHq78hv5UjMx"
+    },
+    {
+      "rank": 3,
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Queen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0207744e2ed983efa3e6620a47",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:35ItUJlMtjOQW3SSiTCrrw",
+      "spotifyUrl": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
+    },
+    {
+      "rank": 4,
+      "title": "Another Brick in the Wall (Part II)",
+      "artist": "Pink Floyd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b694e89ba937dd2631ff584c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4gMgiXfqyzZLMhsksGmbQV",
+      "spotifyUrl": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
+    },
+    {
+      "rank": 5,
+      "title": "Brass in Pocket",
+      "artist": "Pretenders",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023bfd0d4e205f83b591600e43",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1QaJWSCk3UMKLotnPCIHh1",
+      "spotifyUrl": "https://open.spotify.com/track/1QaJWSCk3UMKLotnPCIHh1"
+    },
+    {
+      "rank": 6,
+      "title": "Can't Stop the Music",
+      "artist": "Village People",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0243d321e82bf3646b5ca945e4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6xPfjyqgIOtiRhr4lxJXgp",
+      "spotifyUrl": "https://open.spotify.com/track/6xPfjyqgIOtiRhr4lxJXgp"
+    },
+    {
+      "rank": 7,
+      "title": "Space Invaders",
+      "artist": "Player One",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023d6278f38dbf73526e7bf948",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1LGv7oHSOGKzpkY3Z8pzc3",
+      "spotifyUrl": "https://open.spotify.com/track/1LGv7oHSOGKzpkY3Z8pzc3"
+    },
+    {
+      "rank": 8,
+      "title": "More Than I Can Say",
+      "artist": "Leo Sayer",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ef49fa6f14efebce39f08977",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3RJ81z1sPLeWEFuCfGaCLC",
+      "spotifyUrl": "https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC"
+    },
+    {
+      "rank": 9,
+      "title": "Funkytown",
+      "artist": "Lipps Inc.",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ff20337899af5e6a29e9bb8f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0KQh7AuuZvpTKWhcJa8Pbr",
+      "spotifyUrl": "https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr"
+    },
+    {
+      "rank": 10,
+      "title": "Please Don't Go",
+      "artist": "KC & The Sunshine Band",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02929538550b8f18836a376915",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6dw6BquK0Mv72p6HpusqKN",
+      "spotifyUrl": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
+    }
   ]
 }

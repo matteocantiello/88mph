@@ -3,15 +3,95 @@
   "year": 1985,
   "context": "During China's 'opening up' period after the Cultural Revolution, mainland audiences were hungry for Cantopop and Mandopop from Hong Kong and Taiwan. Teresa Teng's songs, though officially banned on state radio, circulated widely on bootleg cassettes. Lo Ta-yu's 'Tomorrow Will Be Better' (inspired by 'We Are the World') became a pan-Chinese anthem.",
   "tracks": [
-    { "rank": 1, "title": "Mingri Hui Genghao (Tomorrow Will Be Better)", "artist": "Various Artists (organized by Lo Ta-yu)" },
-    { "rank": 2, "title": "Ai Zai Shenqiu (Love in Deep Autumn)", "artist": "Alan Tam" },
-    { "rank": 3, "title": "Yue Liang Dai Biao Wo De Xin (The Moon Represents My Heart)", "artist": "Teresa Teng" },
-    { "rank": 4, "title": "Monica", "artist": "Leslie Cheung" },
-    { "rank": 5, "title": "Shanghai Tan (The Bund)", "artist": "Frances Yip" },
-    { "rank": 6, "title": "Wo De Zhongguo Xin (My Chinese Heart)", "artist": "Zhang Minmin" },
-    { "rank": 7, "title": "Tian Mi Mi (Sweet Honey)", "artist": "Teresa Teng" },
-    { "rank": 8, "title": "Zhi Wei Ni Zhongqing (For Your Love Only)", "artist": "Alan Tam" },
-    { "rank": 9, "title": "Nupeng You (Evil Girl)", "artist": "Anita Mui" },
-    { "rank": 10, "title": "Long De Chuanren (Descendants of the Dragon)", "artist": "Hou Dejian" }
+    {
+      "rank": 1,
+      "title": "Mingri Hui Genghao (Tomorrow Will Be Better)",
+      "artist": "Various Artists (organized by Lo Ta-yu)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dc2c10bb91230309ec6b1d53",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5bcbAT32LJS87hklgOxUqM",
+      "spotifyUrl": "https://open.spotify.com/track/5bcbAT32LJS87hklgOxUqM"
+    },
+    {
+      "rank": 2,
+      "title": "Ai Zai Shenqiu (Love in Deep Autumn)",
+      "artist": "Alan Tam",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282f265eb263b5e3e1a56e695",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3A6BvpLy1j7EqnmV7jtG4v",
+      "spotifyUrl": "https://open.spotify.com/track/3A6BvpLy1j7EqnmV7jtG4v"
+    },
+    {
+      "rank": 3,
+      "title": "Yue Liang Dai Biao Wo De Xin (The Moon Represents My Heart)",
+      "artist": "Teresa Teng",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0235658343cbe1e04cef78f957",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Srw8isgDzmYsgwDi4MtbD",
+      "spotifyUrl": "https://open.spotify.com/track/3Srw8isgDzmYsgwDi4MtbD"
+    },
+    {
+      "rank": 4,
+      "title": "Monica",
+      "artist": "Leslie Cheung",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02638ba94408a5b626b817ece5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1B9OQxCuWdWlyVICqoGcut",
+      "spotifyUrl": "https://open.spotify.com/track/1B9OQxCuWdWlyVICqoGcut"
+    },
+    {
+      "rank": 5,
+      "title": "Shanghai Tan (The Bund)",
+      "artist": "Frances Yip",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5cea4b2eadc97b2e123b97c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5tbyORxtKTPjYBqfNVWS41",
+      "spotifyUrl": "https://open.spotify.com/track/5tbyORxtKTPjYBqfNVWS41"
+    },
+    {
+      "rank": 6,
+      "title": "Wo De Zhongguo Xin (My Chinese Heart)",
+      "artist": "Zhang Minmin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ee9aa110e771d1157000acf7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:564vEmd4LbAu0k5xdqdgF6",
+      "spotifyUrl": "https://open.spotify.com/track/564vEmd4LbAu0k5xdqdgF6"
+    },
+    {
+      "rank": 7,
+      "title": "Tian Mi Mi (Sweet Honey)",
+      "artist": "Teresa Teng",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b8e528a10133b418315591b6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1aqBXVyNJf1Ihwh5tqRH7n",
+      "spotifyUrl": "https://open.spotify.com/track/1aqBXVyNJf1Ihwh5tqRH7n"
+    },
+    {
+      "rank": 8,
+      "title": "Zhi Wei Ni Zhongqing (For Your Love Only)",
+      "artist": "Alan Tam",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0208621891f5e9d4db19741f5c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:44VsCDWlS0D2BmOv03Y5gX",
+      "spotifyUrl": "https://open.spotify.com/track/44VsCDWlS0D2BmOv03Y5gX"
+    },
+    {
+      "rank": 9,
+      "title": "Nupeng You (Evil Girl)",
+      "artist": "Anita Mui",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bf640cd39d097f99c6f6e48f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1jKlRcH7X78ps1yKBTWyUV",
+      "spotifyUrl": "https://open.spotify.com/track/1jKlRcH7X78ps1yKBTWyUV"
+    },
+    {
+      "rank": 10,
+      "title": "Long De Chuanren (Descendants of the Dragon)",
+      "artist": "Hou Dejian",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025a91f192a51617a44760aad8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5LquyIubnwXeNP8W3jxknu",
+      "spotifyUrl": "https://open.spotify.com/track/5LquyIubnwXeNP8W3jxknu"
+    }
   ]
 }

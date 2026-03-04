@@ -3,15 +3,95 @@
   "year": 1965,
   "context": "The golden age of French ye-ye pop, inspired by American and British rock but sung in French. France Gall won Eurovision, Christophe's 'Aline' became an enduring classic, and chanson coexisted with the British Invasion's influence.",
   "tracks": [
-    { "rank": 1, "title": "Aline", "artist": "Christophe" },
-    { "rank": 2, "title": "Poupee de cire, poupee de son", "artist": "France Gall" },
-    { "rank": 3, "title": "Capri c'est fini", "artist": "Herve Vilard" },
-    { "rank": 4, "title": "La Nuit", "artist": "Adamo" },
-    { "rank": 5, "title": "Mes Mains sur tes Hanches", "artist": "Adamo" },
-    { "rank": 6, "title": "Quand revient la nuit", "artist": "Johnny Hallyday" },
-    { "rank": 7, "title": "Les Choses de la Maison", "artist": "Claude Francois" },
-    { "rank": 8, "title": "Meme si tu revenais", "artist": "Claude Francois" },
-    { "rank": 9, "title": "N'avoue jamais", "artist": "Guy Mardel" },
-    { "rank": 10, "title": "Hier encore", "artist": "Charles Aznavour" }
+    {
+      "rank": 1,
+      "title": "Aline",
+      "artist": "Christophe",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ebcecaae1c39575c1b4cc131",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4pU5MiapjzzbqvXfKhcZT9",
+      "spotifyUrl": "https://open.spotify.com/track/4pU5MiapjzzbqvXfKhcZT9"
+    },
+    {
+      "rank": 2,
+      "title": "Poupee de cire, poupee de son",
+      "artist": "France Gall",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027fe0b9c3098a70df0b8fc5a5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:26tXIAnv90FCv1eJiCUusH",
+      "spotifyUrl": "https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH"
+    },
+    {
+      "rank": 3,
+      "title": "Capri c'est fini",
+      "artist": "Herve Vilard",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022fc06563e2e72145632577cb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0PIAMCcvkLZ6P2YwWZ1e5H",
+      "spotifyUrl": "https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H"
+    },
+    {
+      "rank": 4,
+      "title": "La Nuit",
+      "artist": "Adamo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023d5f6b691a84b28839914205",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3ro3E33gDIygByT4bF3TsR",
+      "spotifyUrl": "https://open.spotify.com/track/3ro3E33gDIygByT4bF3TsR"
+    },
+    {
+      "rank": 5,
+      "title": "Mes Mains sur tes Hanches",
+      "artist": "Adamo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020c666377de2a949a69ade1d3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4chX3KwIY3BJBqsnXpgDSy",
+      "spotifyUrl": "https://open.spotify.com/track/4chX3KwIY3BJBqsnXpgDSy"
+    },
+    {
+      "rank": 6,
+      "title": "Quand revient la nuit",
+      "artist": "Johnny Hallyday",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e492a524b7df77347ee9d0cc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7uW0snoE7o4ESNQyWGc7hG",
+      "spotifyUrl": "https://open.spotify.com/track/7uW0snoE7o4ESNQyWGc7hG"
+    },
+    {
+      "rank": 7,
+      "title": "Les Choses de la Maison",
+      "artist": "Claude Francois",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0261ffdc4aacbab36fab0abd39",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:55YJipsj2v8OwEZOFGD2cp",
+      "spotifyUrl": "https://open.spotify.com/track/55YJipsj2v8OwEZOFGD2cp"
+    },
+    {
+      "rank": 8,
+      "title": "Meme si tu revenais",
+      "artist": "Claude Francois",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e6331658f21ef1af5dfc5c39",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Cx0tQSHJp1sy8ZvT0z6hy",
+      "spotifyUrl": "https://open.spotify.com/track/5Cx0tQSHJp1sy8ZvT0z6hy"
+    },
+    {
+      "rank": 9,
+      "title": "N'avoue jamais",
+      "artist": "Guy Mardel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02de4f0693bc2945947c9ff038",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1vPCbI7QPZtU6T42uaeP8w",
+      "spotifyUrl": "https://open.spotify.com/track/1vPCbI7QPZtU6T42uaeP8w"
+    },
+    {
+      "rank": 10,
+      "title": "Hier encore",
+      "artist": "Charles Aznavour",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024c4557910606021d3ff391be",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:66TDFKCZpMRfLcgJpa15xq",
+      "spotifyUrl": "https://open.spotify.com/track/66TDFKCZpMRfLcgJpa15xq"
+    }
   ]
 }

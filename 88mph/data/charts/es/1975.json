@@ -3,15 +3,95 @@
   "year": 1975,
   "context": "1975 was pivotal in Spanish history — the year General Franco died on November 20, ending nearly four decades of dictatorship. Spanish popular music was dominated by romantic balladists like Camilo Sesto, Julio Iglesias, and the tragic Cecilia. Charts mixed Spanish pop and early flamenco-pop crossovers while protest songs circulated underground. Camilo Sesto's 'Melina' held #1 on Los 40 Principales for six consecutive weeks.",
   "tracks": [
-    { "rank": 1, "title": "Melina", "artist": "Camilo Sesto" },
-    { "rank": 2, "title": "Un Ramito de Violetas", "artist": "Cecilia" },
-    { "rank": 3, "title": "Y Te Vas", "artist": "José Luis Perales" },
-    { "rank": 4, "title": "Getsemaní (Oración del Huerto)", "artist": "Camilo Sesto" },
-    { "rank": 5, "title": "Quiero", "artist": "Julio Iglesias" },
-    { "rank": 6, "title": "Para Que No Me Olvides", "artist": "Lorenzo Santamaría" },
-    { "rank": 7, "title": "Amor, Amor", "artist": "Lolita Flores" },
-    { "rank": 8, "title": "Quédate", "artist": "Miguel Gallardo" },
-    { "rank": 9, "title": "Mi Querida España", "artist": "Cecilia" },
-    { "rank": 10, "title": "Tu Volverás", "artist": "Sergio y Estíbaliz" }
+    {
+      "rank": 1,
+      "title": "Melina",
+      "artist": "Camilo Sesto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0232f0075425362c4d9cc5e0b3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3utK0tH0YhlB5fIjdy3em7",
+      "spotifyUrl": "https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7"
+    },
+    {
+      "rank": 2,
+      "title": "Un Ramito de Violetas",
+      "artist": "Cecilia",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027255c930a62e8c1026fa1654",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2aD9665755JRR3MCWADKo9",
+      "spotifyUrl": "https://open.spotify.com/track/2aD9665755JRR3MCWADKo9"
+    },
+    {
+      "rank": 3,
+      "title": "Y Te Vas",
+      "artist": "José Luis Perales",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026c722a34d79fdc8dd46e9d9b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0AlxkpxyHszvNIuHxBHuDK",
+      "spotifyUrl": "https://open.spotify.com/track/0AlxkpxyHszvNIuHxBHuDK"
+    },
+    {
+      "rank": 4,
+      "title": "Getsemaní (Oración del Huerto)",
+      "artist": "Camilo Sesto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0299bb1c7d34a5d3f905d40905",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:49Ved7nBuSy0wafl49g2f5",
+      "spotifyUrl": "https://open.spotify.com/track/49Ved7nBuSy0wafl49g2f5"
+    },
+    {
+      "rank": 5,
+      "title": "Quiero",
+      "artist": "Julio Iglesias",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020c30c4a5ffff61a7f0ec065b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Lujha28PPV5Af6wrmc0Z1",
+      "spotifyUrl": "https://open.spotify.com/track/6Lujha28PPV5Af6wrmc0Z1"
+    },
+    {
+      "rank": 6,
+      "title": "Para Que No Me Olvides",
+      "artist": "Lorenzo Santamaría",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f3c88b142077b65a5bf387db",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:17ZNANF0EA03icw5LpFSOF",
+      "spotifyUrl": "https://open.spotify.com/track/17ZNANF0EA03icw5LpFSOF"
+    },
+    {
+      "rank": 7,
+      "title": "Amor, Amor",
+      "artist": "Lolita Flores",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bc5bd66bfa23cd1512239202",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1B1BxARQoujJhrlPD5PbwB",
+      "spotifyUrl": "https://open.spotify.com/track/1B1BxARQoujJhrlPD5PbwB"
+    },
+    {
+      "rank": 8,
+      "title": "Quédate",
+      "artist": "Miguel Gallardo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a628a7e11373c6107abfe44a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:62pzOUx1fqKcTlPiflkvDD",
+      "spotifyUrl": "https://open.spotify.com/track/62pzOUx1fqKcTlPiflkvDD"
+    },
+    {
+      "rank": 9,
+      "title": "Mi Querida España",
+      "artist": "Cecilia",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02643bfdd92274a5075115f8d0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4yRhJ1Hz8Flm364Y1WJj5w",
+      "spotifyUrl": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+    },
+    {
+      "rank": 10,
+      "title": "Tu Volverás",
+      "artist": "Sergio y Estíbaliz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029c61c8322e9cd76d16e018f7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2KYlV00chBWcckA8smxYJW",
+      "spotifyUrl": "https://open.spotify.com/track/2KYlV00chBWcckA8smxYJW"
+    }
   ]
 }

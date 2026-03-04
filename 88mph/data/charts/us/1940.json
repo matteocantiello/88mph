@@ -3,15 +3,95 @@
   "year": 1940,
   "context": "As WWII engulfed Europe, America found solace in the lush sounds of big band swing. Glenn Miller dominated the airwaves while Billie Holiday redefined vocal jazz. The jukebox became the heartbeat of every diner and dance hall.",
   "tracks": [
-    { "rank": 1, "title": "In the Mood", "artist": "Glenn Miller" },
-    { "rank": 2, "title": "Frenesi", "artist": "Artie Shaw" },
-    { "rank": 3, "title": "I'll Never Smile Again", "artist": "Tommy Dorsey & Frank Sinatra" },
-    { "rank": 4, "title": "When You Wish Upon a Star", "artist": "Cliff Edwards" },
-    { "rank": 5, "title": "Tuxedo Junction", "artist": "Glenn Miller" },
-    { "rank": 6, "title": "Woodpecker Song", "artist": "Kay Kyser" },
-    { "rank": 7, "title": "Playmates", "artist": "Kay Kyser" },
-    { "rank": 8, "title": "Imagination", "artist": "Glenn Miller" },
-    { "rank": 9, "title": "Only Forever", "artist": "Bing Crosby" },
-    { "rank": 10, "title": "All the Things You Are", "artist": "Tommy Dorsey" }
+    {
+      "rank": 1,
+      "title": "In the Mood",
+      "artist": "Glenn Miller",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027322bf3bcd991ebf28b8b352",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:54h1RKrrFJDsNOfhwmqu9o",
+      "spotifyUrl": "https://open.spotify.com/track/54h1RKrrFJDsNOfhwmqu9o"
+    },
+    {
+      "rank": 2,
+      "title": "Frenesi",
+      "artist": "Artie Shaw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bc8e5a7dff01549ac7816454",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Mt5Q5J5mDFIKs4r2HRQsT",
+      "spotifyUrl": "https://open.spotify.com/track/5Mt5Q5J5mDFIKs4r2HRQsT"
+    },
+    {
+      "rank": 3,
+      "title": "I'll Never Smile Again",
+      "artist": "Tommy Dorsey & Frank Sinatra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026a07ae0cc876b3d0dc4d076f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Pi0rY9FcbaecqO0AyhXbu",
+      "spotifyUrl": "https://open.spotify.com/track/2Pi0rY9FcbaecqO0AyhXbu"
+    },
+    {
+      "rank": 4,
+      "title": "When You Wish Upon a Star",
+      "artist": "Cliff Edwards",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b39b3e92b417569411ee8b8a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3yrKmtTQgiNGcD1stPGwdE",
+      "spotifyUrl": "https://open.spotify.com/track/3yrKmtTQgiNGcD1stPGwdE"
+    },
+    {
+      "rank": 5,
+      "title": "Tuxedo Junction",
+      "artist": "Glenn Miller",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aff46654b5dd4a0f72d17cc0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1GFBBzqU8trjyVgpLB6Acm",
+      "spotifyUrl": "https://open.spotify.com/track/1GFBBzqU8trjyVgpLB6Acm"
+    },
+    {
+      "rank": 6,
+      "title": "Woodpecker Song",
+      "artist": "Kay Kyser",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263064a57972c3642ff9ce9fd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4a5fzw7uaQJsRX1XFzr3NH",
+      "spotifyUrl": "https://open.spotify.com/track/4a5fzw7uaQJsRX1XFzr3NH"
+    },
+    {
+      "rank": 7,
+      "title": "Playmates",
+      "artist": "Kay Kyser",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02785851b46be252df141a49e2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4ZLj2oHxZQlkZE4JMSljEE",
+      "spotifyUrl": "https://open.spotify.com/track/4ZLj2oHxZQlkZE4JMSljEE"
+    },
+    {
+      "rank": 8,
+      "title": "Imagination",
+      "artist": "Glenn Miller",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b88ce9d60dc448327a18faec",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:68JPXuMgdflwpMu1ZTVvjX",
+      "spotifyUrl": "https://open.spotify.com/track/68JPXuMgdflwpMu1ZTVvjX"
+    },
+    {
+      "rank": 9,
+      "title": "Only Forever",
+      "artist": "Bing Crosby",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f2d081693e25cc52d620802f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4JbyoXyzkwvAn5zRp9H0L2",
+      "spotifyUrl": "https://open.spotify.com/track/4JbyoXyzkwvAn5zRp9H0L2"
+    },
+    {
+      "rank": 10,
+      "title": "All the Things You Are",
+      "artist": "Tommy Dorsey",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026a07ae0cc876b3d0dc4d076f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2jy1wczC6Fuym2eT2XVQQ6",
+      "spotifyUrl": "https://open.spotify.com/track/2jy1wczC6Fuym2eT2XVQQ6"
+    }
   ]
 }

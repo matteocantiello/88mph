@@ -3,15 +3,95 @@
   "year": 1990,
   "context": "1990 was the year of German reunification, and the charts reflected both historic euphoria and the global dance/electronic explosion. Matthias Reim's 'Verdammt, Ich Lieb' Dich' became the best-selling German-language single, embodying reunification-era emotion. Snap! represented the Frankfurt-born Eurodance wave that would define the decade.",
   "tracks": [
-    { "rank": 1, "title": "Verdammt, Ich Lieb' Dich", "artist": "Matthias Reim" },
-    { "rank": 2, "title": "Nothing Compares 2 U", "artist": "Sinéad O'Connor" },
-    { "rank": 3, "title": "Another Day in Paradise", "artist": "Phil Collins" },
-    { "rank": 4, "title": "The Power", "artist": "Snap!" },
-    { "rank": 5, "title": "Ooops Up", "artist": "Snap!" },
-    { "rank": 6, "title": "Tom's Diner", "artist": "DNA & Suzanne Vega" },
-    { "rank": 7, "title": "I Promised Myself", "artist": "Nick Kamen" },
-    { "rank": 8, "title": "Kingston Town", "artist": "UB40" },
-    { "rank": 9, "title": "Infinity", "artist": "Guru Josh" },
-    { "rank": 10, "title": "Enjoy the Silence", "artist": "Depeche Mode" }
+    {
+      "rank": 1,
+      "title": "Verdammt, Ich Lieb' Dich",
+      "artist": "Matthias Reim",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027ff71fe6a1e101b9aaca7d55",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4C9fCiueWcpCpnS47sFrsZ",
+      "spotifyUrl": "https://open.spotify.com/track/4C9fCiueWcpCpnS47sFrsZ"
+    },
+    {
+      "rank": 2,
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinéad O'Connor",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02919c02d20d8634f96ccd75ae",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5GHY1DFWKz3Prg2V0Iodqo",
+      "spotifyUrl": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
+    },
+    {
+      "rank": 3,
+      "title": "Another Day in Paradise",
+      "artist": "Phil Collins",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fb2daafa0993f39d87a84385",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1NCuYqMc8hKMb4cpNTcJbD",
+      "spotifyUrl": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
+    },
+    {
+      "rank": 4,
+      "title": "The Power",
+      "artist": "Snap!",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dbdaebc580486417330f2500",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0gRhXiFgrIz8OfSW4up1k1",
+      "spotifyUrl": "https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1"
+    },
+    {
+      "rank": 5,
+      "title": "Ooops Up",
+      "artist": "Snap!",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02233e9214e557aa8f60e6df47",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3ZZCDg52LIMMLXch7IaYDO",
+      "spotifyUrl": "https://open.spotify.com/track/3ZZCDg52LIMMLXch7IaYDO"
+    },
+    {
+      "rank": 6,
+      "title": "Tom's Diner",
+      "artist": "DNA & Suzanne Vega",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e6c9030b1a321f506b8f812b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4QtScYyh6Yxio27udYPhh0",
+      "spotifyUrl": "https://open.spotify.com/track/4QtScYyh6Yxio27udYPhh0"
+    },
+    {
+      "rank": 7,
+      "title": "I Promised Myself",
+      "artist": "Nick Kamen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a0a0479b794ec14a0804bbd9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5jVJAojK3LFKETjI2gYb8O",
+      "spotifyUrl": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
+    },
+    {
+      "rank": 8,
+      "title": "Kingston Town",
+      "artist": "UB40",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028949d9805df054b4bc9cd563",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3e7yziCpnpx2ujgvXqSLzp",
+      "spotifyUrl": "https://open.spotify.com/track/3e7yziCpnpx2ujgvXqSLzp"
+    },
+    {
+      "rank": 9,
+      "title": "Infinity",
+      "artist": "Guru Josh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026500b68b5138f81d895654b5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3aQz0z86zrKjd1mcZlonxE",
+      "spotifyUrl": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
+    },
+    {
+      "rank": 10,
+      "title": "Enjoy the Silence",
+      "artist": "Depeche Mode",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02972ac79d249efed1c7b2c8c1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0yp3TvJNlG50Q4tAHWNCRm",
+      "spotifyUrl": "https://open.spotify.com/track/0yp3TvJNlG50Q4tAHWNCRm"
+    }
   ]
 }

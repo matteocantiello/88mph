@@ -3,15 +3,95 @@
   "year": 1965,
   "context": "The British Invasion collided with Motown's golden age. The Rolling Stones brought blues-rock swagger while The Supremes defined sophisticated pop. Bob Dylan went electric at Newport and nothing was the same.",
   "tracks": [
-    { "rank": 1, "title": "(I Can't Get No) Satisfaction", "artist": "The Rolling Stones" },
-    { "rank": 2, "title": "Yesterday", "artist": "The Beatles" },
-    { "rank": 3, "title": "I Got You Babe", "artist": "Sonny & Cher" },
-    { "rank": 4, "title": "Stop! In the Name of Love", "artist": "The Supremes" },
-    { "rank": 5, "title": "Help!", "artist": "The Beatles" },
-    { "rank": 6, "title": "My Girl", "artist": "The Temptations" },
-    { "rank": 7, "title": "Like a Rolling Stone", "artist": "Bob Dylan" },
-    { "rank": 8, "title": "Turn! Turn! Turn!", "artist": "The Byrds" },
-    { "rank": 9, "title": "I Can't Help Myself", "artist": "Four Tops" },
-    { "rank": 10, "title": "Mr. Tambourine Man", "artist": "The Byrds" }
+    {
+      "rank": 1,
+      "title": "(I Can't Get No) Satisfaction",
+      "artist": "The Rolling Stones",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0205c5be85b64eaff732f7cb0b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2PzU4IB8Dr6mxV3lHuaG34",
+      "spotifyUrl": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
+    },
+    {
+      "rank": 2,
+      "title": "Yesterday",
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3BQHpFgAp4l80e1XslIjNI",
+      "spotifyUrl": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
+    },
+    {
+      "rank": 3,
+      "title": "I Got You Babe",
+      "artist": "Sonny & Cher",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0238c7f6495876ff013e98bdf9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4SGBuq37Ol4HJr7pQqFMKa",
+      "spotifyUrl": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
+    },
+    {
+      "rank": 4,
+      "title": "Stop! In the Name of Love",
+      "artist": "The Supremes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f784c1334630d76b06a0d1b3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:52FlwUMMDnTK8TGkCag9Jd",
+      "spotifyUrl": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "rank": 5,
+      "title": "Help!",
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7DD7eSuYSC5xk2ArU62esN",
+      "spotifyUrl": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
+    },
+    {
+      "rank": 6,
+      "title": "My Girl",
+      "artist": "The Temptations",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021a5b6271ae1c8497df20916e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:745H5CctFr12Mo7cqa1BMH",
+      "spotifyUrl": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "rank": 7,
+      "title": "Like a Rolling Stone",
+      "artist": "Bob Dylan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020cb0884829c5503b2e242541",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3AhXZa8sUQht0UEdBJgpGc",
+      "spotifyUrl": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
+    },
+    {
+      "rank": 8,
+      "title": "Turn! Turn! Turn!",
+      "artist": "The Byrds",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028ebc5d5d4fcf960b083af081",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5qBqBdfTEIWJwAS0Jm2F5R",
+      "spotifyUrl": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
+    },
+    {
+      "rank": 9,
+      "title": "I Can't Help Myself",
+      "artist": "Four Tops",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c0fa62ae53b2aeae3766f13d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6b6IMqP565TbtFFZg9iFf3",
+      "spotifyUrl": "https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3"
+    },
+    {
+      "rank": 10,
+      "title": "Mr. Tambourine Man",
+      "artist": "The Byrds",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02576fccf9a91d9f7c808b8abd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2HCaIYjkvWSZzaSKUoOh3d",
+      "spotifyUrl": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
+    }
   ]
 }

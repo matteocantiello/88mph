@@ -3,15 +3,95 @@
   "year": 1960,
   "context": "Australia's 1960 chart reflected a mix of American rock and roll imports and emerging local talent. Elvis Presley dominated with multiple entries, while Rolf Harris's novelty hit 'Tie Me Kangaroo Down Sport' became an enduring Australian cultural touchstone. The chart data was compiled by historian David Kent from state-by-state radio station charts, representing the earliest reliable national data for Australia.",
   "tracks": [
-    { "rank": 1, "title": "It's Now or Never", "artist": "Elvis Presley" },
-    { "rank": 2, "title": "Boom Boom Baby", "artist": "Crash Craddock" },
-    { "rank": 3, "title": "He'll Have to Go", "artist": "Jim Reeves" },
-    { "rank": 4, "title": "Are You Lonesome Tonight?", "artist": "Elvis Presley" },
-    { "rank": 5, "title": "Clap Your Hands", "artist": "The Beau Marks" },
-    { "rank": 6, "title": "Just a Closer Walk with Thee", "artist": "Jimmie Rodgers" },
-    { "rank": 7, "title": "Save the Last Dance for Me", "artist": "The Drifters" },
-    { "rank": 8, "title": "Tie Me Kangaroo Down Sport", "artist": "Rolf Harris" },
-    { "rank": 9, "title": "What Do You Want to Make Those Eyes at Me For?", "artist": "Emile Ford and The Checkmates" },
-    { "rank": 10, "title": "My Old Man's a Dustman", "artist": "Lonnie Donegan" }
+    {
+      "rank": 1,
+      "title": "It's Now or Never",
+      "artist": "Elvis Presley",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0253f941c094e3f95ff33034da",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1XunTmhOcj3xwh4b8P3isX",
+      "spotifyUrl": "https://open.spotify.com/track/1XunTmhOcj3xwh4b8P3isX"
+    },
+    {
+      "rank": 2,
+      "title": "Boom Boom Baby",
+      "artist": "Crash Craddock",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025dd4355a60d04c0a437338bf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6TP2gIPaxiLrrUtN8nlO70",
+      "spotifyUrl": "https://open.spotify.com/track/6TP2gIPaxiLrrUtN8nlO70"
+    },
+    {
+      "rank": 3,
+      "title": "He'll Have to Go",
+      "artist": "Jim Reeves",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022aedd8069da6df1e8a607320",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7DH5dXVuQaqcKf9oTy9oUN",
+      "spotifyUrl": "https://open.spotify.com/track/7DH5dXVuQaqcKf9oTy9oUN"
+    },
+    {
+      "rank": 4,
+      "title": "Are You Lonesome Tonight?",
+      "artist": "Elvis Presley",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0252cbfb62c42adc19d5637843",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4xUqqie4bBKufHtlMuZS3k",
+      "spotifyUrl": "https://open.spotify.com/track/4xUqqie4bBKufHtlMuZS3k"
+    },
+    {
+      "rank": 5,
+      "title": "Clap Your Hands",
+      "artist": "The Beau Marks",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02daa04f62fab22bc9b45e3858",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5KaJHgTXG5GIkYB5Pjh1cf",
+      "spotifyUrl": "https://open.spotify.com/track/5KaJHgTXG5GIkYB5Pjh1cf"
+    },
+    {
+      "rank": 6,
+      "title": "Just a Closer Walk with Thee",
+      "artist": "Jimmie Rodgers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0217fc2e30ada3e06251f7bbed",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:55BzdHoOUEzvFT7zgujFmH",
+      "spotifyUrl": "https://open.spotify.com/track/55BzdHoOUEzvFT7zgujFmH"
+    },
+    {
+      "rank": 7,
+      "title": "Save the Last Dance for Me",
+      "artist": "The Drifters",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6c8814abab49d72189678a5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:391TUcoPonqYykPkSZ5Z9U",
+      "spotifyUrl": "https://open.spotify.com/track/391TUcoPonqYykPkSZ5Z9U"
+    },
+    {
+      "rank": 8,
+      "title": "Tie Me Kangaroo Down Sport",
+      "artist": "Rolf Harris",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fae2aa153f6578bae8ba2778",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:10maCTtDF9d49etMTnA45B",
+      "spotifyUrl": "https://open.spotify.com/track/10maCTtDF9d49etMTnA45B"
+    },
+    {
+      "rank": 9,
+      "title": "What Do You Want to Make Those Eyes at Me For?",
+      "artist": "Emile Ford and The Checkmates",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f322a23b16c483efe9f108ba",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6xrw30tunsi9SPHksNv4Ex",
+      "spotifyUrl": "https://open.spotify.com/track/6xrw30tunsi9SPHksNv4Ex"
+    },
+    {
+      "rank": 10,
+      "title": "My Old Man's a Dustman",
+      "artist": "Lonnie Donegan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02664c97818332766443606c43",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2soh93x3PcJVpp3uaNHKTH",
+      "spotifyUrl": "https://open.spotify.com/track/2soh93x3PcJVpp3uaNHKTH"
+    }
   ]
 }
