@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, Outfit } from "next/font/google";
 import { PlayerProvider } from "@/contexts/PlayerContext";
+import Script from "next/script";
 import MiniPlayer from "@/components/MiniPlayer";
-import VercelAnalytics from "@/components/VercelAnalytics";
 import "./globals.css";
 
 const instrumentSerif = Instrument_Serif({
@@ -40,7 +40,7 @@ export default function RootLayout({
           </div>
           <MiniPlayer />
         </PlayerProvider>
-        <VercelAnalytics />
+        <Script src="/_vercel/insights/script.js" strategy="afterInteractive" />
       </body>
     </html>
   );
