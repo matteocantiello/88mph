@@ -1,0 +1,17 @@
+{
+  "country": "es",
+  "year": 1980,
+  "context": "Spain in 1980 was in the early years of its democratic transition after decades of Franco's dictatorship. La Movida Madrileña was just beginning to stir, but the charts were still dominated by established artists like Julio Iglesias and international pop/rock acts. Los 40 Principales radio chart was the primary barometer of popularity.",
+  "tracks": [
+    { "rank": 1, "title": "Hey", "artist": "Julio Iglesias" },
+    { "rank": 2, "title": "Another Brick in the Wall", "artist": "Pink Floyd" },
+    { "rank": 3, "title": "Video Killed the Radio Star", "artist": "Buggles" },
+    { "rank": 4, "title": "Don Diablo", "artist": "Miguel Bosé" },
+    { "rank": 5, "title": "Woman in Love", "artist": "Barbra Streisand" },
+    { "rank": 6, "title": "Tu Frialdad", "artist": "Triana" },
+    { "rank": 7, "title": "Un Velero Llamado Libertad", "artist": "José Luis Perales" },
+    { "rank": 8, "title": "Háblame de Ti", "artist": "Los Pecos" },
+    { "rank": 9, "title": "Can't Stop the Music", "artist": "Village People" },
+    { "rank": 10, "title": "Santa Lucía", "artist": "Miguel Ríos" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "mx",
+  "year": 1970,
+  "context": "1970 was a transformative year for Mexican popular music, marked by the meteoric rise of José José, whose performance of 'El Triste' at the II Festival de la Canción Latina became one of the most legendary moments in Latin American music history. Chilean group Los Ángeles Negros broke through with their romantic balada style, while international pop and rock hits continued to resonate strongly on Mexican radio.",
+  "tracks": [
+    { "rank": 1, "title": "El Triste", "artist": "José José" },
+    { "rank": 2, "title": "La Nave del Olvido", "artist": "José José" },
+    { "rank": 3, "title": "Y Volveré", "artist": "Los Ángeles Negros" },
+    { "rank": 4, "title": "Sugar, Sugar", "artist": "The Archies" },
+    { "rank": 5, "title": "Raindrops Keep Fallin' on My Head", "artist": "B.J. Thomas" },
+    { "rank": 6, "title": "Cotton Fields", "artist": "Creedence Clearwater Revival" },
+    { "rank": 7, "title": "In the Summertime", "artist": "Mungo Jerry" },
+    { "rank": 8, "title": "Je t'aime... moi non plus", "artist": "Ray Conniff" },
+    { "rank": 9, "title": "Sufrir", "artist": "Los Solitarios" },
+    { "rank": 10, "title": "Run to Her", "artist": "The Beeds" }
+  ]
+}

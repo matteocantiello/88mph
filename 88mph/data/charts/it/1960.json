@@ -1,0 +1,17 @@
+{
+  "country": "it",
+  "year": 1960,
+  "context": "1960 was a watershed year for Italian pop, as Mina's 'Il Cielo in una stanza' signaled a new generation of artists. The charts show Italy at the crossroads of tradition and modernity — Umberto Bindi's sophisticated songwriting, Adriano Celentano's rock energy, and Peppino Di Capri's Neapolitan pop all coexisted during the economic boom.",
+  "tracks": [
+    { "rank": 1, "title": "Il Cielo in una stanza", "artist": "Mina" },
+    { "rank": 2, "title": "Il Nostro concerto", "artist": "Umberto Bindi" },
+    { "rank": 3, "title": "Scandalo al sole", "artist": "Percy Faith" },
+    { "rank": 4, "title": "Nessuno al mondo", "artist": "Peppino Di Capri" },
+    { "rank": 5, "title": "Personalità", "artist": "Caterina Valente" },
+    { "rank": 6, "title": "What a Sky", "artist": "Nico Fidenco" },
+    { "rank": 7, "title": "Uno a te uno a me", "artist": "Dalida" },
+    { "rank": 8, "title": "Impazzivo per te", "artist": "Adriano Celentano" },
+    { "rank": 9, "title": "Marina", "artist": "Rocco Granata" },
+    { "rank": 10, "title": "Morgen", "artist": "Eddie Calvert" }
+  ]
+}

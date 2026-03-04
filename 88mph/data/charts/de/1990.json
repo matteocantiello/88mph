@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 1990,
+  "context": "1990 was the year of German reunification, and the charts reflected both historic euphoria and the global dance/electronic explosion. Matthias Reim's 'Verdammt, Ich Lieb' Dich' became the best-selling German-language single, embodying reunification-era emotion. Snap! represented the Frankfurt-born Eurodance wave that would define the decade.",
+  "tracks": [
+    { "rank": 1, "title": "Verdammt, Ich Lieb' Dich", "artist": "Matthias Reim" },
+    { "rank": 2, "title": "Nothing Compares 2 U", "artist": "Sinéad O'Connor" },
+    { "rank": 3, "title": "Another Day in Paradise", "artist": "Phil Collins" },
+    { "rank": 4, "title": "The Power", "artist": "Snap!" },
+    { "rank": 5, "title": "Ooops Up", "artist": "Snap!" },
+    { "rank": 6, "title": "Tom's Diner", "artist": "DNA & Suzanne Vega" },
+    { "rank": 7, "title": "I Promised Myself", "artist": "Nick Kamen" },
+    { "rank": 8, "title": "Kingston Town", "artist": "UB40" },
+    { "rank": 9, "title": "Infinity", "artist": "Guru Josh" },
+    { "rank": 10, "title": "Enjoy the Silence", "artist": "Depeche Mode" }
+  ]
+}

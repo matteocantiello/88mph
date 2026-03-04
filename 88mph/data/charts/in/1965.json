@@ -1,0 +1,17 @@
+{
+  "country": "in",
+  "year": 1965,
+  "context": "The mid-1960s saw Hindi cinema embracing a wider range of styles, from the twist dance craze (Manna Dey's 'Aao Twist Kare') to devotional songs and romantic ballads. Shankar-Jaikishan and Kalyanji-Anandji dominated as music directors. The rare appearance of classical vocalist Kishori Amonkar at #10 showcased the blurring of boundaries between classical and film music.",
+  "tracks": [
+    { "rank": 1, "title": "Jis Dil Me Basa Tha Pyar Tera", "artist": "Lata Mangeshkar" },
+    { "rank": 2, "title": "Jis Dil Me Basa Tha Pyar Tera", "artist": "Mukesh" },
+    { "rank": 3, "title": "Aao Twist Kare", "artist": "Manna Dey" },
+    { "rank": 4, "title": "Laal Chhadi Maidan Khadi", "artist": "Mohammed Rafi" },
+    { "rank": 5, "title": "Tumhi Mere Mandir, Tumhi Meri Pooja", "artist": "Lata Mangeshkar" },
+    { "rank": 6, "title": "Ek Tu Na Mila", "artist": "Lata Mangeshkar" },
+    { "rank": 7, "title": "Aaja Aai Bahar, Dil Hai Beqraar", "artist": "Lata Mangeshkar" },
+    { "rank": 8, "title": "Tumse Achchha Kaun Hai", "artist": "Mohammed Rafi" },
+    { "rank": 9, "title": "Vaqt Se Din Aur Raat", "artist": "Mohammed Rafi" },
+    { "rank": 10, "title": "Saanson Ke Taar Par", "artist": "Kishori Amonkar" }
+  ]
+}

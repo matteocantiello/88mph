@@ -1,0 +1,17 @@
+{
+  "country": "kr",
+  "year": 1980,
+  "context": "1980 was turbulent in South Korea — the Gwangju Uprising and political upheaval shaped the national mood. Cho Yong-pil, the 'King of Korean Pop,' sold over 1 million copies of 'Woman Outside the Window.' The year marked a transition from traditional trot to a new ballad style, while folk-influenced singer-songwriters like Yang Hee-eun maintained strong followings.",
+  "tracks": [
+    { "rank": 1, "title": "Changbakkui Yeoja (Woman Outside the Window)", "artist": "Cho Yong-pil" },
+    { "rank": 2, "title": "Yeolbyeong (Passionate Love)", "artist": "Yun Si-nae" },
+    { "rank": 3, "title": "Dangsin Gateun Saram (Someone Like You)", "artist": "Shim Soo-bong" },
+    { "rank": 4, "title": "Isulbi Naerineun Sori (Sound of Drizzling)", "artist": "Lee Young-hwa" },
+    { "rank": 5, "title": "Donggowa Dalkomi (Thick and Thin)", "artist": "Nami" },
+    { "rank": 6, "title": "Byeol Bomyeo Ureossni (Cried Looking at the Stars)", "artist": "Park In-su" },
+    { "rank": 7, "title": "Na (I)", "artist": "Kim Hak-rae" },
+    { "rank": 8, "title": "Naneun Babo Yeossne (I Was Foolish)", "artist": "Kim Do-hyang" },
+    { "rank": 9, "title": "Namunnip Sairo (Through the Leaves)", "artist": "Jo Dong-jin" },
+    { "rank": 10, "title": "Ireummeoreul Sonyeo (Nameless Girl)", "artist": "Yang Hee-eun" }
+  ]
+}

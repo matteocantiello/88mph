@@ -1,0 +1,17 @@
+{
+  "country": "es",
+  "year": 1985,
+  "context": "By 1985, La Movida Madrileña was at its peak — a cultural explosion of music, art, and film following Franco's death. Alaska y Dinarama, Mecano, and Hombres G defined a new generation of Spanish pop/rock, while international artists also performed strongly. The movement represented creative freedom and youthful energy in the new democratic Spain.",
+  "tracks": [
+    { "rank": 1, "title": "Walk of Life", "artist": "Dire Straits" },
+    { "rank": 2, "title": "Ni Tú Ni Nadie", "artist": "Alaska y Dinarama" },
+    { "rank": 3, "title": "We Are the World", "artist": "USA for Africa" },
+    { "rank": 4, "title": "Part Time Lover", "artist": "Stevie Wonder" },
+    { "rank": 5, "title": "Life Is Life", "artist": "Opus" },
+    { "rank": 6, "title": "Angel", "artist": "Madonna" },
+    { "rank": 7, "title": "Amante Bandido", "artist": "Miguel Bosé" },
+    { "rank": 8, "title": "El Africano", "artist": "Georgie Dann" },
+    { "rank": 9, "title": "Baila Para Mí", "artist": "Objetivo Birmania" },
+    { "rank": 10, "title": "El Sur También Existe", "artist": "Joan Manuel Serrat" }
+  ]
+}

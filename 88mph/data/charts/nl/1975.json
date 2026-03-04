@@ -1,0 +1,17 @@
+{
+  "country": "nl",
+  "year": 1975,
+  "context": "The Dutch chart was led by homegrown George Baker Selection, whose 'Paloma Blanca' became one of the biggest Dutch-origin international hits ever, topping charts across Europe. The chart showed remarkable eclecticism — from Deep Purple's Roger Glover to Malaysian-born Australian Kamahl, to early disco from KC & The Sunshine Band.",
+  "tracks": [
+    { "rank": 1, "title": "Paloma Blanca", "artist": "George Baker Selection" },
+    { "rank": 2, "title": "The Elephant Song", "artist": "Kamahl" },
+    { "rank": 3, "title": "Love Is All", "artist": "Roger Glover and Guests" },
+    { "rank": 4, "title": "If You Go", "artist": "Barry & Eileen" },
+    { "rank": 5, "title": "100 Years", "artist": "Joey Dyser" },
+    { "rank": 6, "title": "Hey mal yo", "artist": "Johnny & Orquesta Rodrigues" },
+    { "rank": 7, "title": "Stand By Your Man", "artist": "Tammy Wynette" },
+    { "rank": 8, "title": "Ramaya", "artist": "Afric Simone" },
+    { "rank": 9, "title": "That's the Way (I Like It)", "artist": "KC & The Sunshine Band" },
+    { "rank": 10, "title": "Roll Over Lay Down (Live)", "artist": "Status Quo" }
+  ]
+}

@@ -11,6 +11,13 @@ export const COUNTRIES: Record<string, { name: string; flag: string }> = {
   kr: { name: "South Korea", flag: "🇰🇷" },
   mx: { name: "Mexico", flag: "🇲🇽" },
   es: { name: "Spain", flag: "🇪🇸" },
+  se: { name: "Sweden", flag: "🇸🇪" },
+  no: { name: "Norway", flag: "🇳🇴" },
+  nl: { name: "Netherlands", flag: "🇳🇱" },
+  ru: { name: "Russia", flag: "🇷🇺" },
+  cn: { name: "China", flag: "🇨🇳" },
+  ng: { name: "Nigeria", flag: "🇳🇬" },
+  za: { name: "South Africa", flag: "🇿🇦" },
 };
 
 export function getCountryName(code: string): string {

@@ -1,0 +1,17 @@
+{
+  "country": "jp",
+  "year": 1970,
+  "context": "By 1970, the Group Sounds boom had faded and Japan's music scene diversified into enka, folk, and early New Music. The year's #1 hit 'Kuro Neko no Tango' was a children's song adapted from an Italian original, reflecting Japan's cultural exchange with Europe. Comedy group The Drifters scored big, while enka singer Fujii Keiko placed two songs in the top five.",
+  "tracks": [
+    { "rank": 1, "title": "Kuro Neko no Tango (Black Cat's Tango)", "artist": "Minagawa Osamu" },
+    { "rank": 2, "title": "Dorifu no Zundoko Bushi", "artist": "The Drifters" },
+    { "rank": 3, "title": "Keiko no Yume wa Yoru Hiraku", "artist": "Fujii Keiko" },
+    { "rank": 4, "title": "Onna no Blues (Woman's Blues)", "artist": "Fujii Keiko" },
+    { "rank": 5, "title": "Awazu ni Aishite (Love Without Meeting)", "artist": "Uchiyamada Hiroshi & Cool Five" },
+    { "rank": 6, "title": "Tegami (Letter)", "artist": "Yuki Saori" },
+    { "rank": 7, "title": "Ai wa Kizutsuki Yasuku (Love is Easily Wounded)", "artist": "Hide and Rosanna" },
+    { "rank": 8, "title": "Kyou de Owakare (Today We Part)", "artist": "Sugawara Yoichi" },
+    { "rank": 9, "title": "Venus", "artist": "The Shocking Blue" },
+    { "rank": 10, "title": "Kyoto no Koi (Love in Kyoto)", "artist": "Nagisa Yuko" }
+  ]
+}

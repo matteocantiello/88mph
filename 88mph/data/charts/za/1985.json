@@ -1,0 +1,17 @@
+{
+  "country": "za",
+  "year": 1985,
+  "context": "1985 was turbulent in apartheid South Africa, with states of emergency declared. Music became a vehicle for resistance and escape. Bubblegum pop — a synth-driven township style — exploded with Yvonne Chaka Chaka and Brenda Fassie. Anti-apartheid anthems coexisted with dance music, and Johnny Clegg bridged racial divides through his collaborations.",
+  "tracks": [
+    { "rank": 1, "title": "I'm in Love with a DJ", "artist": "Yvonne Chaka Chaka" },
+    { "rank": 2, "title": "Weekend Special", "artist": "Brenda Fassie & the Big Dudes" },
+    { "rank": 3, "title": "Jabulani", "artist": "PJ Powers & Hotline" },
+    { "rank": 4, "title": "Feel So Strong", "artist": "Steve Kekana & PJ Powers" },
+    { "rank": 5, "title": "Scatterlings of Africa", "artist": "Johnny Clegg & Juluka" },
+    { "rank": 6, "title": "Asimbonanga", "artist": "Johnny Clegg & Savuka" },
+    { "rank": 7, "title": "Burnout", "artist": "Sipho Mabuse" },
+    { "rank": 8, "title": "Stimela sazeZola", "artist": "Mbongeni Ngema" },
+    { "rank": 9, "title": "Mama", "artist": "Brenda Fassie" },
+    { "rank": 10, "title": "Reggae Vibes is Cool", "artist": "Bernoldus Niemand" }
+  ]
+}

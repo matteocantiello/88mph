@@ -1,0 +1,17 @@
+{
+  "country": "cn",
+  "year": 2005,
+  "context": "Firmly the 'Jay Chou era' in Mandopop. Jay Chou's 'November's Chopin' cemented his status as the undisputed King of Mandopop with R&B, rap, and Chinese traditional fusion. Guang Liang's 'Tonghua' became a pan-Asian hit. Mainland China declared 2005 'The First Year of Digital Music' as the internet began reshaping consumption, and the Super Girl talent show became a cultural sensation.",
+  "tracks": [
+    { "rank": 1, "title": "Ye Qu (Nocturne)", "artist": "Jay Chou" },
+    { "rank": 2, "title": "Tian Kong (Sky)", "artist": "Jolin Tsai" },
+    { "rank": 3, "title": "Tonghua (Fairy Tale)", "artist": "Guang Liang" },
+    { "rank": 4, "title": "Xin Zhong De Ri Yue (Sun and Moon in My Heart)", "artist": "Wang Leehom" },
+    { "rank": 5, "title": "Shanhu Hai (Coral Sea)", "artist": "Jay Chou ft. Lara" },
+    { "rank": 6, "title": "Lian Ai ING (Love-ING)", "artist": "Mayday" },
+    { "rank": 7, "title": "Di Yi Tian (The First Day)", "artist": "Stefanie Sun" },
+    { "rank": 8, "title": "Ai Mei (Ambiguous)", "artist": "Rainie Yang" },
+    { "rank": 9, "title": "Honey", "artist": "Cyndi Wang" },
+    { "rank": 10, "title": "Ke Xi Bu Shi Ni (Too Bad It's Not You)", "artist": "Fish Leong" }
+  ]
+}

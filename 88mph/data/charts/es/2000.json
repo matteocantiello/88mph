@@ -1,0 +1,17 @@
+{
+  "country": "es",
+  "year": 2000,
+  "context": "Spain's music scene in 2000 featured a mix of domestic pop-rock (La Oreja de Van Gogh, Estopa, Alejandro Sanz) and international Latin pop. Santana's 'Supernatural' comeback was a phenomenon. Operación Triunfo had not yet launched (it debuted in 2001), but the Spanish pop-rock scene was thriving with bands from the Basque Country and Catalonia.",
+  "tracks": [
+    { "rank": 1, "title": "Corazón Espinado", "artist": "Santana ft. Maná" },
+    { "rank": 2, "title": "La Playa", "artist": "La Oreja de Van Gogh" },
+    { "rank": 3, "title": "Maria Maria", "artist": "Santana ft. The Product G&B" },
+    { "rank": 4, "title": "Bomba", "artist": "King Africa" },
+    { "rank": 5, "title": "Tu Calorro", "artist": "Estopa" },
+    { "rank": 6, "title": "El Alma al Aire", "artist": "Alejandro Sanz" },
+    { "rank": 7, "title": "Livin' la Vida Loca", "artist": "Ricky Martin" },
+    { "rank": 8, "title": "Muévete", "artist": "Merche" },
+    { "rank": 9, "title": "Cuando Me Vaya", "artist": "Estopa" },
+    { "rank": 10, "title": "Cuánta Razón", "artist": "La Oreja de Van Gogh" }
+  ]
+}

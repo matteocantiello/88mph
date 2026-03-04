@@ -1,0 +1,17 @@
+{
+  "country": "no",
+  "year": 2015,
+  "context": "2015 was Kygo's breakout year — the Bergen-born tropical house producer placed three singles in the top 10 and became Norway's biggest musical export since a-ha. Norwegian DJ duo SeeB also made their mark remixing Mike Posner's track into a global smash. Adele's 'Hello' dominated late in the year with 7 weeks at #1. Norway was emerging as a major hub for electronic dance music production.",
+  "tracks": [
+    { "rank": 1, "title": "Hello", "artist": "Adele" },
+    { "rank": 2, "title": "Bare min", "artist": "Morgan Sulele" },
+    { "rank": 3, "title": "See You Again", "artist": "Wiz Khalifa feat. Charlie Puth" },
+    { "rank": 4, "title": "Love Me Like You Do", "artist": "Ellie Goulding" },
+    { "rank": 5, "title": "What Do You Mean?", "artist": "Justin Bieber" },
+    { "rank": 6, "title": "Nothing Left", "artist": "Kygo feat. Will Heard" },
+    { "rank": 7, "title": "Firestone", "artist": "Kygo feat. Conrad" },
+    { "rank": 8, "title": "Stole the Show", "artist": "Kygo feat. Parson James" },
+    { "rank": 9, "title": "I Took a Pill in Ibiza (SeeB Remix)", "artist": "Mike Posner" },
+    { "rank": 10, "title": "Pinne for landet", "artist": "Freddy Kalas" }
+  ]
+}

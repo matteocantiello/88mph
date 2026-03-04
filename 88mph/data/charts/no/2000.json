@@ -1,0 +1,17 @@
+{
+  "country": "no",
+  "year": 2000,
+  "context": "Norway's 2000 chart was dominated by the late-1990s dance-pop and electronic explosion. Finnish Bomfunk MC's and Darude, Danish-Norwegian Aqua, and Dutch Alice DeeJay represented the Nordic/European electronic wave. a-ha remained a chart force in their homeland with 'Summer Moved On,' proving their enduring domestic popularity 15 years after their breakthrough.",
+  "tracks": [
+    { "rank": 1, "title": "Back in My Life", "artist": "Alice DeeJay" },
+    { "rank": 2, "title": "Freestyler", "artist": "Bomfunk MC's" },
+    { "rank": 3, "title": "Cartoon Heroes", "artist": "Aqua" },
+    { "rank": 4, "title": "American Pie", "artist": "Madonna" },
+    { "rank": 5, "title": "Oops!... I Did It Again", "artist": "Britney Spears" },
+    { "rank": 6, "title": "It Feels So Good", "artist": "Sonique" },
+    { "rank": 7, "title": "Sandstorm", "artist": "Darude" },
+    { "rank": 8, "title": "Beautiful Day", "artist": "U2" },
+    { "rank": 9, "title": "Summer Moved On", "artist": "a-ha" },
+    { "rank": 10, "title": "Music", "artist": "Madonna" }
+  ]
+}

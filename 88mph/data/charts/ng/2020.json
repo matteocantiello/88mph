@@ -1,0 +1,17 @@
+{
+  "country": "ng",
+  "year": 2020,
+  "context": "2020 was a landmark year for Nigerian Afrobeats, with Burna Boy's 'Twice As Tall' and Wizkid's 'Made in Lagos' cementing the genre's global dominance. Davido's 'FEM' became the anthem of the #EndSARS protest movement. Simi's 'Duduke' was a cultural phenomenon, and DJ Neptune's 'Nobody' was inescapable across the continent.",
+  "tracks": [
+    { "rank": 1, "title": "FEM", "artist": "Davido" },
+    { "rank": 2, "title": "Nobody", "artist": "DJ Neptune ft. Joeboy & Mr Eazi" },
+    { "rank": 3, "title": "Duduke", "artist": "Simi" },
+    { "rank": 4, "title": "Ginger", "artist": "Wizkid ft. Burna Boy" },
+    { "rank": 5, "title": "Odogwu", "artist": "Burna Boy" },
+    { "rank": 6, "title": "Beamer (Bad Boys)", "artist": "Rema ft. Rvssian" },
+    { "rank": 7, "title": "Away", "artist": "Oxlade" },
+    { "rank": 8, "title": "ELI", "artist": "Fireboy DML" },
+    { "rank": 9, "title": "Dangerous Love", "artist": "Tiwa Savage" },
+    { "rank": 10, "title": "Green Light", "artist": "Olamide" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "nl",
+  "year": 1965,
+  "context": "The inaugural year of the Dutch Top 40, launched by offshore pirate radio station Radio Veronica. The Beatles utterly dominated with five #1 singles totaling ~29 weeks at the top. The Finnish dance craze 'Letkiss' was an unexpected sensation, holding #1 for 8 weeks. The chart reflected the Netherlands' strong orientation toward Anglo-American pop.",
+  "tracks": [
+    { "rank": 1, "title": "Ticket to Ride", "artist": "The Beatles" },
+    { "rank": 2, "title": "Letkiss", "artist": "Dutch Swing College Band" },
+    { "rank": 3, "title": "Help!", "artist": "The Beatles" },
+    { "rank": 4, "title": "Yesterday", "artist": "The Beatles" },
+    { "rank": 5, "title": "I Feel Fine", "artist": "The Beatles" },
+    { "rank": 6, "title": "(I Can't Get No) Satisfaction", "artist": "The Rolling Stones" },
+    { "rank": 7, "title": "Wooly Bully", "artist": "Sam the Sham & The Pharaohs" },
+    { "rank": 8, "title": "Rock and Roll Music / No Reply", "artist": "The Beatles" },
+    { "rank": 9, "title": "This Strange Effect", "artist": "Dave Berry" },
+    { "rank": 10, "title": "The French Song", "artist": "Lucille Starr" }
+  ]
+}

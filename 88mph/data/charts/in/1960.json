@@ -1,0 +1,17 @@
+{
+  "country": "in",
+  "year": 1960,
+  "context": "1960 was a monumental year for Hindi cinema, with the release of K. Asif's epic Mughal-e-Azam, which placed two songs in the top 10. Mohammed Rafi dominated the charts with his extraordinary vocal range. The year reflected the golden age of playback singing, with composers like Naushad, Ravi, and Roshan creating elaborate orchestral arrangements that defined Bollywood's classical period.",
+  "tracks": [
+    { "rank": 1, "title": "Zindagi Bhar Nahi Bhulegi", "artist": "Mohammed Rafi" },
+    { "rank": 2, "title": "Chaudhavi Ka Chand Ho", "artist": "Mohammed Rafi" },
+    { "rank": 3, "title": "Mujhko Is Raat Ki Tanhai Mein", "artist": "Mukesh" },
+    { "rank": 4, "title": "Jab Pyar Kiya To Darna Kya", "artist": "Lata Mangeshkar" },
+    { "rank": 5, "title": "Chal Ri Sajani Ab Kya Soche", "artist": "Mukesh" },
+    { "rank": 6, "title": "Dil Apna Aur Prit Parayi", "artist": "Lata Mangeshkar" },
+    { "rank": 7, "title": "Tere Pyaar Ka Aasra Chahta Hu", "artist": "Mahendra Kapoor & Lata Mangeshkar" },
+    { "rank": 8, "title": "Mohabbat Ki Jhuthi Kahani Pe Roye", "artist": "Lata Mangeshkar" },
+    { "rank": 9, "title": "Chhaliya Mera Naam", "artist": "Mukesh" },
+    { "rank": 10, "title": "Tu Hai Harjai To Apna Bhi Yehi Taur Sahi", "artist": "Mukesh" }
+  ]
+}

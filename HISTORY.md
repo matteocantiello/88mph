@@ -105,3 +105,45 @@
 
 **Key decisions**: Use official hitparadeitalia.it year-end singles charts as the authoritative source for Italian data. Verified existing 3 charts (1965, 1985, 2000) match official data. Added 5 new years (1975, 1990, 1995, 2010, 2020).
 **Artifacts produced**: 5 new Italian chart files (it/1975, 1990, 1995, 2010, 2020), updated metadata.json (71 total charts), updated README.md
+
+### Prompt #16 — Expand All Countries with Older Historical Charts
+
+> Great. It would be good to go as far back in time as charts are available. Could you look at older charts for all the countries we have?
+
+**Key decisions**: Research the earliest available chart data for all 12 countries and add historical charts going as far back as possible.
+**Artifacts to produce**: New historical chart JSON files for all countries, updated metadata.json and README.md
+
+### Prompt #17 — Fetch Italian Charts from hitparadeitalia.it (1947, 1950, 1955, 1960)
+
+> Research and extract the top 10 year-end singles from hitparadeitalia.it for the following years: 1947, 1950, 1955, 1960. For each year, fetch the URL https://www.hitparadeitalia.it/hp_yends/hpe{YEAR}.htm and extract the top 10 songs with title and artist. Provide top 10 songs (rank, title, artist), cultural context blurb, country code: it.
+
+**Key decisions**: Fetch directly from hitparadeitalia.it official source
+**Artifacts to produce**: Compiled Italian chart data for 4 early years
+
+### Prompt #18 — Research Top 10 Songs for UK (1952, 1960), Australia (1960, 1970), France (1955, 1960)
+
+> Research the top 10 most popular songs for UK 1952 (NME chart), UK 1960, Australia 1960 (Kent Music Report), Australia 1970 (Kent Music Report), France 1955, France 1960. Use Wikipedia, web searches, chart archives. Provide top 10 songs, cultural context blurbs, and country codes.
+
+**Key decisions**: Systematic web research using Wikipedia, NME chart archives, Kent Music Report, and French chart sources
+**Artifacts to produce**: Compiled chart research for 6 country/year combinations
+
+### Prompt #19 — Research Top 10 Songs for India (1955, 1960, 1965), Brazil (1960), Mexico (1965, 1970), Spain (1965), South Korea (1980)
+
+> Research the top 10 most popular songs for: India 1955/1960/1965 (Binaca Geetmala), Brazil 1960, Mexico 1965/1970, Spain 1965, South Korea 1980. Use Wikipedia, web searches, hindigeetmala.net for India. Provide top 10 songs, cultural context, country codes.
+
+**Key decisions**: Systematic web research using multiple sources per country/year
+**Artifacts to produce**: Compiled chart research for 8 country/year combinations
+
+### Prompt #20 — Research Top 10 Songs for Germany (1955, 1960, 1965) and Japan (1968, 1970)
+
+> Research the top 10 most popular songs for Germany (1955, 1960, 1965) and Japan (1968, 1970). Use Wikipedia, web searches, and chart archives. Germany: Musikmarkt/GfK charts (started ~1954). Japan: Oricon (started 1968). Provide top 10 songs (rank, title, artist), cultural context, country codes (de, jp). Use romanized titles for Japanese songs.
+
+**Key decisions**: Web research using multiple sources for German Schlager and early Oricon charts
+**Artifacts to produce**: Compiled chart research for 5 country/year combinations
+
+### Prompt #21 — Major Global Expansion: Europe, Africa, Asia, Russia, China
+
+> What about spain, scandinavian countries, germany, other major european countries, african countries and other asian countries? What about russia and china?
+
+**Key decisions**: Expand to new countries with verifiable chart data. Add Scandinavia (Sweden, Norway), Netherlands, Russia, China, Nigeria, South Africa, plus fill gaps in existing countries (Spain, Germany).
+**Artifacts produced**: 39 new chart JSON files (se/5, no/4, nl/5, ru/5, cn/4, ng/4, za/4, es/4 gap-fills, de/4 gap-fills), updated utils.ts (19 countries), metadata.json (133 entries), README.md

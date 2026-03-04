@@ -1,0 +1,17 @@
+{
+  "country": "es",
+  "year": 1965,
+  "context": "Spain in 1965 was in the late Franco era, but youth music was exploding. Los Brincos, dubbed 'the Spanish Beatles,' spearheaded the beat boom. The yé-yé movement produced Conchita Velasco's iconic 'Chica Ye-Ye.' France Gall's Eurovision winner crossed the Pyrenees easily, while Italian and Anglo-American hits charted strongly, reflecting Spain's growing openness to international pop culture.",
+  "tracks": [
+    { "rank": 1, "title": "La Yenka", "artist": "Johnny & Charley" },
+    { "rank": 2, "title": "Flamenco", "artist": "Los Brincos" },
+    { "rank": 3, "title": "Chica Ye-Ye", "artist": "Conchita Velasco" },
+    { "rank": 4, "title": "Poupée de cire, Poupée de son", "artist": "France Gall" },
+    { "rank": 5, "title": "El Mundo (Il Mondo)", "artist": "Jimmy Fontana" },
+    { "rank": 6, "title": "Esos Ojitos Negros", "artist": "Dúo Dinámico" },
+    { "rank": 7, "title": "A Hard Day's Night", "artist": "The Beatles" },
+    { "rank": 8, "title": "The House of the Rising Sun", "artist": "The Animals" },
+    { "rank": 9, "title": "Downtown", "artist": "Petula Clark" },
+    { "rank": 10, "title": "Me Lo Dijo Pérez", "artist": "Los Tres Sudamericanos" }
+  ]
+}

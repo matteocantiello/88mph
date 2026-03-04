@@ -1,0 +1,17 @@
+{
+  "country": "jp",
+  "year": 1968,
+  "context": "1968 was the inaugural year of the Oricon Singles Chart, which began tracking physical sales on January 4th. The chart reflected a vibrant mix of enka ballads, the Group Sounds rock movement inspired by the British Invasion, and early kayokyoku pop. Sen Masao's 'Hoshikage no Waltz' became the first-ever Oricon yearly #1, selling 1.58 million copies.",
+  "tracks": [
+    { "rank": 1, "title": "Hoshikage no Waltz (Star Shadow Waltz)", "artist": "Sen Masao" },
+    { "rank": 2, "title": "Kaette Kita Yopparai (The Drunken Man Returns)", "artist": "The Folk Crusaders" },
+    { "rank": 3, "title": "Koi no Kisetsu (Season of Love)", "artist": "Pinky & Killers" },
+    { "rank": 4, "title": "Otaru no Hito yo (People of Otaru)", "artist": "Tsuruoka Masayoshi & Tokyo Romantica" },
+    { "rank": 5, "title": "Koi no Shizuku (Love's Droplets)", "artist": "Ito Yukari" },
+    { "rank": 6, "title": "Hana no Kubikazari (Flower Garland)", "artist": "The Tigers" },
+    { "rank": 7, "title": "The Sound of Silence", "artist": "Simon & Garfunkel" },
+    { "rank": 8, "title": "Yube no Himitsu (Last Night's Secret)", "artist": "Ogawa Tomoko" },
+    { "rank": 9, "title": "Massachusetts", "artist": "Bee Gees" },
+    { "rank": 10, "title": "C-C-C", "artist": "The Tigers" }
+  ]
+}

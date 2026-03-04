@@ -1,0 +1,17 @@
+{
+  "country": "es",
+  "year": 2015,
+  "context": "2015 marked the debut of Spain's first unified PROMUSICAE chart combining streaming, downloads, and physical sales. Reggaeton and Latin urban music dominated, with Nicky Jam and Enrique Iglesias' 'El Perdón' becoming the song of the year. The chart reflected Spain's growing embrace of Latin urban sounds alongside global EDM and pop hits.",
+  "tracks": [
+    { "rank": 1, "title": "El Perdón", "artist": "Nicky Jam & Enrique Iglesias" },
+    { "rank": 2, "title": "Cheerleader (Felix Jaehn Remix)", "artist": "OMI" },
+    { "rank": 3, "title": "Lean On", "artist": "Major Lazer & DJ Snake ft. MØ" },
+    { "rank": 4, "title": "La Gozadera", "artist": "Gente de Zona & Marc Anthony" },
+    { "rank": 5, "title": "Uptown Funk", "artist": "Mark Ronson ft. Bruno Mars" },
+    { "rank": 6, "title": "Thinking Out Loud", "artist": "Ed Sheeran" },
+    { "rank": 7, "title": "Love Me Like You Do", "artist": "Ellie Goulding" },
+    { "rank": 8, "title": "Travesuras", "artist": "Nicky Jam" },
+    { "rank": 9, "title": "Are You With Me", "artist": "Lost Frequencies" },
+    { "rank": 10, "title": "El No Te Da", "artist": "Dasoul" }
+  ]
+}

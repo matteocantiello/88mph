@@ -1,0 +1,17 @@
+{
+  "country": "cn",
+  "year": 1985,
+  "context": "During China's 'opening up' period after the Cultural Revolution, mainland audiences were hungry for Cantopop and Mandopop from Hong Kong and Taiwan. Teresa Teng's songs, though officially banned on state radio, circulated widely on bootleg cassettes. Lo Ta-yu's 'Tomorrow Will Be Better' (inspired by 'We Are the World') became a pan-Chinese anthem.",
+  "tracks": [
+    { "rank": 1, "title": "Mingri Hui Genghao (Tomorrow Will Be Better)", "artist": "Various Artists (organized by Lo Ta-yu)" },
+    { "rank": 2, "title": "Ai Zai Shenqiu (Love in Deep Autumn)", "artist": "Alan Tam" },
+    { "rank": 3, "title": "Yue Liang Dai Biao Wo De Xin (The Moon Represents My Heart)", "artist": "Teresa Teng" },
+    { "rank": 4, "title": "Monica", "artist": "Leslie Cheung" },
+    { "rank": 5, "title": "Shanghai Tan (The Bund)", "artist": "Frances Yip" },
+    { "rank": 6, "title": "Wo De Zhongguo Xin (My Chinese Heart)", "artist": "Zhang Minmin" },
+    { "rank": 7, "title": "Tian Mi Mi (Sweet Honey)", "artist": "Teresa Teng" },
+    { "rank": 8, "title": "Zhi Wei Ni Zhongqing (For Your Love Only)", "artist": "Alan Tam" },
+    { "rank": 9, "title": "Nupeng You (Evil Girl)", "artist": "Anita Mui" },
+    { "rank": 10, "title": "Long De Chuanren (Descendants of the Dragon)", "artist": "Hou Dejian" }
+  ]
+}

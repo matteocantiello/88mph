@@ -1,0 +1,17 @@
+{
+  "country": "au",
+  "year": 1970,
+  "context": "Australia's 1970 chart captures the final chapter of 1960s rock alongside softer pop-rock. The Beatles' swan song 'Let It Be' topped the year, while Simon & Garfunkel and Creedence Clearwater Revival each placed two entries. The Mixtures' local cover of 'In the Summertime' competed with Mungo Jerry's original — a uniquely Australian phenomenon where local covers often rivaled international originals.",
+  "tracks": [
+    { "rank": 1, "title": "Let It Be", "artist": "The Beatles" },
+    { "rank": 2, "title": "(They Long to Be) Close to You", "artist": "Carpenters" },
+    { "rank": 3, "title": "In the Summertime", "artist": "Mungo Jerry" },
+    { "rank": 4, "title": "Spirit in the Sky", "artist": "Norman Greenbaum" },
+    { "rank": 5, "title": "Bridge Over Troubled Water", "artist": "Simon & Garfunkel" },
+    { "rank": 6, "title": "Lookin' Out My Back Door", "artist": "Creedence Clearwater Revival" },
+    { "rank": 7, "title": "El Condor Pasa", "artist": "Simon & Garfunkel" },
+    { "rank": 8, "title": "Up Around the Bend", "artist": "Creedence Clearwater Revival" },
+    { "rank": 9, "title": "Knock, Knock Who's There?", "artist": "Mary Hopkin" },
+    { "rank": 10, "title": "Heykens Second Serenade", "artist": "Royal Scots Dragoon Guards" }
+  ]
+}

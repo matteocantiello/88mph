@@ -1,0 +1,17 @@
+{
+  "country": "br",
+  "year": 1960,
+  "context": "1960 was the year bossa nova consolidated as a global phenomenon. João Gilberto's second album introduced compositions by Antonio Carlos Jobim that would become jazz standards worldwide. Brazil was in a period of optimism under President Kubitschek, who had just inaugurated the new capital Brasília, and the cool sophistication of bossa nova perfectly reflected this modernizing spirit.",
+  "tracks": [
+    { "rank": 1, "title": "Samba de Uma Nota Só (One Note Samba)", "artist": "João Gilberto" },
+    { "rank": 2, "title": "Corcovado (Quiet Nights of Quiet Stars)", "artist": "João Gilberto" },
+    { "rank": 3, "title": "O Pato", "artist": "João Gilberto" },
+    { "rank": 4, "title": "Meditação (Meditation)", "artist": "João Gilberto" },
+    { "rank": 5, "title": "Eu Sei Que Vou Te Amar", "artist": "João Gilberto" },
+    { "rank": 6, "title": "Minha Namorada", "artist": "Carlos Lyra" },
+    { "rank": 7, "title": "Discussão", "artist": "João Gilberto" },
+    { "rank": 8, "title": "Doralice", "artist": "João Gilberto" },
+    { "rank": 9, "title": "Se É Tarde Me Perdoa", "artist": "Carlos Lyra" },
+    { "rank": 10, "title": "Manhã de Carnaval", "artist": "Luiz Bonfá" }
+  ]
+}

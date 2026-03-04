@@ -1,0 +1,17 @@
+{
+  "country": "it",
+  "year": 1947,
+  "context": "Italy in 1947 was in the early stages of post-war reconstruction, and popular music reflected a blend of Latin American rhythms, Neapolitan tradition, and American influences arriving through Allied occupation and cinema. Many hits were Italian-language covers or adaptations of international songs. Artists like Natalino Otto and Teddy Reno were pioneering a modern Italian pop sound mixing swing and melodic traditions.",
+  "tracks": [
+    { "rank": 1, "title": "El Rancho grande", "artist": "Marisa Fiordaliso" },
+    { "rank": 2, "title": "Valzer delle candele", "artist": "Carla Dupont" },
+    { "rank": 3, "title": "Amado mio", "artist": "Mara Mauri" },
+    { "rank": 4, "title": "L'Apaka", "artist": "Ernesto Bonino" },
+    { "rank": 5, "title": "Suona balalaika", "artist": "Natalino Otto" },
+    { "rank": 6, "title": "Una Notte a Rio", "artist": "Tony Stella" },
+    { "rank": 7, "title": "'Na Vota ca sci na vota ca no", "artist": "Marisa Fiordaliso & Enrico Gentile" },
+    { "rank": 8, "title": "Eterno ritornello", "artist": "Teddy Reno" },
+    { "rank": 9, "title": "Clavel del aire", "artist": "Piero Trombetta feat. Ada Algisi & Elio Mannino" },
+    { "rank": 10, "title": "Non v'innamorate", "artist": "Aldo Dona" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "ng",
+  "year": 1975,
+  "context": "1975 was the height of Fela Kuti's Afrobeat revolution. Nigeria, flush with oil wealth, had a thriving live music scene centered on Lagos. Highlife remained popular alongside Fela's politically charged Afrobeat, while juju music was gaining momentum through King Sunny Ade and Ebenezer Obey.",
+  "tracks": [
+    { "rank": 1, "title": "Expensive Shit", "artist": "Fela Kuti & Africa 70" },
+    { "rank": 2, "title": "Water No Get Enemy", "artist": "Fela Kuti & Africa 70" },
+    { "rank": 3, "title": "He Miss Road", "artist": "Fela Kuti & Africa 70" },
+    { "rank": 4, "title": "Excuse O", "artist": "Fela Kuti & Africa 70" },
+    { "rank": 5, "title": "Monkey Banana", "artist": "Fela Kuti & Africa 70" },
+    { "rank": 6, "title": "Ja Funmi", "artist": "King Sunny Ade" },
+    { "rank": 7, "title": "Board Members", "artist": "Ebenezer Obey" },
+    { "rank": 8, "title": "Baby Mi Da", "artist": "Victor Olaiya" },
+    { "rank": 9, "title": "Ijo Olomo", "artist": "I.K. Dairo" },
+    { "rank": 10, "title": "Synchro System", "artist": "King Sunny Ade" }
+  ]
+}

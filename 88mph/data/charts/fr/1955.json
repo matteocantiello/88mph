@@ -1,0 +1,17 @@
+{
+  "country": "fr",
+  "year": 1955,
+  "context": "1955 was the birth year of the French hit parade itself — 'La Bourse des Chansons' launched in Le Figaro in September, making this the earliest traceable French chart data. Chanson française artists dominated, with Georges Brassens's 'L'Auvergnat' marking the arrival of the singer-songwriter tradition that would define French popular music for decades.",
+  "tracks": [
+    { "rank": 1, "title": "L'homme et l'enfant", "artist": "Tania et Eddie Constantine" },
+    { "rank": 2, "title": "Les lavandières du Portugal", "artist": "Jacqueline François" },
+    { "rank": 3, "title": "La complainte de la Butte", "artist": "Cora Vaucaire" },
+    { "rank": 4, "title": "Gelsomina", "artist": "Lucienne Delyle" },
+    { "rank": 5, "title": "Mambo Italiano", "artist": "Dario Moreno" },
+    { "rank": 6, "title": "L'Auvergnat", "artist": "Georges Brassens" },
+    { "rank": 7, "title": "Un jour tu verras", "artist": "Mouloudji" },
+    { "rank": 8, "title": "Prière péruvienne", "artist": "Tino Rossi" },
+    { "rank": 9, "title": "Tango de l'éléphant", "artist": "Line Renaud" },
+    { "rank": 10, "title": "Un p'tit peu d'argent", "artist": "Yvette Giraud" }
+  ]
+}

@@ -4,8 +4,8 @@ A cinematic web app that lets you travel through decades of music. Select a coun
 
 ## Features
 
-- **12 Countries** — USA, UK, France, Germany, Brazil, Japan, Australia, Italy, India, South Korea, Mexico, Spain
-- **71 Charts** — From 1940s big band swing to 2020s streaming era
+- **19 Countries** — USA, UK, France, Germany, Brazil, Japan, Australia, Italy, India, South Korea, Mexico, Spain, Sweden, Norway, Netherlands, Russia, China, Nigeria, South Africa
+- **133 Charts** — From 1940 pre-war USA to 2020s global streaming era
 - **Decade Color Themes** — Visual design shifts to match each era
 - **30-Second Previews** — Play Spotify previews directly in the browser
 - **Mini Player** — Fixed bottom bar with playback controls
@@ -24,20 +24,27 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Available Charts
 
-| Country | Years |
-|---------|-------|
-| USA | 1940, 1950, 1955, 1960, 1965, 1970, 1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015, 2020 |
-| UK | 1955, 1965, 1970, 1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015, 2020 |
-| France | 1965, 1980, 1995, 2010 |
-| Germany | 1975, 1985, 1999, 2010 |
-| Brazil | 1970, 1985, 2000, 2015 |
-| Japan | 1975, 1985, 1995, 2005 |
-| Australia | 1980, 1990, 2000, 2015 |
-| Italy | 1965, 1975, 1985, 1990, 1995, 2000, 2010, 2020 |
-| India | 1970, 1985, 1995, 2010 |
-| South Korea | 1990, 2000, 2010, 2020 |
-| Mexico | 1980, 1995, 2010 |
-| Spain | 1975, 1990, 2005 |
+| Country | Charts | Years |
+|---------|--------|-------|
+| USA | 16 | 1940, 1950, 1955, 1960, 1965, 1970, 1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015, 2020 |
+| UK | 15 | 1952, 1955, 1960, 1965, 1970, 1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015, 2020 |
+| Italy | 12 | 1947, 1950, 1955, 1960, 1965, 1975, 1985, 1990, 1995, 2000, 2010, 2020 |
+| Germany | 11 | 1955, 1960, 1965, 1970, 1975, 1985, 1990, 1999, 2000, 2010, 2020 |
+| Spain | 8 | 1965, 1975, 1980, 1985, 1990, 2000, 2005, 2015 |
+| India | 7 | 1955, 1960, 1965, 1970, 1985, 1995, 2010 |
+| France | 6 | 1955, 1960, 1965, 1980, 1995, 2010 |
+| Japan | 6 | 1968, 1970, 1975, 1985, 1995, 2005 |
+| Australia | 6 | 1960, 1970, 1980, 1990, 2000, 2015 |
+| South Korea | 5 | 1980, 1990, 2000, 2010, 2020 |
+| Brazil | 5 | 1960, 1970, 1985, 2000, 2015 |
+| Mexico | 5 | 1965, 1970, 1980, 1995, 2010 |
+| Sweden | 5 | 1965, 1975, 1985, 1995, 2010 |
+| Russia | 5 | 1975, 1985, 1995, 2005, 2015 |
+| Netherlands | 5 | 1965, 1975, 1990, 2005, 2020 |
+| China | 4 | 1985, 1995, 2005, 2015 |
+| Norway | 4 | 1970, 1985, 2000, 2015 |
+| Nigeria | 4 | 1975, 1990, 2010, 2020 |
+| South Africa | 4 | 1965, 1985, 2000, 2020 |
 
 ## Spotify Integration (Optional)
 
@@ -82,17 +89,24 @@ data/
 ├── metadata.json           # Available (country, year) index
 └── charts/
     ├── us/*.json           # USA (16 charts, 1940–2020)
-    ├── uk/*.json           # UK (13 charts, 1955–2020)
-    ├── fr/*.json           # France (4 charts)
-    ├── de/*.json           # Germany (4 charts)
-    ├── br/*.json           # Brazil (4 charts)
-    ├── jp/*.json           # Japan (4 charts)
-    ├── au/*.json           # Australia (4 charts)
-    ├── it/*.json           # Italy (8 charts)
-    ├── in/*.json           # India (4 charts)
-    ├── kr/*.json           # South Korea (4 charts)
-    ├── mx/*.json           # Mexico (3 charts)
-    └── es/*.json           # Spain (3 charts)
+    ├── uk/*.json           # UK (15 charts, 1952–2020)
+    ├── it/*.json           # Italy (12 charts, 1947–2020)
+    ├── de/*.json           # Germany (11 charts, 1955–2020)
+    ├── es/*.json           # Spain (8 charts, 1965–2015)
+    ├── in/*.json           # India (7 charts, 1955–2010)
+    ├── fr/*.json           # France (6 charts, 1955–2010)
+    ├── jp/*.json           # Japan (6 charts, 1968–2005)
+    ├── au/*.json           # Australia (6 charts, 1960–2015)
+    ├── kr/*.json           # South Korea (5 charts, 1980–2020)
+    ├── br/*.json           # Brazil (5 charts, 1960–2015)
+    ├── mx/*.json           # Mexico (5 charts, 1965–2010)
+    ├── se/*.json           # Sweden (5 charts, 1965–2010)
+    ├── ru/*.json           # Russia (5 charts, 1975–2015)
+    ├── nl/*.json           # Netherlands (5 charts, 1965–2020)
+    ├── cn/*.json           # China (4 charts, 1985–2015)
+    ├── no/*.json           # Norway (4 charts, 1970–2015)
+    ├── ng/*.json           # Nigeria (4 charts, 1975–2020)
+    └── za/*.json           # South Africa (4 charts, 1965–2020)
 ```
 
 ## Adding Data

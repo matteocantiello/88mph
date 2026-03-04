@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 1965,
+  "context": "The mid-1960s saw the British Invasion crack the German charts alongside traditional Schlager. Instrumental hits, British pop (Petula Clark, Rolling Stones), and American novelty rock competed with rising German stars like Roy Black. France Gall's Eurovision winner 'Poupée de cire, Poupée de son' became a major German hit, reflecting pan-European pop culture exchange.",
+  "tracks": [
+    { "rank": 1, "title": "Il Silenzio", "artist": "Nini Rosso" },
+    { "rank": 2, "title": "Downtown", "artist": "Petula Clark" },
+    { "rank": 3, "title": "Kleine Annabell", "artist": "Ronny" },
+    { "rank": 4, "title": "Wooly Bully", "artist": "Sam the Sham & The Pharaohs" },
+    { "rank": 5, "title": "Du bist nicht allein", "artist": "Roy Black" },
+    { "rank": 6, "title": "Don't Ha Ha", "artist": "Casey Jones & The Governors" },
+    { "rank": 7, "title": "Das war mein schönster Tanz", "artist": "Bernd Spier" },
+    { "rank": 8, "title": "Rag Doll", "artist": "The Four Tops" },
+    { "rank": 9, "title": "The Last Time", "artist": "The Rolling Stones" },
+    { "rank": 10, "title": "Poupée de cire, Poupée de son", "artist": "France Gall" }
+  ]
+}

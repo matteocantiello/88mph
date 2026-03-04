@@ -1,0 +1,17 @@
+{
+  "country": "it",
+  "year": 1950,
+  "context": "By 1950, Italy's music scene was dominated by the melodic tradition with stars like Nilla Pizzi, Claudio Villa, and Luciano Tajoli who were chart mainstays. Cinema influence was strong, with Anton Karas's 'Third Man' theme crossing over internationally. Neapolitan song remained powerful through Sergio Bruni, while Latin American rhythms continued to captivate Italian audiences.",
+  "tracks": [
+    { "rank": 1, "title": "La Raspa", "artist": "Nilla Pizzi & Duo Fasano" },
+    { "rank": 2, "title": "Harry Lime theme", "artist": "Anton Karas" },
+    { "rank": 3, "title": "Quizas, quizas, quizas", "artist": "Nilla Pizzi" },
+    { "rank": 4, "title": "Surriento d'e 'nnammurate", "artist": "Sergio Bruni" },
+    { "rank": 5, "title": "Angeli negri", "artist": "Luciano Tajoli" },
+    { "rank": 6, "title": "Rosso di sera", "artist": "Claudio Villa" },
+    { "rank": 7, "title": "Palazziello", "artist": "Franco Ricci" },
+    { "rank": 8, "title": "Che mele!", "artist": "Lidia Martorana" },
+    { "rank": 9, "title": "Tarantella dell'amore", "artist": "Aldo Dona & Elena Beltrami" },
+    { "rank": 10, "title": "Sei stata tu", "artist": "Luciano Tajoli" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "se",
+  "year": 1965,
+  "context": "1965 in Sweden was dominated by the British Invasion, with The Beatles holding #1 for 22 weeks across five singles. Swedish rock was emerging: The Hep Stars (featuring future ABBA member Benny Andersson) had three #1 hits, establishing themselves as 'the Swedish Beatles.' Tages and The Shanes were also popular local acts inspired by the British sound.",
+  "tracks": [
+    { "rank": 1, "title": "Rock and Roll Music", "artist": "The Beatles" },
+    { "rank": 2, "title": "Yesterday", "artist": "The Beatles" },
+    { "rank": 3, "title": "Farmer John", "artist": "The Hep Stars" },
+    { "rank": 4, "title": "Help!", "artist": "The Beatles" },
+    { "rank": 5, "title": "(I Can't Get No) Satisfaction", "artist": "The Rolling Stones" },
+    { "rank": 6, "title": "Eve of Destruction", "artist": "Barry McGuire" },
+    { "rank": 7, "title": "Ticket to Ride", "artist": "The Beatles" },
+    { "rank": 8, "title": "That's The Way", "artist": "The Honeycombs" },
+    { "rank": 9, "title": "Bring It On Home to Me", "artist": "The Animals" },
+    { "rank": 10, "title": "The Birds and the Bees", "artist": "Alma Cogan" }
+  ]
+}

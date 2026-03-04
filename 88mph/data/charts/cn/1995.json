@@ -1,0 +1,17 @@
+{
+  "country": "cn",
+  "year": 1995,
+  "context": "The apex of the Four Heavenly Kings era in Cantopop — Andy Lau, Jacky Cheung, Leon Lai, and Aaron Kwok dominated pop culture across Chinese-speaking Asia. Faye Wong emerged as a genre-defying force, bridging Cantopop and alternative aesthetics after her 'Chungking Express' breakthrough. Eason Chan launched what would become one of the longest careers in Cantopop.",
+  "tracks": [
+    { "rank": 1, "title": "Wang Qing Shui (Forgetful Water)", "artist": "Andy Lau" },
+    { "rank": 2, "title": "Wo Zhen De Shou Shang Le (I'm Really Hurt)", "artist": "Jacky Cheung" },
+    { "rank": 3, "title": "Di-Dar", "artist": "Faye Wong" },
+    { "rank": 4, "title": "Deng Ni Deng Dao Wo Xin Tong (Waiting Until My Heart Aches)", "artist": "Jacky Cheung" },
+    { "rank": 5, "title": "Jin Ye Ni Hui Bu Hui Lai (Will You Come Tonight)", "artist": "Leon Lai" },
+    { "rank": 6, "title": "Ai De Hu Huan (Love's Call)", "artist": "Aaron Kwok" },
+    { "rank": 7, "title": "Zhui (Chase)", "artist": "Faye Wong" },
+    { "rank": 8, "title": "Beloved (Chongxin Kaitou)", "artist": "Leslie Cheung" },
+    { "rank": 9, "title": "Nuanuan De Tai Yang (Warm Sun)", "artist": "Eason Chan" },
+    { "rank": 10, "title": "Dan Shen Qingge (Single Love Song)", "artist": "Sandy Lam" }
+  ]
+}

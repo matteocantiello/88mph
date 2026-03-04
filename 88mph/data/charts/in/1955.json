@@ -1,0 +1,17 @@
+{
+  "country": "in",
+  "year": 1955,
+  "context": "The Binaca Geetmala countdown on Radio Ceylon was the definitive arbiter of Hindi film song popularity. 1955 was dominated by Raj Kapoor's landmark film Shree 420, whose 'Mera Joota Hai Japani' became an anthem of post-independence India. The snake-charmer film Nagin contributed two top-10 hits, while patriotic songs from Jagriti reflected the idealism of the Nehruvian era.",
+  "tracks": [
+    { "rank": 1, "title": "Mera Joota Hai Japani", "artist": "Mukesh" },
+    { "rank": 2, "title": "Meraa Salaam Le Ja", "artist": "Lata Mangeshkar" },
+    { "rank": 3, "title": "Man Dole Mera Tan Dole", "artist": "Lata Mangeshkar" },
+    { "rank": 4, "title": "Chale Aaj Tum Jahaan Se", "artist": "Mohammed Rafi" },
+    { "rank": 5, "title": "Ichak Dana Bichak Dana", "artist": "Lata Mangeshkar & Mukesh" },
+    { "rank": 6, "title": "Dekh Tere Sansaar Ki Haalat", "artist": "Kavi Pradeep" },
+    { "rank": 7, "title": "Meraa Dil Ye Pukaare Aa Jaa", "artist": "Lata Mangeshkar" },
+    { "rank": 8, "title": "De Di Hame Aazadi Bina Khadag Bina Dhaal", "artist": "Asha Bhosle" },
+    { "rank": 9, "title": "Jeevan Ke Safar Mein Rahi", "artist": "Kishore Kumar" },
+    { "rank": 10, "title": "Chalo Chale Mann Sapano Ke Ganv Me", "artist": "Asha Bhosle" }
+  ]
+}

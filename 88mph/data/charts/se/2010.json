@@ -1,0 +1,17 @@
+{
+  "country": "se",
+  "year": 2010,
+  "context": "A banner year for Swedish pop. Robyn's 'Dancing on My Own' became an international indie-pop anthem from her groundbreaking Body Talk trilogy. Eric Saade and Daniel Adams-Ray represented the new generation. The Melodifestivalen connection was strong, with Anna Bergendahl's entry spending 4 weeks at #1. Eurovision also influenced the chart through Lena's 'Satellite.'",
+  "tracks": [
+    { "rank": 1, "title": "Mikrofonkåt", "artist": "September" },
+    { "rank": 2, "title": "Love the Way You Lie", "artist": "Eminem feat. Rihanna" },
+    { "rank": 3, "title": "Gubben i lådan", "artist": "Daniel Adams-Ray" },
+    { "rank": 4, "title": "This Is My Life", "artist": "Anna Bergendahl" },
+    { "rank": 5, "title": "Satellite", "artist": "Lena" },
+    { "rank": 6, "title": "Higher", "artist": "Erik Grönwall" },
+    { "rank": 7, "title": "Stereo Love", "artist": "Edward Maya & Vika Jigulina" },
+    { "rank": 8, "title": "Manboy", "artist": "Eric Saade" },
+    { "rank": 9, "title": "Dancing on My Own", "artist": "Robyn" },
+    { "rank": 10, "title": "Waka Waka (This Time for Africa)", "artist": "Shakira" }
+  ]
+}

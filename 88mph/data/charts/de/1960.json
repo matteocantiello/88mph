@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 1960,
+  "context": "By 1960, Germany's postwar recovery was in full swing and Schlager reached peak popularity with romantic ballads and sailor-themed songs. International artists like Edith Piaf and Rocco Granata crossed into the German charts alongside domestic stars like Freddy Quinn and Lolita. The charts reflected a Europe reconnecting with cosmopolitan culture and the romance of travel.",
+  "tracks": [
+    { "rank": 1, "title": "Banjo Boy", "artist": "Jan & Kjeld" },
+    { "rank": 2, "title": "Marina", "artist": "Rocco Granata" },
+    { "rank": 3, "title": "Seemann (Deine Heimat ist das Meer)", "artist": "Lolita" },
+    { "rank": 4, "title": "Unter fremden Sternen", "artist": "Freddy Quinn" },
+    { "rank": 5, "title": "Wir wollen niemals auseinander gehn", "artist": "Heidi Brühl" },
+    { "rank": 6, "title": "Milord", "artist": "Edith Piaf" },
+    { "rank": 7, "title": "Ein Schiff wird kommen", "artist": "Lale Andersen" },
+    { "rank": 8, "title": "Hohe Tannen", "artist": "Hellberg Duo" },
+    { "rank": 9, "title": "Schlafe mein Prinzchen", "artist": "Papa Bue's Jazzband" },
+    { "rank": 10, "title": "Kein Land kann schöner sein", "artist": "René Carol" }
+  ]
+}

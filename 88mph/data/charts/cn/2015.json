@@ -1,0 +1,17 @@
+{
+  "country": "cn",
+  "year": 2015,
+  "context": "Mainland China had become the center of gravity in C-pop, with QQ Music, NetEase Cloud Music, and Kugou dominating streaming. The idol group TFBoys became a massive phenomenon with three songs in the top ten. Faye Wong made a notable return with film soundtrack work. The 'Little Fresh Meat' idol culture was at its peak, and Karen Mok's rendition of W.B. Yeats became a cross-generational hit.",
+  "tracks": [
+    { "rank": 1, "title": "Congcong Na Nian (Fleet in Time)", "artist": "Faye Wong" },
+    { "rank": 2, "title": "Xi Huan Ni (Like You)", "artist": "G.E.M. (Deng Ziqi)" },
+    { "rank": 3, "title": "Xiao Pingguo (Little Apple)", "artist": "Chopstick Brothers" },
+    { "rank": 4, "title": "Yang (Young)", "artist": "TFBoys" },
+    { "rank": 5, "title": "Dang Ni Lao Le (When You Are Old)", "artist": "Karen Mok" },
+    { "rank": 6, "title": "Chong Ai (Favour)", "artist": "TFBoys" },
+    { "rank": 7, "title": "Xing Zou De Li Liang (Power to Go)", "artist": "Li Ronghao" },
+    { "rank": 8, "title": "Qingping Diao (Qingping Tune)", "artist": "Teresa Teng & Faye Wong" },
+    { "rank": 9, "title": "Qingchun Xiulian Shouce (Manual of Youth)", "artist": "TFBoys" },
+    { "rank": 10, "title": "Duoqing De Yueguang (Amorous Moonlight)", "artist": "Zhengyue Shiwu" }
+  ]
+}

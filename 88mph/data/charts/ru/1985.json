@@ -1,0 +1,17 @@
+{
+  "country": "ru",
+  "year": 1985,
+  "context": "1985 marked the beginning of perestroika under Gorbachev, a pivotal year for Soviet culture. The official estrada scene was dominated by Alla Pugacheva, Sofia Rotaru, and Valery Leontiev, while underground rock bands like Kino (Viktor Tsoi) and Nautilus Pompilius were gaining momentum through samizdat recordings and unofficial concerts.",
+  "tracks": [
+    { "rank": 1, "title": "Paromshchik (The Ferryman)", "artist": "Alla Pugacheva" },
+    { "rank": 2, "title": "Lavanda (Lavender)", "artist": "Sofia Rotaru" },
+    { "rank": 3, "title": "Margarita", "artist": "Valery Leontiev" },
+    { "rank": 4, "title": "Noch (Night)", "artist": "Viktor Tsoi / Kino" },
+    { "rank": 5, "title": "More (Sea)", "artist": "Yuri Antonov" },
+    { "rank": 6, "title": "Million Alykh Roz (Million Scarlet Roses)", "artist": "Alla Pugacheva" },
+    { "rank": 7, "title": "Aysberg (Iceberg)", "artist": "Alla Pugacheva" },
+    { "rank": 8, "title": "Prosto Malo (It's Just Not Enough)", "artist": "Sofia Rotaru" },
+    { "rank": 9, "title": "Derevnya Durachkov (Village of Fools)", "artist": "Nautilus Pompilius" },
+    { "rank": 10, "title": "Elektrichka (Electric Train)", "artist": "Kino" }
+  ]
+}

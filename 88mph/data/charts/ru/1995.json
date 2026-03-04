@@ -1,0 +1,17 @@
+{
+  "country": "ru",
+  "year": 1995,
+  "context": "Post-Soviet Russia in 1995 was a chaotic period of economic upheaval and cultural transformation. Pop music fragmented into glossy 'popsa' (Filipp Kirkorov, Natasha Koroleva), patriotic rock from Lyube, and underground acts like Agata Kristi. The Zolotoy Grammofon awards were established this year by Russkoe Radio, marking the formalization of Russian pop charts.",
+  "tracks": [
+    { "rank": 1, "title": "Kombat (Battalion Commander)", "artist": "Lyube" },
+    { "rank": 2, "title": "Kolybelnaya dlya Vulkana (Lullaby for the Volcano)", "artist": "Filipp Kirkorov" },
+    { "rank": 3, "title": "Zhelty Tyulpany (Yellow Tulips)", "artist": "Natasha Koroleva" },
+    { "rank": 4, "title": "Opium dlya Nikogo (Opium for Nobody)", "artist": "Agata Kristi" },
+    { "rank": 5, "title": "Dobroye Utro (Good Morning)", "artist": "Ruki Vverh!" },
+    { "rank": 6, "title": "Oy, Moroz, Moroz (Oh, Frost, Frost)", "artist": "Nadezhda Kadysheva" },
+    { "rank": 7, "title": "Kukla Koldunyja (Doll Sorceress)", "artist": "Ivanushki International" },
+    { "rank": 8, "title": "Davai Za... (Let's Drink To...)", "artist": "Lyube" },
+    { "rank": 9, "title": "Ugonshchitsa (The Hijacker)", "artist": "Irina Allegrova" },
+    { "rank": 10, "title": "Strannik (Wanderer)", "artist": "Natalya Vetlitskaya" }
+  ]
+}

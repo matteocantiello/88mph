@@ -1,0 +1,17 @@
+{
+  "country": "fr",
+  "year": 1960,
+  "context": "1960 was pivotal as the yé-yé generation began to emerge. Johnny Hallyday's 'T'aimer follement' marked the 17-year-old's explosive arrival and the beginning of French rock and roll. Luis Mariano's 'Les enfants du Pirée' spent nearly five months at #1, and Dalida placed three songs in the top 10. Bob Azzam's 'Ya Mostafa' brought North African-influenced pop into the French mainstream.",
+  "tracks": [
+    { "rank": 1, "title": "Les enfants du Pirée", "artist": "Luis Mariano" },
+    { "rank": 2, "title": "Ya Mostafa (Mustapha)", "artist": "Bob Azzam" },
+    { "rank": 3, "title": "Itsi bitsi petit bikini", "artist": "Dalida" },
+    { "rank": 4, "title": "T'aimer follement", "artist": "Johnny Hallyday" },
+    { "rank": 5, "title": "Le marchand de bonheur", "artist": "Les Compagnons de la Chanson" },
+    { "rank": 6, "title": "Romantica", "artist": "Dalida" },
+    { "rank": 7, "title": "Salade de fruits", "artist": "Bourvil" },
+    { "rank": 8, "title": "Bleu, blanc, blond", "artist": "Marcel Amont" },
+    { "rank": 9, "title": "C'est un jour à Naples", "artist": "Dalida" },
+    { "rank": 10, "title": "Tu t'laisses aller", "artist": "Charles Aznavour" }
+  ]
+}

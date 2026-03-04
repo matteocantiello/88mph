@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 2000,
+  "context": "Germany's charts in 2000 reflected the Schlager revival and reality TV era. DJ Ötzi's novelty hit 'Anton aus Tirol' dominated the year, and Zlatko (a Big Brother contestant) achieved surprising chart success. Meanwhile, global hits from Bomfunk MC's, ATC, and Bon Jovi showed Germany's openness to international pop and dance music.",
+  "tracks": [
+    { "rank": 1, "title": "Anton aus Tirol", "artist": "DJ Ötzi" },
+    { "rank": 2, "title": "The Spirit of the Hawk", "artist": "Rednex" },
+    { "rank": 3, "title": "Around the World (La La La La La)", "artist": "ATC" },
+    { "rank": 4, "title": "Freestyler", "artist": "Bomfunk MC's" },
+    { "rank": 5, "title": "It's My Life", "artist": "Bon Jovi" },
+    { "rank": 6, "title": "Ich vermiss dich (wie die Hölle)", "artist": "Zlatko" },
+    { "rank": 7, "title": "Maria Maria", "artist": "Santana" },
+    { "rank": 8, "title": "Großer Bruder", "artist": "Zlatko & Jürgen" },
+    { "rank": 9, "title": "Mein Stern", "artist": "Ayman" },
+    { "rank": 10, "title": "Lucky", "artist": "Britney Spears" }
+  ]
+}

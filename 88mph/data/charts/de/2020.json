@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 2020,
+  "context": "Germany's 2020 chart was shaped by the COVID-19 pandemic, with The Weeknd's 'Blinding Lights' achieving historic dominance at 10 weeks at #1. German-language rap had become a chart force, with Apache 207 placing two songs in the top 10. The chart reflected viral remix culture (SAINt JHN's 'Roses') and the global dance-pop wave.",
+  "tracks": [
+    { "rank": 1, "title": "Blinding Lights", "artist": "The Weeknd" },
+    { "rank": 2, "title": "Dance Monkey", "artist": "Tones and I" },
+    { "rank": 3, "title": "Roller", "artist": "Apache 207" },
+    { "rank": 4, "title": "Roses (Imanbek Remix)", "artist": "SAINt JHN" },
+    { "rank": 5, "title": "Breaking Me", "artist": "Topic ft. A7S" },
+    { "rank": 6, "title": "Emotions", "artist": "UFO361" },
+    { "rank": 7, "title": "Savage Love (Laxed - Siren Beat)", "artist": "Jawsh 685 & Jason Derulo" },
+    { "rank": 8, "title": "Rockstar", "artist": "Loredana" },
+    { "rank": 9, "title": "Ride It", "artist": "Regard" },
+    { "rank": 10, "title": "Fame", "artist": "Apache 207" }
+  ]
+}

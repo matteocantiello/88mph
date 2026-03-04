@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 1955,
+  "context": "The mid-1950s was the height of Germany's Wirtschaftswunder (economic miracle), and music reflected optimism and escapism. German Schlager dominated with cheerful, sentimental songs, while American and international hits also charted strongly. Caterina Valente emerged as the superstar of 1955, with her French-themed hit topping the chart for five consecutive months.",
+  "tracks": [
+    { "rank": 1, "title": "Ganz Paris träumt von der Liebe", "artist": "Caterina Valente" },
+    { "rank": 2, "title": "Das alte Haus von Rocky Docky", "artist": "Bruce Low" },
+    { "rank": 3, "title": "Cherry Pink (And Apple Blossom White)", "artist": "Perez Prado And His Orchestra" },
+    { "rank": 4, "title": "Jim, Jonny und Jonas", "artist": "Hula Hawaiian Quartett" },
+    { "rank": 5, "title": "Was haben die Matrosen in Singapur gemacht", "artist": "Die singenden Seesterne" },
+    { "rank": 6, "title": "Sieben einsame Tage", "artist": "Illo Schieder" },
+    { "rank": 7, "title": "Am Weissen Strand von Soerabaya", "artist": "Hula Hawaiian Quartett" },
+    { "rank": 8, "title": "Skokiaan", "artist": "The Four Lads" },
+    { "rank": 9, "title": "Chanson D'amour", "artist": "Orchester Ambros Seelos" },
+    { "rank": 10, "title": "Memories Are Made of This", "artist": "Dean Martin" }
+  ]
+}

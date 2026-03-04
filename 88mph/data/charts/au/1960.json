@@ -1,0 +1,17 @@
+{
+  "country": "au",
+  "year": 1960,
+  "context": "Australia's 1960 chart reflected a mix of American rock and roll imports and emerging local talent. Elvis Presley dominated with multiple entries, while Rolf Harris's novelty hit 'Tie Me Kangaroo Down Sport' became an enduring Australian cultural touchstone. The chart data was compiled by historian David Kent from state-by-state radio station charts, representing the earliest reliable national data for Australia.",
+  "tracks": [
+    { "rank": 1, "title": "It's Now or Never", "artist": "Elvis Presley" },
+    { "rank": 2, "title": "Boom Boom Baby", "artist": "Crash Craddock" },
+    { "rank": 3, "title": "He'll Have to Go", "artist": "Jim Reeves" },
+    { "rank": 4, "title": "Are You Lonesome Tonight?", "artist": "Elvis Presley" },
+    { "rank": 5, "title": "Clap Your Hands", "artist": "The Beau Marks" },
+    { "rank": 6, "title": "Just a Closer Walk with Thee", "artist": "Jimmie Rodgers" },
+    { "rank": 7, "title": "Save the Last Dance for Me", "artist": "The Drifters" },
+    { "rank": 8, "title": "Tie Me Kangaroo Down Sport", "artist": "Rolf Harris" },
+    { "rank": 9, "title": "What Do You Want to Make Those Eyes at Me For?", "artist": "Emile Ford and The Checkmates" },
+    { "rank": 10, "title": "My Old Man's a Dustman", "artist": "Lonnie Donegan" }
+  ]
+}
