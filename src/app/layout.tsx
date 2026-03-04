@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, Outfit } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import { PlayerProvider } from "@/contexts/PlayerContext";
 import MiniPlayer from "@/components/MiniPlayer";
 import "./globals.css";
@@ -39,6 +40,7 @@ export default function RootLayout({
           </div>
           <MiniPlayer />
         </PlayerProvider>
+        <Analytics />
       </body>
     </html>
   );
