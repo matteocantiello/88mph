@@ -49,6 +49,7 @@ export interface Region {
 
 export const REGIONS: Region[] = [
   { name: "Americas", countries: ["us", "br", "mx"] },
+  { name: "Oceania", countries: ["au"] },
   { name: "Europe", countries: ["uk", "fr", "de", "it", "es", "se", "no", "nl"] },
   { name: "Asia", countries: ["jp", "kr", "in", "cn"] },
   { name: "Eurasia", countries: ["ru"] },

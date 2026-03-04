@@ -1,19 +1,10 @@
-# 88mph — Musical Time Machine
+# 88mph
 
-A cinematic web app that lets you travel through decades of music. Select a country and year to discover the top 10 songs that defined an era.
+**A musical time machine.** Select a country and year to discover the top 10 songs that defined an era — from 1940s big band to 2020s Afrobeats, across 19 countries.
 
-## Features
+[![CI](https://github.com/matteocantiello/88mph/actions/workflows/ci.yml/badge.svg)](https://github.com/matteocantiello/88mph/actions/workflows/ci.yml)
 
-- **19 Countries** — USA, UK, France, Germany, Brazil, Japan, Australia, Italy, India, South Korea, Mexico, Spain, Sweden, Norway, Netherlands, Russia, China, Nigeria, South Africa
-- **133 Charts** — From 1940 pre-war USA to 2020s global streaming era
-- **Decade Color Themes** — Visual design shifts to match each era
-- **30-Second Previews** — Play Spotify previews directly in the browser
-- **Mini Player** — Fixed bottom bar with playback controls
-- **Random Teleport** — Jump to a random era with a dramatic animation
-- **Film Grain Overlay** — Cinematic texture over the entire app
-- **Editorial Design** — Magazine-style typography with Instrument Serif + Outfit
-
-## Getting Started
+## Quick Start
 
 ```bash
 npm install
@@ -22,10 +13,19 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## What's Inside
+
+- **133 charts** across **19 countries**, spanning **1940–2020**
+- Decade-based color themes that shift the entire UI palette per era
+- Cultural context blurbs for every chart (what was happening in music that year)
+- 30-second Spotify previews with a mini player (optional — works without credentials)
+- Film grain overlay, editorial typography (Instrument Serif + Outfit), staggered animations
+- Random "teleport" button that drops you into a surprise era
+
 ## Available Charts
 
-| Country | Charts | Years |
-|---------|--------|-------|
+| Country | # | Years |
+|---------|---|-------|
 | USA | 16 | 1940, 1950, 1955, 1960, 1965, 1970, 1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015, 2020 |
 | UK | 15 | 1952, 1955, 1960, 1965, 1970, 1975, 1980, 1985, 1990, 1995, 2000, 2005, 2010, 2015, 2020 |
 | Italy | 12 | 1947, 1950, 1955, 1960, 1965, 1975, 1985, 1990, 1995, 2000, 2010, 2020 |
@@ -46,72 +46,52 @@ Open [http://localhost:3000](http://localhost:3000).
 | Nigeria | 4 | 1975, 1990, 2010, 2020 |
 | South Africa | 4 | 1965, 1985, 2000, 2020 |
 
-## Spotify Integration (Optional)
+Chart data is sourced from official chart organizations (Billboard, Oricon, ARIA, OCC, etc.) and documented in [`SOURCES.md`](SOURCES.md).
+
+## Development
+
+```bash
+npm install          # Install dependencies
+npm run dev          # Start dev server
+npm run build        # Production build
+npm run lint         # ESLint
+npm run typecheck    # TypeScript type checking
+npm test             # Run tests
+npm run test:ci      # Tests with coverage
+```
+
+### CI Pipeline
+
+GitHub Actions runs on every push and PR to `main`:
+
+1. **Lint** — ESLint with Next.js config
+2. **Type Check** — `tsc --noEmit`
+3. **Test** — Jest (unit tests + chart data integrity validation)
+4. **Build** — Next.js production build (runs after lint/typecheck/test pass)
+
+### Tests
+
+Tests cover:
+- **Utilities** — Country/region data, validation, formatting
+- **Themes** — Decade color interpolation, CSS variable generation
+- **Data layer** — Year navigation, metadata queries
+- **Chart integrity** — Validates all 133 JSON chart files (correct schema, sequential ranks, metadata consistency)
+
+### Spotify Integration (Optional)
 
 The app works without Spotify credentials — tracks display without playback. To enable 30-second previews:
 
-1. Go to [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
-2. Create an app and get your Client ID and Secret
-3. Copy `.env.local.example` to `.env.local` and fill in credentials
-4. Run the enrichment script to add album art and preview URLs:
+1. Create an app at [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
+2. Copy `.env.local.example` to `.env.local` and add your Client ID and Secret
+3. Run the enrichment script:
 
 ```bash
 SPOTIFY_CLIENT_ID=xxx SPOTIFY_CLIENT_SECRET=yyy node scripts/generate-data.mjs
 ```
 
-## Project Structure
+## Adding Chart Data
 
-```
-src/
-├── app/
-│   ├── layout.tsx          # Root layout with fonts + PlayerProvider
-│   ├── page.tsx            # Landing page with featured era cards
-│   ├── globals.css         # Film grain, themes, transitions
-│   ├── [country]/[year]/   # Dynamic chart pages
-│   └── api/spotify/token/  # Server-side Spotify token proxy
-├── components/
-│   ├── FeaturedCard.tsx    # Era preview card with top 5 songs
-│   ├── TimeSelector.tsx    # Country toggle + year timeline
-│   ├── ChartList.tsx       # Top 10 track list
-│   ├── TrackRow.tsx        # Individual track with play button
-│   ├── MiniPlayer.tsx      # Fixed bottom audio controls
-│   ├── RandomButton.tsx    # Random era teleport
-│   └── EraContext.tsx      # Cultural context blurb
-├── contexts/
-│   └── PlayerContext.tsx   # Audio playback state management
-└── lib/
-    ├── data.ts             # Data loading utilities
-    ├── themes.ts           # Decade color themes + interpolation
-    ├── spotify.ts          # Spotify API client
-    └── utils.ts            # Helper functions
-
-data/
-├── metadata.json           # Available (country, year) index
-└── charts/
-    ├── us/*.json           # USA (16 charts, 1940–2020)
-    ├── uk/*.json           # UK (15 charts, 1952–2020)
-    ├── it/*.json           # Italy (12 charts, 1947–2020)
-    ├── de/*.json           # Germany (11 charts, 1955–2020)
-    ├── es/*.json           # Spain (8 charts, 1965–2015)
-    ├── in/*.json           # India (7 charts, 1955–2010)
-    ├── fr/*.json           # France (6 charts, 1955–2010)
-    ├── jp/*.json           # Japan (6 charts, 1968–2005)
-    ├── au/*.json           # Australia (6 charts, 1960–2015)
-    ├── kr/*.json           # South Korea (5 charts, 1980–2020)
-    ├── br/*.json           # Brazil (5 charts, 1960–2015)
-    ├── mx/*.json           # Mexico (5 charts, 1965–2010)
-    ├── se/*.json           # Sweden (5 charts, 1965–2010)
-    ├── ru/*.json           # Russia (5 charts, 1975–2015)
-    ├── nl/*.json           # Netherlands (5 charts, 1965–2020)
-    ├── cn/*.json           # China (4 charts, 1985–2015)
-    ├── no/*.json           # Norway (4 charts, 1970–2015)
-    ├── ng/*.json           # Nigeria (4 charts, 1975–2020)
-    └── za/*.json           # South Africa (4 charts, 1965–2020)
-```
-
-## Adding Data
-
-Create a new JSON file in `data/charts/{country}/{year}.json`:
+Create `data/charts/{country}/{year}.json`:
 
 ```json
 {
@@ -124,19 +104,47 @@ Create a new JSON file in `data/charts/{country}/{year}.json`:
 }
 ```
 
-Then add the entry to `data/metadata.json` with `"available": true`.
+Then add the entry to `data/metadata.json` and update `SOURCES.md` with the data source.
 
-## Deployment
+## Project Structure
 
-Ready for Vercel:
-
-```bash
-npm run build
+```
+src/
+├── app/
+│   ├── layout.tsx              # Root layout (fonts, PlayerProvider)
+│   ├── page.tsx                # Landing page (hero, country browser)
+│   ├── globals.css             # Film grain, themes, animations
+│   ├── [country]/[year]/       # Dynamic chart pages
+│   └── api/spotify/token/      # Spotify token proxy
+├── __tests__/                  # Test suite
+├── components/
+│   ├── CountryBrowser.tsx      # Regional country + chart browser
+│   ├── TimeSelector.tsx        # Country dropdown + year timeline
+│   ├── ChartList.tsx           # Top 10 track list
+│   ├── TrackRow.tsx            # Track row with play button
+│   ├── MiniPlayer.tsx          # Fixed bottom audio controls
+│   ├── RandomButton.tsx        # Random era teleport
+│   └── EraContext.tsx          # Cultural context blockquote
+├── contexts/
+│   └── PlayerContext.tsx       # Audio playback state
+└── lib/
+    ├── data.ts                 # Data loading + metadata queries
+    ├── themes.ts               # Decade color themes + interpolation
+    ├── spotify.ts              # Spotify API client
+    └── utils.ts                # Countries, regions, helpers
+data/
+├── metadata.json               # Available (country, year) index
+└── charts/{country}/{year}.json
 ```
 
 ## Tech Stack
 
-- **Next.js 14** (App Router)
-- **TypeScript**
-- **Tailwind CSS**
-- **Spotify Web API** (client credentials flow)
+- [Next.js 14](https://nextjs.org/) (App Router)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Jest](https://jestjs.io/) + [Testing Library](https://testing-library.com/)
+- [Spotify Web API](https://developer.spotify.com/documentation/web-api) (optional, client credentials flow)
+
+## License
+
+MIT

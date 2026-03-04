@@ -161,3 +161,10 @@
 
 **Key decisions**: Create 88mph/SOURCES.md documenting all chart data sources. Add mandatory rule to CLAUDE.md requiring SOURCES.md updates on data ingestion.
 **Artifacts produced**: 88mph/SOURCES.md, updated CLAUDE.md
+
+### Prompt #24 — Update README, Add Tests, Set Up CI via GitHub Actions
+
+> Let's update the readme.md for github. We also want to create tests and implement Continuous integration via github actions
+
+**Key decisions**: Overhaul README for GitHub presentation. Add test suite (Jest + React Testing Library). Set up GitHub Actions CI pipeline for lint, type-check, tests, and build.
+**Artifacts to produce**: Updated README.md, test files, jest config, GitHub Actions workflow
