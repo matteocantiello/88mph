@@ -98,3 +98,10 @@
 
 **Key decisions**: Created chart data for all 4 new countries based on research (Binaca Geetmala for India, K-pop/Gaon for South Korea, Latin charts for Mexico, PROMUSICAE/Los 40 for Spain)
 **Artifacts produced**: 14 new JSON chart files (in/1970,1985,1995,2010 + kr/1990,2000,2010,2020 + mx/1980,1995,2010 + es/1975,1990,2005), updated metadata.json (66 total charts), updated utils.ts (12 countries)
+
+### Prompt #15 — Expand Italian Charts from Official Source (hitparadeitalia.it)
+
+> For italian charts, here's the official italian resource. Please extract from here: https://www.hitparadeitalia.it//hp_yends/
+
+**Key decisions**: Use official hitparadeitalia.it year-end singles charts as the authoritative source for Italian data. Verified existing 3 charts (1965, 1985, 2000) match official data. Added 5 new years (1975, 1990, 1995, 2010, 2020).
+**Artifacts produced**: 5 new Italian chart files (it/1975, 1990, 1995, 2010, 2020), updated metadata.json (71 total charts), updated README.md

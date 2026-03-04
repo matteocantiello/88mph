@@ -1,0 +1,17 @@
+{
+  "country": "it",
+  "year": 2020,
+  "context": "Italian music in 2020 was dominated by homegrown talent. Rocco Hunt and Ana Mena's summer anthem 'A un passo dalla luna' topped the year-end chart, while the Italian rap and trap scene (Ernia, tha Supreme, Ghali) had fully arrived in the mainstream. Despite the pandemic, Italian artists thrived — Gazzelle and Irama represented a new generation of Italian pop-rock and pop.",
+  "tracks": [
+    { "rank": 1, "title": "A un passo dalla luna", "artist": "Rocco Hunt & Ana Mena" },
+    { "rank": 2, "title": "Superclassico", "artist": "Ernia" },
+    { "rank": 3, "title": "Karaoke", "artist": "Boomdabash & Alessandra Amoroso" },
+    { "rank": 4, "title": "Blinding Lights", "artist": "The Weeknd" },
+    { "rank": 5, "title": "Hypnotized", "artist": "Purple Disco Machine & Sophie and the Giants" },
+    { "rank": 6, "title": "Ti volevo dedicare", "artist": "Rocco Hunt feat. J-Ax & BoomDaBash" },
+    { "rank": 7, "title": "Mediterranea", "artist": "Irama" },
+    { "rank": 8, "title": "Good Times", "artist": "Ghali" },
+    { "rank": 9, "title": "blun7 a swishland", "artist": "tha Supreme" },
+    { "rank": 10, "title": "Destri", "artist": "Gazzelle" }
+  ]
+}

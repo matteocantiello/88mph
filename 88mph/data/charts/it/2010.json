@@ -1,0 +1,17 @@
+{
+  "country": "it",
+  "year": 2010,
+  "context": "The 2010 FIFA World Cup dominated the Italian charts with Shakira's 'Waka Waka' at #1, while Jovanotti proved that Italian pop could compete with global superstars, placing two songs in the top 10. Modà emerged as a major force in Italian pop-rock. Lady Gaga and Stromae represented the international pop and electronic crossover that characterized the era.",
+  "tracks": [
+    { "rank": 1, "title": "Waka Waka (This Time for Africa)", "artist": "Shakira feat. Freshlyground" },
+    { "rank": 2, "title": "Tutto l'amore che ho", "artist": "Jovanotti" },
+    { "rank": 3, "title": "Tranne te", "artist": "Fabri Fibra" },
+    { "rank": 4, "title": "Tik Tok", "artist": "Ke$ha" },
+    { "rank": 5, "title": "La Notte", "artist": "Modà" },
+    { "rank": 6, "title": "Baciami ancora", "artist": "Jovanotti" },
+    { "rank": 7, "title": "Alejandro", "artist": "Lady Gaga" },
+    { "rank": 8, "title": "Sono già solo", "artist": "Modà" },
+    { "rank": 9, "title": "Loca", "artist": "Shakira feat. Dizzee Rascal" },
+    { "rank": 10, "title": "Alors on danse", "artist": "Stromae" }
+  ]
+}

@@ -57,8 +57,13 @@
     { "country": "au", "year": 2015, "available": true },
 
     { "country": "it", "year": 1965, "available": true },
+    { "country": "it", "year": 1975, "available": true },
     { "country": "it", "year": 1985, "available": true },
+    { "country": "it", "year": 1990, "available": true },
+    { "country": "it", "year": 1995, "available": true },
     { "country": "it", "year": 2000, "available": true },
+    { "country": "it", "year": 2010, "available": true },
+    { "country": "it", "year": 2020, "available": true },
 
     { "country": "in", "year": 1970, "available": true },
     { "country": "in", "year": 1985, "available": true },
