@@ -39,8 +39,8 @@ export default async function HomePage() {
                 <span className="w-8 h-px bg-accent/30" />
                 The past, on shuffle.
               </p>
-              <h1 className="font-display text-5xl sm:text-7xl md:text-[7rem] lg:text-[8.5rem] text-foreground leading-[0.82] mb-5 tracking-tight">
-                88mph
+              <h1 className="led-hero text-5xl sm:text-7xl md:text-[7rem] lg:text-[8.5rem] leading-[0.82] mb-5">
+                8<span className="-ml-[0.08em]">8</span>mph
               </h1>
               <p className="font-body text-foreground/30 text-base md:text-lg max-w-md leading-relaxed mb-8">
                 No algorithm. No &lsquo;you might also like.&rsquo; Just what the world was

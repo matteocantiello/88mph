@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Instrument_Serif, Outfit } from "next/font/google";
+import { Instrument_Serif, Outfit, Share_Tech_Mono } from "next/font/google";
 import { PlayerProvider } from "@/contexts/PlayerContext";
 import Script from "next/script";
 import MiniPlayer from "@/components/MiniPlayer";
@@ -18,6 +18,13 @@ const outfit = Outfit({
   display: "swap",
 });
 
+const shareTechMono = Share_Tech_Mono({
+  weight: "400",
+  subsets: ["latin"],
+  variable: "--font-led",
+  display: "swap",
+});
+
 export const metadata: Metadata = {
   title: "88mph — Musical Time Machine",
   description:
@@ -32,7 +39,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${instrumentSerif.variable} ${outfit.variable} font-body antialiased`}
+        className={`${instrumentSerif.variable} ${outfit.variable} ${shareTechMono.variable} font-body antialiased`}
       >
         <PlayerProvider>
           <div className="film-grain">
