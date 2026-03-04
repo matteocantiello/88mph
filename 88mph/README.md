@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000).
 - **133 charts** across **19 countries**, spanning **1940–2020**
 - Decade-based color themes that shift the entire UI palette per era
 - Cultural context blurbs for every chart (what was happening in music that year)
-- 30-second Spotify previews with a mini player (optional — works without credentials)
+- Spotify album art, 30-second previews with a mini player, and "Play on Spotify" links
 - Film grain overlay, editorial typography (Instrument Serif + Outfit), staggered animations
 - Random "teleport" button that drops you into a surprise era
 
@@ -77,17 +77,22 @@ Tests cover:
 - **Data layer** — Year navigation, metadata queries
 - **Chart integrity** — Validates all 133 JSON chart files (correct schema, sequential ranks, metadata consistency)
 
-### Spotify Integration (Optional)
+### Spotify Integration
 
-The app works without Spotify credentials — tracks display without playback. To enable 30-second previews:
+Charts are enriched with Spotify data: album art, track links, and 30-second previews (where available). For tracks without previews, the app shows a "Play on Spotify" button that opens the track externally.
+
+To re-run enrichment or enrich new charts:
 
 1. Create an app at [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
 2. Copy `.env.local.example` to `.env.local` and add your Client ID and Secret
 3. Run the enrichment script:
 
 ```bash
-SPOTIFY_CLIENT_ID=xxx SPOTIFY_CLIENT_SECRET=yyy node scripts/generate-data.mjs
+node scripts/generate-data.mjs            # all countries
+node scripts/generate-data.mjs --country us  # single country
 ```
+
+The script is idempotent — re-running skips already-enriched tracks. It includes retry with backoff for rate limits and fallback search for non-Latin titles.
 
 ## Adding Chart Data
 

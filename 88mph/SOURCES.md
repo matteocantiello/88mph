@@ -45,6 +45,12 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Binaca Geetmala | IN | https://en.wikipedia.org/wiki/Binaca_Geetmala | Indian radio countdown show (1952–1994), primary source for pre-1994 Indian charts |
 | NamuWiki | KR | https://namu.wiki/ | Korean wiki with detailed historical K-pop chart data |
 
+## Enrichment Sources
+
+| Source | Data Provided | URL | Notes |
+|--------|---------------|-----|-------|
+| Spotify Web API | Album art, track URIs, 30-second previews, external links | https://developer.spotify.com/documentation/web-api | Used via client credentials flow; enrichment script in `scripts/generate-data.mjs` |
+
 ## General Reference
 
 | Source | Countries | URL | Notes |
@@ -85,3 +91,4 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 - For countries without formal chart infrastructure in certain eras (Soviet Russia, pre-2000 Nigeria, apartheid-era South Africa, pre-2000 China), data is compiled from award shows, festival data, retrospective rankings, and cultural documentation.
 - Italian charts were verified directly against hitparadeitalia.it official year-end data; existing charts for 1965, 1985, and 2000 matched the official source exactly.
 - Indian pre-1994 data uses Binaca Geetmala (later Cibaca Geetmala) annual countdown rankings, the most authoritative source for that era.
+- Spotify enrichment adds `albumArt`, `spotifyUri`, `spotifyUrl`, and `previewUrl` (when available) to each track. Preview URLs may be null due to Spotify's late-2024 policy changes restricting 30-second previews; in those cases, the app offers a "Play on Spotify" external link instead.
