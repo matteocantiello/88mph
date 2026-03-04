@@ -44,6 +44,12 @@
 
 **Artifacts modified**: README.md, then git commit + push
 
+### Prompt #7 — Rename Directory from timbre to 88mph
+
+> can we change the name of the directory from timbre to 88mph?
+
+**Artifacts modified**: git mv timbre/ 88mph/
+
 ### Prompt #6 — Research Top 10 Songs for 6 Countries Across Multiple Years
 
 > Research the top 10 songs for France (1965, 1980, 1995, 2010), Germany (1975, 1985, 1999, 2010), Brazil (1970, 1985, 2000, 2015), Japan (1975, 1985, 1995, 2005), Australia (1980, 1990, 2000, 2015), Italy (1965, 1985, 2000). Use Wikipedia and web searches. For each country+year: top 10 songs with title and artist, 2-3 sentence cultural context blurb, country code.
