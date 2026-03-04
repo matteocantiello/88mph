@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { Track } from "@/lib/data";
 import { usePlayer } from "@/contexts/PlayerContext";
 
@@ -44,9 +45,11 @@ export default function TrackRow({ track, queue, index }: TrackRowProps) {
         }`}
       >
         {track.albumArt ? (
-          <img
+          <Image
             src={track.albumArt}
             alt=""
+            width={48}
+            height={48}
             className="w-full h-full object-cover"
           />
         ) : (

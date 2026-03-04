@@ -55,7 +55,7 @@ export default function TimeCircuit({
   const canGo = selectedCountry && destinationYear;
 
   return (
-    <div className="time-circuit-panel rounded-xl p-5 md:p-6">
+    <div className="time-circuit-panel rounded-xl p-4 md:p-6">
       {/* Title */}
       <div className="flex items-center gap-2 mb-5">
         <div className="w-1.5 h-1.5 rounded-full bg-accent/60" />

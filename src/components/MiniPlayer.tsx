@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { usePlayer } from "@/contexts/PlayerContext";
 
 export default function MiniPlayer() {
@@ -48,7 +49,7 @@ export default function MiniPlayer() {
         {/* Album Art */}
         <div className="w-10 h-10 rounded-lg overflow-hidden shrink-0 ring-1 ring-white/[0.06]">
           {currentTrack.albumArt ? (
-            <img src={currentTrack.albumArt} alt="" className="w-full h-full object-cover" />
+            <Image src={currentTrack.albumArt} alt="" width={40} height={40} className="w-full h-full object-cover" />
           ) : (
             <div className="w-full h-full bg-surface-raised flex items-center justify-center">
               <svg

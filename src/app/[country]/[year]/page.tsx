@@ -130,7 +130,7 @@ export default async function ChartPage({ params }: PageProps) {
         </section>
 
         {/* Timeline */}
-        <section className="max-w-5xl mx-auto px-6 pb-32 pt-4">
+        <section className="max-w-5xl mx-auto px-6 pb-24 pt-4">
           <div className="pt-8 border-t border-white/[0.04]">
             <p className="font-body text-[11px] uppercase tracking-[0.2em] text-foreground/20 mb-4">
               Jump to year

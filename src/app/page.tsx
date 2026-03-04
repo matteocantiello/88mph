@@ -39,7 +39,7 @@ export default async function HomePage() {
                 <span className="w-8 h-px bg-accent/30" />
                 The past, on shuffle.
               </p>
-              <h1 className="font-display text-7xl md:text-[7rem] lg:text-[8.5rem] text-foreground leading-[0.82] mb-5 tracking-tight">
+              <h1 className="font-display text-5xl sm:text-7xl md:text-[7rem] lg:text-[8.5rem] text-foreground leading-[0.82] mb-5 tracking-tight">
                 88mph
               </h1>
               <p className="font-body text-foreground/30 text-base md:text-lg max-w-md leading-relaxed mb-8">
@@ -54,7 +54,7 @@ export default async function HomePage() {
               </div>
 
               {/* Stats */}
-              <div className="flex items-center gap-8 mt-10 pt-8 border-t border-white/[0.04]">
+              <div className="flex flex-wrap items-center gap-8 mt-10 pt-8 border-t border-white/[0.04]">
                 <div>
                   <span className="font-display text-3xl text-accent/80">{totalCharts}</span>
                   <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/20 mt-1">Charts</p>
@@ -125,7 +125,7 @@ function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
     <Link
       href={`/${chart.country}/${chart.year}`}
       className={`spotlight-card group block rounded-2xl overflow-hidden border border-white/[0.05] relative transition-all duration-500 hover:border-white/[0.1] ${
-        isFirst ? "p-6 md:p-7" : "p-5"
+        isFirst ? "p-4 md:p-6 lg:p-7" : "p-5"
       }`}
       style={{ background: theme.gradient }}
     >
@@ -157,7 +157,7 @@ function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
 
         {/* Track list */}
         <div className={isFirst ? "space-y-0" : "space-y-0"}>
-          {chart.tracks.slice(0, isFirst ? 5 : 3).map((track) => (
+          {chart.tracks.slice(0, 3).map((track) => (
             <div
               key={track.rank}
               className="flex items-baseline gap-3 py-[5px] border-b last:border-b-0"
@@ -200,24 +200,25 @@ function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
 }
 
 function pickSpotlightEntries(entries: { country: string; year: number }[]): { country: string; year: number }[] {
-  const targets = [
-    { yearRange: [1960, 1980], preferred: ["it", "br", "uk", "us", "jp"] },
-    { yearRange: [1985, 2005], preferred: ["kr", "de", "ng", "ru", "in"] },
-    { yearRange: [2005, 2025], preferred: ["ng", "za", "cn", "se", "mx"] },
+  const eraBuckets: [number, number][] = [
+    [1940, 1980],
+    [1981, 2005],
+    [2006, 2030],
   ];
 
   const picks: { country: string; year: number }[] = [];
   const usedCountries = new Set<string>();
 
-  for (const target of targets) {
+  for (const [lo, hi] of eraBuckets) {
     const candidates = entries.filter(
-      (c) =>
-        c.year >= target.yearRange[0] &&
-        c.year <= target.yearRange[1] &&
-        !usedCountries.has(c.country)
+      (c) => c.year >= lo && c.year <= hi && !usedCountries.has(c.country)
     );
-    const preferred = candidates.find((c) => target.preferred.includes(c.country));
-    const pick = preferred || candidates[Math.floor(Math.random() * candidates.length)];
+    // Fisher-Yates shuffle
+    for (let i = candidates.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [candidates[i], candidates[j]] = [candidates[j], candidates[i]];
+    }
+    const pick = candidates[0];
     if (pick) {
       picks.push(pick);
       usedCountries.add(pick.country);

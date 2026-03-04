@@ -182,6 +182,13 @@ function WorldMap({
         </Geographies>
       </ComposableMap>
 
+      {/* Empty state guidance */}
+      {!selectedCountry && !hoveredCountry && (
+        <p className="text-center font-body text-sm text-foreground/25 mt-2">
+          Click a highlighted country to begin
+        </p>
+      )}
+
       {/* Selected country label below map */}
       {selectedCountry && COUNTRIES[selectedCountry] && (
         <div className="flex items-center justify-center gap-2.5 mt-2 anim-fade">
