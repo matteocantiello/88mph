@@ -1,5 +1,6 @@
 "use client";
 
+import { Suspense } from "react";
 import { Track } from "@/lib/data";
 import TrackRow from "./TrackRow";
 import SaveToSpotify from "./SaveToSpotify";
@@ -27,12 +28,14 @@ export default function ChartList({ tracks, country, countryName, year }: ChartL
         <span />
         <span className="font-body text-[11px] uppercase tracking-wider">Title</span>
         {country && countryName && year ? (
-          <SaveToSpotify
-            country={country}
-            countryName={countryName}
-            year={year}
-            trackUris={trackUris}
-          />
+          <Suspense fallback={<span />}>
+            <SaveToSpotify
+              country={country}
+              countryName={countryName}
+              year={year}
+              trackUris={trackUris}
+            />
+          </Suspense>
         ) : (
           <span />
         )}

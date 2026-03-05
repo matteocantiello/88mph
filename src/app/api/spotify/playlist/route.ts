@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getValidAccessToken } from "@/lib/spotify-auth";
+import { rateLimit } from "@/lib/rate-limit";
 
 const TRACK_URI_PATTERN = /^spotify:track:[a-zA-Z0-9]{22}$/;
 const MAX_TRACKS = 50;
@@ -8,6 +9,12 @@ const MIN_YEAR = 1900;
 const MAX_YEAR = 2100;
 
 export async function POST(request: NextRequest) {
+  const ip = request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown";
+  const { allowed } = rateLimit(`playlist:${ip}`, { maxRequests: 5, windowMs: 60_000 });
+  if (!allowed) {
+    return NextResponse.json({ error: "Too many requests" }, { status: 429 });
+  }
+
   const accessToken = await getValidAccessToken();
 
   if (!accessToken) {

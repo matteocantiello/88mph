@@ -19,6 +19,13 @@ interface PageProps {
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://88mph.vercel.app";
 
+export async function generateStaticParams() {
+  const metadata = await getMetadata();
+  return metadata.charts
+    .filter((e) => e.available)
+    .map((e) => ({ country: e.country, year: String(e.year) }));
+}
+
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const country = params.country;
   const year = parseInt(params.year, 10);
