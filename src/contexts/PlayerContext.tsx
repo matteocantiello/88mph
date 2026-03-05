@@ -55,6 +55,7 @@ function ytCommand(iframe: HTMLIFrameElement, func: string, args: unknown[] = []
 export function PlayerProvider({ children }: { children: ReactNode }) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const ytIframeRef = useRef<HTMLIFrameElement | null>(null);
+  const ytReadyRef = useRef(false);
   const ytProgressInterval = useRef<ReturnType<typeof setInterval> | null>(null);
   const stateRef = useRef<PlayerState>({
     currentTrack: null,
@@ -115,17 +116,25 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
   }, [stopYTProgress]);
 
   /**
-   * Create a YouTube embed iframe for the given videoId.
-   * Uses a plain iframe with enablejsapi=1 (no origin param) to avoid error 150.
+   * Ensure the YouTube iframe exists (created once, reused via postMessage).
+   * First call creates the iframe with the given videoId + autoplay.
+   * Subsequent calls use loadVideoById to switch videos without destroying the iframe,
+   * which preserves the user-gesture context on mobile.
    */
-  const createYTIframe = useCallback(
+  const playYouTube = useCallback(
     (videoId: string) => {
       const wrapper = document.getElementById("yt-player-wrapper");
       if (!wrapper) return;
 
-      // Remove old iframe
-      wrapper.innerHTML = "";
+      if (ytReadyRef.current && ytIframeRef.current) {
+        // Reuse existing iframe — load new video via postMessage
+        ytCommand(ytIframeRef.current, "loadVideoById", [videoId]);
+        startYTProgress();
+        return;
+      }
 
+      // First play: create the iframe
+      wrapper.innerHTML = "";
       const iframe = document.createElement("iframe");
       iframe.id = "yt-player-iframe";
       iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&controls=1&modestbranding=1&rel=0&playsinline=1&enablejsapi=1`;
@@ -136,11 +145,9 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
       iframe.allowFullscreen = true;
       wrapper.appendChild(iframe);
       ytIframeRef.current = iframe;
+      ytReadyRef.current = true;
 
-      // Start sending "listening" pings so YouTube sends us infoDelivery events
       startYTProgress();
-
-      console.log("[88mph] Created YouTube iframe for", videoId);
     },
     [startYTProgress]
   );
@@ -185,7 +192,7 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
                   setTimeout(() => {
                     if (nextTrack.youtubeId) {
                       stopAudio();
-                      createYTIframe(nextTrack.youtubeId);
+                      playYouTube(nextTrack.youtubeId);
                       updateState((s) => ({
                         ...s,
                         currentTrack: nextTrack,
@@ -232,7 +239,7 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
 
     window.addEventListener("message", handleMessage);
     return () => window.removeEventListener("message", handleMessage);
-  }, [updateState, stopYTProgress, stopAudio, stopYouTube, createYTIframe]);
+  }, [updateState, stopYTProgress, stopAudio, stopYouTube, playYouTube]);
 
   // Initialize HTML5 Audio
   useEffect(() => {
@@ -260,7 +267,7 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
             const nextTrack = st.queue[i];
             if (nextTrack.youtubeId) {
               stopAudio();
-              createYTIframe(nextTrack.youtubeId);
+              playYouTube(nextTrack.youtubeId);
               updateState((s) => ({
                 ...s,
                 currentTrack: nextTrack,
@@ -290,13 +297,13 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
       audio.pause();
       audio.src = "";
     };
-  }, [updateState, stopAudio, createYTIframe]);
+  }, [updateState, stopAudio, playYouTube]);
 
   const play = useCallback(
     (track: Track, queue?: Track[]) => {
       if (track.youtubeId) {
         stopAudio();
-        createYTIframe(track.youtubeId);
+        playYouTube(track.youtubeId);
         updateState((s) => ({
           ...s,
           currentTrack: track,
@@ -324,7 +331,7 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
         }));
       }
     },
-    [stopAudio, stopYouTube, createYTIframe, startYTProgress, updateState]
+    [stopAudio, stopYouTube, playYouTube, startYTProgress, updateState]
   );
 
   const pause = useCallback(() => {
