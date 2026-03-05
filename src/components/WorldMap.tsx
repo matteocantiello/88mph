@@ -100,7 +100,7 @@ function WorldMap({
                 href={`https://flagcdn.com/w640/${iso}.png`}
                 width="1"
                 height="1"
-                preserveAspectRatio="xMidYMid slice"
+                preserveAspectRatio="xMinYMin slice"
               />
             </pattern>
           ))}
@@ -154,6 +154,7 @@ function WorldMap({
                       outline: "none",
                       cursor: hasCharts ? "pointer" : "default",
                       transition: "fill 0.2s ease, stroke 0.2s ease",
+                      paintOrder: "stroke",
                       filter: isActive && hasCharts
                         ? "drop-shadow(0 0 8px rgba(232,168,73,0.4))"
                         : "none",
@@ -161,6 +162,7 @@ function WorldMap({
                     hover: {
                       outline: "none",
                       cursor: hasCharts ? "pointer" : "default",
+                      paintOrder: "stroke",
                       fill: hasCharts ? `url(#flag-${code})` : "rgba(255,255,255,0.09)",
                       stroke: hasCharts ? "var(--accent)" : "rgba(255,255,255,0.15)",
                       strokeWidth: hasCharts ? 1.5 : 0.5,
@@ -170,6 +172,7 @@ function WorldMap({
                     },
                     pressed: {
                       outline: "none",
+                      paintOrder: "stroke",
                       fill: hasCharts ? `url(#flag-${code})` : "rgba(255,255,255,0.09)",
                       stroke: hasCharts ? "var(--accent)" : "rgba(255,255,255,0.15)",
                     },

@@ -94,7 +94,7 @@ export default async function ChartPage({ params }: PageProps) {
             <div className="flex items-center gap-2.5 mb-6 anim-slide-up">
               <span className="text-2xl leading-none">{getCountryFlag(country)}</span>
               <span className="font-body text-[11px] uppercase tracking-[0.2em] text-foreground/30 font-medium">
-                {getCountryName(country)} &middot; Top 10
+                {getCountryName(country)} &middot; {year} Year-End Top 10
               </span>
             </div>
 
