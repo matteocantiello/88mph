@@ -1,5 +1,8 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
+import fs from "fs";
+import path from "path";
 import { getChartData, getMetadata, getAdjacentYears } from "@/lib/data";
 import { getCountryName, getCountryFlag, isValidCountry, isValidYear } from "@/lib/utils";
 import { getThemeForYear, applyTheme } from "@/lib/themes";
@@ -33,12 +36,17 @@ export default async function ChartPage({ params }: PageProps) {
   const themeVars = applyTheme(theme);
   const { prev, next } = getAdjacentYears(metadata, country, year);
 
+  // Check if a postcard image exists for this chart
+  const postcardFilename = `${country}_${year}.webp`;
+  const postcardPath = path.join(process.cwd(), "public", "postcards", postcardFilename);
+  const hasPostcard = fs.existsSync(postcardPath);
+
   return (
     <div style={themeVars as React.CSSProperties}>
       <LastDepartedTracker country={country} year={year} />
       <main className="min-h-screen bg-background text-foreground transition-colors duration-700">
         {/* Top nav */}
-        <nav className="max-w-5xl mx-auto px-6 pt-6 pb-2 flex items-center justify-between">
+        <nav className="max-w-5xl mx-auto px-6 pt-6 pb-2 flex items-center justify-between relative z-10">
           <Link
             href="/"
             className="inline-flex items-center gap-2 font-body text-sm text-foreground/30 hover:text-foreground/60 transition-colors"
@@ -82,14 +90,35 @@ export default async function ChartPage({ params }: PageProps) {
         </nav>
 
         {/* Hero */}
-        <header className="relative max-w-5xl mx-auto px-6 pt-8 md:pt-14 pb-10">
-          {/* Ambient glow */}
+        <header className="relative overflow-hidden">
+          {/* Postcard background image */}
+          {hasPostcard && (
+            <div className="absolute inset-0 postcard-hero pointer-events-none">
+              <Image
+                src={`/postcards/${postcardFilename}`}
+                alt=""
+                fill
+                priority
+                className="object-cover object-center"
+                sizes="100vw"
+              />
+              {/* Gradient mask: fades image to background */}
+              <div
+                className="absolute inset-0"
+                style={{
+                  background: `linear-gradient(to bottom, ${theme.background}90 0%, ${theme.background}40 30%, ${theme.background}cc 70%, ${theme.background} 100%), linear-gradient(to right, ${theme.background}dd 0%, transparent 20%, transparent 80%, ${theme.background}dd 100%)`,
+                }}
+              />
+            </div>
+          )}
+
+          {/* Ambient glow (visible even without postcard) */}
           <div
             className="absolute -top-32 -left-32 w-[500px] h-[500px] rounded-full blur-[150px] opacity-[0.07] pointer-events-none"
             style={{ background: theme.accent }}
           />
 
-          <div className="relative">
+          <div className="relative max-w-5xl mx-auto px-6 pt-8 md:pt-14 pb-10">
             {/* Country + label */}
             <div className="flex items-center gap-2.5 mb-6 anim-slide-up">
               <span className="text-2xl leading-none">{getCountryFlag(country)}</span>
