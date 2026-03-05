@@ -7,61 +7,71 @@
       "rank": 1,
       "title": "Sabato pomeriggio",
       "artist": "Claudio Baglioni",
-      "youtubeId": "XFv6XJ4Cwlg"
+      "youtubeId": "XFv6XJ4Cwlg",
+      "albumArt": "https://img.youtube.com/vi/XFv6XJ4Cwlg/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "L'Importante è finire",
       "artist": "Mina",
-      "youtubeId": "olHJJGlvM18"
+      "youtubeId": "olHJJGlvM18",
+      "albumArt": "https://img.youtube.com/vi/olHJJGlvM18/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "La Tartaruga",
       "artist": "Bruno Lauzi",
-      "youtubeId": "DxTUQ-55-0s"
+      "youtubeId": "DxTUQ-55-0s",
+      "albumArt": "https://img.youtube.com/vi/DxTUQ-55-0s/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Piange il telefono",
       "artist": "Domenico Modugno & Francesca Guadagno",
-      "youtubeId": "_uk-ZjIpTPs"
+      "youtubeId": "_uk-ZjIpTPs",
+      "albumArt": "https://img.youtube.com/vi/_uk-ZjIpTPs/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Profondo rosso",
       "artist": "I Goblin",
-      "youtubeId": "ucCbncL0_TA"
+      "youtubeId": "ucCbncL0_TA",
+      "albumArt": "https://img.youtube.com/vi/ucCbncL0_TA/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Bella dentro",
       "artist": "Paolo Frescura",
-      "youtubeId": "9CXMcdXFkao"
+      "youtubeId": "9CXMcdXFkao",
+      "albumArt": "https://img.youtube.com/vi/9CXMcdXFkao/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Un Corpo e un'anima",
       "artist": "Wess & Dori Ghezzi",
-      "youtubeId": "PcXH79vbcwY"
+      "youtubeId": "PcXH79vbcwY",
+      "albumArt": "https://img.youtube.com/vi/PcXH79vbcwY/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Tornerò",
       "artist": "Santo California",
-      "youtubeId": "0fF0eAxiC1o"
+      "youtubeId": "0fF0eAxiC1o",
+      "albumArt": "https://img.youtube.com/vi/0fF0eAxiC1o/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Sereno è",
       "artist": "Drupi",
-      "youtubeId": "O7v7vBWXgsg"
+      "youtubeId": "O7v7vBWXgsg",
+      "albumArt": "https://img.youtube.com/vi/O7v7vBWXgsg/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Amore grande amore libero",
       "artist": "Il Guardiano del Faro",
-      "youtubeId": "ASmSCOhI0LI"
+      "youtubeId": "ASmSCOhI0LI",
+      "albumArt": "https://img.youtube.com/vi/ASmSCOhI0LI/hqdefault.jpg"
     }
   ]
 }

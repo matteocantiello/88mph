@@ -11,6 +11,7 @@ import ChartList from "@/components/ChartList";
 import EraContext from "@/components/EraContext";
 import TimeSelector from "@/components/TimeSelector";
 import LastDepartedTracker from "@/components/LastDepartedTracker";
+import RandomButton from "@/components/RandomButton";
 
 interface PageProps {
   params: { country: string; year: string };
@@ -185,12 +186,15 @@ export default async function ChartPage({ params }: PageProps) {
           />
         </section>
 
-        {/* Timeline */}
+        {/* Timeline + Random */}
         <section className="max-w-5xl mx-auto px-6 pb-24 pt-4">
           <div className="pt-8 border-t border-white/[0.04]">
-            <p className="font-body text-[11px] uppercase tracking-[0.2em] text-foreground/20 mb-4">
-              Jump to year
-            </p>
+            <div className="flex items-center justify-between mb-4">
+              <p className="font-body text-[11px] uppercase tracking-[0.2em] text-foreground/20">
+                Jump to year
+              </p>
+              <RandomButton metadata={metadata} compact />
+            </div>
             <TimeSelector
               metadata={metadata}
               initialCountry={country}
