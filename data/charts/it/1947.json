@@ -6,52 +6,62 @@
     {
       "rank": 1,
       "title": "El Rancho grande",
-      "artist": "Marisa Fiordaliso"
+      "artist": "Marisa Fiordaliso",
+      "youtubeId": "HC8Ktjmq0jE"
     },
     {
       "rank": 2,
       "title": "Valzer delle candele",
-      "artist": "Carla Dupont"
+      "artist": "Carla Dupont",
+      "youtubeId": "dkbp_XzTjsA"
     },
     {
       "rank": 3,
       "title": "Amado mio",
-      "artist": "Mara Mauri"
+      "artist": "Mara Mauri",
+      "youtubeId": "_iKo0BPh5nA"
     },
     {
       "rank": 4,
       "title": "L'Apaka",
-      "artist": "Ernesto Bonino"
+      "artist": "Ernesto Bonino",
+      "youtubeId": "GzDMaQITlO4"
     },
     {
       "rank": 5,
       "title": "Suona balalaika",
-      "artist": "Natalino Otto"
+      "artist": "Natalino Otto",
+      "youtubeId": "iGWv6-HzTc0"
     },
     {
       "rank": 6,
       "title": "Una Notte a Rio",
-      "artist": "Tony Stella"
+      "artist": "Tony Stella",
+      "youtubeId": "44h2xePBCFY"
     },
     {
       "rank": 7,
       "title": "'Na Vota ca sci na vota ca no",
-      "artist": "Marisa Fiordaliso & Enrico Gentile"
+      "artist": "Marisa Fiordaliso & Enrico Gentile",
+      "youtubeId": "jgZbyfQ-_UY"
     },
     {
       "rank": 8,
       "title": "Eterno ritornello",
-      "artist": "Teddy Reno"
+      "artist": "Teddy Reno",
+      "youtubeId": "lu6omzVGKdM"
     },
     {
       "rank": 9,
       "title": "Clavel del aire",
-      "artist": "Piero Trombetta feat. Ada Algisi & Elio Mannino"
+      "artist": "Piero Trombetta feat. Ada Algisi & Elio Mannino",
+      "youtubeId": "j82m2_Fmts8"
     },
     {
       "rank": 10,
       "title": "Non v'innamorate",
-      "artist": "Aldo Dona"
+      "artist": "Aldo Dona",
+      "youtubeId": "0N02tYGsT6Q"
     }
   ]
 }
