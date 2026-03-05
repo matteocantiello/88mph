@@ -17,6 +17,8 @@ interface PageProps {
   params: { country: string; year: string };
 }
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://88mph.vercel.app";
+
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const country = params.country;
   const year = parseInt(params.year, 10);
@@ -27,6 +29,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const title = `${flag} ${name} ${year} — Top 10 | 88mph`;
   const description = `What was ${name} listening to in ${year}? Discover the year-end top 10 chart.`;
 
+  // Use postcard as OG image if it exists, otherwise hero
+  const postcardFile = `${country}_${year}.webp`;
+  const postcardPath = path.join(process.cwd(), "public", "postcards", postcardFile);
+  const ogImage = fs.existsSync(postcardPath)
+    ? `${SITE_URL}/postcards/${postcardFile}`
+    : `${SITE_URL}/hero.webp`;
+
   return {
     title,
     description,
@@ -34,11 +43,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title: `${name} ${year} — Top 10`,
       description,
       siteName: "88mph",
+      images: [{ url: ogImage, width: 1280, height: 736 }],
     },
     twitter: {
       card: "summary_large_image",
       title: `${name} ${year} — Top 10`,
       description,
+      images: [ogImage],
     },
   };
 }
