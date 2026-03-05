@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const postcardPath = path.join(process.cwd(), "public", "postcards", postcardFile);
   const ogImage = fs.existsSync(postcardPath)
     ? `${SITE_URL}/postcards/${postcardFile}`
-    : `${SITE_URL}/hero.webp`;
+    : `${SITE_URL}/og.webp`;
 
   return {
     title,
