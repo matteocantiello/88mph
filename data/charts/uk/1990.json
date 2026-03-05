@@ -3,15 +3,55 @@
   "year": 1990,
   "context": "The Righteous Brothers' 'Unchained Melody' soared back to the top after featuring in 'Ghost.' Acid house and rave were in full swing with Adamski's 'Killer' introducing Seal. England's World Cup in Italy was immortalized by New Order's 'World in Motion.'",
   "tracks": [
-    { "rank": 1, "title": "Unchained Melody", "artist": "The Righteous Brothers" },
-    { "rank": 2, "title": "Nothing Compares 2 U", "artist": "Sinead O'Connor" },
-    { "rank": 3, "title": "Sacrifice / Healing Hands", "artist": "Elton John" },
-    { "rank": 4, "title": "Ice Ice Baby", "artist": "Vanilla Ice" },
-    { "rank": 5, "title": "Killer", "artist": "Adamski" },
-    { "rank": 6, "title": "Show Me Heaven", "artist": "Maria McKee" },
-    { "rank": 7, "title": "Dub Be Good to Me", "artist": "Beats International" },
-    { "rank": 8, "title": "Vogue", "artist": "Madonna" },
-    { "rank": 9, "title": "World in Motion", "artist": "New Order" },
-    { "rank": 10, "title": "The Power", "artist": "Snap!" }
+    {
+      "rank": 1,
+      "title": "Unchained Melody",
+      "artist": "The Righteous Brothers"
+    },
+    {
+      "rank": 2,
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinead O'Connor"
+    },
+    {
+      "rank": 3,
+      "title": "Sacrifice / Healing Hands",
+      "artist": "Elton John"
+    },
+    {
+      "rank": 4,
+      "title": "Ice Ice Baby",
+      "artist": "Vanilla Ice"
+    },
+    {
+      "rank": 5,
+      "title": "Killer",
+      "artist": "Adamski"
+    },
+    {
+      "rank": 6,
+      "title": "Show Me Heaven",
+      "artist": "Maria McKee"
+    },
+    {
+      "rank": 7,
+      "title": "Dub Be Good to Me",
+      "artist": "Beats International"
+    },
+    {
+      "rank": 8,
+      "title": "Vogue",
+      "artist": "Madonna"
+    },
+    {
+      "rank": 9,
+      "title": "World in Motion",
+      "artist": "New Order"
+    },
+    {
+      "rank": 10,
+      "title": "The Power",
+      "artist": "Snap!"
+    }
   ]
 }

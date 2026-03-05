@@ -3,15 +3,55 @@
   "year": 1995,
   "context": "Eurodance and hip-hop dominated Italy's 1995 charts. Coolio's 'Gangsta's Paradise' was inescapable globally and topped the Italian year-end chart. Italian dance producers like Ti.Pi.Cal. and Corona thrived in the Eurodance boom, while Everything But The Girl's 'Missing' found massive success in its Todd Terry remix. The Italian club scene was at its commercial peak.",
   "tracks": [
-    { "rank": 1, "title": "Gangsta's Paradise", "artist": "Coolio feat. L.V." },
-    { "rank": 2, "title": "Boombastic", "artist": "Shaggy" },
-    { "rank": 3, "title": "The Colour Inside", "artist": "Ti.Pi.Cal. feat. Josh" },
-    { "rank": 4, "title": "Missing", "artist": "Everything But The Girl" },
-    { "rank": 5, "title": "Hideaway", "artist": "De'Lacy" },
-    { "rank": 6, "title": "Be My Lover", "artist": "La Bouche" },
-    { "rank": 7, "title": "Scatman's World", "artist": "Scatman John" },
-    { "rank": 8, "title": "Baby Baby", "artist": "Corona" },
-    { "rank": 9, "title": "All I Need Is Love", "artist": "Indiana" },
-    { "rank": 10, "title": "Back for Good", "artist": "Take That" }
+    {
+      "rank": 1,
+      "title": "Gangsta's Paradise",
+      "artist": "Coolio feat. L.V."
+    },
+    {
+      "rank": 2,
+      "title": "Boombastic",
+      "artist": "Shaggy"
+    },
+    {
+      "rank": 3,
+      "title": "The Colour Inside",
+      "artist": "Ti.Pi.Cal. feat. Josh"
+    },
+    {
+      "rank": 4,
+      "title": "Missing",
+      "artist": "Everything But The Girl"
+    },
+    {
+      "rank": 5,
+      "title": "Hideaway",
+      "artist": "De'Lacy"
+    },
+    {
+      "rank": 6,
+      "title": "Be My Lover",
+      "artist": "La Bouche"
+    },
+    {
+      "rank": 7,
+      "title": "Scatman's World",
+      "artist": "Scatman John"
+    },
+    {
+      "rank": 8,
+      "title": "Baby Baby",
+      "artist": "Corona"
+    },
+    {
+      "rank": 9,
+      "title": "All I Need Is Love",
+      "artist": "Indiana"
+    },
+    {
+      "rank": 10,
+      "title": "Back for Good",
+      "artist": "Take That"
+    }
   ]
 }

@@ -3,15 +3,55 @@
   "year": 1990,
   "context": "By 1990, fuji music led by King Wasiu Ayinde Marshall was overtaking juju as Nigeria's most popular indigenous genre. Onyeka Onwenu and Christy Essien-Igbokwe represented the pop/soul side, while King Sunny Ade remained dominant. Gospel music and patriotic songs also found wide audiences.",
   "tracks": [
-    { "rank": 1, "title": "Wait for Me", "artist": "Onyeka Onwenu & King Sunny Ade" },
-    { "rank": 2, "title": "Talazo System", "artist": "King Wasiu Ayinde Marshall" },
-    { "rank": 3, "title": "Winnie Mandela", "artist": "Onyeka Onwenu" },
-    { "rank": 4, "title": "Ijuba Eni", "artist": "Ebenezer Obey" },
-    { "rank": 5, "title": "Nigeria, My Beloved Country", "artist": "Funmi Adams" },
-    { "rank": 6, "title": "Hear the Call", "artist": "Christy Essien-Igbokwe" },
-    { "rank": 7, "title": "Joromi", "artist": "Sir Victor Uwaifo" },
-    { "rank": 8, "title": "Choices", "artist": "Majek Fashek" },
-    { "rank": 9, "title": "Consolidation", "artist": "King Sunny Ade" },
-    { "rank": 10, "title": "Fuji Garbage", "artist": "Ayinla Kollington" }
+    {
+      "rank": 1,
+      "title": "Wait for Me",
+      "artist": "Onyeka Onwenu & King Sunny Ade"
+    },
+    {
+      "rank": 2,
+      "title": "Talazo System",
+      "artist": "King Wasiu Ayinde Marshall"
+    },
+    {
+      "rank": 3,
+      "title": "Winnie Mandela",
+      "artist": "Onyeka Onwenu"
+    },
+    {
+      "rank": 4,
+      "title": "Ijuba Eni",
+      "artist": "Ebenezer Obey"
+    },
+    {
+      "rank": 5,
+      "title": "Nigeria, My Beloved Country",
+      "artist": "Funmi Adams"
+    },
+    {
+      "rank": 6,
+      "title": "Hear the Call",
+      "artist": "Christy Essien-Igbokwe"
+    },
+    {
+      "rank": 7,
+      "title": "Joromi",
+      "artist": "Sir Victor Uwaifo"
+    },
+    {
+      "rank": 8,
+      "title": "Choices",
+      "artist": "Majek Fashek"
+    },
+    {
+      "rank": 9,
+      "title": "Consolidation",
+      "artist": "King Sunny Ade"
+    },
+    {
+      "rank": 10,
+      "title": "Fuji Garbage",
+      "artist": "Ayinla Kollington"
+    }
   ]
 }

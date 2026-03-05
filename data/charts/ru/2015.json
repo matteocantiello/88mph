@@ -3,15 +3,55 @@
   "year": 2015,
   "context": "Russian pop in 2015 was a mature market with TopHit radio charts and digital platforms. Polina Gagarina achieved international recognition finishing second at Eurovision with 'A Million Voices.' The scene blended mainstream pop (Egor Kreed, Loboda), hip-hop (Basta, Mot), and veteran performers (Grigory Leps, Mashina Vremeni).",
   "tracks": [
-    { "rank": 1, "title": "Samaya Samaya (The Very Best)", "artist": "Egor Kreed ft. Timati" },
-    { "rank": 2, "title": "A Million Voices", "artist": "Polina Gagarina" },
-    { "rank": 3, "title": "Ty Ne Takoy (You're Not Like That)", "artist": "Yulianna Karaulova" },
-    { "rank": 4, "title": "Ty Moya Nezhnost (You Are My Tenderness)", "artist": "Nargiz Zakirova" },
-    { "rank": 5, "title": "Superstar", "artist": "Loboda" },
-    { "rank": 6, "title": "Mama", "artist": "Burito" },
-    { "rank": 7, "title": "DJ The Night Is Young", "artist": "DJ Smash" },
-    { "rank": 8, "title": "For Those in the Sea", "artist": "Mashina Vremeni" },
-    { "rank": 9, "title": "Vybros Iz Golovy (Get It Out of Your Head)", "artist": "Grigory Leps" },
-    { "rank": 10, "title": "Impulsy (Impulses)", "artist": "Yelena Temnikova" }
+    {
+      "rank": 1,
+      "title": "Samaya Samaya (The Very Best)",
+      "artist": "Egor Kreed ft. Timati"
+    },
+    {
+      "rank": 2,
+      "title": "A Million Voices",
+      "artist": "Polina Gagarina"
+    },
+    {
+      "rank": 3,
+      "title": "Ty Ne Takoy (You're Not Like That)",
+      "artist": "Yulianna Karaulova"
+    },
+    {
+      "rank": 4,
+      "title": "Ty Moya Nezhnost (You Are My Tenderness)",
+      "artist": "Nargiz Zakirova"
+    },
+    {
+      "rank": 5,
+      "title": "Superstar",
+      "artist": "Loboda"
+    },
+    {
+      "rank": 6,
+      "title": "Mama",
+      "artist": "Burito"
+    },
+    {
+      "rank": 7,
+      "title": "DJ The Night Is Young",
+      "artist": "DJ Smash"
+    },
+    {
+      "rank": 8,
+      "title": "For Those in the Sea",
+      "artist": "Mashina Vremeni"
+    },
+    {
+      "rank": 9,
+      "title": "Vybros Iz Golovy (Get It Out of Your Head)",
+      "artist": "Grigory Leps"
+    },
+    {
+      "rank": 10,
+      "title": "Impulsy (Impulses)",
+      "artist": "Yelena Temnikova"
+    }
   ]
 }

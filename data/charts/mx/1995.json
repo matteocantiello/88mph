@@ -3,15 +3,55 @@
   "year": 1995,
   "context": "1995 was a transformative and tragic year for Mexican and Latin music. The murder of Selena Quintanilla in March shocked the Spanish-speaking world, turning her posthumous releases into massive hits. Mexican pop flourished with Pedro Fernández, Paulina Rubio, Thalía, and Fey, while rock en español and groups like Caló represented a diverse pop-rock scene. Latin pop acts from across the Americas also dominated Mexican airwaves.",
   "tracks": [
-    { "rank": 1, "title": "Mi Forma De Sentir", "artist": "Pedro Fernández" },
-    { "rank": 2, "title": "Formas De Amor", "artist": "Caló" },
-    { "rank": 3, "title": "Se Fue", "artist": "Laura Pausini" },
-    { "rank": 4, "title": "Todo Y Nada", "artist": "Luis Miguel" },
-    { "rank": 5, "title": "Te Extraño, Te Olvido, Te Amo", "artist": "Ricky Martin" },
-    { "rank": 6, "title": "Ayer Me Dijo Un Ave", "artist": "Caifanes" },
-    { "rank": 7, "title": "Piel Morena", "artist": "Thalía" },
-    { "rank": 8, "title": "Nada De Ti", "artist": "Paulina Rubio" },
-    { "rank": 9, "title": "Lamento Boliviano", "artist": "Enanitos Verdes" },
-    { "rank": 10, "title": "Media Naranja", "artist": "Fey" }
+    {
+      "rank": 1,
+      "title": "Mi Forma De Sentir",
+      "artist": "Pedro Fernández"
+    },
+    {
+      "rank": 2,
+      "title": "Formas De Amor",
+      "artist": "Caló"
+    },
+    {
+      "rank": 3,
+      "title": "Se Fue",
+      "artist": "Laura Pausini"
+    },
+    {
+      "rank": 4,
+      "title": "Todo Y Nada",
+      "artist": "Luis Miguel"
+    },
+    {
+      "rank": 5,
+      "title": "Te Extraño, Te Olvido, Te Amo",
+      "artist": "Ricky Martin"
+    },
+    {
+      "rank": 6,
+      "title": "Ayer Me Dijo Un Ave",
+      "artist": "Caifanes"
+    },
+    {
+      "rank": 7,
+      "title": "Piel Morena",
+      "artist": "Thalía"
+    },
+    {
+      "rank": 8,
+      "title": "Nada De Ti",
+      "artist": "Paulina Rubio"
+    },
+    {
+      "rank": 9,
+      "title": "Lamento Boliviano",
+      "artist": "Enanitos Verdes"
+    },
+    {
+      "rank": 10,
+      "title": "Media Naranja",
+      "artist": "Fey"
+    }
   ]
 }

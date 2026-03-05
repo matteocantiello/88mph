@@ -3,15 +3,55 @@
   "year": 1955,
   "context": "The UK singles chart was in its infancy, dominated by traditional pop, crooners, and novelty songs. American artists competed with British stars like Ruby Murray and Alma Cogan. Rock and roll hadn't yet arrived, though Bill Haley's 'Rock Around the Clock' would soon signal the revolution.",
   "tracks": [
-    { "rank": 1, "title": "Give Me Your Word", "artist": "Tennessee Ernie Ford" },
-    { "rank": 2, "title": "Rose Marie", "artist": "Slim Whitman" },
-    { "rank": 3, "title": "Softly Softly", "artist": "Ruby Murray" },
-    { "rank": 4, "title": "Cherry Pink and Apple Blossom White", "artist": "Eddie Calvert" },
-    { "rank": 5, "title": "Cool Water", "artist": "Frankie Laine" },
-    { "rank": 6, "title": "Cherry Pink and Apple Blossom White", "artist": "Perez Prado" },
-    { "rank": 7, "title": "Unchained Melody", "artist": "Jimmy Young" },
-    { "rank": 8, "title": "Mambo Italiano", "artist": "Rosemary Clooney" },
-    { "rank": 9, "title": "Stranger in Paradise", "artist": "Tony Bennett" },
-    { "rank": 10, "title": "Dreamboat", "artist": "Alma Cogan" }
+    {
+      "rank": 1,
+      "title": "Give Me Your Word",
+      "artist": "Tennessee Ernie Ford"
+    },
+    {
+      "rank": 2,
+      "title": "Rose Marie",
+      "artist": "Slim Whitman"
+    },
+    {
+      "rank": 3,
+      "title": "Softly Softly",
+      "artist": "Ruby Murray"
+    },
+    {
+      "rank": 4,
+      "title": "Cherry Pink and Apple Blossom White",
+      "artist": "Eddie Calvert"
+    },
+    {
+      "rank": 5,
+      "title": "Cool Water",
+      "artist": "Frankie Laine"
+    },
+    {
+      "rank": 6,
+      "title": "Cherry Pink and Apple Blossom White",
+      "artist": "Perez Prado"
+    },
+    {
+      "rank": 7,
+      "title": "Unchained Melody",
+      "artist": "Jimmy Young"
+    },
+    {
+      "rank": 8,
+      "title": "Mambo Italiano",
+      "artist": "Rosemary Clooney"
+    },
+    {
+      "rank": 9,
+      "title": "Stranger in Paradise",
+      "artist": "Tony Bennett"
+    },
+    {
+      "rank": 10,
+      "title": "Dreamboat",
+      "artist": "Alma Cogan"
+    }
   ]
 }

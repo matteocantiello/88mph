@@ -6,6 +6,7 @@ export interface Track {
   spotifyUri?: string;
   previewUrl?: string;
   spotifyUrl?: string;
+  youtubeId?: string;
   artistCountry?: string;
 }
 

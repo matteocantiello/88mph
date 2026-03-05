@@ -3,15 +3,55 @@
   "year": 1985,
   "context": "The mid-1980s Swedish chart reflected global charity anthems (Band Aid, USA for Africa), synth-pop, and Scandinavian pride in a-ha's international breakthrough with 'Take On Me.' Swedish artist Magnus Uggla scored big domestically, while the chart showed the dominance of European synth-pop with Sandra, Falco, and Opus.",
   "tracks": [
-    { "rank": 1, "title": "I Want to Know What Love Is", "artist": "Foreigner" },
-    { "rank": 2, "title": "We Are the World", "artist": "USA for Africa" },
-    { "rank": 3, "title": "(I'll Never Be) Maria Magdalena", "artist": "Sandra" },
-    { "rank": 4, "title": "Joey Killer", "artist": "Magnus Uggla" },
-    { "rank": 5, "title": "Rock Me Amadeus", "artist": "Falco" },
-    { "rank": 6, "title": "Take On Me", "artist": "a-ha" },
-    { "rank": 7, "title": "Live Is Life", "artist": "Opus" },
-    { "rank": 8, "title": "19", "artist": "Paul Hardcastle" },
-    { "rank": 9, "title": "Do They Know It's Christmas?", "artist": "Band Aid" },
-    { "rank": 10, "title": "A View to a Kill", "artist": "Duran Duran" }
+    {
+      "rank": 1,
+      "title": "I Want to Know What Love Is",
+      "artist": "Foreigner"
+    },
+    {
+      "rank": 2,
+      "title": "We Are the World",
+      "artist": "USA for Africa"
+    },
+    {
+      "rank": 3,
+      "title": "(I'll Never Be) Maria Magdalena",
+      "artist": "Sandra"
+    },
+    {
+      "rank": 4,
+      "title": "Joey Killer",
+      "artist": "Magnus Uggla"
+    },
+    {
+      "rank": 5,
+      "title": "Rock Me Amadeus",
+      "artist": "Falco"
+    },
+    {
+      "rank": 6,
+      "title": "Take On Me",
+      "artist": "a-ha"
+    },
+    {
+      "rank": 7,
+      "title": "Live Is Life",
+      "artist": "Opus"
+    },
+    {
+      "rank": 8,
+      "title": "19",
+      "artist": "Paul Hardcastle"
+    },
+    {
+      "rank": 9,
+      "title": "Do They Know It's Christmas?",
+      "artist": "Band Aid"
+    },
+    {
+      "rank": 10,
+      "title": "A View to a Kill",
+      "artist": "Duran Duran"
+    }
   ]
 }

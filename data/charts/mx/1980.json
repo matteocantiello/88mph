@@ -3,15 +3,55 @@
   "year": 1980,
   "context": "Mexico's pop scene in 1980 was dominated by romantic ballads and balada pop, with artists like José José, Emmanuel, and Juan Gabriel at the peak of their careers on the Notitas Musicales charts. International Spanish-language acts like Julio Iglesias and Camilo Sesto competed fiercely on Mexican radio alongside homegrown talent, while ranchera and grupero music thrived on regional charts.",
   "tracks": [
-    { "rank": 1, "title": "Si Me Dejas Ahora", "artist": "José José" },
-    { "rank": 2, "title": "He Venido A Pedirte Perdón", "artist": "Juan Gabriel" },
-    { "rank": 3, "title": "Todo Se Derrumbó", "artist": "Emmanuel" },
-    { "rank": 4, "title": "Hey", "artist": "Julio Iglesias" },
-    { "rank": 5, "title": "Noa Noa", "artist": "Juan Gabriel" },
-    { "rank": 6, "title": "Inocente, Pobre Amiga", "artist": "Lupita D'Alessio" },
-    { "rank": 7, "title": "Eres", "artist": "Napoleón" },
-    { "rank": 8, "title": "Como Yo Te Amo", "artist": "Raphael" },
-    { "rank": 9, "title": "Esperanzas", "artist": "Yuri" },
-    { "rank": 10, "title": "Nadie Es Como Tú", "artist": "Rocío Dúrcal" }
+    {
+      "rank": 1,
+      "title": "Si Me Dejas Ahora",
+      "artist": "José José"
+    },
+    {
+      "rank": 2,
+      "title": "He Venido A Pedirte Perdón",
+      "artist": "Juan Gabriel"
+    },
+    {
+      "rank": 3,
+      "title": "Todo Se Derrumbó",
+      "artist": "Emmanuel"
+    },
+    {
+      "rank": 4,
+      "title": "Hey",
+      "artist": "Julio Iglesias"
+    },
+    {
+      "rank": 5,
+      "title": "Noa Noa",
+      "artist": "Juan Gabriel"
+    },
+    {
+      "rank": 6,
+      "title": "Inocente, Pobre Amiga",
+      "artist": "Lupita D'Alessio"
+    },
+    {
+      "rank": 7,
+      "title": "Eres",
+      "artist": "Napoleón"
+    },
+    {
+      "rank": 8,
+      "title": "Como Yo Te Amo",
+      "artist": "Raphael"
+    },
+    {
+      "rank": 9,
+      "title": "Esperanzas",
+      "artist": "Yuri"
+    },
+    {
+      "rank": 10,
+      "title": "Nadie Es Como Tú",
+      "artist": "Rocío Dúrcal"
+    }
   ]
 }

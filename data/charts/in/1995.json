@@ -3,15 +3,55 @@
   "year": 1995,
   "context": "1995 was a landmark year in Bollywood music. A.R. Rahman's breakthrough scores for Bombay and Rangeela fused electronic, Sufi, and classical traditions, permanently changing Hindi film music. Dilwale Dulhania Le Jayenge became the best-selling soundtrack of the year with 25+ million copies, and its songs became generational anthems. MTV India and Channel V were reshaping how music reached audiences beyond cinema halls.",
   "tracks": [
-    { "rank": 1, "title": "Tujhe Dekha Toh Yeh Jaana Sanam", "artist": "Kumar Sanu & Lata Mangeshkar" },
-    { "rank": 2, "title": "Mehndi Laga Ke Rakhna", "artist": "Lata Mangeshkar & Udit Narayan" },
-    { "rank": 3, "title": "Rangeela Re", "artist": "Asha Bhosle" },
-    { "rank": 4, "title": "Yeh Bandhan Toh Pyar Ka Bandhan Hai", "artist": "Udit Narayan & Kavita Krishnamurthy" },
-    { "rank": 5, "title": "Ho Gaya Hai Tujhko Toh Pyar Sajna", "artist": "Lata Mangeshkar & Udit Narayan" },
-    { "rank": 6, "title": "Tanha Tanha Yahan Pe Jeena", "artist": "Asha Bhosle" },
-    { "rank": 7, "title": "Mera Piya Ghar Aaya", "artist": "Kavita Krishnamurthy" },
-    { "rank": 8, "title": "Jaati Hoon Main", "artist": "Kumar Sanu & Alka Yagnik" },
-    { "rank": 9, "title": "Husn Hai Suhana", "artist": "Abhijeet & Chandana Dixit" },
-    { "rank": 10, "title": "Humma Humma", "artist": "A.R. Rahman & Remo Fernandes" }
+    {
+      "rank": 1,
+      "title": "Tujhe Dekha Toh Yeh Jaana Sanam",
+      "artist": "Kumar Sanu & Lata Mangeshkar"
+    },
+    {
+      "rank": 2,
+      "title": "Mehndi Laga Ke Rakhna",
+      "artist": "Lata Mangeshkar & Udit Narayan"
+    },
+    {
+      "rank": 3,
+      "title": "Rangeela Re",
+      "artist": "Asha Bhosle"
+    },
+    {
+      "rank": 4,
+      "title": "Yeh Bandhan Toh Pyar Ka Bandhan Hai",
+      "artist": "Udit Narayan & Kavita Krishnamurthy"
+    },
+    {
+      "rank": 5,
+      "title": "Ho Gaya Hai Tujhko Toh Pyar Sajna",
+      "artist": "Lata Mangeshkar & Udit Narayan"
+    },
+    {
+      "rank": 6,
+      "title": "Tanha Tanha Yahan Pe Jeena",
+      "artist": "Asha Bhosle"
+    },
+    {
+      "rank": 7,
+      "title": "Mera Piya Ghar Aaya",
+      "artist": "Kavita Krishnamurthy"
+    },
+    {
+      "rank": 8,
+      "title": "Jaati Hoon Main",
+      "artist": "Kumar Sanu & Alka Yagnik"
+    },
+    {
+      "rank": 9,
+      "title": "Husn Hai Suhana",
+      "artist": "Abhijeet & Chandana Dixit"
+    },
+    {
+      "rank": 10,
+      "title": "Humma Humma",
+      "artist": "A.R. Rahman & Remo Fernandes"
+    }
   ]
 }

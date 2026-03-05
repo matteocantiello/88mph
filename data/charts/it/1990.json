@@ -3,15 +3,55 @@
   "year": 1990,
   "context": "The Italia '90 World Cup anthem 'Un'Estate italiana' by Bennato and Nannini became one of the most iconic sports songs ever written and dominated the year. Italian pop thrived alongside international dance and pop crossovers. Marco Masini, Amedeo Minghi, and Lucio Dalla represented the vibrant domestic scene while Madonna and Whitney Houston competed for chart supremacy.",
   "tracks": [
-    { "rank": 1, "title": "Un'Estate italiana (To Be Number One)", "artist": "Edoardo Bennato & Gianna Nannini" },
-    { "rank": 2, "title": "Vattene amore", "artist": "Amedeo Minghi & Mietta" },
-    { "rank": 3, "title": "Sotto questo sole", "artist": "Francesco Baccini & Ladri di Biciclette" },
-    { "rank": 4, "title": "Attenti al lupo", "artist": "Lucio Dalla & D.J. Lelewel" },
-    { "rank": 5, "title": "Vogue", "artist": "Madonna" },
-    { "rank": 6, "title": "I Can't Stand It", "artist": "Twenty 4 Seven feat. Captain Hollywood Project" },
-    { "rank": 7, "title": "I've Been Thinking About You", "artist": "Londonbeat" },
-    { "rank": 8, "title": "Nothing Compares 2 U", "artist": "Sinéad O'Connor" },
-    { "rank": 9, "title": "I'm Your Baby Tonight", "artist": "Whitney Houston" },
-    { "rank": 10, "title": "Disperato", "artist": "Marco Masini" }
+    {
+      "rank": 1,
+      "title": "Un'Estate italiana (To Be Number One)",
+      "artist": "Edoardo Bennato & Gianna Nannini"
+    },
+    {
+      "rank": 2,
+      "title": "Vattene amore",
+      "artist": "Amedeo Minghi & Mietta"
+    },
+    {
+      "rank": 3,
+      "title": "Sotto questo sole",
+      "artist": "Francesco Baccini & Ladri di Biciclette"
+    },
+    {
+      "rank": 4,
+      "title": "Attenti al lupo",
+      "artist": "Lucio Dalla & D.J. Lelewel"
+    },
+    {
+      "rank": 5,
+      "title": "Vogue",
+      "artist": "Madonna"
+    },
+    {
+      "rank": 6,
+      "title": "I Can't Stand It",
+      "artist": "Twenty 4 Seven feat. Captain Hollywood Project"
+    },
+    {
+      "rank": 7,
+      "title": "I've Been Thinking About You",
+      "artist": "Londonbeat"
+    },
+    {
+      "rank": 8,
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinéad O'Connor"
+    },
+    {
+      "rank": 9,
+      "title": "I'm Your Baby Tonight",
+      "artist": "Whitney Houston"
+    },
+    {
+      "rank": 10,
+      "title": "Disperato",
+      "artist": "Marco Masini"
+    }
   ]
 }

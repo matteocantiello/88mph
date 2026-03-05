@@ -3,15 +3,55 @@
   "year": 1965,
   "context": "Mexico in 1965 stood at the crossroads of traditional bolero, tropical music, and the nascent rock-and-roll wave. Javier Solís, the 'King of Bolero Ranchero,' dominated the charts in one of his final years. Tropical orchestra Sonora Santanera kept dance floors packed, while the Mexican rock scene grew through Spanish-language covers of American hits like 'Woolly Bully.'",
   "tracks": [
-    { "rank": 1, "title": "Sombras", "artist": "Javier Solís" },
-    { "rank": 2, "title": "La Pollera Colorá", "artist": "Carmen Rivero y su Conjunto" },
-    { "rank": 3, "title": "Woolly Bully (Bule Bule)", "artist": "Sam the Sham and the Pharaohs" },
-    { "rank": 4, "title": "And I Love Her", "artist": "Santo & Johnny" },
-    { "rank": 5, "title": "El Mudo", "artist": "Sonora Santanera" },
-    { "rank": 6, "title": "Payaso", "artist": "Javier Solís" },
-    { "rank": 7, "title": "Que Va / La Mentira", "artist": "Javier Solís" },
-    { "rank": 8, "title": "Es Lupe", "artist": "Los Johnny Jets" },
-    { "rank": 9, "title": "Amor Perdóname", "artist": "César Costa" },
-    { "rank": 10, "title": "La Bikina", "artist": "Luis Alcaráz" }
+    {
+      "rank": 1,
+      "title": "Sombras",
+      "artist": "Javier Solís"
+    },
+    {
+      "rank": 2,
+      "title": "La Pollera Colorá",
+      "artist": "Carmen Rivero y su Conjunto"
+    },
+    {
+      "rank": 3,
+      "title": "Woolly Bully (Bule Bule)",
+      "artist": "Sam the Sham and the Pharaohs"
+    },
+    {
+      "rank": 4,
+      "title": "And I Love Her",
+      "artist": "Santo & Johnny"
+    },
+    {
+      "rank": 5,
+      "title": "El Mudo",
+      "artist": "Sonora Santanera"
+    },
+    {
+      "rank": 6,
+      "title": "Payaso",
+      "artist": "Javier Solís"
+    },
+    {
+      "rank": 7,
+      "title": "Que Va / La Mentira",
+      "artist": "Javier Solís"
+    },
+    {
+      "rank": 8,
+      "title": "Es Lupe",
+      "artist": "Los Johnny Jets"
+    },
+    {
+      "rank": 9,
+      "title": "Amor Perdóname",
+      "artist": "César Costa"
+    },
+    {
+      "rank": 10,
+      "title": "La Bikina",
+      "artist": "Luis Alcaráz"
+    }
   ]
 }

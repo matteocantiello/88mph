@@ -3,15 +3,55 @@
   "year": 2010,
   "context": "2010 marks the dawn of modern Afrobeats. Artists like D'banj, P-Square, Wizkid, and Ice Prince were forging a new sound blending hip-hop, dancehall, and highlife that would eventually conquer global charts. Ice Prince's 'Oleku' became the defining song of the year and one of the most important Nigerian songs of the decade.",
   "tracks": [
-    { "rank": 1, "title": "Oleku", "artist": "Ice Prince ft. Brymo" },
-    { "rank": 2, "title": "Holla at Your Boy", "artist": "Wizkid" },
-    { "rank": 3, "title": "Mr. Endowed", "artist": "Olamide" },
-    { "rank": 4, "title": "Chop My Money", "artist": "P-Square ft. Akon & May D" },
-    { "rank": 5, "title": "Oliver Twist", "artist": "D'banj" },
-    { "rank": 6, "title": "Dami Duro", "artist": "Davido" },
-    { "rank": 7, "title": "Kukere", "artist": "Iyanya" },
-    { "rank": 8, "title": "Personally", "artist": "P-Square" },
-    { "rank": 9, "title": "Your Waist", "artist": "Iyanya ft. Emma Nyra" },
-    { "rank": 10, "title": "Superstar", "artist": "Wizkid" }
+    {
+      "rank": 1,
+      "title": "Oleku",
+      "artist": "Ice Prince ft. Brymo"
+    },
+    {
+      "rank": 2,
+      "title": "Holla at Your Boy",
+      "artist": "Wizkid"
+    },
+    {
+      "rank": 3,
+      "title": "Mr. Endowed",
+      "artist": "Olamide"
+    },
+    {
+      "rank": 4,
+      "title": "Chop My Money",
+      "artist": "P-Square ft. Akon & May D"
+    },
+    {
+      "rank": 5,
+      "title": "Oliver Twist",
+      "artist": "D'banj"
+    },
+    {
+      "rank": 6,
+      "title": "Dami Duro",
+      "artist": "Davido"
+    },
+    {
+      "rank": 7,
+      "title": "Kukere",
+      "artist": "Iyanya"
+    },
+    {
+      "rank": 8,
+      "title": "Personally",
+      "artist": "P-Square"
+    },
+    {
+      "rank": 9,
+      "title": "Your Waist",
+      "artist": "Iyanya ft. Emma Nyra"
+    },
+    {
+      "rank": 10,
+      "title": "Superstar",
+      "artist": "Wizkid"
+    }
   ]
 }

@@ -14,8 +14,10 @@ export default function TrackRow({ track, queue, index }: TrackRowProps) {
   const { play, pause, currentTrack, isPlaying } = usePlayer();
   const isActive =
     currentTrack?.title === track.title && currentTrack?.rank === track.rank;
+  const hasYouTube = !!track.youtubeId;
   const hasPreview = !!track.previewUrl;
-  const hasSpotifyLink = !hasPreview && !!track.spotifyUrl;
+  const isPlayable = hasYouTube || hasPreview;
+  const hasSpotifyLink = !isPlayable && !!track.spotifyUrl;
 
   return (
     <div
@@ -70,7 +72,7 @@ export default function TrackRow({ track, queue, index }: TrackRowProps) {
         )}
 
         {/* Play overlay */}
-        {hasPreview && (
+        {isPlayable && (
           <button
             onClick={(e) => {
               e.stopPropagation();
@@ -137,9 +139,9 @@ export default function TrackRow({ track, queue, index }: TrackRowProps) {
             <span className="w-[3px] bg-accent rounded-full animate-[bounce_0.6s_ease-in-out_infinite]" style={{ height: "40%", animationDelay: "0.3s" }} />
           </div>
         )}
-        {hasPreview && !isActive && (
+        {isPlayable && !isActive && (
           <span className="font-body text-[11px] text-foreground/15 opacity-0 group-hover:opacity-100 transition-opacity">
-            Preview
+            {hasYouTube ? "Full song" : "Preview"}
           </span>
         )}
         {hasSpotifyLink && (

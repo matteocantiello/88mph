@@ -3,15 +3,55 @@
   "year": 1995,
   "context": "A landmark year for J-pop with CD single sales at historic heights. Dreams Come True, Mr.Children, and B'z defined the mature, band-driven sound. Every song in this top 10 sold over 1.5 million copies. Often called J-pop's golden age.",
   "tracks": [
-    { "rank": 1, "title": "LOVE LOVE LOVE", "artist": "Dreams Come True" },
-    { "rank": 2, "title": "WOW WAR TONIGHT", "artist": "H Jungle with t" },
-    { "rank": 3, "title": "HELLO", "artist": "Fukuyama Masaharu" },
-    { "rank": 4, "title": "Tomorrow never knows", "artist": "Mr.Children" },
-    { "rank": 5, "title": "See-Saw Game", "artist": "Mr.Children" },
-    { "rank": 6, "title": "Hello, Again ~Mukashi Kara Aru Basho~", "artist": "My Little Lover" },
-    { "rank": 7, "title": "Kiseki no Hoshi", "artist": "Kuwata Keisuke & Mr.Children" },
-    { "rank": 8, "title": "TOMORROW", "artist": "Okamoto Mayo" },
-    { "rank": 9, "title": "Robinson", "artist": "Spitz" },
-    { "rank": 10, "title": "LOVE PHANTOM", "artist": "B'z" }
+    {
+      "rank": 1,
+      "title": "LOVE LOVE LOVE",
+      "artist": "Dreams Come True"
+    },
+    {
+      "rank": 2,
+      "title": "WOW WAR TONIGHT",
+      "artist": "H Jungle with t"
+    },
+    {
+      "rank": 3,
+      "title": "HELLO",
+      "artist": "Fukuyama Masaharu"
+    },
+    {
+      "rank": 4,
+      "title": "Tomorrow never knows",
+      "artist": "Mr.Children"
+    },
+    {
+      "rank": 5,
+      "title": "See-Saw Game",
+      "artist": "Mr.Children"
+    },
+    {
+      "rank": 6,
+      "title": "Hello, Again ~Mukashi Kara Aru Basho~",
+      "artist": "My Little Lover"
+    },
+    {
+      "rank": 7,
+      "title": "Kiseki no Hoshi",
+      "artist": "Kuwata Keisuke & Mr.Children"
+    },
+    {
+      "rank": 8,
+      "title": "TOMORROW",
+      "artist": "Okamoto Mayo"
+    },
+    {
+      "rank": 9,
+      "title": "Robinson",
+      "artist": "Spitz"
+    },
+    {
+      "rank": 10,
+      "title": "LOVE PHANTOM",
+      "artist": "B'z"
+    }
   ]
 }

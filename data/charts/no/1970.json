@@ -3,15 +3,55 @@
   "year": 1970,
   "context": "The 1970 Norwegian VG-lista reflected the global transition from the 1960s beat era to singer-songwriter rock. B.J. Thomas topped with his Butch Cassidy film theme, while The Beatles made their final chart appearance before disbanding. Two Norwegian artists — Anita Hegerland and Gro Anita Schønn — appeared in the top 10, showing early signs of a growing domestic scene.",
   "tracks": [
-    { "rank": 1, "title": "Raindrops Keep Falling on My Head", "artist": "B.J. Thomas" },
-    { "rank": 2, "title": "Yester-Me, Yester-You, Yesterday", "artist": "Stevie Wonder" },
-    { "rank": 3, "title": "Let It Be", "artist": "The Beatles" },
-    { "rank": 4, "title": "The House of the Rising Sun", "artist": "Frijid Pink" },
-    { "rank": 5, "title": "Yellow River", "artist": "Christie" },
-    { "rank": 6, "title": "In the Summertime", "artist": "Mungo Jerry" },
-    { "rank": 7, "title": "Cottonfields", "artist": "The Beach Boys" },
-    { "rank": 8, "title": "Mitt sommarlov", "artist": "Anita Hegerland" },
-    { "rank": 9, "title": "Lookin' Out My Back Door", "artist": "Creedence Clearwater Revival" },
-    { "rank": 10, "title": "En enkel sang om frihet", "artist": "Gro Anita Schønn" }
+    {
+      "rank": 1,
+      "title": "Raindrops Keep Falling on My Head",
+      "artist": "B.J. Thomas"
+    },
+    {
+      "rank": 2,
+      "title": "Yester-Me, Yester-You, Yesterday",
+      "artist": "Stevie Wonder"
+    },
+    {
+      "rank": 3,
+      "title": "Let It Be",
+      "artist": "The Beatles"
+    },
+    {
+      "rank": 4,
+      "title": "The House of the Rising Sun",
+      "artist": "Frijid Pink"
+    },
+    {
+      "rank": 5,
+      "title": "Yellow River",
+      "artist": "Christie"
+    },
+    {
+      "rank": 6,
+      "title": "In the Summertime",
+      "artist": "Mungo Jerry"
+    },
+    {
+      "rank": 7,
+      "title": "Cottonfields",
+      "artist": "The Beach Boys"
+    },
+    {
+      "rank": 8,
+      "title": "Mitt sommarlov",
+      "artist": "Anita Hegerland"
+    },
+    {
+      "rank": 9,
+      "title": "Lookin' Out My Back Door",
+      "artist": "Creedence Clearwater Revival"
+    },
+    {
+      "rank": 10,
+      "title": "En enkel sang om frihet",
+      "artist": "Gro Anita Schønn"
+    }
   ]
 }

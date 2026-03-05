@@ -3,15 +3,55 @@
   "year": 2020,
   "context": "K-pop was a global phenomenon, but domestically the Gaon Chart year-end rankings reflected a mix of idol acts, singer-songwriters, and drama OST tracks. Zico's viral 'Any Song,' propelled by its TikTok dance challenge, earned a triple crown as the #1 digital single. IU appeared twice in the top 10 including her collab with BTS's SUGA. Drama OSTs and indie acts alongside idol groups showed the breadth of Korean music consumption.",
   "tracks": [
-    { "rank": 1, "title": "Amunorae (Any Song)", "artist": "Zico" },
-    { "rank": 2, "title": "METEOR", "artist": "Changmo" },
-    { "rank": 3, "title": "Aloha", "artist": "Jo Jung-suk" },
-    { "rank": 4, "title": "Your Shampoo Scent in the Flowers", "artist": "Jang Beom-june" },
-    { "rank": 5, "title": "Blueming", "artist": "IU" },
-    { "rank": 6, "title": "Eight (Prod. SUGA of BTS)", "artist": "IU" },
-    { "rank": 7, "title": "Late Night, In Front of Your House", "artist": "Noel" },
-    { "rank": 8, "title": "How Can I Love the Heartbreak, You're the One I Love", "artist": "AKMU" },
-    { "rank": 9, "title": "Psycho", "artist": "Red Velvet" },
-    { "rank": 10, "title": "Sijak (Start)", "artist": "Gaho" }
+    {
+      "rank": 1,
+      "title": "Amunorae (Any Song)",
+      "artist": "Zico"
+    },
+    {
+      "rank": 2,
+      "title": "METEOR",
+      "artist": "Changmo"
+    },
+    {
+      "rank": 3,
+      "title": "Aloha",
+      "artist": "Jo Jung-suk"
+    },
+    {
+      "rank": 4,
+      "title": "Your Shampoo Scent in the Flowers",
+      "artist": "Jang Beom-june"
+    },
+    {
+      "rank": 5,
+      "title": "Blueming",
+      "artist": "IU"
+    },
+    {
+      "rank": 6,
+      "title": "Eight (Prod. SUGA of BTS)",
+      "artist": "IU"
+    },
+    {
+      "rank": 7,
+      "title": "Late Night, In Front of Your House",
+      "artist": "Noel"
+    },
+    {
+      "rank": 8,
+      "title": "How Can I Love the Heartbreak, You're the One I Love",
+      "artist": "AKMU"
+    },
+    {
+      "rank": 9,
+      "title": "Psycho",
+      "artist": "Red Velvet"
+    },
+    {
+      "rank": 10,
+      "title": "Sijak (Start)",
+      "artist": "Gaho"
+    }
   ]
 }

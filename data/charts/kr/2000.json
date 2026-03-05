@@ -3,15 +3,55 @@
   "year": 2000,
   "context": "By 2000, the first-generation idol wave was peaking. god (Groove Over Dose) became the 'national group' with 'Lie,' whose album sold 1.85 million copies. Jo Sung-mo was at the height of his career as a ballad-pop crossover artist. BoA debuted at age 13, beginning her path to becoming Asia's biggest solo pop star. Trot legend Tae Jin-ah still charted alongside dance groups, reflecting the genre diversity of early 2000s Korean pop.",
   "tracks": [
-    { "rank": 1, "title": "Geojitmal (Lie)", "artist": "god" },
-    { "rank": 2, "title": "Gasinamu (Thorn Tree)", "artist": "Jo Sung-mo" },
-    { "rank": 3, "title": "Sarangeun Amuna Hana (Everyone Loves)", "artist": "Tae Jin-ah" },
-    { "rank": 4, "title": "Nunmul (Tears)", "artist": "So Chan-hwi" },
-    { "rank": 5, "title": "Seongsinsik (Coming of Age Ceremony)", "artist": "Park Ji-yoon" },
-    { "rank": 6, "title": "Asinayo (Do You Know)", "artist": "Jo Sung-mo" },
-    { "rank": 7, "title": "Now", "artist": "Fin.K.L" },
-    { "rank": 8, "title": "Run to You", "artist": "DJ DOC" },
-    { "rank": 9, "title": "Nan Namjada (I Am a Man)", "artist": "Kim Jang-hoon" },
-    { "rank": 10, "title": "ID; Peace B", "artist": "BoA" }
+    {
+      "rank": 1,
+      "title": "Geojitmal (Lie)",
+      "artist": "god"
+    },
+    {
+      "rank": 2,
+      "title": "Gasinamu (Thorn Tree)",
+      "artist": "Jo Sung-mo"
+    },
+    {
+      "rank": 3,
+      "title": "Sarangeun Amuna Hana (Everyone Loves)",
+      "artist": "Tae Jin-ah"
+    },
+    {
+      "rank": 4,
+      "title": "Nunmul (Tears)",
+      "artist": "So Chan-hwi"
+    },
+    {
+      "rank": 5,
+      "title": "Seongsinsik (Coming of Age Ceremony)",
+      "artist": "Park Ji-yoon"
+    },
+    {
+      "rank": 6,
+      "title": "Asinayo (Do You Know)",
+      "artist": "Jo Sung-mo"
+    },
+    {
+      "rank": 7,
+      "title": "Now",
+      "artist": "Fin.K.L"
+    },
+    {
+      "rank": 8,
+      "title": "Run to You",
+      "artist": "DJ DOC"
+    },
+    {
+      "rank": 9,
+      "title": "Nan Namjada (I Am a Man)",
+      "artist": "Kim Jang-hoon"
+    },
+    {
+      "rank": 10,
+      "title": "ID; Peace B",
+      "artist": "BoA"
+    }
   ]
 }

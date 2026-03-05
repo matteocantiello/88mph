@@ -3,15 +3,55 @@
   "year": 1990,
   "context": "1990 in the Netherlands reflected the transition from late-1980s pop into the early dance/hip-hop era. Sinéad O'Connor's Prince-penned ballad was an enormous hit. The chart showed the Dutch affinity for Belgian and German-language music, with Flemish Clouseau and German Matthias Reim charting high. Early dance crossover acts represented the emerging club culture.",
   "tracks": [
-    { "rank": 1, "title": "Nothing Compares 2 U", "artist": "Sinéad O'Connor" },
-    { "rank": 2, "title": "I've Been Thinking About You", "artist": "Londonbeat" },
-    { "rank": 3, "title": "Daar gaat ze", "artist": "Clouseau" },
-    { "rank": 4, "title": "U Can't Touch This", "artist": "MC Hammer" },
-    { "rank": 5, "title": "The Power", "artist": "Snap!" },
-    { "rank": 6, "title": "Verdammt, Ich Lieb' Dich", "artist": "Matthias Reim" },
-    { "rank": 7, "title": "What's a Woman?", "artist": "Vaya Con Dios" },
-    { "rank": 8, "title": "Sacrifice", "artist": "Elton John" },
-    { "rank": 9, "title": "Dirty Cash (Money Talks)", "artist": "Adventures of Stevie V" },
-    { "rank": 10, "title": "Paint It, Black", "artist": "The Rolling Stones" }
+    {
+      "rank": 1,
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinéad O'Connor"
+    },
+    {
+      "rank": 2,
+      "title": "I've Been Thinking About You",
+      "artist": "Londonbeat"
+    },
+    {
+      "rank": 3,
+      "title": "Daar gaat ze",
+      "artist": "Clouseau"
+    },
+    {
+      "rank": 4,
+      "title": "U Can't Touch This",
+      "artist": "MC Hammer"
+    },
+    {
+      "rank": 5,
+      "title": "The Power",
+      "artist": "Snap!"
+    },
+    {
+      "rank": 6,
+      "title": "Verdammt, Ich Lieb' Dich",
+      "artist": "Matthias Reim"
+    },
+    {
+      "rank": 7,
+      "title": "What's a Woman?",
+      "artist": "Vaya Con Dios"
+    },
+    {
+      "rank": 8,
+      "title": "Sacrifice",
+      "artist": "Elton John"
+    },
+    {
+      "rank": 9,
+      "title": "Dirty Cash (Money Talks)",
+      "artist": "Adventures of Stevie V"
+    },
+    {
+      "rank": 10,
+      "title": "Paint It, Black",
+      "artist": "The Rolling Stones"
+    }
   ]
 }

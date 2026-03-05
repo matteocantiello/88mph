@@ -3,15 +3,55 @@
   "year": 1990,
   "context": "In 1990, South Korea's music scene was dominated by sentimental ballads and trot, with no formal national singles chart yet. This was the pre-K-pop era — two years before Seo Taiji and Boys would revolutionize Korean popular music. The biggest stars were ballad singers like Byun Jin-sub and the newly debuted Shin Seung-hun, whose first album sold 1.4 million copies. Dance pop was emerging through Kim Wan-sun ('Korea's Madonna') and Kang Suji.",
   "tracks": [
-    { "rank": 1, "title": "Huimangsahang (Wish List)", "artist": "Byun Jin-sub" },
-    { "rank": 2, "title": "Hanbatang Useumeullo (A Gust of Laughter)", "artist": "Lee Sun-hee" },
-    { "rank": 3, "title": "Borabich Hyanggi (Purple Scent)", "artist": "Kang Suji" },
-    { "rank": 4, "title": "Ijji Marayo (Don't Forget)", "artist": "Choi Sung-soo" },
-    { "rank": 5, "title": "Indian Inhyeongcheoreom (Like an Indian Doll)", "artist": "Nami" },
-    { "rank": 6, "title": "Geouldo An Boneun Yeoja (A Woman Who Doesn't Look in the Mirror)", "artist": "Tae Jin-ah" },
-    { "rank": 7, "title": "Seulpeun Pyojeong Haji Marayo (Don't Look So Sad)", "artist": "Shin Hae-cheol" },
-    { "rank": 8, "title": "Bi Oneun Nal Suchaehwa (Watercolor on a Rainy Day)", "artist": "Kwon In-ha" },
-    { "rank": 9, "title": "Bogo Sipeun Eolgul (A Face I Miss)", "artist": "Min Hae-kyung" },
-    { "rank": 10, "title": "Misoso Soge Bicchin Geudae (Reflection of You in Your Smile)", "artist": "Shin Seung-hun" }
+    {
+      "rank": 1,
+      "title": "Huimangsahang (Wish List)",
+      "artist": "Byun Jin-sub"
+    },
+    {
+      "rank": 2,
+      "title": "Hanbatang Useumeullo (A Gust of Laughter)",
+      "artist": "Lee Sun-hee"
+    },
+    {
+      "rank": 3,
+      "title": "Borabich Hyanggi (Purple Scent)",
+      "artist": "Kang Suji"
+    },
+    {
+      "rank": 4,
+      "title": "Ijji Marayo (Don't Forget)",
+      "artist": "Choi Sung-soo"
+    },
+    {
+      "rank": 5,
+      "title": "Indian Inhyeongcheoreom (Like an Indian Doll)",
+      "artist": "Nami"
+    },
+    {
+      "rank": 6,
+      "title": "Geouldo An Boneun Yeoja (A Woman Who Doesn't Look in the Mirror)",
+      "artist": "Tae Jin-ah"
+    },
+    {
+      "rank": 7,
+      "title": "Seulpeun Pyojeong Haji Marayo (Don't Look So Sad)",
+      "artist": "Shin Hae-cheol"
+    },
+    {
+      "rank": 8,
+      "title": "Bi Oneun Nal Suchaehwa (Watercolor on a Rainy Day)",
+      "artist": "Kwon In-ha"
+    },
+    {
+      "rank": 9,
+      "title": "Bogo Sipeun Eolgul (A Face I Miss)",
+      "artist": "Min Hae-kyung"
+    },
+    {
+      "rank": 10,
+      "title": "Misoso Soge Bicchin Geudae (Reflection of You in Your Smile)",
+      "artist": "Shin Seung-hun"
+    }
   ]
 }

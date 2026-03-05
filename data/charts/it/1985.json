@@ -3,15 +3,55 @@
   "year": 1985,
   "context": "Global pop met emerging Italian pop-rock. The Live Aid movement topped the charts alongside Madonna and Duran Duran. Eros Ramazzotti emerged as a major star, and I Righeira's 'L'estate sta finendo' became an iconic Italian 80s anthem.",
   "tracks": [
-    { "rank": 1, "title": "We Are the World", "artist": "USA for Africa" },
-    { "rank": 2, "title": "Into the Groove", "artist": "Madonna" },
-    { "rank": 3, "title": "The Wild Boys", "artist": "Duran Duran" },
-    { "rank": 4, "title": "A View to a Kill", "artist": "Duran Duran" },
-    { "rank": 5, "title": "Election Day", "artist": "Arcadia" },
-    { "rank": 6, "title": "Don't You (Forget About Me)", "artist": "Simple Minds" },
-    { "rank": 7, "title": "Noi ragazzi di oggi", "artist": "Luis Miguel" },
-    { "rank": 8, "title": "Una storia importante", "artist": "Eros Ramazzotti" },
-    { "rank": 9, "title": "L'estate sta finendo", "artist": "I Righeira" },
-    { "rank": 10, "title": "19", "artist": "Paul Hardcastle" }
+    {
+      "rank": 1,
+      "title": "We Are the World",
+      "artist": "USA for Africa"
+    },
+    {
+      "rank": 2,
+      "title": "Into the Groove",
+      "artist": "Madonna"
+    },
+    {
+      "rank": 3,
+      "title": "The Wild Boys",
+      "artist": "Duran Duran"
+    },
+    {
+      "rank": 4,
+      "title": "A View to a Kill",
+      "artist": "Duran Duran"
+    },
+    {
+      "rank": 5,
+      "title": "Election Day",
+      "artist": "Arcadia"
+    },
+    {
+      "rank": 6,
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds"
+    },
+    {
+      "rank": 7,
+      "title": "Noi ragazzi di oggi",
+      "artist": "Luis Miguel"
+    },
+    {
+      "rank": 8,
+      "title": "Una storia importante",
+      "artist": "Eros Ramazzotti"
+    },
+    {
+      "rank": 9,
+      "title": "L'estate sta finendo",
+      "artist": "I Righeira"
+    },
+    {
+      "rank": 10,
+      "title": "19",
+      "artist": "Paul Hardcastle"
+    }
   ]
 }

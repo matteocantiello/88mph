@@ -3,15 +3,55 @@
   "year": 1975,
   "context": "The golden age of kayokyoku, with idol singers and enka balladeers dominating Oricon. Momoe Yamaguchi and the Candies were emerging stars. CD single sales hadn't yet arrived; vinyl and cassette ruled. 'Oyoge! Taiyaki-kun' would become Japan's all-time best-selling single.",
   "tracks": [
-    { "rank": 1, "title": "Showa Kareno Susuki", "artist": "Sakura to Ichiro" },
-    { "rank": 2, "title": "Waga Yoki Tomo yo", "artist": "Kamayatsu Hiroshi" },
-    { "rank": 3, "title": "Cyclamen no Kaori", "artist": "Fuse Akira" },
-    { "rank": 4, "title": "Nijuu-ni-sai no Wakare", "artist": "Kaze" },
-    { "rank": 5, "title": "Koibito yo", "artist": "Mayumi Itsuwa" },
-    { "rank": 6, "title": "Nagisa no Sindbad", "artist": "Pink Lady" },
-    { "rank": 7, "title": "Watashi no Tsubasa", "artist": "Momoe Yamaguchi" },
-    { "rank": 8, "title": "Smokin' Boogie", "artist": "Downtown Boogie-Woogie Band" },
-    { "rank": 9, "title": "Toshi Shita no Otoko no Ko", "artist": "Candies" },
-    { "rank": 10, "title": "Oyoge! Taiyaki-kun", "artist": "Masato Shimon" }
+    {
+      "rank": 1,
+      "title": "Showa Kareno Susuki",
+      "artist": "Sakura to Ichiro"
+    },
+    {
+      "rank": 2,
+      "title": "Waga Yoki Tomo yo",
+      "artist": "Kamayatsu Hiroshi"
+    },
+    {
+      "rank": 3,
+      "title": "Cyclamen no Kaori",
+      "artist": "Fuse Akira"
+    },
+    {
+      "rank": 4,
+      "title": "Nijuu-ni-sai no Wakare",
+      "artist": "Kaze"
+    },
+    {
+      "rank": 5,
+      "title": "Koibito yo",
+      "artist": "Mayumi Itsuwa"
+    },
+    {
+      "rank": 6,
+      "title": "Nagisa no Sindbad",
+      "artist": "Pink Lady"
+    },
+    {
+      "rank": 7,
+      "title": "Watashi no Tsubasa",
+      "artist": "Momoe Yamaguchi"
+    },
+    {
+      "rank": 8,
+      "title": "Smokin' Boogie",
+      "artist": "Downtown Boogie-Woogie Band"
+    },
+    {
+      "rank": 9,
+      "title": "Toshi Shita no Otoko no Ko",
+      "artist": "Candies"
+    },
+    {
+      "rank": 10,
+      "title": "Oyoge! Taiyaki-kun",
+      "artist": "Masato Shimon"
+    }
   ]
 }

@@ -3,14 +3,50 @@
   "year": 1955,
   "context": "The mid-1950s marked Italian music's golden age of melodic pop, with Sanremo winners and Neapolitan classics dominating. Renato Carosone revolutionized Italian music by blending Neapolitan song with jazz and boogie-woogie, while 'Arrivederci Roma' became an international emblem of Italy's cultural renaissance during the economic miracle era.",
   "tracks": [
-    { "rank": 1, "title": "Scapricciatiello", "artist": "Aurelio Fierro" },
-    { "rank": 2, "title": "Arrivederci Roma", "artist": "Renato Rascel" },
-    { "rank": 3, "title": "La Panse", "artist": "Renato Carosone" },
-    { "rank": 4, "title": "I Love Paris", "artist": "Georgia Gibbs" },
-    { "rank": 5, "title": "Blowing Wild", "artist": "Frankie Laine" },
-    { "rank": 6, "title": "La Luna nel rio", "artist": "Marisa Brando" },
-    { "rank": 7, "title": "La Donna riccia", "artist": "Renato Carosone" },
-    { "rank": 8, "title": "Johnny Guitar", "artist": "Flo Sandon's" },
-    { "rank": 9, "title": "Buongiorno tristezza", "artist": "Claudio Villa" }
+    {
+      "rank": 1,
+      "title": "Scapricciatiello",
+      "artist": "Aurelio Fierro"
+    },
+    {
+      "rank": 2,
+      "title": "Arrivederci Roma",
+      "artist": "Renato Rascel"
+    },
+    {
+      "rank": 3,
+      "title": "La Panse",
+      "artist": "Renato Carosone"
+    },
+    {
+      "rank": 4,
+      "title": "I Love Paris",
+      "artist": "Georgia Gibbs"
+    },
+    {
+      "rank": 5,
+      "title": "Blowing Wild",
+      "artist": "Frankie Laine"
+    },
+    {
+      "rank": 6,
+      "title": "La Luna nel rio",
+      "artist": "Marisa Brando"
+    },
+    {
+      "rank": 7,
+      "title": "La Donna riccia",
+      "artist": "Renato Carosone"
+    },
+    {
+      "rank": 8,
+      "title": "Johnny Guitar",
+      "artist": "Flo Sandon's"
+    },
+    {
+      "rank": 9,
+      "title": "Buongiorno tristezza",
+      "artist": "Claudio Villa"
+    }
   ]
 }

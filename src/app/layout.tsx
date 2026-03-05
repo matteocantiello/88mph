@@ -3,6 +3,7 @@ import { Instrument_Serif, Outfit, Share_Tech_Mono } from "next/font/google";
 import { PlayerProvider } from "@/contexts/PlayerContext";
 import Script from "next/script";
 import MiniPlayer from "@/components/MiniPlayer";
+import VideoPanel from "@/components/VideoPanel";
 import "./globals.css";
 
 const instrumentSerif = Instrument_Serif({
@@ -45,6 +46,7 @@ export default function RootLayout({
           <div className="film-grain">
             {children}
           </div>
+          <VideoPanel />
           <MiniPlayer />
         </PlayerProvider>
         <Script src="/_vercel/insights/script.js" strategy="afterInteractive" />

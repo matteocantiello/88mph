@@ -3,15 +3,55 @@
   "year": 1975,
   "context": "A transitional year for Swedish charts, as the Kvällstoppen ended and was replaced by Topplistan. ABBA was at peak early success following their 1974 Eurovision win, while Swedish-language pop from Ted Gärdestad and Björn Skifs demonstrated the strength of domestic artists. George Baker Selection's 'Paloma Blanca' dominated the newly launched chart for 10 weeks.",
   "tracks": [
-    { "rank": 1, "title": "Paloma Blanca", "artist": "George Baker Selection" },
-    { "rank": 2, "title": "Michelangelo", "artist": "Björn Skifs" },
-    { "rank": 3, "title": "I Can Help", "artist": "Billy Swan" },
-    { "rank": 4, "title": "SOS", "artist": "ABBA" },
-    { "rank": 5, "title": "Rockin' 'n' Reelin'", "artist": "Ted Gärdestad" },
-    { "rank": 6, "title": "Bang a Boomerang", "artist": "ABBA" },
-    { "rank": 7, "title": "So Long", "artist": "ABBA" },
-    { "rank": 8, "title": "Jag är en ko", "artist": "Magnus Uggla" },
-    { "rank": 9, "title": "Satellite", "artist": "Ted Gärdestad" },
-    { "rank": 10, "title": "Varje liten dag", "artist": "Harpo" }
+    {
+      "rank": 1,
+      "title": "Paloma Blanca",
+      "artist": "George Baker Selection"
+    },
+    {
+      "rank": 2,
+      "title": "Michelangelo",
+      "artist": "Björn Skifs"
+    },
+    {
+      "rank": 3,
+      "title": "I Can Help",
+      "artist": "Billy Swan"
+    },
+    {
+      "rank": 4,
+      "title": "SOS",
+      "artist": "ABBA"
+    },
+    {
+      "rank": 5,
+      "title": "Rockin' 'n' Reelin'",
+      "artist": "Ted Gärdestad"
+    },
+    {
+      "rank": 6,
+      "title": "Bang a Boomerang",
+      "artist": "ABBA"
+    },
+    {
+      "rank": 7,
+      "title": "So Long",
+      "artist": "ABBA"
+    },
+    {
+      "rank": 8,
+      "title": "Jag är en ko",
+      "artist": "Magnus Uggla"
+    },
+    {
+      "rank": 9,
+      "title": "Satellite",
+      "artist": "Ted Gärdestad"
+    },
+    {
+      "rank": 10,
+      "title": "Varje liten dag",
+      "artist": "Harpo"
+    }
   ]
 }

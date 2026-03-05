@@ -3,15 +3,65 @@
   "year": 2020,
   "context": "Amapiano — a subgenre of house music featuring log drums, jazzy piano melodies, and heavy basslines — became the dominant sound of South African music in 2020. Kabza De Small and DJ Maphorisa (the 'Scorpion Kings') were the genre's most prolific hitmakers. Master KG's 'Jerusalema' became a worldwide viral hit, and COVID lockdowns paradoxically helped amapiano spread globally via social media.",
   "tracks": [
-    { "rank": 1, "title": "Jerusalema", "artist": "Master KG ft. Nomcebo Zikode" },
-    { "rank": 2, "title": "Ke Star", "artist": "Focalistic ft. Vigro Deep" },
-    { "rank": 3, "title": "Emcimbini", "artist": "Kabza De Small, DJ Maphorisa & Samthing Soweto" },
-    { "rank": 4, "title": "Sponono", "artist": "Kabza De Small ft. Wizkid & Burna Boy" },
-    { "rank": 5, "title": "Tender Love", "artist": "Sha Sha ft. Kabza De Small & DJ Maphorisa" },
-    { "rank": 6, "title": "Askies", "artist": "Mr JazziQ ft. Moonchild Sanelly" },
-    { "rank": 7, "title": "Phoyisa", "artist": "Kabza De Small & DJ Maphorisa ft. Cassper Nyovest" },
-    { "rank": 8, "title": "Hello", "artist": "Kabza De Small & DJ Maphorisa" },
-    { "rank": 9, "title": "MI AMOR", "artist": "DJ Maphorisa & Kabza De Small" },
-    { "rank": 10, "title": "Love Me", "artist": "MFR Souls ft. Sha Sha" }
+    {
+      "rank": 1,
+      "title": "Jerusalema",
+      "artist": "Master KG ft. Nomcebo Zikode",
+      "youtubeId": "fCZVL_8D048"
+    },
+    {
+      "rank": 2,
+      "title": "Ke Star",
+      "artist": "Focalistic ft. Vigro Deep",
+      "youtubeId": "a9_da2P5JjQ"
+    },
+    {
+      "rank": 3,
+      "title": "Emcimbini",
+      "artist": "Kabza De Small, DJ Maphorisa & Samthing Soweto",
+      "youtubeId": "4TPab7xaeP0"
+    },
+    {
+      "rank": 4,
+      "title": "Sponono",
+      "artist": "Kabza De Small ft. Wizkid & Burna Boy",
+      "youtubeId": "Uf05LcydF7o"
+    },
+    {
+      "rank": 5,
+      "title": "Tender Love",
+      "artist": "Sha Sha ft. Kabza De Small & DJ Maphorisa",
+      "youtubeId": "IWrvCe5n4tE"
+    },
+    {
+      "rank": 6,
+      "title": "Askies",
+      "artist": "Mr JazziQ ft. Moonchild Sanelly",
+      "youtubeId": "wg2oCf7LIpE"
+    },
+    {
+      "rank": 7,
+      "title": "Phoyisa",
+      "artist": "Kabza De Small & DJ Maphorisa ft. Cassper Nyovest",
+      "youtubeId": "pCPBNXVWxjs"
+    },
+    {
+      "rank": 8,
+      "title": "Hello",
+      "artist": "Kabza De Small & DJ Maphorisa",
+      "youtubeId": "u2V08RBLOdM"
+    },
+    {
+      "rank": 9,
+      "title": "MI AMOR",
+      "artist": "DJ Maphorisa & Kabza De Small",
+      "youtubeId": "1U4ixflZgB4"
+    },
+    {
+      "rank": 10,
+      "title": "Love Me",
+      "artist": "MFR Souls ft. Sha Sha",
+      "youtubeId": "v_ksYAZsuLI"
+    }
   ]
 }

@@ -3,15 +3,55 @@
   "year": 2010,
   "context": "Indian music in 2010 saw Bollywood soundtracks dominate alongside the rise of digital distribution. YouTube was transforming how India consumed music, and caller tune revenue rivaled physical sales. Item numbers like 'Munni Badnaam Hui' and 'Sheila Ki Jawani' became massive cultural phenomena. Rahat Fateh Ali Khan had a banner year with multiple chart-topping romantic ballads.",
   "tracks": [
-    { "rank": 1, "title": "Dil Toh Bachcha Hai Ji", "artist": "Rahat Fateh Ali Khan" },
-    { "rank": 2, "title": "Sajda", "artist": "Rahat Fateh Ali Khan & Shankar Mahadevan" },
-    { "rank": 3, "title": "Aap Ka Kya Hoga (Dhanno)", "artist": "Mika Singh & Sunidhi Chauhan" },
-    { "rank": 4, "title": "Bin Tere", "artist": "Shafqat Amanat Ali & Sunidhi Chauhan" },
-    { "rank": 5, "title": "Pee Loon", "artist": "Mohit Chauhan" },
-    { "rank": 6, "title": "Gal Mitthi Mitthi", "artist": "Tochi Raina" },
-    { "rank": 7, "title": "Munni Badnaam Hui", "artist": "Mamta Sharma & Aishwarya" },
-    { "rank": 8, "title": "Tere Mast Mast Do Nain", "artist": "Rahat Fateh Ali Khan" },
-    { "rank": 9, "title": "Zor Ka Jhatka", "artist": "Daler Mehndi & Richa Sharma" },
-    { "rank": 10, "title": "Sheila Ki Jawani", "artist": "Sunidhi Chauhan" }
+    {
+      "rank": 1,
+      "title": "Dil Toh Bachcha Hai Ji",
+      "artist": "Rahat Fateh Ali Khan"
+    },
+    {
+      "rank": 2,
+      "title": "Sajda",
+      "artist": "Rahat Fateh Ali Khan & Shankar Mahadevan"
+    },
+    {
+      "rank": 3,
+      "title": "Aap Ka Kya Hoga (Dhanno)",
+      "artist": "Mika Singh & Sunidhi Chauhan"
+    },
+    {
+      "rank": 4,
+      "title": "Bin Tere",
+      "artist": "Shafqat Amanat Ali & Sunidhi Chauhan"
+    },
+    {
+      "rank": 5,
+      "title": "Pee Loon",
+      "artist": "Mohit Chauhan"
+    },
+    {
+      "rank": 6,
+      "title": "Gal Mitthi Mitthi",
+      "artist": "Tochi Raina"
+    },
+    {
+      "rank": 7,
+      "title": "Munni Badnaam Hui",
+      "artist": "Mamta Sharma & Aishwarya"
+    },
+    {
+      "rank": 8,
+      "title": "Tere Mast Mast Do Nain",
+      "artist": "Rahat Fateh Ali Khan"
+    },
+    {
+      "rank": 9,
+      "title": "Zor Ka Jhatka",
+      "artist": "Daler Mehndi & Richa Sharma"
+    },
+    {
+      "rank": 10,
+      "title": "Sheila Ki Jawani",
+      "artist": "Sunidhi Chauhan"
+    }
   ]
 }

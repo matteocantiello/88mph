@@ -10,12 +10,15 @@ export default function MiniPlayer() {
     progress,
     duration,
     autoPlay,
+    playbackSource,
+    videoExpanded,
     pause,
     resume,
     next,
     previous,
     seek,
     toggleAutoPlay,
+    toggleVideoExpanded,
   } = usePlayer();
 
   if (!currentTrack) return null;
@@ -138,6 +141,24 @@ export default function MiniPlayer() {
               <path d="M7 7h10v3l4-4-4-4v3H5v6h2V7zm10 10H7v-3l-4 4 4 4v-3h12v-6h-2v4z" />
             </svg>
           </button>
+
+          {playbackSource === "youtube" && (
+            <button
+              onClick={toggleVideoExpanded}
+              className={`w-8 h-8 flex items-center justify-center rounded-full transition-colors hidden sm:flex ${
+                videoExpanded
+                  ? "text-accent bg-accent/10"
+                  : "text-foreground/20 hover:text-foreground/40 hover:bg-white/[0.04]"
+              }`}
+              aria-label="Toggle video"
+              title="Show video"
+            >
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="2" y="3" width="20" height="14" rx="2" ry="2" />
+                <polyline points="8 21 12 17 16 21" />
+              </svg>
+            </button>
+          )}
         </div>
       </div>
     </div>

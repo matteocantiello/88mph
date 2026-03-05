@@ -3,15 +3,55 @@
   "year": 1975,
   "context": "The Soviet Union in 1975 was in the Brezhnev 'Era of Stagnation,' but estrada (popular entertainment) was vibrant. The annual Pesnya Goda festival was the premier showcase for Soviet pop. Alla Pugacheva's 'Arlekino' sold 14 million copies and launched her to superstardom. Songs were vetted for Communist Party compliance.",
   "tracks": [
-    { "rank": 1, "title": "Arlekino", "artist": "Alla Pugacheva" },
-    { "rank": 2, "title": "Lyubimye Zhenshchiny (Beloved Women)", "artist": "Lev Leshchenko" },
-    { "rank": 3, "title": "U Derevni Kryukovo (Near the Village of Kryukovo)", "artist": "VIA Plamya" },
-    { "rank": 4, "title": "Nadezhda (Hope)", "artist": "Muslim Magomayev" },
-    { "rank": 5, "title": "Sladka Yagoda (Sweet Berry)", "artist": "Olga Voronets" },
-    { "rank": 6, "title": "Dobry Vecher, Devchonochka (Good Evening, Little Girl)", "artist": "VIA Pesnyary" },
-    { "rank": 7, "title": "Ulybka (Smile)", "artist": "Bolshoi Detsky Khor" },
-    { "rank": 8, "title": "Chernoglazaya Kazachka (Dark-Eyed Cossack Woman)", "artist": "Tamara Sinyavskaya" },
-    { "rank": 9, "title": "Den Pobedy (Victory Day)", "artist": "Lev Leshchenko" },
-    { "rank": 10, "title": "Sudba (Fate)", "artist": "Maya Kristalinskaya" }
+    {
+      "rank": 1,
+      "title": "Arlekino",
+      "artist": "Alla Pugacheva"
+    },
+    {
+      "rank": 2,
+      "title": "Lyubimye Zhenshchiny (Beloved Women)",
+      "artist": "Lev Leshchenko"
+    },
+    {
+      "rank": 3,
+      "title": "U Derevni Kryukovo (Near the Village of Kryukovo)",
+      "artist": "VIA Plamya"
+    },
+    {
+      "rank": 4,
+      "title": "Nadezhda (Hope)",
+      "artist": "Muslim Magomayev"
+    },
+    {
+      "rank": 5,
+      "title": "Sladka Yagoda (Sweet Berry)",
+      "artist": "Olga Voronets"
+    },
+    {
+      "rank": 6,
+      "title": "Dobry Vecher, Devchonochka (Good Evening, Little Girl)",
+      "artist": "VIA Pesnyary"
+    },
+    {
+      "rank": 7,
+      "title": "Ulybka (Smile)",
+      "artist": "Bolshoi Detsky Khor"
+    },
+    {
+      "rank": 8,
+      "title": "Chernoglazaya Kazachka (Dark-Eyed Cossack Woman)",
+      "artist": "Tamara Sinyavskaya"
+    },
+    {
+      "rank": 9,
+      "title": "Den Pobedy (Victory Day)",
+      "artist": "Lev Leshchenko"
+    },
+    {
+      "rank": 10,
+      "title": "Sudba (Fate)",
+      "artist": "Maya Kristalinskaya"
+    }
   ]
 }

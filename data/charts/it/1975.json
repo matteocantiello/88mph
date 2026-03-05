@@ -3,15 +3,55 @@
   "year": 1975,
   "context": "Italian music in 1975 blended cantautore artistry with pop sophistication. Claudio Baglioni and Mina dominated the charts, while I Goblin's horror soundtrack 'Profondo Rosso' became an unexpected smash. Santo California's 'Tornerò' would become one of Italy's most iconic pop exports. The Sanremo tradition continued to shape the musical landscape.",
   "tracks": [
-    { "rank": 1, "title": "Sabato pomeriggio", "artist": "Claudio Baglioni" },
-    { "rank": 2, "title": "L'Importante è finire", "artist": "Mina" },
-    { "rank": 3, "title": "La Tartaruga", "artist": "Bruno Lauzi" },
-    { "rank": 4, "title": "Piange il telefono", "artist": "Domenico Modugno & Francesca Guadagno" },
-    { "rank": 5, "title": "Profondo rosso", "artist": "I Goblin" },
-    { "rank": 6, "title": "Bella dentro", "artist": "Paolo Frescura" },
-    { "rank": 7, "title": "Un Corpo e un'anima", "artist": "Wess & Dori Ghezzi" },
-    { "rank": 8, "title": "Tornerò", "artist": "Santo California" },
-    { "rank": 9, "title": "Sereno è", "artist": "Drupi" },
-    { "rank": 10, "title": "Amore grande amore libero", "artist": "Il Guardiano del Faro" }
+    {
+      "rank": 1,
+      "title": "Sabato pomeriggio",
+      "artist": "Claudio Baglioni"
+    },
+    {
+      "rank": 2,
+      "title": "L'Importante è finire",
+      "artist": "Mina"
+    },
+    {
+      "rank": 3,
+      "title": "La Tartaruga",
+      "artist": "Bruno Lauzi"
+    },
+    {
+      "rank": 4,
+      "title": "Piange il telefono",
+      "artist": "Domenico Modugno & Francesca Guadagno"
+    },
+    {
+      "rank": 5,
+      "title": "Profondo rosso",
+      "artist": "I Goblin"
+    },
+    {
+      "rank": 6,
+      "title": "Bella dentro",
+      "artist": "Paolo Frescura"
+    },
+    {
+      "rank": 7,
+      "title": "Un Corpo e un'anima",
+      "artist": "Wess & Dori Ghezzi"
+    },
+    {
+      "rank": 8,
+      "title": "Tornerò",
+      "artist": "Santo California"
+    },
+    {
+      "rank": 9,
+      "title": "Sereno è",
+      "artist": "Drupi"
+    },
+    {
+      "rank": 10,
+      "title": "Amore grande amore libero",
+      "artist": "Il Guardiano del Faro"
+    }
   ]
 }

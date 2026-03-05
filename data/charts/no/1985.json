@@ -3,15 +3,55 @@
   "year": 1985,
   "context": "A landmark year for Norwegian music. a-ha's 'Take On Me' became one of the biggest global hits of the decade, and Bobbysocks won Eurovision for Norway with 'La det swinge,' sparking national celebration. The charity singles phenomenon (Band Aid, USA for Africa) topped the chart, while synth-pop was in full swing.",
   "tracks": [
-    { "rank": 1, "title": "Do They Know It's Christmas?", "artist": "Band Aid" },
-    { "rank": 2, "title": "I Want to Know What Love Is", "artist": "Foreigner" },
-    { "rank": 3, "title": "Woodpeckers from Space", "artist": "VideoKids" },
-    { "rank": 4, "title": "We Are the World", "artist": "USA for Africa" },
-    { "rank": 5, "title": "La det swinge", "artist": "Bobbysocks" },
-    { "rank": 6, "title": "19", "artist": "Paul Hardcastle" },
-    { "rank": 7, "title": "Maria Magdalena", "artist": "Sandra" },
-    { "rank": 8, "title": "There Must Be an Angel", "artist": "Eurythmics" },
-    { "rank": 9, "title": "Cheerio", "artist": "The Monroes" },
-    { "rank": 10, "title": "Take On Me", "artist": "a-ha" }
+    {
+      "rank": 1,
+      "title": "Do They Know It's Christmas?",
+      "artist": "Band Aid"
+    },
+    {
+      "rank": 2,
+      "title": "I Want to Know What Love Is",
+      "artist": "Foreigner"
+    },
+    {
+      "rank": 3,
+      "title": "Woodpeckers from Space",
+      "artist": "VideoKids"
+    },
+    {
+      "rank": 4,
+      "title": "We Are the World",
+      "artist": "USA for Africa"
+    },
+    {
+      "rank": 5,
+      "title": "La det swinge",
+      "artist": "Bobbysocks"
+    },
+    {
+      "rank": 6,
+      "title": "19",
+      "artist": "Paul Hardcastle"
+    },
+    {
+      "rank": 7,
+      "title": "Maria Magdalena",
+      "artist": "Sandra"
+    },
+    {
+      "rank": 8,
+      "title": "There Must Be an Angel",
+      "artist": "Eurythmics"
+    },
+    {
+      "rank": 9,
+      "title": "Cheerio",
+      "artist": "The Monroes"
+    },
+    {
+      "rank": 10,
+      "title": "Take On Me",
+      "artist": "a-ha"
+    }
   ]
 }

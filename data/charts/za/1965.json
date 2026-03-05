@@ -3,15 +3,65 @@
   "year": 1965,
   "context": "South Africa's music scene thrived despite oppressive apartheid. Mbaqanga (township jive) was emerging as the dominant popular genre, replacing kwela. Many of the era's greatest artists, including Miriam Makeba and Hugh Masekela, were already in exile. The Dark City Sisters and Mahlathini with the Mahotella Queens defined the domestic sound.",
   "tracks": [
-    { "rank": 1, "title": "Pata Pata", "artist": "Miriam Makeba" },
-    { "rank": 2, "title": "Thanayi", "artist": "Dark City Sisters" },
-    { "rank": 3, "title": "Grazing in the Grass", "artist": "Hugh Masekela" },
-    { "rank": 4, "title": "Kazet", "artist": "Mahlathini & the Mahotella Queens" },
-    { "rank": 5, "title": "Malaika", "artist": "Miriam Makeba & Harry Belafonte" },
-    { "rank": 6, "title": "Mbube", "artist": "Ladysmith Black Mambazo" },
-    { "rank": 7, "title": "Meadowlands", "artist": "Strike Vilakazi" },
-    { "rank": 8, "title": "Stimela", "artist": "Hugh Masekela" },
-    { "rank": 9, "title": "Umculo Kawupheli", "artist": "Dark City Sisters" },
-    { "rank": 10, "title": "Khuluma", "artist": "Miriam Makeba" }
+    {
+      "rank": 1,
+      "title": "Pata Pata",
+      "artist": "Miriam Makeba",
+      "youtubeId": "lNeP3hrm__k"
+    },
+    {
+      "rank": 2,
+      "title": "Thanayi",
+      "artist": "Dark City Sisters",
+      "youtubeId": "Yr63WsGzjZA"
+    },
+    {
+      "rank": 3,
+      "title": "Grazing in the Grass",
+      "artist": "Hugh Masekela",
+      "youtubeId": "qxXZF60EPdM"
+    },
+    {
+      "rank": 4,
+      "title": "Kazet",
+      "artist": "Mahlathini & the Mahotella Queens",
+      "youtubeId": "HR7UbvhVT8g"
+    },
+    {
+      "rank": 5,
+      "title": "Malaika",
+      "artist": "Miriam Makeba & Harry Belafonte",
+      "youtubeId": "5l9rg4A2cp0"
+    },
+    {
+      "rank": 6,
+      "title": "Mbube",
+      "artist": "Ladysmith Black Mambazo",
+      "youtubeId": "sJF87m4_k88"
+    },
+    {
+      "rank": 7,
+      "title": "Meadowlands",
+      "artist": "Strike Vilakazi",
+      "youtubeId": "4ZmzvHEo5bc"
+    },
+    {
+      "rank": 8,
+      "title": "Stimela",
+      "artist": "Hugh Masekela",
+      "youtubeId": "n4Bb7p9gggc"
+    },
+    {
+      "rank": 9,
+      "title": "Umculo Kawupheli",
+      "artist": "Dark City Sisters",
+      "youtubeId": "jWFOLyjqb28"
+    },
+    {
+      "rank": 10,
+      "title": "Khuluma",
+      "artist": "Miriam Makeba",
+      "youtubeId": "jw_serZa2JI"
+    }
   ]
 }

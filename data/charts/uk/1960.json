@@ -3,15 +3,55 @@
   "year": 1960,
   "context": "1960 marked a transitional year in British pop, with American rock and roll stars like Elvis still dominating but homegrown talent rising fast. The Shadows' instrumental 'Apache' became one of the most influential guitar records in UK history. Eddie Cochran's death in a car crash on British soil sent 'Three Steps to Heaven' to #1 posthumously, while Johnny Kidd's 'Shakin' All Over' foreshadowed the raw British rock sound to come.",
   "tracks": [
-    { "rank": 1, "title": "It's Now or Never", "artist": "Elvis Presley" },
-    { "rank": 2, "title": "Cathy's Clown", "artist": "The Everly Brothers" },
-    { "rank": 3, "title": "Please Don't Tease", "artist": "Cliff Richard" },
-    { "rank": 4, "title": "Running Bear", "artist": "Johnny Preston" },
-    { "rank": 5, "title": "Why", "artist": "Anthony Newley" },
-    { "rank": 6, "title": "Apache", "artist": "The Shadows" },
-    { "rank": 7, "title": "Three Steps to Heaven", "artist": "Eddie Cochran" },
-    { "rank": 8, "title": "My Old Man's a Dustman", "artist": "Lonnie Donegan" },
-    { "rank": 9, "title": "Good Timin'", "artist": "Jimmy Jones" },
-    { "rank": 10, "title": "Shakin' All Over", "artist": "Johnny Kidd & The Pirates" }
+    {
+      "rank": 1,
+      "title": "It's Now or Never",
+      "artist": "Elvis Presley"
+    },
+    {
+      "rank": 2,
+      "title": "Cathy's Clown",
+      "artist": "The Everly Brothers"
+    },
+    {
+      "rank": 3,
+      "title": "Please Don't Tease",
+      "artist": "Cliff Richard"
+    },
+    {
+      "rank": 4,
+      "title": "Running Bear",
+      "artist": "Johnny Preston"
+    },
+    {
+      "rank": 5,
+      "title": "Why",
+      "artist": "Anthony Newley"
+    },
+    {
+      "rank": 6,
+      "title": "Apache",
+      "artist": "The Shadows"
+    },
+    {
+      "rank": 7,
+      "title": "Three Steps to Heaven",
+      "artist": "Eddie Cochran"
+    },
+    {
+      "rank": 8,
+      "title": "My Old Man's a Dustman",
+      "artist": "Lonnie Donegan"
+    },
+    {
+      "rank": 9,
+      "title": "Good Timin'",
+      "artist": "Jimmy Jones"
+    },
+    {
+      "rank": 10,
+      "title": "Shakin' All Over",
+      "artist": "Johnny Kidd & The Pirates"
+    }
   ]
 }

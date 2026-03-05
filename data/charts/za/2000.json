@@ -3,15 +3,65 @@
   "year": 2000,
   "context": "Kwaito — a genre blending house, hip-hop, and township rhythms — dominated South African music around 2000. Mandoza's 'Nkalakatha' became the first kwaito crossover hit to unite black and white audiences. Post-apartheid optimism and a vibrant youth culture fueled the genre. Artists like Arthur Mafokate, TKZee, and Bongo Maffin were household names.",
   "tracks": [
-    { "rank": 1, "title": "Nkalakatha", "artist": "Mandoza" },
-    { "rank": 2, "title": "Shibobo", "artist": "TKZee" },
-    { "rank": 3, "title": "Kaffir", "artist": "Arthur Mafokate" },
-    { "rank": 4, "title": "It's About Time", "artist": "Boom Shaka" },
-    { "rank": 5, "title": "Thath' Isigubhu", "artist": "Bongo Maffin" },
-    { "rank": 6, "title": "Mazola", "artist": "Mdu Masilela" },
-    { "rank": 7, "title": "I'm Scared of You", "artist": "Mzekezeke ft. DJ Cleo" },
-    { "rank": 8, "title": "Vulindlela", "artist": "Brenda Fassie" },
-    { "rank": 9, "title": "Lotto", "artist": "Mafikizolo" },
-    { "rank": 10, "title": "Oyi Oyi", "artist": "Arthur Mafokate" }
+    {
+      "rank": 1,
+      "title": "Nkalakatha",
+      "artist": "Mandoza",
+      "youtubeId": "b28vJvntyUM"
+    },
+    {
+      "rank": 2,
+      "title": "Shibobo",
+      "artist": "TKZee",
+      "youtubeId": "BhdxwySgEPQ"
+    },
+    {
+      "rank": 3,
+      "title": "Kaffir",
+      "artist": "Arthur Mafokate",
+      "youtubeId": "eucgo57ocEE"
+    },
+    {
+      "rank": 4,
+      "title": "It's About Time",
+      "artist": "Boom Shaka",
+      "youtubeId": "Mzxud8tRYJo"
+    },
+    {
+      "rank": 5,
+      "title": "Thath' Isigubhu",
+      "artist": "Bongo Maffin",
+      "youtubeId": "Uwyvj-HS5yQ"
+    },
+    {
+      "rank": 6,
+      "title": "Mazola",
+      "artist": "Mdu Masilela",
+      "youtubeId": "_D4gOyeMi88"
+    },
+    {
+      "rank": 7,
+      "title": "I'm Scared of You",
+      "artist": "Mzekezeke ft. DJ Cleo",
+      "youtubeId": "bbNTmCIKtKQ"
+    },
+    {
+      "rank": 8,
+      "title": "Vulindlela",
+      "artist": "Brenda Fassie",
+      "youtubeId": "JB-OGtSEc64"
+    },
+    {
+      "rank": 9,
+      "title": "Lotto",
+      "artist": "Mafikizolo",
+      "youtubeId": "KZY6Xy_Z5hU"
+    },
+    {
+      "rank": 10,
+      "title": "Oyi Oyi",
+      "artist": "Arthur Mafokate",
+      "youtubeId": "aPOObqtDTeE"
+    }
   ]
 }

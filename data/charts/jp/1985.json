@@ -3,15 +3,55 @@
   "year": 1985,
   "context": "Peak of Japan's idol era. Akina Nakamori and Seiko Matsuda were the reigning queens of J-pop, while The Checkers brought rockabilly energy. The music industry boomed alongside Japan's economic bubble, with elaborate production values driving massive sales.",
   "tracks": [
-    { "rank": 1, "title": "Julia ni Shoushin", "artist": "The Checkers" },
-    { "rank": 2, "title": "Mi Amore", "artist": "Akina Nakamori" },
-    { "rank": 3, "title": "Fall in Love", "artist": "Akiko Kobayashi" },
-    { "rank": 4, "title": "Romantic ga Tomaranai", "artist": "CCB" },
-    { "rank": 5, "title": "Ano Ko to Scandal", "artist": "The Checkers" },
-    { "rank": 6, "title": "Kazari ja nai no yo Namida wa", "artist": "Akina Nakamori" },
-    { "rank": 7, "title": "Sand Beige", "artist": "Akina Nakamori" },
-    { "rank": 8, "title": "Oretachi no Rockabilly Night", "artist": "The Checkers" },
-    { "rank": 9, "title": "Kanashimi ni Sayonara", "artist": "Anzen Chitai" },
-    { "rank": 10, "title": "Tenshi no Wink", "artist": "Seiko Matsuda" }
+    {
+      "rank": 1,
+      "title": "Julia ni Shoushin",
+      "artist": "The Checkers"
+    },
+    {
+      "rank": 2,
+      "title": "Mi Amore",
+      "artist": "Akina Nakamori"
+    },
+    {
+      "rank": 3,
+      "title": "Fall in Love",
+      "artist": "Akiko Kobayashi"
+    },
+    {
+      "rank": 4,
+      "title": "Romantic ga Tomaranai",
+      "artist": "CCB"
+    },
+    {
+      "rank": 5,
+      "title": "Ano Ko to Scandal",
+      "artist": "The Checkers"
+    },
+    {
+      "rank": 6,
+      "title": "Kazari ja nai no yo Namida wa",
+      "artist": "Akina Nakamori"
+    },
+    {
+      "rank": 7,
+      "title": "Sand Beige",
+      "artist": "Akina Nakamori"
+    },
+    {
+      "rank": 8,
+      "title": "Oretachi no Rockabilly Night",
+      "artist": "The Checkers"
+    },
+    {
+      "rank": 9,
+      "title": "Kanashimi ni Sayonara",
+      "artist": "Anzen Chitai"
+    },
+    {
+      "rank": 10,
+      "title": "Tenshi no Wink",
+      "artist": "Seiko Matsuda"
+    }
   ]
 }

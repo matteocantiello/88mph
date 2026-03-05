@@ -3,15 +3,55 @@
   "year": 1970,
   "context": "A transitional year bridging the late 1960s pop era with emerging hard rock. The Beatles had split, and the charts reflected everything from novelty acts to soul. England's World Cup Squad captured football fever, while Simon & Garfunkel and Free represented the range.",
   "tracks": [
-    { "rank": 1, "title": "The Wonder of You", "artist": "Elvis Presley" },
-    { "rank": 2, "title": "In the Summertime", "artist": "Mungo Jerry" },
-    { "rank": 3, "title": "Band of Gold", "artist": "Freda Payne" },
-    { "rank": 4, "title": "Bridge over Troubled Water", "artist": "Simon & Garfunkel" },
-    { "rank": 5, "title": "Two Little Boys", "artist": "Rolf Harris" },
-    { "rank": 6, "title": "Wand'rin' Star", "artist": "Lee Marvin" },
-    { "rank": 7, "title": "Spirit in the Sky", "artist": "Norman Greenbaum" },
-    { "rank": 8, "title": "Back Home", "artist": "England World Cup Squad" },
-    { "rank": 9, "title": "All Right Now", "artist": "Free" },
-    { "rank": 10, "title": "Yellow River", "artist": "Christie" }
+    {
+      "rank": 1,
+      "title": "The Wonder of You",
+      "artist": "Elvis Presley"
+    },
+    {
+      "rank": 2,
+      "title": "In the Summertime",
+      "artist": "Mungo Jerry"
+    },
+    {
+      "rank": 3,
+      "title": "Band of Gold",
+      "artist": "Freda Payne"
+    },
+    {
+      "rank": 4,
+      "title": "Bridge over Troubled Water",
+      "artist": "Simon & Garfunkel"
+    },
+    {
+      "rank": 5,
+      "title": "Two Little Boys",
+      "artist": "Rolf Harris"
+    },
+    {
+      "rank": 6,
+      "title": "Wand'rin' Star",
+      "artist": "Lee Marvin"
+    },
+    {
+      "rank": 7,
+      "title": "Spirit in the Sky",
+      "artist": "Norman Greenbaum"
+    },
+    {
+      "rank": 8,
+      "title": "Back Home",
+      "artist": "England World Cup Squad"
+    },
+    {
+      "rank": 9,
+      "title": "All Right Now",
+      "artist": "Free"
+    },
+    {
+      "rank": 10,
+      "title": "Yellow River",
+      "artist": "Christie"
+    }
   ]
 }

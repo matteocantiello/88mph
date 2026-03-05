@@ -3,15 +3,55 @@
   "year": 2020,
   "context": "2020's Dutch chart was shaped by the COVID-19 pandemic boosting streaming numbers. The Weeknd's 'Blinding Lights' became one of the best-performing singles in chart history globally. Dutch artists held their own with Emma Heesters & Rolf Sanchez's Spanish-language crossover, rapper Snelle's Dutch-language romance, and Danny Vera's retro-pop — demonstrating the Netherlands' increasingly diverse musical tastes.",
   "tracks": [
-    { "rank": 1, "title": "Blinding Lights", "artist": "The Weeknd" },
-    { "rank": 2, "title": "Roses (Imanbek Remix)", "artist": "SAINt JHN" },
-    { "rank": 3, "title": "Dance Monkey", "artist": "Tones and I" },
-    { "rank": 4, "title": "Pa olvidarte", "artist": "Emma Heesters & Rolf Sanchez" },
-    { "rank": 5, "title": "Rockstar", "artist": "DaBaby feat. Roddy Ricch" },
-    { "rank": 6, "title": "Wat is je naam", "artist": "Yxng Le x Frenna" },
-    { "rank": 7, "title": "Before You Go", "artist": "Lewis Capaldi" },
-    { "rank": 8, "title": "Smoorverliefd", "artist": "Snelle" },
-    { "rank": 9, "title": "Breaking Me", "artist": "Topic feat. A7S" },
-    { "rank": 10, "title": "Roller Coaster", "artist": "Danny Vera" }
+    {
+      "rank": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd"
+    },
+    {
+      "rank": 2,
+      "title": "Roses (Imanbek Remix)",
+      "artist": "SAINt JHN"
+    },
+    {
+      "rank": 3,
+      "title": "Dance Monkey",
+      "artist": "Tones and I"
+    },
+    {
+      "rank": 4,
+      "title": "Pa olvidarte",
+      "artist": "Emma Heesters & Rolf Sanchez"
+    },
+    {
+      "rank": 5,
+      "title": "Rockstar",
+      "artist": "DaBaby feat. Roddy Ricch"
+    },
+    {
+      "rank": 6,
+      "title": "Wat is je naam",
+      "artist": "Yxng Le x Frenna"
+    },
+    {
+      "rank": 7,
+      "title": "Before You Go",
+      "artist": "Lewis Capaldi"
+    },
+    {
+      "rank": 8,
+      "title": "Smoorverliefd",
+      "artist": "Snelle"
+    },
+    {
+      "rank": 9,
+      "title": "Breaking Me",
+      "artist": "Topic feat. A7S"
+    },
+    {
+      "rank": 10,
+      "title": "Roller Coaster",
+      "artist": "Danny Vera"
+    }
   ]
 }

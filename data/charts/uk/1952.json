@@ -3,15 +3,55 @@
   "year": 1952,
   "context": "1952 was a watershed year for British music — the NME published the UK's first-ever singles chart on November 14. The chart was dominated by American crooners and traditional pop ballads, with Vera Lynn (the 'Forces' Sweetheart' of WWII) proving British artists could compete. Al Martino's 'Here in My Heart' holds the distinction of being the very first UK #1 single.",
   "tracks": [
-    { "rank": 1, "title": "Auf Wiederseh'n Sweetheart", "artist": "Vera Lynn" },
-    { "rank": 2, "title": "Here in My Heart", "artist": "Al Martino" },
-    { "rank": 3, "title": "You Belong to Me", "artist": "Jo Stafford" },
-    { "rank": 4, "title": "Somewhere Along the Way", "artist": "Nat King Cole" },
-    { "rank": 5, "title": "The Isle of Innisfree", "artist": "Bing Crosby" },
-    { "rank": 6, "title": "Feet Up", "artist": "Guy Mitchell" },
-    { "rank": 7, "title": "Half as Much", "artist": "Rosemary Clooney" },
-    { "rank": 8, "title": "High Noon (Do Not Forsake Me)", "artist": "Frankie Laine" },
-    { "rank": 9, "title": "Because You're Mine", "artist": "Mario Lanza" },
-    { "rank": 10, "title": "The Homing Waltz", "artist": "Vera Lynn" }
+    {
+      "rank": 1,
+      "title": "Auf Wiederseh'n Sweetheart",
+      "artist": "Vera Lynn"
+    },
+    {
+      "rank": 2,
+      "title": "Here in My Heart",
+      "artist": "Al Martino"
+    },
+    {
+      "rank": 3,
+      "title": "You Belong to Me",
+      "artist": "Jo Stafford"
+    },
+    {
+      "rank": 4,
+      "title": "Somewhere Along the Way",
+      "artist": "Nat King Cole"
+    },
+    {
+      "rank": 5,
+      "title": "The Isle of Innisfree",
+      "artist": "Bing Crosby"
+    },
+    {
+      "rank": 6,
+      "title": "Feet Up",
+      "artist": "Guy Mitchell"
+    },
+    {
+      "rank": 7,
+      "title": "Half as Much",
+      "artist": "Rosemary Clooney"
+    },
+    {
+      "rank": 8,
+      "title": "High Noon (Do Not Forsake Me)",
+      "artist": "Frankie Laine"
+    },
+    {
+      "rank": 9,
+      "title": "Because You're Mine",
+      "artist": "Mario Lanza"
+    },
+    {
+      "rank": 10,
+      "title": "The Homing Waltz",
+      "artist": "Vera Lynn"
+    }
   ]
 }
