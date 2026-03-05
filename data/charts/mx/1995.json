@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Mi Forma De Sentir",
-      "artist": "Pedro Fernández"
+      "artist": "Pedro Fernández",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0257eb2fe209c62a84d1130ae2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5hT4Cx4hQrm3cCauIdKceF",
+      "spotifyUrl": "https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF"
     },
     {
       "rank": 2,
       "title": "Formas De Amor",
-      "artist": "Caló"
+      "artist": "Caló",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f3729c7d8fcb2b6946519acc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0grtL2b9mfjf9mfOxVZJhP",
+      "spotifyUrl": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
     },
     {
       "rank": 3,
       "title": "Se Fue",
-      "artist": "Laura Pausini"
+      "artist": "Laura Pausini",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dd037ca49421580742aab0fa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6LU8uRM2fPgaHKD18I0Azk",
+      "spotifyUrl": "https://open.spotify.com/track/6LU8uRM2fPgaHKD18I0Azk"
     },
     {
       "rank": 4,
       "title": "Todo Y Nada",
-      "artist": "Luis Miguel"
+      "artist": "Luis Miguel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025bbb2861d3459dbff0148f50",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1FJSXlDrgr9AS37w67CPHP",
+      "spotifyUrl": "https://open.spotify.com/track/1FJSXlDrgr9AS37w67CPHP"
     },
     {
       "rank": 5,
       "title": "Te Extraño, Te Olvido, Te Amo",
-      "artist": "Ricky Martin"
+      "artist": "Ricky Martin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023116fe38544a143f10f5e489",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4S1bYWrLOC8smuy8kJzxKQ",
+      "spotifyUrl": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "rank": 6,
       "title": "Ayer Me Dijo Un Ave",
-      "artist": "Caifanes"
+      "artist": "Caifanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0236aeaab4dc91a8dea53a2d8f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6gpsPg8kaMbc8rcuHw7t1i",
+      "spotifyUrl": "https://open.spotify.com/track/6gpsPg8kaMbc8rcuHw7t1i"
     },
     {
       "rank": 7,
       "title": "Piel Morena",
-      "artist": "Thalía"
+      "artist": "Thalía",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0285614c68b8499f13931150b3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Lv1EpgTXrZ2gzJfoNGVnw",
+      "spotifyUrl": "https://open.spotify.com/track/2Lv1EpgTXrZ2gzJfoNGVnw"
     },
     {
       "rank": 8,
       "title": "Nada De Ti",
-      "artist": "Paulina Rubio"
+      "artist": "Paulina Rubio",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02986ed2a8e33de885f417162d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6gsCCpFWqU3DwvqqRhe4XV",
+      "spotifyUrl": "https://open.spotify.com/track/6gsCCpFWqU3DwvqqRhe4XV"
     },
     {
       "rank": 9,
       "title": "Lamento Boliviano",
-      "artist": "Enanitos Verdes"
+      "artist": "Enanitos Verdes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0235bf8a2179962114b8ec7585",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Pur3hWy6Nzc27ilmsp5HA",
+      "spotifyUrl": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
     },
     {
       "rank": 10,
       "title": "Media Naranja",
-      "artist": "Fey"
+      "artist": "Fey",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028f3d69527fd46b5e517e2394",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5qOOJibHjeGx0rhzL20JSc",
+      "spotifyUrl": "https://open.spotify.com/track/5qOOJibHjeGx0rhzL20JSc"
     }
   ]
 }

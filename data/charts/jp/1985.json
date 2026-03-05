@@ -6,52 +6,102 @@
     {
       "rank": 1,
       "title": "Julia ni Shoushin",
-      "artist": "The Checkers"
+      "artist": "The Checkers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a9e75a1283dfda275de82714",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3HlnDsfP4g2pRpzZrueI4F",
+      "spotifyUrl": "https://open.spotify.com/track/3HlnDsfP4g2pRpzZrueI4F",
+      "youtubeId": "AQCinctvWes"
     },
     {
       "rank": 2,
       "title": "Mi Amore",
-      "artist": "Akina Nakamori"
+      "artist": "Akina Nakamori",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029a332fa3f31d368932d36442",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3sqfq3aIVqXK0Ckq2FqD1s",
+      "spotifyUrl": "https://open.spotify.com/track/3sqfq3aIVqXK0Ckq2FqD1s",
+      "youtubeId": "vNrGfZ-1Ngc"
     },
     {
       "rank": 3,
       "title": "Fall in Love",
-      "artist": "Akiko Kobayashi"
+      "artist": "Akiko Kobayashi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02eadf2d2e6871d444a8ed457a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3WXJtnZLN8OL8UPAL0BPhE",
+      "spotifyUrl": "https://open.spotify.com/track/3WXJtnZLN8OL8UPAL0BPhE",
+      "youtubeId": "ZjKWpVF9Q6E"
     },
     {
       "rank": 4,
       "title": "Romantic ga Tomaranai",
-      "artist": "CCB"
+      "artist": "CCB",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f9119840b90881a268f6fd6a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0urAqftWcSVFX8lj32CZ2v",
+      "spotifyUrl": "https://open.spotify.com/track/0urAqftWcSVFX8lj32CZ2v",
+      "youtubeId": "8NZoe20Ysd0"
     },
     {
       "rank": 5,
       "title": "Ano Ko to Scandal",
-      "artist": "The Checkers"
+      "artist": "The Checkers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244198fa3e2ac52ce10a89e40",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7CrIjtWPmeddFUA9m7Xrxi",
+      "spotifyUrl": "https://open.spotify.com/track/7CrIjtWPmeddFUA9m7Xrxi",
+      "youtubeId": "FcI1FUkidMw"
     },
     {
       "rank": 6,
       "title": "Kazari ja nai no yo Namida wa",
-      "artist": "Akina Nakamori"
+      "artist": "Akina Nakamori",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b6a71a960012d6c8a16e2f4a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:07aCNKvztkev8NvHWOTp8R",
+      "spotifyUrl": "https://open.spotify.com/track/07aCNKvztkev8NvHWOTp8R",
+      "youtubeId": "nJdQOYjzPR0"
     },
     {
       "rank": 7,
       "title": "Sand Beige",
-      "artist": "Akina Nakamori"
+      "artist": "Akina Nakamori",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021c1f6704ba96beb6b64cd928",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2BkTmoBZcKCfKOoxs9gTfT",
+      "spotifyUrl": "https://open.spotify.com/track/2BkTmoBZcKCfKOoxs9gTfT",
+      "youtubeId": "nZok93seg08"
     },
     {
       "rank": 8,
       "title": "Oretachi no Rockabilly Night",
-      "artist": "The Checkers"
+      "artist": "The Checkers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c8da759dee000b2c55cd728f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:66ydhvgFbuoxOzNVSktaaI",
+      "spotifyUrl": "https://open.spotify.com/track/66ydhvgFbuoxOzNVSktaaI",
+      "youtubeId": "18r4239DZj4"
     },
     {
       "rank": 9,
       "title": "Kanashimi ni Sayonara",
-      "artist": "Anzen Chitai"
+      "artist": "Anzen Chitai",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c4eb801a965a5665c941d1c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5eCloFta7KUnm9sCBqvJOB",
+      "spotifyUrl": "https://open.spotify.com/track/5eCloFta7KUnm9sCBqvJOB",
+      "youtubeId": "aLOAOkBRNwA"
     },
     {
       "rank": 10,
       "title": "Tenshi no Wink",
-      "artist": "Seiko Matsuda"
+      "artist": "Seiko Matsuda",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024981804faca30098aeb3f670",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7jSasqUd9CJVAUFwNBWis1",
+      "spotifyUrl": "https://open.spotify.com/track/7jSasqUd9CJVAUFwNBWis1",
+      "youtubeId": "gl0EPkax87U"
     }
   ]
 }

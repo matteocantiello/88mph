@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "I Want to Know What Love Is",
-      "artist": "Foreigner"
+      "artist": "Foreigner",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023e030a7e606959674643d274",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1JLn8RhQzHz3qDqsChcmBl",
+      "spotifyUrl": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "rank": 2,
       "title": "We Are the World",
-      "artist": "USA for Africa"
+      "artist": "USA for Africa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02920f421260033ee54865d673",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Z2tPWiNiIpg8UMMoowHIk",
+      "spotifyUrl": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk"
     },
     {
       "rank": 3,
       "title": "(I'll Never Be) Maria Magdalena",
-      "artist": "Sandra"
+      "artist": "Sandra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ade47900d03a0276737982b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7LNP6YNYDeMgBeG4JBfAdq",
+      "spotifyUrl": "https://open.spotify.com/track/7LNP6YNYDeMgBeG4JBfAdq"
     },
     {
       "rank": 4,
       "title": "Joey Killer",
-      "artist": "Magnus Uggla"
+      "artist": "Magnus Uggla",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02157881dfa079257a1f8a5b5e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7B5NnCY27qsWb1neu5MhXa",
+      "spotifyUrl": "https://open.spotify.com/track/7B5NnCY27qsWb1neu5MhXa"
     },
     {
       "rank": 5,
       "title": "Rock Me Amadeus",
-      "artist": "Falco"
+      "artist": "Falco",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02731d2eb04541bef9e4434d4e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0DfG1ltJnZyq4Tx3ZLL7ZU",
+      "spotifyUrl": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU"
     },
     {
       "rank": 6,
       "title": "Take On Me",
-      "artist": "a-ha"
+      "artist": "a-ha",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e8dd4db47e7177c63b0b7d53",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2WfaOiMkCvy7F5fcp2zZ8L",
+      "spotifyUrl": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
     },
     {
       "rank": 7,
       "title": "Live Is Life",
-      "artist": "Opus"
+      "artist": "Opus",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02680c56a0f621a43edf19046a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5luOvrlnzfvJQdQjrScVj4",
+      "spotifyUrl": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4"
     },
     {
       "rank": 8,
       "title": "19",
-      "artist": "Paul Hardcastle"
+      "artist": "Paul Hardcastle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021cc5d2698191dca71ceafc5a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4YNyU0vEEC5grHkHnO9lhF",
+      "spotifyUrl": "https://open.spotify.com/track/4YNyU0vEEC5grHkHnO9lhF"
     },
     {
       "rank": 9,
       "title": "Do They Know It's Christmas?",
-      "artist": "Band Aid"
+      "artist": "Band Aid",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d549b09f0264901929eaa6e8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4Yg2w0P29BBBMixyeNjDtj",
+      "spotifyUrl": "https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj"
     },
     {
       "rank": 10,
       "title": "A View to a Kill",
-      "artist": "Duran Duran"
+      "artist": "Duran Duran",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c8f2a04c85c677bfe2b1639",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6I4snLrVOrJsLdd43isc27",
+      "spotifyUrl": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27"
     }
   ]
 }

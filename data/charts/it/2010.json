@@ -6,52 +6,102 @@
     {
       "rank": 1,
       "title": "Waka Waka (This Time for Africa)",
-      "artist": "Shakira feat. Freshlyground"
+      "artist": "Shakira feat. Freshlyground",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6da56e427f7f87f0e544c6f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6bNB5gxFX6Q87DbQWb8OWZ",
+      "spotifyUrl": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ",
+      "youtubeId": "Z_slTWayFK0"
     },
     {
       "rank": 2,
       "title": "Tutto l'amore che ho",
-      "artist": "Jovanotti"
+      "artist": "Jovanotti",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0203767b2f6a93d34534a40117",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4yqDB0cfEjmQ7DjDLxbylR",
+      "spotifyUrl": "https://open.spotify.com/track/4yqDB0cfEjmQ7DjDLxbylR",
+      "youtubeId": "a1N11_iup1E"
     },
     {
       "rank": 3,
       "title": "Tranne te",
-      "artist": "Fabri Fibra"
+      "artist": "Fabri Fibra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024810e64dc7b92d6693b0d55a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:22UWrM3Lp2f3owvtVPSoAj",
+      "spotifyUrl": "https://open.spotify.com/track/22UWrM3Lp2f3owvtVPSoAj",
+      "youtubeId": "MTKQ26OxLtA"
     },
     {
       "rank": 4,
       "title": "Tik Tok",
-      "artist": "Ke$ha"
+      "artist": "Ke$ha",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0297c7b770b28ffeed164f4d0e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
+      "spotifyUrl": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i",
+      "youtubeId": "RxUZLmN5RsY"
     },
     {
       "rank": 5,
       "title": "La Notte",
-      "artist": "Modà"
+      "artist": "Modà",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023b1b4771536fa08541515b70",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3e9VkD2pCpVcljlukk7NNu",
+      "spotifyUrl": "https://open.spotify.com/track/3e9VkD2pCpVcljlukk7NNu",
+      "youtubeId": "srYFLur48fs"
     },
     {
       "rank": 6,
       "title": "Baciami ancora",
-      "artist": "Jovanotti"
+      "artist": "Jovanotti",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263b4647ed73c8fcc1601c86d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5GGK9bLbV9WSrDTSUEXwk9",
+      "spotifyUrl": "https://open.spotify.com/track/5GGK9bLbV9WSrDTSUEXwk9",
+      "youtubeId": "c4p2QSm_0XE"
     },
     {
       "rank": 7,
       "title": "Alejandro",
-      "artist": "Lady Gaga"
+      "artist": "Lady Gaga",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1HHeOs6zRdF8Ck58easiAY",
+      "spotifyUrl": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY",
+      "youtubeId": "e6NIlIMSVdg"
     },
     {
       "rank": 8,
       "title": "Sono già solo",
-      "artist": "Modà"
+      "artist": "Modà",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023b1b4771536fa08541515b70",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2heH5puwL0Na8eYzA2xKfS",
+      "spotifyUrl": "https://open.spotify.com/track/2heH5puwL0Na8eYzA2xKfS",
+      "youtubeId": "mgQ6US1beUw"
     },
     {
       "rank": 9,
       "title": "Loca",
-      "artist": "Shakira feat. Dizzee Rascal"
+      "artist": "Shakira feat. Dizzee Rascal",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024214ddc9e33e76de6a8ee888",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6YMPu36VGIknb8Ey1ohW3j",
+      "spotifyUrl": "https://open.spotify.com/track/6YMPu36VGIknb8Ey1ohW3j",
+      "youtubeId": "-UDdC9KZpwk"
     },
     {
       "rank": 10,
       "title": "Alors on danse",
-      "artist": "Stromae"
+      "artist": "Stromae",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae373174b14e3eac81554402",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2GYHyAoLWpkxLVa4oYTVko",
+      "spotifyUrl": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko",
+      "youtubeId": "VHoT4N43jK8"
     }
   ]
 }

@@ -6,22 +6,38 @@
     {
       "rank": 1,
       "title": "Gangsta's Paradise",
-      "artist": "Coolio feat. L.V."
+      "artist": "Coolio feat. L.V.",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a4e509950320df67cc8684b0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1pgPH8vxnGW3lueCl55QxP",
+      "spotifyUrl": "https://open.spotify.com/track/1pgPH8vxnGW3lueCl55QxP"
     },
     {
       "rank": 2,
       "title": "Det vackraste",
-      "artist": "Cecilia Vennersten"
+      "artist": "Cecilia Vennersten",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028cc00aa59493a8177bc40f34",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Lk8REt9BXCCtz0rboHIQg",
+      "spotifyUrl": "https://open.spotify.com/track/5Lk8REt9BXCCtz0rboHIQg"
     },
     {
       "rank": 3,
       "title": "Se på mej",
-      "artist": "Jan Johansen"
+      "artist": "Jan Johansen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0283a5788dc556a84290aedf0a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:22WZEVFJDUzwbbGQA5RfGe",
+      "spotifyUrl": "https://open.spotify.com/track/22WZEVFJDUzwbbGQA5RfGe"
     },
     {
       "rank": 4,
       "title": "Stay Another Day",
-      "artist": "East 17"
+      "artist": "East 17",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a93484ad2d9bc2120c542f7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4wYCe9tSmUolNU4WmJKbZy",
+      "spotifyUrl": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
     },
     {
       "rank": 5,

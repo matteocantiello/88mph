@@ -6,52 +6,102 @@
     {
       "rank": 1,
       "title": "Gangsta's Paradise",
-      "artist": "Coolio feat. L.V."
+      "artist": "Coolio feat. L.V.",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a4e509950320df67cc8684b0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1pgPH8vxnGW3lueCl55QxP",
+      "spotifyUrl": "https://open.spotify.com/track/1pgPH8vxnGW3lueCl55QxP",
+      "youtubeId": "7DXlY8LhWnI"
     },
     {
       "rank": 2,
       "title": "Boombastic",
-      "artist": "Shaggy"
+      "artist": "Shaggy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0211394cad51642144dc4014b3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4fxF8ljwryMZX5c9EKrLFE",
+      "spotifyUrl": "https://open.spotify.com/track/4fxF8ljwryMZX5c9EKrLFE",
+      "youtubeId": "TeNjhglXm6w"
     },
     {
       "rank": 3,
       "title": "The Colour Inside",
-      "artist": "Ti.Pi.Cal. feat. Josh"
+      "artist": "Ti.Pi.Cal. feat. Josh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021175d938e6dace73e30e2ff6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:56znLgMmxNHqCTOCETf5vy",
+      "spotifyUrl": "https://open.spotify.com/track/56znLgMmxNHqCTOCETf5vy",
+      "youtubeId": "nRULkAGIOd8"
     },
     {
       "rank": 4,
       "title": "Missing",
-      "artist": "Everything But The Girl"
+      "artist": "Everything But The Girl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026ab1b948c864a1e0e3161a01",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1waLmkUyMq0M5ACmf5SG7q",
+      "spotifyUrl": "https://open.spotify.com/track/1waLmkUyMq0M5ACmf5SG7q",
+      "youtubeId": "Ak2b39YMrEQ"
     },
     {
       "rank": 5,
       "title": "Hideaway",
-      "artist": "De'Lacy"
+      "artist": "De'Lacy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0238ae03f82dcf77f897bac926",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3AFeoRQ6sHPncfrDeCqmkZ",
+      "spotifyUrl": "https://open.spotify.com/track/3AFeoRQ6sHPncfrDeCqmkZ",
+      "youtubeId": "wi_w-9iTaZs"
     },
     {
       "rank": 6,
       "title": "Be My Lover",
-      "artist": "La Bouche"
+      "artist": "La Bouche",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d4c3788166b9c4de0921f6b0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3YB6nCSuFqNiqOvPtAPK9X",
+      "spotifyUrl": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X",
+      "youtubeId": "P3MtiifXp9k"
     },
     {
       "rank": 7,
       "title": "Scatman's World",
-      "artist": "Scatman John"
+      "artist": "Scatman John",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7ed51b9dc1014285cae2ae2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:623rRTKwGmgjH6sjE9uWLh",
+      "spotifyUrl": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh",
+      "youtubeId": "7neipvZ_H0c"
     },
     {
       "rank": 8,
       "title": "Baby Baby",
-      "artist": "Corona"
+      "artist": "Corona",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0216c34f408789c64c4756b607",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Hr2Q8DMEn25u3tu2sqcpQ",
+      "spotifyUrl": "https://open.spotify.com/track/5Hr2Q8DMEn25u3tu2sqcpQ",
+      "youtubeId": "9bqeB0DKJJ4"
     },
     {
       "rank": 9,
       "title": "All I Need Is Love",
-      "artist": "Indiana"
+      "artist": "Indiana",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f01ab7979d1851fed94b80ab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2HvRuqLHUNW40FGW8l2LLc",
+      "spotifyUrl": "https://open.spotify.com/track/2HvRuqLHUNW40FGW8l2LLc",
+      "youtubeId": "Pn6PJsBjNKU"
     },
     {
       "rank": 10,
       "title": "Back for Good",
-      "artist": "Take That"
+      "artist": "Take That",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02db5d336c648e8f540262a1c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6vcdzohhBSbNdsZBh5IRpQ",
+      "spotifyUrl": "https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ",
+      "youtubeId": "wdOwlQZmLCk"
     }
   ]
 }

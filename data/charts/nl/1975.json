@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Paloma Blanca",
-      "artist": "George Baker Selection"
+      "artist": "George Baker Selection",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0249ba2fa97de6c6f82bf0ac36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7Eo7zJMxFp0CnzkZpWNitq",
+      "spotifyUrl": "https://open.spotify.com/track/7Eo7zJMxFp0CnzkZpWNitq"
     },
     {
       "rank": 2,
       "title": "The Elephant Song",
-      "artist": "Kamahl"
+      "artist": "Kamahl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0290962aca16645fe7f5e1ddb8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3fezfvTj1m1D9ESaC2cK6b",
+      "spotifyUrl": "https://open.spotify.com/track/3fezfvTj1m1D9ESaC2cK6b"
     },
     {
       "rank": 3,
       "title": "Love Is All",
-      "artist": "Roger Glover and Guests"
+      "artist": "Roger Glover and Guests",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027c3bb9f74a98f60bdda6c9a7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6eDApnV9Jdb1nYahOlbbUh",
+      "spotifyUrl": "https://open.spotify.com/track/6eDApnV9Jdb1nYahOlbbUh"
     },
     {
       "rank": 4,
       "title": "If You Go",
-      "artist": "Barry & Eileen"
+      "artist": "Barry & Eileen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ac9d060c9b75c319eafe28a8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6fA7vZD7BZ9BqZm4DTbU4s",
+      "spotifyUrl": "https://open.spotify.com/track/6fA7vZD7BZ9BqZm4DTbU4s"
     },
     {
       "rank": 5,
       "title": "100 Years",
-      "artist": "Joey Dyser"
+      "artist": "Joey Dyser",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0272c2b326039abf565ae5f5d5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7HiaAOoqlG8UgY4hr8OofH",
+      "spotifyUrl": "https://open.spotify.com/track/7HiaAOoqlG8UgY4hr8OofH"
     },
     {
       "rank": 6,
       "title": "Hey mal yo",
-      "artist": "Johnny & Orquesta Rodrigues"
+      "artist": "Johnny & Orquesta Rodrigues",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f6791579882d46dcd5340c9d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1CbOzpCPAt4HEmzu0S306f",
+      "spotifyUrl": "https://open.spotify.com/track/1CbOzpCPAt4HEmzu0S306f"
     },
     {
       "rank": 7,
       "title": "Stand By Your Man",
-      "artist": "Tammy Wynette"
+      "artist": "Tammy Wynette",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028c66ab65968b335b7847a202",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Cb2l4UoXynCHCeCYHRZN8",
+      "spotifyUrl": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
     },
     {
       "rank": 8,
       "title": "Ramaya",
-      "artist": "Afric Simone"
+      "artist": "Afric Simone",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022716d073e2da5927b709bf2d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1KF0ZsT4PR0PezkWYfr7Dg",
+      "spotifyUrl": "https://open.spotify.com/track/1KF0ZsT4PR0PezkWYfr7Dg"
     },
     {
       "rank": 9,
       "title": "That's the Way (I Like It)",
-      "artist": "KC & The Sunshine Band"
+      "artist": "KC & The Sunshine Band",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02777ea94183cc6c14db581da3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1qiQduM84A0VeH8Y2uAbqi",
+      "spotifyUrl": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
     },
     {
       "rank": 10,
       "title": "Roll Over Lay Down (Live)",
-      "artist": "Status Quo"
+      "artist": "Status Quo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020801ac97184b4817c0d38f06",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2uJyRYyxmHRTZNU45I2U4z",
+      "spotifyUrl": "https://open.spotify.com/track/2uJyRYyxmHRTZNU45I2U4z"
     }
   ]
 }

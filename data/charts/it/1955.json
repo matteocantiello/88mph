@@ -7,55 +7,91 @@
       "rank": 1,
       "title": "Scapricciatiello",
       "artist": "Aurelio Fierro",
-      "youtubeId": "_0Hn7oWcd1M"
+      "youtubeId": "_0Hn7oWcd1M",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ed4981907bc2351114c57dd6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1NvJscBf9NvACFcc5an5MN",
+      "spotifyUrl": "https://open.spotify.com/track/1NvJscBf9NvACFcc5an5MN"
     },
     {
       "rank": 2,
       "title": "Arrivederci Roma",
       "artist": "Renato Rascel",
-      "youtubeId": "gaOBrHow4xQ"
+      "youtubeId": "gaOBrHow4xQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02185a2b3caeb04b3f4ceec7fa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5hFzGBJ7nhYHg8IZ5oTYdu",
+      "spotifyUrl": "https://open.spotify.com/track/5hFzGBJ7nhYHg8IZ5oTYdu"
     },
     {
       "rank": 3,
       "title": "La Panse",
       "artist": "Renato Carosone",
-      "youtubeId": "BXgVH24J6xQ"
+      "youtubeId": "BXgVH24J6xQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e256df0614990c48da2345e8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0hFNzJlQxIDtYyArcHJek8",
+      "spotifyUrl": "https://open.spotify.com/track/0hFNzJlQxIDtYyArcHJek8"
     },
     {
       "rank": 4,
       "title": "I Love Paris",
       "artist": "Georgia Gibbs",
-      "youtubeId": "BbbVq9KpvPI"
+      "youtubeId": "BbbVq9KpvPI",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b71fd49eb20d0275387779f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:21s3cC8sb6wF97EZ1MkHHV",
+      "spotifyUrl": "https://open.spotify.com/track/21s3cC8sb6wF97EZ1MkHHV"
     },
     {
       "rank": 5,
       "title": "Blowing Wild",
       "artist": "Frankie Laine",
-      "youtubeId": "G7WdlblntfE"
+      "youtubeId": "G7WdlblntfE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f390a7ddaeb00f25e79896ca",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:04wUWqrNvQW3MJHEytadLj",
+      "spotifyUrl": "https://open.spotify.com/track/04wUWqrNvQW3MJHEytadLj"
     },
     {
       "rank": 6,
       "title": "La Luna nel rio",
       "artist": "Marisa Brando",
-      "youtubeId": "MM3Ozbwos6Y"
+      "youtubeId": "MtfkdD_jEjI",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028376aa89ea34d239f18031aa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:09qJ4Mg46EmCp3P7w7YFEz",
+      "spotifyUrl": "https://open.spotify.com/track/09qJ4Mg46EmCp3P7w7YFEz"
     },
     {
       "rank": 7,
       "title": "La Donna riccia",
       "artist": "Renato Carosone",
-      "youtubeId": "70K1id9JoGo"
+      "youtubeId": "70K1id9JoGo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e256df0614990c48da2345e8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:25sXmWaDXwOKzDfGjhG9tB",
+      "spotifyUrl": "https://open.spotify.com/track/25sXmWaDXwOKzDfGjhG9tB"
     },
     {
       "rank": 8,
       "title": "Johnny Guitar",
       "artist": "Flo Sandon's",
-      "youtubeId": "Mdtotro2bLU"
+      "youtubeId": "Mdtotro2bLU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0288898658f203abcd809212a3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1nYrTzj1nJMXdLsCrzZAvS",
+      "spotifyUrl": "https://open.spotify.com/track/1nYrTzj1nJMXdLsCrzZAvS"
     },
     {
       "rank": 9,
       "title": "Buongiorno tristezza",
       "artist": "Claudio Villa",
-      "youtubeId": "Zh4Q7A4Zc7Y"
+      "youtubeId": "Zh4Q7A4Zc7Y",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ee211fc1f57dc825ec7daf00",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6QQu6nPESdYqLpAatU3a6q",
+      "spotifyUrl": "https://open.spotify.com/track/6QQu6nPESdYqLpAatU3a6q"
     }
   ]
 }

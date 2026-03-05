@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Hello",
-      "artist": "Adele"
+      "artist": "Adele",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0247ce408fb4926d69da6713c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:62PaSfnXSMyLshYJrlTuL3",
+      "spotifyUrl": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
     },
     {
       "rank": 2,
       "title": "Bare min",
-      "artist": "Morgan Sulele"
+      "artist": "Morgan Sulele",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bccbdbab2f71f93b439c84d2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3KCLfjq653JidMnfGDRUu2",
+      "spotifyUrl": "https://open.spotify.com/track/3KCLfjq653JidMnfGDRUu2"
     },
     {
       "rank": 3,
       "title": "See You Again",
-      "artist": "Wiz Khalifa feat. Charlie Puth"
+      "artist": "Wiz Khalifa feat. Charlie Puth",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e5df11b17b2727da2b718d8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2JzZzZUQj3Qff7wapcbKjc",
+      "spotifyUrl": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
     },
     {
       "rank": 4,
       "title": "Love Me Like You Do",
-      "artist": "Ellie Goulding"
+      "artist": "Ellie Goulding",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026bdee14242f244d9d6ddf2fd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3zHq9ouUJQFQRf3cm1rRLu",
+      "spotifyUrl": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu"
     },
     {
       "rank": 5,
       "title": "What Do You Mean?",
-      "artist": "Justin Bieber"
+      "artist": "Justin Bieber",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4B0JvthVoAAuygILe3n4Bs",
+      "spotifyUrl": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "rank": 6,
       "title": "Nothing Left",
-      "artist": "Kygo feat. Will Heard"
+      "artist": "Kygo feat. Will Heard",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027247979b8bc6027bf97043ef",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2fZW7ByWe46rGih0FtP2XK",
+      "spotifyUrl": "https://open.spotify.com/track/2fZW7ByWe46rGih0FtP2XK"
     },
     {
       "rank": 7,
       "title": "Firestone",
-      "artist": "Kygo feat. Conrad"
+      "artist": "Kygo feat. Conrad",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d5008dd99ff388b652005ca1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7aDqInKM1R6WsR4valOGVd",
+      "spotifyUrl": "https://open.spotify.com/track/7aDqInKM1R6WsR4valOGVd"
     },
     {
       "rank": 8,
       "title": "Stole the Show",
-      "artist": "Kygo feat. Parson James"
+      "artist": "Kygo feat. Parson James",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0201c91b1ad8669e38e6d455df",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4YsIhDNpTwwgucD5jQdil4",
+      "spotifyUrl": "https://open.spotify.com/track/4YsIhDNpTwwgucD5jQdil4"
     },
     {
       "rank": 9,
       "title": "I Took a Pill in Ibiza (SeeB Remix)",
-      "artist": "Mike Posner"
+      "artist": "Mike Posner",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021db27fa11dbafa67857da8f3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0vbtURX4qv1l7besfwmnD8",
+      "spotifyUrl": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
     },
     {
       "rank": 10,
       "title": "Pinne for landet",
-      "artist": "Freddy Kalas"
+      "artist": "Freddy Kalas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cd8d35e88dccebc53de1c440",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1OFyDTPrZdrvs4EG2fopJr",
+      "spotifyUrl": "https://open.spotify.com/track/1OFyDTPrZdrvs4EG2fopJr"
     }
   ]
 }

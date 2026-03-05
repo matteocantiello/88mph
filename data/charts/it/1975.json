@@ -6,52 +6,62 @@
     {
       "rank": 1,
       "title": "Sabato pomeriggio",
-      "artist": "Claudio Baglioni"
+      "artist": "Claudio Baglioni",
+      "youtubeId": "XFv6XJ4Cwlg"
     },
     {
       "rank": 2,
       "title": "L'Importante è finire",
-      "artist": "Mina"
+      "artist": "Mina",
+      "youtubeId": "olHJJGlvM18"
     },
     {
       "rank": 3,
       "title": "La Tartaruga",
-      "artist": "Bruno Lauzi"
+      "artist": "Bruno Lauzi",
+      "youtubeId": "DxTUQ-55-0s"
     },
     {
       "rank": 4,
       "title": "Piange il telefono",
-      "artist": "Domenico Modugno & Francesca Guadagno"
+      "artist": "Domenico Modugno & Francesca Guadagno",
+      "youtubeId": "_uk-ZjIpTPs"
     },
     {
       "rank": 5,
       "title": "Profondo rosso",
-      "artist": "I Goblin"
+      "artist": "I Goblin",
+      "youtubeId": "ucCbncL0_TA"
     },
     {
       "rank": 6,
       "title": "Bella dentro",
-      "artist": "Paolo Frescura"
+      "artist": "Paolo Frescura",
+      "youtubeId": "9CXMcdXFkao"
     },
     {
       "rank": 7,
       "title": "Un Corpo e un'anima",
-      "artist": "Wess & Dori Ghezzi"
+      "artist": "Wess & Dori Ghezzi",
+      "youtubeId": "PcXH79vbcwY"
     },
     {
       "rank": 8,
       "title": "Tornerò",
-      "artist": "Santo California"
+      "artist": "Santo California",
+      "youtubeId": "0fF0eAxiC1o"
     },
     {
       "rank": 9,
       "title": "Sereno è",
-      "artist": "Drupi"
+      "artist": "Drupi",
+      "youtubeId": "O7v7vBWXgsg"
     },
     {
       "rank": 10,
       "title": "Amore grande amore libero",
-      "artist": "Il Guardiano del Faro"
+      "artist": "Il Guardiano del Faro",
+      "youtubeId": "ASmSCOhI0LI"
     }
   ]
 }

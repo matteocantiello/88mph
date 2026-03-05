@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Seishun Amigo",
-      "artist": "Shuuji to Akira"
+      "artist": "Shuuji to Akira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0211a378bb1fc71660b8e14901",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:12t3aiECmAOYT44rEhSdxN",
+      "spotifyUrl": "https://open.spotify.com/track/12t3aiECmAOYT44rEhSdxN"
     },
     {
       "rank": 2,
       "title": "Sakura",
-      "artist": "Ketsumeishi"
+      "artist": "Ketsumeishi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f6137fa4b0ca3f993aa7a13",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2t0w4lINBHiuqwOQ5EQDN7",
+      "spotifyUrl": "https://open.spotify.com/track/2t0w4lINBHiuqwOQ5EQDN7"
     },
     {
       "rank": 3,
       "title": "Yonjigen Four Dimensions",
-      "artist": "Mr.Children"
+      "artist": "Mr.Children",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02631103a65b5891e95723996c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4p8kYHCWG942puPJEWtsJi",
+      "spotifyUrl": "https://open.spotify.com/track/4p8kYHCWG942puPJEWtsJi"
     },
     {
       "rank": 4,
       "title": "*~Asterisk~",
-      "artist": "Orange Range"
+      "artist": "Orange Range",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bb6fec67ceac6cc0f584f7af",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6MKOd8KDFzwpu8Vz6ccZU5",
+      "spotifyUrl": "https://open.spotify.com/track/6MKOd8KDFzwpu8Vz6ccZU5"
     },
     {
       "rank": 5,
       "title": "SCREAM",
-      "artist": "GLAY x EXILE"
+      "artist": "GLAY x EXILE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5d4e5e3b709bd2cfd890dd3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2i7k4Y75zJWVgL6aVENQHV",
+      "spotifyUrl": "https://open.spotify.com/track/2i7k4Y75zJWVgL6aVENQHV"
     },
     {
       "rank": 6,
       "title": "Anniversary",
-      "artist": "KinKi Kids"
+      "artist": "KinKi Kids",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024cb0c894b0f8e55459e594f7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:16KSZuRirl4uVZBQFf6tnU",
+      "spotifyUrl": "https://open.spotify.com/track/16KSZuRirl4uVZBQFf6tnU"
     },
     {
       "rank": 7,
       "title": "Ocean",
-      "artist": "B'z"
+      "artist": "B'z",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a7aa90fe43820d1416004ad4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3gKRTlHyCDpttUD2FHEE6W",
+      "spotifyUrl": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
     },
     {
       "rank": 8,
       "title": "Love Parade",
-      "artist": "Orange Range"
+      "artist": "Orange Range",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02788f30a6ace483c557a6e7e6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4N3WIoGI6WGO6EHh6rd9fR",
+      "spotifyUrl": "https://open.spotify.com/track/4N3WIoGI6WGO6EHh6rd9fR"
     },
     {
       "rank": 9,
       "title": "FANTASTIPO",
-      "artist": "Toraji Haiji"
+      "artist": "Toraji Haiji",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02825ab3b7bd0de37939146785",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6AJLXRFcgzjNFe9sCB76jQ",
+      "spotifyUrl": "https://open.spotify.com/track/6AJLXRFcgzjNFe9sCB76jQ"
     },
     {
       "rank": 10,
       "title": "GLAMOROUS SKY",
-      "artist": "NANA starring Mika Nakashima"
+      "artist": "NANA starring Mika Nakashima",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0225e67d5901023fae92da9edf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0tiicgUUOULGjNdS3gpXH2",
+      "spotifyUrl": "https://open.spotify.com/track/0tiicgUUOULGjNdS3gpXH2"
     }
   ]
 }

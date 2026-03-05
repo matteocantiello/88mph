@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Geojitmal (Lie)",
-      "artist": "god"
+      "artist": "god",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b6213080ecfeca18ff84fd9c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3EfMWIEGQB24dQv5x4Hwvx",
+      "spotifyUrl": "https://open.spotify.com/track/3EfMWIEGQB24dQv5x4Hwvx"
     },
     {
       "rank": 2,
       "title": "Gasinamu (Thorn Tree)",
-      "artist": "Jo Sung-mo"
+      "artist": "Jo Sung-mo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cfbbc4c1defba507baa61f06",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4H5RKxQ0bPWLxcdRtKXWwm",
+      "spotifyUrl": "https://open.spotify.com/track/4H5RKxQ0bPWLxcdRtKXWwm"
     },
     {
       "rank": 3,
       "title": "Sarangeun Amuna Hana (Everyone Loves)",
-      "artist": "Tae Jin-ah"
+      "artist": "Tae Jin-ah",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e1ceb97165340ef92392b948",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3JmlYV4mm5jdo2ZWzATLBv",
+      "spotifyUrl": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
     },
     {
       "rank": 4,
       "title": "Nunmul (Tears)",
-      "artist": "So Chan-hwi"
+      "artist": "So Chan-hwi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e75a9b0b312bbb8deff5f8ab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0E1eRF0Vcds69zk0734tEn",
+      "spotifyUrl": "https://open.spotify.com/track/0E1eRF0Vcds69zk0734tEn"
     },
     {
       "rank": 5,
       "title": "Seongsinsik (Coming of Age Ceremony)",
-      "artist": "Park Ji-yoon"
+      "artist": "Park Ji-yoon",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e5268b208023290a980d5318",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:18s7nPTjQRtDIgf5xIDfNp",
+      "spotifyUrl": "https://open.spotify.com/track/18s7nPTjQRtDIgf5xIDfNp"
     },
     {
       "rank": 6,
       "title": "Asinayo (Do You Know)",
-      "artist": "Jo Sung-mo"
+      "artist": "Jo Sung-mo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02563a53e7b2f46a79b9b3dd64",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2m5e4IlqiNX5JqpvdTiIdG",
+      "spotifyUrl": "https://open.spotify.com/track/2m5e4IlqiNX5JqpvdTiIdG"
     },
     {
       "rank": 7,
       "title": "Now",
-      "artist": "Fin.K.L"
+      "artist": "Fin.K.L",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ecad40f201b028b73e712535",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2lo3hI7t1AQCCoeqrxYexu",
+      "spotifyUrl": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
     },
     {
       "rank": 8,
       "title": "Run to You",
-      "artist": "DJ DOC"
+      "artist": "DJ DOC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02be6b74d1a4d2e8bfcfbf8167",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0oDZXPwDPlx3EDVqoyBdSx",
+      "spotifyUrl": "https://open.spotify.com/track/0oDZXPwDPlx3EDVqoyBdSx"
     },
     {
       "rank": 9,
       "title": "Nan Namjada (I Am a Man)",
-      "artist": "Kim Jang-hoon"
+      "artist": "Kim Jang-hoon",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02540ab7c149079184e8724dc4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Poyf51k7W3NKnsGwAI90B",
+      "spotifyUrl": "https://open.spotify.com/track/6Poyf51k7W3NKnsGwAI90B"
     },
     {
       "rank": 10,
       "title": "ID; Peace B",
-      "artist": "BoA"
+      "artist": "BoA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023582387525c679c404e76966",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5rvP5mbQ48itt4dtosn9Yf",
+      "spotifyUrl": "https://open.spotify.com/track/5rvP5mbQ48itt4dtosn9Yf"
     }
   ]
 }

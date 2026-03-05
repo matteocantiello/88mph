@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Brillianty (Diamonds)",
-      "artist": "VIA Gra"
+      "artist": "VIA Gra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f6e43dc98f0f7df230868f2d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2NSGXSn3phBbGnEnWQyyx8",
+      "spotifyUrl": "https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8"
     },
     {
       "rank": 2,
       "title": "Ty Dolzhna Ryadom Byt (You Should Be Near)",
-      "artist": "Dima Bilan"
+      "artist": "Dima Bilan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0213999a73a4e2b3bf269776f9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4qhH0DyNFzORKJHUBveBVh",
+      "spotifyUrl": "https://open.spotify.com/track/4qhH0DyNFzORKJHUBveBVh"
     },
     {
       "rank": 3,
       "title": "Schweine",
-      "artist": "Glukoza"
+      "artist": "Glukoza",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02020d683361ece84755137413",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6cDaUGB1100F1OndSzwdhd",
+      "spotifyUrl": "https://open.spotify.com/track/6cDaUGB1100F1OndSzwdhd"
     },
     {
       "rank": 4,
       "title": "Yura",
-      "artist": "Glukoza"
+      "artist": "Glukoza",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027ff20738df21a6de5e6a47ac",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2V0lyvH2sMcbb9fRPBid1H",
+      "spotifyUrl": "https://open.spotify.com/track/2V0lyvH2sMcbb9fRPBid1H"
     },
     {
       "rank": 5,
       "title": "Distantsiya (Distance)",
-      "artist": "Zveri"
+      "artist": "Zveri",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024890105ba2a39d19d1652503",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3H3rlnR9r2PBQmN0tDweNV",
+      "spotifyUrl": "https://open.spotify.com/track/3H3rlnR9r2PBQmN0tDweNV"
     },
     {
       "rank": 6,
       "title": "Ironiya Sudby 2005",
-      "artist": "Triplex"
+      "artist": "Triplex",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bd1f50a64daaabe9f502aecd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7LMr1Y0dEzX3Qatrnu2xqs",
+      "spotifyUrl": "https://open.spotify.com/track/7LMr1Y0dEzX3Qatrnu2xqs"
     },
     {
       "rank": 7,
       "title": "Kak Khotel Ya (How I Wanted)",
-      "artist": "Dima Bilan"
+      "artist": "Dima Bilan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae66d9bad501a984996cbd06",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5XOqLNtfjPMLwOKBaA3yRx",
+      "spotifyUrl": "https://open.spotify.com/track/5XOqLNtfjPMLwOKBaA3yRx"
     },
     {
       "rank": 8,
       "title": "Ya ne Ponyala (I Don't Understand)",
-      "artist": "Verka Serduchka & VIA Gra"
+      "artist": "Verka Serduchka & VIA Gra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027fb889fe88a799fc3220bc1d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3vhPwuYtoMv5jfkmkHkjjz",
+      "spotifyUrl": "https://open.spotify.com/track/3vhPwuYtoMv5jfkmkHkjjz"
     },
     {
       "rank": 9,
       "title": "Moskva (Moscow)",
-      "artist": "Glukoza"
+      "artist": "Glukoza",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a58fad5384604237cc50d532",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:786S4NvzjE8PdC3Hl1MV60",
+      "spotifyUrl": "https://open.spotify.com/track/786S4NvzjE8PdC3Hl1MV60"
     },
     {
       "rank": 10,
       "title": "Vsyo, Chto Kasayetsya (Everything That Concerns)",
-      "artist": "VIA Gra & Zveri"
+      "artist": "VIA Gra & Zveri",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028ad773ee93ed98bdbe6767ef",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:24iAllVIq90yKHUEdOMKAM",
+      "spotifyUrl": "https://open.spotify.com/track/24iAllVIq90yKHUEdOMKAM"
     }
   ]
 }

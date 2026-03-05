@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Paromshchik (The Ferryman)",
-      "artist": "Alla Pugacheva"
+      "artist": "Alla Pugacheva",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02185da3b3a681f2fc2da5fd13",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6ql2wQGzw03Nb1mFuM4e9f",
+      "spotifyUrl": "https://open.spotify.com/track/6ql2wQGzw03Nb1mFuM4e9f"
     },
     {
       "rank": 2,
       "title": "Lavanda (Lavender)",
-      "artist": "Sofia Rotaru"
+      "artist": "Sofia Rotaru",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d7cab5ea8874378f43d86e02",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4EJN7S0RIFD50gZQOf4pRM",
+      "spotifyUrl": "https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM"
     },
     {
       "rank": 3,
       "title": "Margarita",
-      "artist": "Valery Leontiev"
+      "artist": "Valery Leontiev",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aa42414997a8a298a27de1e0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:11dnSiSjN3hrmxuhFeL9a3",
+      "spotifyUrl": "https://open.spotify.com/track/11dnSiSjN3hrmxuhFeL9a3"
     },
     {
       "rank": 4,
       "title": "Noch (Night)",
-      "artist": "Viktor Tsoi / Kino"
+      "artist": "Viktor Tsoi / Kino",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e76117b240cf916b53755b50",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4lmiJUs4OOiwJrozGmQLi5",
+      "spotifyUrl": "https://open.spotify.com/track/4lmiJUs4OOiwJrozGmQLi5"
     },
     {
       "rank": 5,
       "title": "More (Sea)",
-      "artist": "Yuri Antonov"
+      "artist": "Yuri Antonov",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c90b5d9cda57c4a26eea2058",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6y9ZHB5YdYkWzGTwOt7GtV",
+      "spotifyUrl": "https://open.spotify.com/track/6y9ZHB5YdYkWzGTwOt7GtV"
     },
     {
       "rank": 6,
       "title": "Million Alykh Roz (Million Scarlet Roses)",
-      "artist": "Alla Pugacheva"
+      "artist": "Alla Pugacheva",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029ea7653617fbf254a7c106f2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4izZoKL2bYp3Edh0u34uI1",
+      "spotifyUrl": "https://open.spotify.com/track/4izZoKL2bYp3Edh0u34uI1"
     },
     {
       "rank": 7,
       "title": "Aysberg (Iceberg)",
-      "artist": "Alla Pugacheva"
+      "artist": "Alla Pugacheva",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0219793d1fb940d2b61a952e17",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:06RIppEeTnsGXU3UcaRXpV",
+      "spotifyUrl": "https://open.spotify.com/track/06RIppEeTnsGXU3UcaRXpV"
     },
     {
       "rank": 8,
       "title": "Prosto Malo (It's Just Not Enough)",
-      "artist": "Sofia Rotaru"
+      "artist": "Sofia Rotaru",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0252664bcec534c580b28a9079",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7K1a3OS6J53lkBHDpNlade",
+      "spotifyUrl": "https://open.spotify.com/track/7K1a3OS6J53lkBHDpNlade"
     },
     {
       "rank": 9,
       "title": "Derevnya Durachkov (Village of Fools)",
-      "artist": "Nautilus Pompilius"
+      "artist": "Nautilus Pompilius",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02844dd65e1fe0b89aa6ce1eb2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1L2y9IJKY9FdTojvtPXdfB",
+      "spotifyUrl": "https://open.spotify.com/track/1L2y9IJKY9FdTojvtPXdfB"
     },
     {
       "rank": 10,
       "title": "Elektrichka (Electric Train)",
-      "artist": "Kino"
+      "artist": "Kino",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0281dd57adc240bd3ebe35d02c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6mrwHoafWEfB7iJYnNIGMn",
+      "spotifyUrl": "https://open.spotify.com/track/6mrwHoafWEfB7iJYnNIGMn"
     }
   ]
 }

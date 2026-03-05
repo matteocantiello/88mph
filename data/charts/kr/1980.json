@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Changbakkui Yeoja (Woman Outside the Window)",
-      "artist": "Cho Yong-pil"
+      "artist": "Cho Yong-pil",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c5518386f6320af9ffcd8a2b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Uq2IxNBNndYG71NaEfVOn",
+      "spotifyUrl": "https://open.spotify.com/track/0Uq2IxNBNndYG71NaEfVOn"
     },
     {
       "rank": 2,
       "title": "Yeolbyeong (Passionate Love)",
-      "artist": "Yun Si-nae"
+      "artist": "Yun Si-nae",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028cacbdd7305b0651b4c0fec4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6tesMK7YkPOig4yPffZNEP",
+      "spotifyUrl": "https://open.spotify.com/track/6tesMK7YkPOig4yPffZNEP"
     },
     {
       "rank": 3,
       "title": "Dangsin Gateun Saram (Someone Like You)",
-      "artist": "Shim Soo-bong"
+      "artist": "Shim Soo-bong",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025fba303168e9ebd5aa719c1b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:35sXETdW8NGQYyb2lHFXnZ",
+      "spotifyUrl": "https://open.spotify.com/track/35sXETdW8NGQYyb2lHFXnZ"
     },
     {
       "rank": 4,
       "title": "Isulbi Naerineun Sori (Sound of Drizzling)",
-      "artist": "Lee Young-hwa"
+      "artist": "Lee Young-hwa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bd767cf0ef24747dc1bd89ad",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7wjnZj5ervbMC4TNeHVOIs",
+      "spotifyUrl": "https://open.spotify.com/track/7wjnZj5ervbMC4TNeHVOIs"
     },
     {
       "rank": 5,
       "title": "Donggowa Dalkomi (Thick and Thin)",
-      "artist": "Nami"
+      "artist": "Nami",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02563abbf9b52f7bdf634be281",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2uf9ldj1j7SiFVUyWWPHug",
+      "spotifyUrl": "https://open.spotify.com/track/2uf9ldj1j7SiFVUyWWPHug"
     },
     {
       "rank": 6,
       "title": "Byeol Bomyeo Ureossni (Cried Looking at the Stars)",
-      "artist": "Park In-su"
+      "artist": "Park In-su",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0209fcefdab5a3a7b520a8fba9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3CB5Sjh1COpbybWyOYljzQ",
+      "spotifyUrl": "https://open.spotify.com/track/3CB5Sjh1COpbybWyOYljzQ"
     },
     {
       "rank": 7,
       "title": "Na (I)",
-      "artist": "Kim Hak-rae"
+      "artist": "Kim Hak-rae",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f80b374ff5e60f0a2586aa1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:00ViJtE6le1DClbNYkWOby",
+      "spotifyUrl": "https://open.spotify.com/track/00ViJtE6le1DClbNYkWOby"
     },
     {
       "rank": 8,
       "title": "Naneun Babo Yeossne (I Was Foolish)",
-      "artist": "Kim Do-hyang"
+      "artist": "Kim Do-hyang",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029497ff6b14c23a35a506f810",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:74D5UUPiTwA6zWFMKh2rQa",
+      "spotifyUrl": "https://open.spotify.com/track/74D5UUPiTwA6zWFMKh2rQa"
     },
     {
       "rank": 9,
       "title": "Namunnip Sairo (Through the Leaves)",
-      "artist": "Jo Dong-jin"
+      "artist": "Jo Dong-jin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c4a28e04dffeb0a3a777ef63",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6uBFcQ0TFjdnS5QUTff2Yb",
+      "spotifyUrl": "https://open.spotify.com/track/6uBFcQ0TFjdnS5QUTff2Yb"
     },
     {
       "rank": 10,
       "title": "Ireummeoreul Sonyeo (Nameless Girl)",
-      "artist": "Yang Hee-eun"
+      "artist": "Yang Hee-eun",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020d1a65e0bae0ac7ebd50f3f7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:10PzmnIzAwd4vRRDUamEwr",
+      "spotifyUrl": "https://open.spotify.com/track/10PzmnIzAwd4vRRDUamEwr"
     }
   ]
 }

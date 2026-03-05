@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Amunorae (Any Song)",
-      "artist": "Zico"
+      "artist": "Zico",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f9608114e13bb4e5e6b0399",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1iIhGHzzrzqQfuNkFI2qAn",
+      "spotifyUrl": "https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn"
     },
     {
       "rank": 2,
       "title": "METEOR",
-      "artist": "Changmo"
+      "artist": "Changmo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e0891e322bc2773b1e4389c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4g6XOg9rvB55GCTJcYchOG",
+      "spotifyUrl": "https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG"
     },
     {
       "rank": 3,
       "title": "Aloha",
-      "artist": "Jo Jung-suk"
+      "artist": "Jo Jung-suk",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5183fa4b99bcec1f506418d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:564DuILMktayyr41wPsXll",
+      "spotifyUrl": "https://open.spotify.com/track/564DuILMktayyr41wPsXll"
     },
     {
       "rank": 4,
       "title": "Your Shampoo Scent in the Flowers",
-      "artist": "Jang Beom-june"
+      "artist": "Jang Beom-june",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0251c2dca2df814c291f0b7c6a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:49jhaFKylisSzgaReEP2Jt",
+      "spotifyUrl": "https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt"
     },
     {
       "rank": 5,
       "title": "Blueming",
-      "artist": "IU"
+      "artist": "IU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b658276cd9884ef6fae69033",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4Dr2hJ3EnVh2Aaot6fRwDO",
+      "spotifyUrl": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
     },
     {
       "rank": 6,
       "title": "Eight (Prod. SUGA of BTS)",
-      "artist": "IU"
+      "artist": "IU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c63be04ae902b1da7a54d247",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0pYacDCZuRhcrwGUA5nTBe",
+      "spotifyUrl": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
     },
     {
       "rank": 7,
       "title": "Late Night, In Front of Your House",
-      "artist": "Noel"
+      "artist": "Noel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025e46bff4632a7eadb0248530",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4NiBDBeMz9yFhQRpjYBAu8",
+      "spotifyUrl": "https://open.spotify.com/track/4NiBDBeMz9yFhQRpjYBAu8"
     },
     {
       "rank": 8,
       "title": "How Can I Love the Heartbreak, You're the One I Love",
-      "artist": "AKMU"
+      "artist": "AKMU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d41cdd1f3e033a0ea1642112",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0hqj5JBnFt1BHEz2UCFwrl",
+      "spotifyUrl": "https://open.spotify.com/track/0hqj5JBnFt1BHEz2UCFwrl"
     },
     {
       "rank": 9,
       "title": "Psycho",
-      "artist": "Red Velvet"
+      "artist": "Red Velvet",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02df5022bdf1ac4bf52135c4be",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3CYH422oy1cZNoo0GTG1TK",
+      "spotifyUrl": "https://open.spotify.com/track/3CYH422oy1cZNoo0GTG1TK"
     },
     {
       "rank": 10,
       "title": "Sijak (Start)",
-      "artist": "Gaho"
+      "artist": "Gaho",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f5dce4cb3530e82eda2ddf6f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0F8pXTREcgEAD31Y1xrJ4T",
+      "spotifyUrl": "https://open.spotify.com/track/0F8pXTREcgEAD31Y1xrJ4T"
     }
   ]
 }

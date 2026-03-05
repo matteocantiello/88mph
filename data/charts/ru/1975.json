@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Arlekino",
-      "artist": "Alla Pugacheva"
+      "artist": "Alla Pugacheva",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d5c0a5bc4afd1d9d16cac98e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4ct8KLBiJpcoLEfGhKf63y",
+      "spotifyUrl": "https://open.spotify.com/track/4ct8KLBiJpcoLEfGhKf63y"
     },
     {
       "rank": 2,
       "title": "Lyubimye Zhenshchiny (Beloved Women)",
-      "artist": "Lev Leshchenko"
+      "artist": "Lev Leshchenko",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020a69702b7684e964b960e6c3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0sQIiz9zjoxlNppenBGLgZ",
+      "spotifyUrl": "https://open.spotify.com/track/0sQIiz9zjoxlNppenBGLgZ"
     },
     {
       "rank": 3,
       "title": "U Derevni Kryukovo (Near the Village of Kryukovo)",
-      "artist": "VIA Plamya"
+      "artist": "VIA Plamya",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f002630ab4eac8763a67374b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0y2M8n0YRxVcNh4ml7Y26J",
+      "spotifyUrl": "https://open.spotify.com/track/0y2M8n0YRxVcNh4ml7Y26J"
     },
     {
       "rank": 4,
       "title": "Nadezhda (Hope)",
-      "artist": "Muslim Magomayev"
+      "artist": "Muslim Magomayev",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0226f91cb2bd456e6738da83b1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1avtsWiYTm1nozb8rGLzqU",
+      "spotifyUrl": "https://open.spotify.com/track/1avtsWiYTm1nozb8rGLzqU"
     },
     {
       "rank": 5,
       "title": "Sladka Yagoda (Sweet Berry)",
-      "artist": "Olga Voronets"
+      "artist": "Olga Voronets",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ca38ca9b73648e98c32a5c4a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3runnm7eT71GCu8AwyeMtB",
+      "spotifyUrl": "https://open.spotify.com/track/3runnm7eT71GCu8AwyeMtB"
     },
     {
       "rank": 6,
       "title": "Dobry Vecher, Devchonochka (Good Evening, Little Girl)",
-      "artist": "VIA Pesnyary"
+      "artist": "VIA Pesnyary",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d4549c0e601fbe7e8622a2f5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2VRK21ITVLx2Bc0KOonIOY",
+      "spotifyUrl": "https://open.spotify.com/track/2VRK21ITVLx2Bc0KOonIOY"
     },
     {
       "rank": 7,
       "title": "Ulybka (Smile)",
-      "artist": "Bolshoi Detsky Khor"
+      "artist": "Bolshoi Detsky Khor",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0298bd79acee45d75bf13e3685",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5lDnL1JNozTExpBEl0D8QV",
+      "spotifyUrl": "https://open.spotify.com/track/5lDnL1JNozTExpBEl0D8QV"
     },
     {
       "rank": 8,
       "title": "Chernoglazaya Kazachka (Dark-Eyed Cossack Woman)",
-      "artist": "Tamara Sinyavskaya"
+      "artist": "Tamara Sinyavskaya",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b111563d7093748c34273296",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5gO7yUyC3y5QtFs0t5jZpo",
+      "spotifyUrl": "https://open.spotify.com/track/5gO7yUyC3y5QtFs0t5jZpo"
     },
     {
       "rank": 9,
       "title": "Den Pobedy (Victory Day)",
-      "artist": "Lev Leshchenko"
+      "artist": "Lev Leshchenko",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027dc4d7606e3576cec10a1088",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0mM01NKRcu3fREVNNkQ1ua",
+      "spotifyUrl": "https://open.spotify.com/track/0mM01NKRcu3fREVNNkQ1ua"
     },
     {
       "rank": 10,
       "title": "Sudba (Fate)",
-      "artist": "Maya Kristalinskaya"
+      "artist": "Maya Kristalinskaya",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02898973415c1a4f565511df7d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Ev9S6f3Q667776n0REQKr",
+      "spotifyUrl": "https://open.spotify.com/track/2Ev9S6f3Q667776n0REQKr"
     }
   ]
 }

@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Nothing Compares 2 U",
-      "artist": "Sinéad O'Connor"
+      "artist": "Sinéad O'Connor",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02919c02d20d8634f96ccd75ae",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5GHY1DFWKz3Prg2V0Iodqo",
+      "spotifyUrl": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
     },
     {
       "rank": 2,
       "title": "I've Been Thinking About You",
-      "artist": "Londonbeat"
+      "artist": "Londonbeat",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029f822960b55939d63cee8497",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:02KLiEs31kxh1krQJezlTL",
+      "spotifyUrl": "https://open.spotify.com/track/02KLiEs31kxh1krQJezlTL"
     },
     {
       "rank": 3,
       "title": "Daar gaat ze",
-      "artist": "Clouseau"
+      "artist": "Clouseau",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae90ed5f8dc037f122b6eb2b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2vFzC766RC2m36ywFyj09S",
+      "spotifyUrl": "https://open.spotify.com/track/2vFzC766RC2m36ywFyj09S"
     },
     {
       "rank": 4,
       "title": "U Can't Touch This",
-      "artist": "MC Hammer"
+      "artist": "MC Hammer",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f5e5babccf665ef8c912b190",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1B75hgRqe7A4fwee3g3Wmu",
+      "spotifyUrl": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
     },
     {
       "rank": 5,
       "title": "The Power",
-      "artist": "Snap!"
+      "artist": "Snap!",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dbdaebc580486417330f2500",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0gRhXiFgrIz8OfSW4up1k1",
+      "spotifyUrl": "https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1"
     },
     {
       "rank": 6,
       "title": "Verdammt, Ich Lieb' Dich",
-      "artist": "Matthias Reim"
+      "artist": "Matthias Reim",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02508c9562a885669e377a1db5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0MXtg0aH4kWVTtFEl0uwHp",
+      "spotifyUrl": "https://open.spotify.com/track/0MXtg0aH4kWVTtFEl0uwHp"
     },
     {
       "rank": 7,
       "title": "What's a Woman?",
-      "artist": "Vaya Con Dios"
+      "artist": "Vaya Con Dios",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020e900fbc8cb94d536589e11a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Phy3qS90Q5I8DGcTxmSIL",
+      "spotifyUrl": "https://open.spotify.com/track/5Phy3qS90Q5I8DGcTxmSIL"
     },
     {
       "rank": 8,
       "title": "Sacrifice",
-      "artist": "Elton John"
+      "artist": "Elton John",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025a0fca95bfacb33ca3580a29",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0e3yhVeNaTfKIWQRw9U9sY",
+      "spotifyUrl": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
     },
     {
       "rank": 9,
       "title": "Dirty Cash (Money Talks)",
-      "artist": "Adventures of Stevie V"
+      "artist": "Adventures of Stevie V",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02388a49c048fd9f67e338c3c6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2VyvDGdcVY04cNYou9MFVX",
+      "spotifyUrl": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
       "rank": 10,
       "title": "Paint It, Black",
-      "artist": "The Rolling Stones"
+      "artist": "The Rolling Stones",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bad7062c3fd2f2d037989694",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:63T7DJ1AFDD6Bn8VzG6JE8",
+      "spotifyUrl": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
     }
   ]
 }

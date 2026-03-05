@@ -6,52 +6,102 @@
     {
       "rank": 1,
       "title": "We Are the World",
-      "artist": "USA for Africa"
+      "artist": "USA for Africa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02920f421260033ee54865d673",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Z2tPWiNiIpg8UMMoowHIk",
+      "spotifyUrl": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk",
+      "youtubeId": "mIqhl0rH0Wc"
     },
     {
       "rank": 2,
       "title": "Into the Groove",
-      "artist": "Madonna"
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d92f642943d7eab422fdaf13",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5hfpYZ8eQ5BXTAuKPKMKT4",
+      "spotifyUrl": "https://open.spotify.com/track/5hfpYZ8eQ5BXTAuKPKMKT4",
+      "youtubeId": "HjOlnZ8aPdg"
     },
     {
       "rank": 3,
       "title": "The Wild Boys",
-      "artist": "Duran Duran"
+      "artist": "Duran Duran",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028fb8aca87001515a6945b9b7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:23M7cQkNJLiddeubvVgaQl",
+      "spotifyUrl": "https://open.spotify.com/track/23M7cQkNJLiddeubvVgaQl",
+      "youtubeId": "YprKU-fhimE"
     },
     {
       "rank": 4,
       "title": "A View to a Kill",
-      "artist": "Duran Duran"
+      "artist": "Duran Duran",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c8f2a04c85c677bfe2b1639",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6I4snLrVOrJsLdd43isc27",
+      "spotifyUrl": "https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27",
+      "youtubeId": "Fp4CR2HcHLQ"
     },
     {
       "rank": 5,
       "title": "Election Day",
-      "artist": "Arcadia"
+      "artist": "Arcadia",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029a9b8438c8ba4d6881064e68",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:638poNnWFgzt7UJBQ5SWtM",
+      "spotifyUrl": "https://open.spotify.com/track/638poNnWFgzt7UJBQ5SWtM",
+      "youtubeId": "OgBgfHJcXuI"
     },
     {
       "rank": 6,
       "title": "Don't You (Forget About Me)",
-      "artist": "Simple Minds"
+      "artist": "Simple Minds",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025695a657aef0e81bde0c6001",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3fH4KjXFYMmljxrcGrbPj9",
+      "spotifyUrl": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9",
+      "youtubeId": "z8v84520W6s"
     },
     {
       "rank": 7,
       "title": "Noi ragazzi di oggi",
-      "artist": "Luis Miguel"
+      "artist": "Luis Miguel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f3a025028b593d016f3bbb1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3nMQMdlNAlPJVwJ6frem76",
+      "spotifyUrl": "https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76",
+      "youtubeId": "pg1PMWraf1E"
     },
     {
       "rank": 8,
       "title": "Una storia importante",
-      "artist": "Eros Ramazzotti"
+      "artist": "Eros Ramazzotti",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020a0fb1095db5c01f7a6c2b74",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Ji0XFJtiOoqNt2RWSbpPZ",
+      "spotifyUrl": "https://open.spotify.com/track/0Ji0XFJtiOoqNt2RWSbpPZ",
+      "youtubeId": "OxFzCo7HzB8"
     },
     {
       "rank": 9,
       "title": "L'estate sta finendo",
-      "artist": "I Righeira"
+      "artist": "I Righeira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02773f1a341e0398fd7fe4b5c9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5dqmcEnCP3TQrw001PLdMn",
+      "spotifyUrl": "https://open.spotify.com/track/5dqmcEnCP3TQrw001PLdMn",
+      "youtubeId": "ojs5omx9wqU"
     },
     {
       "rank": 10,
       "title": "19",
-      "artist": "Paul Hardcastle"
+      "artist": "Paul Hardcastle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021cc5d2698191dca71ceafc5a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4YNyU0vEEC5grHkHnO9lhF",
+      "spotifyUrl": "https://open.spotify.com/track/4YNyU0vEEC5grHkHnO9lhF",
+      "youtubeId": "oho9KaoxI-4"
     }
   ]
 }

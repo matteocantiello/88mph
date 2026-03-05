@@ -7,61 +7,101 @@
       "rank": 1,
       "title": "La Raspa",
       "artist": "Nilla Pizzi & Duo Fasano",
-      "youtubeId": "ZBUedkQUg5M"
+      "youtubeId": "ZBUedkQUg5M",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fdb8ea40ea8cb47edf5183bb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3FiVppbvHElVVwZuF3qipT",
+      "spotifyUrl": "https://open.spotify.com/track/3FiVppbvHElVVwZuF3qipT"
     },
     {
       "rank": 2,
       "title": "Harry Lime theme",
       "artist": "Anton Karas",
-      "youtubeId": "x0mppy3Ia5w"
+      "youtubeId": "x0mppy3Ia5w",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbe8b4502902768513712b7a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:24XO7tQTlhGI9UIW3sQ22l",
+      "spotifyUrl": "https://open.spotify.com/track/24XO7tQTlhGI9UIW3sQ22l"
     },
     {
       "rank": 3,
       "title": "Quizas, quizas, quizas",
       "artist": "Nilla Pizzi",
-      "youtubeId": "HuJz5uByJGg"
+      "youtubeId": "HuJz5uByJGg",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f26911324b752fe0e042f892",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:27nat3kygwzE6fuc5Fc1oD",
+      "spotifyUrl": "https://open.spotify.com/track/27nat3kygwzE6fuc5Fc1oD"
     },
     {
       "rank": 4,
       "title": "Surriento d'e 'nnammurate",
       "artist": "Sergio Bruni",
-      "youtubeId": "UoE6_EsszX8"
+      "youtubeId": "UoE6_EsszX8",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029ca8818b2e081ef25f48ee3c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7EHlJbGeIvOEUUwHigRO12",
+      "spotifyUrl": "https://open.spotify.com/track/7EHlJbGeIvOEUUwHigRO12"
     },
     {
       "rank": 5,
       "title": "Angeli negri",
       "artist": "Luciano Tajoli",
-      "youtubeId": "6SoIZ2av6L4"
+      "youtubeId": "6SoIZ2av6L4",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240592d7799e268a75575bf53",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4aVJgtuIMIyVRMO4oAHpqp",
+      "spotifyUrl": "https://open.spotify.com/track/4aVJgtuIMIyVRMO4oAHpqp"
     },
     {
       "rank": 6,
       "title": "Rosso di sera",
       "artist": "Claudio Villa",
-      "youtubeId": "fw9ZD_IJ3-g"
+      "youtubeId": "fw9ZD_IJ3-g",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f595720b8111eeb7b825d9ab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4FkAA8AnztIggixHc9fI6k",
+      "spotifyUrl": "https://open.spotify.com/track/4FkAA8AnztIggixHc9fI6k"
     },
     {
       "rank": 7,
       "title": "Palazziello",
       "artist": "Franco Ricci",
-      "youtubeId": "bqIu_F2WJQs"
+      "youtubeId": "bqIu_F2WJQs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02782d372e1804673bdc2ce1cd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6amlnl6bYvjOFFlyXIAFA3",
+      "spotifyUrl": "https://open.spotify.com/track/6amlnl6bYvjOFFlyXIAFA3"
     },
     {
       "rank": 8,
       "title": "Che mele!",
       "artist": "Lidia Martorana",
-      "youtubeId": "_3zyXmejMw0"
+      "youtubeId": "_3zyXmejMw0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02647d1e2b0256c2de75022aae",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1eiux4cmZ1Z4ndCdxP4Z3E",
+      "spotifyUrl": "https://open.spotify.com/track/1eiux4cmZ1Z4ndCdxP4Z3E"
     },
     {
       "rank": 9,
       "title": "Tarantella dell'amore",
       "artist": "Aldo Dona & Elena Beltrami",
-      "youtubeId": "FIGwg6qGxfA"
+      "youtubeId": "FIGwg6qGxfA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02388003aee06d5b1c6799a186",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:41NplY1QxzZM4R86pJAo1g",
+      "spotifyUrl": "https://open.spotify.com/track/41NplY1QxzZM4R86pJAo1g"
     },
     {
       "rank": 10,
       "title": "Sei stata tu",
       "artist": "Luciano Tajoli",
-      "youtubeId": "E0cuzeSrU8k"
+      "youtubeId": "E0cuzeSrU8k",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02084193ef5ee8ad31b26a1a0c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6s7gKuAm1LpReYhGwVjLvG",
+      "spotifyUrl": "https://open.spotify.com/track/6s7gKuAm1LpReYhGwVjLvG"
     }
   ]
 }

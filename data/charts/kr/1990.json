@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Huimangsahang (Wish List)",
-      "artist": "Byun Jin-sub"
+      "artist": "Byun Jin-sub",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023e396eb5ae7d057b8ef34786",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3iE7P4oQe1szmxVmAiwJLN",
+      "spotifyUrl": "https://open.spotify.com/track/3iE7P4oQe1szmxVmAiwJLN"
     },
     {
       "rank": 2,
       "title": "Hanbatang Useumeullo (A Gust of Laughter)",
-      "artist": "Lee Sun-hee"
+      "artist": "Lee Sun-hee",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022cdf0730aa602aeebfeb8637",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2NIpkHPNB2px9tNrIhwe2q",
+      "spotifyUrl": "https://open.spotify.com/track/2NIpkHPNB2px9tNrIhwe2q"
     },
     {
       "rank": 3,
       "title": "Borabich Hyanggi (Purple Scent)",
-      "artist": "Kang Suji"
+      "artist": "Kang Suji",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020ab54ce9be8cc71deb33343f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:21IVUjbu1ms4ZISGt74NCy",
+      "spotifyUrl": "https://open.spotify.com/track/21IVUjbu1ms4ZISGt74NCy"
     },
     {
       "rank": 4,
       "title": "Ijji Marayo (Don't Forget)",
-      "artist": "Choi Sung-soo"
+      "artist": "Choi Sung-soo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0221dd96635e8000e17fb10d01",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:283ulFDrDIR5sWvxWrWukv",
+      "spotifyUrl": "https://open.spotify.com/track/283ulFDrDIR5sWvxWrWukv"
     },
     {
       "rank": 5,
       "title": "Indian Inhyeongcheoreom (Like an Indian Doll)",
-      "artist": "Nami"
+      "artist": "Nami",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024f279906df8721c0534c0245",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0eBFgRxyVSeuT4iyrbukdn",
+      "spotifyUrl": "https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn"
     },
     {
       "rank": 6,
       "title": "Geouldo An Boneun Yeoja (A Woman Who Doesn't Look in the Mirror)",
-      "artist": "Tae Jin-ah"
+      "artist": "Tae Jin-ah",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029f3f43e28de6f07f4efef76a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4w5jHmaPBwNN2Q9rOuYHUC",
+      "spotifyUrl": "https://open.spotify.com/track/4w5jHmaPBwNN2Q9rOuYHUC"
     },
     {
       "rank": 7,
       "title": "Seulpeun Pyojeong Haji Marayo (Don't Look So Sad)",
-      "artist": "Shin Hae-cheol"
+      "artist": "Shin Hae-cheol",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025864435049a7f8c6a2e95304",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:791s1tTl7ygU6J6koYLJCo",
+      "spotifyUrl": "https://open.spotify.com/track/791s1tTl7ygU6J6koYLJCo"
     },
     {
       "rank": 8,
       "title": "Bi Oneun Nal Suchaehwa (Watercolor on a Rainy Day)",
-      "artist": "Kwon In-ha"
+      "artist": "Kwon In-ha",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dff066d81bf9710afdc49ad2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3KhDf9MJlPpodahS4OwrMF",
+      "spotifyUrl": "https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF"
     },
     {
       "rank": 9,
       "title": "Bogo Sipeun Eolgul (A Face I Miss)",
-      "artist": "Min Hae-kyung"
+      "artist": "Min Hae-kyung",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024b378770cd6b77e86f8a6288",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ekWANf52mUXFN9eC7v8LR",
+      "spotifyUrl": "https://open.spotify.com/track/7ekWANf52mUXFN9eC7v8LR"
     },
     {
       "rank": 10,
       "title": "Misoso Soge Bicchin Geudae (Reflection of You in Your Smile)",
-      "artist": "Shin Seung-hun"
+      "artist": "Shin Seung-hun",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020f1d1520f33563f4d5a0ffd6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:55YqXdK1p09YLHItx6NhtZ",
+      "spotifyUrl": "https://open.spotify.com/track/55YqXdK1p09YLHItx6NhtZ"
     }
   ]
 }

@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Paloma Blanca",
-      "artist": "George Baker Selection"
+      "artist": "George Baker Selection",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0249ba2fa97de6c6f82bf0ac36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7Eo7zJMxFp0CnzkZpWNitq",
+      "spotifyUrl": "https://open.spotify.com/track/7Eo7zJMxFp0CnzkZpWNitq"
     },
     {
       "rank": 2,
       "title": "Michelangelo",
-      "artist": "Björn Skifs"
+      "artist": "Björn Skifs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020f31ab96d9ec3de4633c5dd6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7aleO65wxmrijCugl55XJz",
+      "spotifyUrl": "https://open.spotify.com/track/7aleO65wxmrijCugl55XJz"
     },
     {
       "rank": 3,
       "title": "I Can Help",
-      "artist": "Billy Swan"
+      "artist": "Billy Swan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6c066b8cb1cf84f7f9a8ace",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4oW1lGOw5Q5OLvoJv92qoE",
+      "spotifyUrl": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
     },
     {
       "rank": 4,
       "title": "SOS",
-      "artist": "ABBA"
+      "artist": "ABBA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0292d0747a634fcc351c6ac3c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6yZv0Nl6BXABbXoPVpfF5y",
+      "spotifyUrl": "https://open.spotify.com/track/6yZv0Nl6BXABbXoPVpfF5y"
     },
     {
       "rank": 5,
       "title": "Rockin' 'n' Reelin'",
-      "artist": "Ted Gärdestad"
+      "artist": "Ted Gärdestad",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0286a9e587c59597278a96e8f0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2NhpWhpKVL5OWDpv0hoZ4l",
+      "spotifyUrl": "https://open.spotify.com/track/2NhpWhpKVL5OWDpv0hoZ4l"
     },
     {
       "rank": 6,
       "title": "Bang a Boomerang",
-      "artist": "ABBA"
+      "artist": "ABBA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0292d0747a634fcc351c6ac3c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5jfZEsdQMAaoeDLib5rLu4",
+      "spotifyUrl": "https://open.spotify.com/track/5jfZEsdQMAaoeDLib5rLu4"
     },
     {
       "rank": 7,
       "title": "So Long",
-      "artist": "ABBA"
+      "artist": "ABBA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0292d0747a634fcc351c6ac3c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6GwEXzeLKORRKjmKDHfyUp",
+      "spotifyUrl": "https://open.spotify.com/track/6GwEXzeLKORRKjmKDHfyUp"
     },
     {
       "rank": 8,
       "title": "Jag är en ko",
-      "artist": "Magnus Uggla"
+      "artist": "Magnus Uggla",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028ec9c2c2faad3914fcd5d778",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5iQCVZq05xATKrPtNX0Tpl",
+      "spotifyUrl": "https://open.spotify.com/track/5iQCVZq05xATKrPtNX0Tpl"
     },
     {
       "rank": 9,
       "title": "Satellite",
-      "artist": "Ted Gärdestad"
+      "artist": "Ted Gärdestad",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b5297b962aa6c193f5d4b2e1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:59wsxx1YD9QSUKaj3ZyYWR",
+      "spotifyUrl": "https://open.spotify.com/track/59wsxx1YD9QSUKaj3ZyYWR"
     },
     {
       "rank": 10,
       "title": "Varje liten dag",
-      "artist": "Harpo"
+      "artist": "Harpo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a73cd4e105b34717a3e1681b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:55m2vizhdnC34lToqqzgcw",
+      "spotifyUrl": "https://open.spotify.com/track/55m2vizhdnC34lToqqzgcw"
     }
   ]
 }

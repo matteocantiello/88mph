@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Raindrops Keep Falling on My Head",
-      "artist": "B.J. Thomas"
+      "artist": "B.J. Thomas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02beee33f1fb906bfc24f9d115",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7keN3GFr5HsyznyggTWfB2",
+      "spotifyUrl": "https://open.spotify.com/track/7keN3GFr5HsyznyggTWfB2"
     },
     {
       "rank": 2,
       "title": "Yester-Me, Yester-You, Yesterday",
-      "artist": "Stevie Wonder"
+      "artist": "Stevie Wonder",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a2b75ce3f397373fb135c1d4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0l9RGwc48deJ6j61KXAAvs",
+      "spotifyUrl": "https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs"
     },
     {
       "rank": 3,
       "title": "Let It Be",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0284243a01af3c77b56fe01ab1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7iN1s7xHE4ifF5povM6A48",
+      "spotifyUrl": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "rank": 4,
       "title": "The House of the Rising Sun",
-      "artist": "Frijid Pink"
+      "artist": "Frijid Pink",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c89838907d2b9dc54aed96a1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4tRxP78WiW3f7ta95ZQH2O",
+      "spotifyUrl": "https://open.spotify.com/track/4tRxP78WiW3f7ta95ZQH2O"
     },
     {
       "rank": 5,
       "title": "Yellow River",
-      "artist": "Christie"
+      "artist": "Christie",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f8acc5384b30790e5254362f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4VnzKUBMB6cvog8Jvv1few",
+      "spotifyUrl": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
     },
     {
       "rank": 6,
       "title": "In the Summertime",
-      "artist": "Mungo Jerry"
+      "artist": "Mungo Jerry",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022c32773808a599d9aa5f5a54",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:36xVTZU8HMpcgEdlJ4I3Kv",
+      "spotifyUrl": "https://open.spotify.com/track/36xVTZU8HMpcgEdlJ4I3Kv"
     },
     {
       "rank": 7,
       "title": "Cottonfields",
-      "artist": "The Beach Boys"
+      "artist": "The Beach Boys",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e9d575a198f3f79e362c72d0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1uI848raFaNWwe9HjHpjQ5",
+      "spotifyUrl": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
     },
     {
       "rank": 8,
       "title": "Mitt sommarlov",
-      "artist": "Anita Hegerland"
+      "artist": "Anita Hegerland",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dce4e3cfd12450a07cb23eb5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7chHvRq4RUSpVrYvr6kuaz",
+      "spotifyUrl": "https://open.spotify.com/track/7chHvRq4RUSpVrYvr6kuaz"
     },
     {
       "rank": 9,
       "title": "Lookin' Out My Back Door",
-      "artist": "Creedence Clearwater Revival"
+      "artist": "Creedence Clearwater Revival",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026e186edfb8fe3710fdc1f7c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1YqJSpIxdavjQ8BxAttU0r",
+      "spotifyUrl": "https://open.spotify.com/track/1YqJSpIxdavjQ8BxAttU0r"
     },
     {
       "rank": 10,
       "title": "En enkel sang om frihet",
-      "artist": "Gro Anita Schønn"
+      "artist": "Gro Anita Schønn",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c0557d45dd22b71b95c9d2d3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5zxz8ycABqPcLZWDZMRhQU",
+      "spotifyUrl": "https://open.spotify.com/track/5zxz8ycABqPcLZWDZMRhQU"
     }
   ]
 }

@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Als je iets kan doen",
-      "artist": "Artiesten voor Azië"
+      "artist": "Artiesten voor Azië",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02566d303809ace090f10101c9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0ya4rRxJIIF1B0bLpbJrNP",
+      "spotifyUrl": "https://open.spotify.com/track/0ya4rRxJIIF1B0bLpbJrNP"
     },
     {
       "rank": 2,
       "title": "Geef mij je angst",
-      "artist": "Guus Meeuwis"
+      "artist": "Guus Meeuwis",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0206dd42d1fee46676b09ee8c5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6vVeRZDUz5OcHE08Al5qb3",
+      "spotifyUrl": "https://open.spotify.com/track/6vVeRZDUz5OcHE08Al5qb3"
     },
     {
       "rank": 3,
       "title": "You're Beautiful",
-      "artist": "James Blunt"
+      "artist": "James Blunt",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02105f043a4f470cf58cc01ccf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0vg4WnUWvze6pBOJDTq99k",
+      "spotifyUrl": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "rank": 4,
       "title": "Het land van...",
-      "artist": "Lange Frans & Baas B"
+      "artist": "Lange Frans & Baas B",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027e2e4b4cf54573a895f7defa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0wMAsL98TGuI6eWUEocd1O",
+      "spotifyUrl": "https://open.spotify.com/track/0wMAsL98TGuI6eWUEocd1O"
     },
     {
       "rank": 5,
       "title": "Laura",
-      "artist": "Jan Smit"
+      "artist": "Jan Smit",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020a08c56d18f20d4424f2b174",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4wdXbGw7kzzIVx77dVToGq",
+      "spotifyUrl": "https://open.spotify.com/track/4wdXbGw7kzzIVx77dVToGq"
     },
     {
       "rank": 6,
       "title": "One, Two, Three",
-      "artist": "Ch!pz"
+      "artist": "Ch!pz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dbcb0a0558b1ab0f1919dea2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2AOsfYqKnhaoW0T1IDqGIk",
+      "spotifyUrl": "https://open.spotify.com/track/2AOsfYqKnhaoW0T1IDqGIk"
     },
     {
       "rank": 7,
       "title": "Schnappi, das kleine Krokodil",
-      "artist": "Schnappi"
+      "artist": "Schnappi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dbc7b2b54b0881852248509e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:719dDsgco3fLDt10XFoo4d",
+      "spotifyUrl": "https://open.spotify.com/track/719dDsgco3fLDt10XFoo4d"
     },
     {
       "rank": 8,
       "title": "Push the Button",
-      "artist": "Sugababes"
+      "artist": "Sugababes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cb559df500dc075f8037d720",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2nCmCt4B5vkabS0zeOuc1Z",
+      "spotifyUrl": "https://open.spotify.com/track/2nCmCt4B5vkabS0zeOuc1Z"
     },
     {
       "rank": 9,
       "title": "Hung Up",
-      "artist": "Madonna"
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aaa9d84415623c1e790cd07b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3850dYVgOFIXJh5U4BFEWH",
+      "spotifyUrl": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
       "rank": 10,
       "title": "Tripping",
-      "artist": "Robbie Williams"
+      "artist": "Robbie Williams",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d27cb33d2abf0a99cead9033",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7MTdv6v3vsmQcVfh7eIaks",
+      "spotifyUrl": "https://open.spotify.com/track/7MTdv6v3vsmQcVfh7eIaks"
     }
   ]
 }

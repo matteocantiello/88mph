@@ -6,52 +6,102 @@
     {
       "rank": 1,
       "title": "Il Silenzio",
-      "artist": "Nini Rosso"
+      "artist": "Nini Rosso",
+      "youtubeId": "X6hJ-886Qy0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240d46584b438ea834d30e9f5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4wlSpF2uWIShMAmSVDgeZ7",
+      "spotifyUrl": "https://open.spotify.com/track/4wlSpF2uWIShMAmSVDgeZ7"
     },
     {
       "rank": 2,
       "title": "Il Mondo",
-      "artist": "Jimmy Fontana"
+      "artist": "Jimmy Fontana",
+      "youtubeId": "fIXqQ_IUTb4",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026a2643ae850871d88a153d36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:31PdyIg9pQAyKRDy8yAAF9",
+      "spotifyUrl": "https://open.spotify.com/track/31PdyIg9pQAyKRDy8yAAF9"
     },
     {
       "rank": 3,
       "title": "Un anno d'amore",
-      "artist": "Mina"
+      "artist": "Mina",
+      "youtubeId": "rFwe7AlUAOU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028174a1fa676a01a9f2054f07",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2rn48d6ACa5rpLLnnowNQ0",
+      "spotifyUrl": "https://open.spotify.com/track/2rn48d6ACa5rpLLnnowNQ0"
     },
     {
       "rank": 4,
       "title": "La Notte",
-      "artist": "Adamo"
+      "artist": "Adamo",
+      "youtubeId": "FHVkxpopjPE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e5bbb2ffd0d865aa7f5e64ec",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:41B5bl1exbO6baDdtsk2Ha",
+      "spotifyUrl": "https://open.spotify.com/track/41B5bl1exbO6baDdtsk2Ha"
     },
     {
       "rank": 5,
       "title": "Si fa sera",
-      "artist": "Gianni Morandi"
+      "artist": "Gianni Morandi",
+      "youtubeId": "Xy6Po4WQfQE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0262c56b1c4310fe2d8c9fd1aa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6wMmpR0r8giDJ0UU785hCT",
+      "spotifyUrl": "https://open.spotify.com/track/6wMmpR0r8giDJ0UU785hCT"
     },
     {
       "rank": 6,
       "title": "Ciao ciao (Downtown)",
-      "artist": "Petula Clark"
+      "artist": "Petula Clark",
+      "youtubeId": "V1ka0a4Cf_s",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027dd121e748d9a86cc0440968",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:489lvLSxLG6FBrWdbu4oTv",
+      "spotifyUrl": "https://open.spotify.com/track/489lvLSxLG6FBrWdbu4oTv"
     },
     {
       "rank": 7,
       "title": "La Festa",
-      "artist": "Adriano Celentano"
+      "artist": "Adriano Celentano",
+      "youtubeId": "EZWrSdgReQE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025482b7a656addd7a91696534",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6uxnpCQXdkKpwLhZXKcFGb",
+      "spotifyUrl": "https://open.spotify.com/track/6uxnpCQXdkKpwLhZXKcFGb"
     },
     {
       "rank": 8,
       "title": "Per un pugno di dollari",
-      "artist": "Ennio Morricone"
+      "artist": "Ennio Morricone",
+      "youtubeId": "brhVcif_Bq4",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c1d5763c34d4f2583d92f40d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1iCbAqODmFfdXPN45ia31b",
+      "spotifyUrl": "https://open.spotify.com/track/1iCbAqODmFfdXPN45ia31b"
     },
     {
       "rank": 9,
       "title": "Piangi (Boys Cry)",
-      "artist": "Richard Anthony"
+      "artist": "Richard Anthony",
+      "youtubeId": "CHS0MmMCJtw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0213a63b25c15eb48521eb21c6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6P7QIkfZI2sMiF17a2YgFk",
+      "spotifyUrl": "https://open.spotify.com/track/6P7QIkfZI2sMiF17a2YgFk"
     },
     {
       "rank": 10,
       "title": "Lui",
-      "artist": "Rita Pavone"
+      "artist": "Rita Pavone",
+      "youtubeId": "3ZVUu-IuDVI",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02de398201f7d0adbda3ba96e3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6TvhnaZjDSXvL9ohh3cjIj",
+      "spotifyUrl": "https://open.spotify.com/track/6TvhnaZjDSXvL9ohh3cjIj"
     }
   ]
 }

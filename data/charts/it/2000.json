@@ -6,52 +6,102 @@
     {
       "rank": 1,
       "title": "I'm Outta Love",
-      "artist": "Anastacia"
+      "artist": "Anastacia",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02183e648365a7a2e944725a2e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2CaseM6BKvQpi6blK8nbxC",
+      "spotifyUrl": "https://open.spotify.com/track/2CaseM6BKvQpi6blK8nbxC",
+      "youtubeId": "DjzHNmY-7wo"
     },
     {
       "rank": 2,
       "title": "Freestyler",
-      "artist": "Bomfunk MC's"
+      "artist": "Bomfunk MC's",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ac837fe7ef01d3d03fc9f70f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Axl2Rjg3wOC3JHju1Gess",
+      "spotifyUrl": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess",
+      "youtubeId": "GWtSamzbGOs"
     },
     {
       "rank": 3,
       "title": "It's My Life",
-      "artist": "Bon Jovi"
+      "artist": "Bon Jovi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a231174875d7930de9dad58",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0v1XpBHnsbkCn7iJ9Ucr1l",
+      "spotifyUrl": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
+      "youtubeId": "bY3vXr7fm8k"
     },
     {
       "rank": 4,
       "title": "Goodnight Moon",
-      "artist": "Shivaree"
+      "artist": "Shivaree",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e95181dfb26d2858d7e8d398",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3XpJO7x4y6MLdwo5QU2sA8",
+      "spotifyUrl": "https://open.spotify.com/track/3XpJO7x4y6MLdwo5QU2sA8",
+      "youtubeId": "HuddLFAhu4A"
     },
     {
       "rank": 5,
       "title": "Move Your Body",
-      "artist": "Eiffel 65"
+      "artist": "Eiffel 65",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263d5a6f7b79c5b7d75d2ace9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6wPqK0huNYjdSQ5wqRCLvO",
+      "spotifyUrl": "https://open.spotify.com/track/6wPqK0huNYjdSQ5wqRCLvO",
+      "youtubeId": "TCPreuhyYB4"
     },
     {
       "rank": 6,
       "title": "Vamos a bailar",
-      "artist": "Paola e Chiara"
+      "artist": "Paola e Chiara",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02744166904bf26916fd0bb06b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:29cDz9LLpr0qOur3ZkhNsg",
+      "spotifyUrl": "https://open.spotify.com/track/29cDz9LLpr0qOur3ZkhNsg",
+      "youtubeId": "PLsPc2WRANc"
     },
     {
       "rank": 7,
       "title": "Too Much of Heaven",
-      "artist": "Eiffel 65"
+      "artist": "Eiffel 65",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263d5a6f7b79c5b7d75d2ace9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2K1jghOHv3Phseo57sWdYb",
+      "spotifyUrl": "https://open.spotify.com/track/2K1jghOHv3Phseo57sWdYb",
+      "youtubeId": "Tt6JSBe4tXQ"
     },
     {
       "rank": 8,
       "title": "Music",
-      "artist": "Madonna"
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024c8f092adc59b4bf4212389d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6WzRpISELf3YglGAh7TXcG",
+      "spotifyUrl": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG",
+      "youtubeId": "A9EvnyhUZrA"
     },
     {
       "rank": 9,
       "title": "Sexbomb",
-      "artist": "Tom Jones feat. Mousse T"
+      "artist": "Tom Jones feat. Mousse T",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0213b37e7dd8f09d2e3c99c826",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7GHKA8GIMcND6c5nN1sFnD",
+      "spotifyUrl": "https://open.spotify.com/track/7GHKA8GIMcND6c5nN1sFnD",
+      "youtubeId": "KfGHjjovIe8"
     },
     {
       "rank": 10,
       "title": "American Pie",
-      "artist": "Madonna"
+      "artist": "Madonna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0260fa6f73b163bc553b82a022",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:143846q5fnmWrMNx2fHa4W",
+      "spotifyUrl": "https://open.spotify.com/track/143846q5fnmWrMNx2fHa4W",
+      "youtubeId": "vngnYtvVoEc"
     }
   ]
 }

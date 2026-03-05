@@ -6,52 +6,101 @@
     {
       "rank": 1,
       "title": "Showa Kareno Susuki",
-      "artist": "Sakura to Ichiro"
+      "artist": "Sakura to Ichiro",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f896a61618354b61f928f3ad",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1dNX6lUalqsdphlkFDMNGm",
+      "spotifyUrl": "https://open.spotify.com/track/1dNX6lUalqsdphlkFDMNGm"
     },
     {
       "rank": 2,
       "title": "Waga Yoki Tomo yo",
-      "artist": "Kamayatsu Hiroshi"
+      "artist": "Kamayatsu Hiroshi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025916c2a19212faa0a8c63646",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4SjVwZuTPoQypXkGl5KVYX",
+      "spotifyUrl": "https://open.spotify.com/track/4SjVwZuTPoQypXkGl5KVYX",
+      "youtubeId": "aPmnAAOk29Y"
     },
     {
       "rank": 3,
       "title": "Cyclamen no Kaori",
-      "artist": "Fuse Akira"
+      "artist": "Fuse Akira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e769568493e0b764b970bdac",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3WdBofTCIHdKJ68aZ0KeTq",
+      "spotifyUrl": "https://open.spotify.com/track/3WdBofTCIHdKJ68aZ0KeTq",
+      "youtubeId": "yoaD6-tcORs"
     },
     {
       "rank": 4,
       "title": "Nijuu-ni-sai no Wakare",
-      "artist": "Kaze"
+      "artist": "Kaze",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0267bd0e3a1f0049dcaa0c5007",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4yPr0nvs6VtaWmVeT9CjNR",
+      "spotifyUrl": "https://open.spotify.com/track/4yPr0nvs6VtaWmVeT9CjNR",
+      "youtubeId": "r1o6ZI22O4A"
     },
     {
       "rank": 5,
       "title": "Koibito yo",
-      "artist": "Mayumi Itsuwa"
+      "artist": "Mayumi Itsuwa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a7f96e7b38c2384ebff9b438",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1OKVR9o7DqdEztpSm6pnnW",
+      "spotifyUrl": "https://open.spotify.com/track/1OKVR9o7DqdEztpSm6pnnW",
+      "youtubeId": "P4Ojzh2YjCQ"
     },
     {
       "rank": 6,
       "title": "Nagisa no Sindbad",
-      "artist": "Pink Lady"
+      "artist": "Pink Lady",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bd28575730a27639da78e6e9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:29yuNhj7SOW6XmOIMJDLZ8",
+      "spotifyUrl": "https://open.spotify.com/track/29yuNhj7SOW6XmOIMJDLZ8",
+      "youtubeId": "j46dO2SI5HE"
     },
     {
       "rank": 7,
       "title": "Watashi no Tsubasa",
-      "artist": "Momoe Yamaguchi"
+      "artist": "Momoe Yamaguchi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02469528f2a3d073669335c15d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4QYiUy3MhWlLcRyfhD81Ja",
+      "spotifyUrl": "https://open.spotify.com/track/4QYiUy3MhWlLcRyfhD81Ja",
+      "youtubeId": "8Nz-1c7WsAk"
     },
     {
       "rank": 8,
       "title": "Smokin' Boogie",
-      "artist": "Downtown Boogie-Woogie Band"
+      "artist": "Downtown Boogie-Woogie Band",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c2db87f11bdad9c25b3912e9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5gZZU9A6lqLF7mbGfgFXG4",
+      "spotifyUrl": "https://open.spotify.com/track/5gZZU9A6lqLF7mbGfgFXG4",
+      "youtubeId": "OJpKgMfgvd0"
     },
     {
       "rank": 9,
       "title": "Toshi Shita no Otoko no Ko",
-      "artist": "Candies"
+      "artist": "Candies",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022a53bf1c619fe328e1655825",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1xkleV8ZJon6FNhFSJZDNq",
+      "spotifyUrl": "https://open.spotify.com/track/1xkleV8ZJon6FNhFSJZDNq",
+      "youtubeId": "qBb-yBwJ1F0"
     },
     {
       "rank": 10,
       "title": "Oyoge! Taiyaki-kun",
-      "artist": "Masato Shimon"
+      "artist": "Masato Shimon",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02923d2ab60519717fbdf12e3d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Re8OHy74tg9khSx3GtZEQ",
+      "spotifyUrl": "https://open.spotify.com/track/0Re8OHy74tg9khSx3GtZEQ",
+      "youtubeId": "SLVvmk6k2fc"
     }
   ]
 }

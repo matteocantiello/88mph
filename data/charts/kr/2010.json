@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Bad Girl Good Girl",
-      "artist": "miss A"
+      "artist": "miss A",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02801b445495d4886afb7370d7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1EkLacfCJIJcHkJvxlkJKE",
+      "spotifyUrl": "https://open.spotify.com/track/1EkLacfCJIJcHkJvxlkJKE"
     },
     {
       "rank": 2,
       "title": "Jansori (Nagging)",
-      "artist": "IU & Seulong (2AM)"
+      "artist": "IU & Seulong (2AM)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0278176edbd67cf6844ac639e0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:04lstvqbiDDdlQFlhPnHg2",
+      "spotifyUrl": "https://open.spotify.com/track/04lstvqbiDDdlQFlhPnHg2"
     },
     {
       "rank": 3,
       "title": "Jugeuljamkeum Apeunikka (Because It Hurts)",
-      "artist": "MC Mong"
+      "artist": "MC Mong",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f5b47ac5e7767cc2d87b4b9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3RxNMPJdvI6FyQLV14cJxd",
+      "spotifyUrl": "https://open.spotify.com/track/3RxNMPJdvI6FyQLV14cJxd"
     },
     {
       "rank": 4,
       "title": "Oh!",
-      "artist": "Girls' Generation"
+      "artist": "Girls' Generation",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029b57e9b31c831fb2137c38e2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6VOG2ROMCklbn6SSg9mA9H",
+      "spotifyUrl": "https://open.spotify.com/track/6VOG2ROMCklbn6SSg9mA9H"
     },
     {
       "rank": 5,
       "title": "2 Different Tears",
-      "artist": "Wonder Girls"
+      "artist": "Wonder Girls",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02104b8c8736be776d6e7c86d6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2vPgc8HOpJa7UryyVxjJmi",
+      "spotifyUrl": "https://open.spotify.com/track/2vPgc8HOpJa7UryyVxjJmi"
     },
     {
       "rank": 6,
       "title": "Bap Jal Meokgo Danineunji (Still Eating Well)",
-      "artist": "Homme"
+      "artist": "Homme",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029814031c679e2b906af46053",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7gXMkqirKU23zgdlSAb00a",
+      "spotifyUrl": "https://open.spotify.com/track/7gXMkqirKU23zgdlSAb00a"
     },
     {
       "rank": 7,
       "title": "Go Away",
-      "artist": "2NE1"
+      "artist": "2NE1",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f2d10189a41c7345a5a0337",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4ebNVkfNL5kHuxr3o5K93R",
+      "spotifyUrl": "https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R"
     },
     {
       "rank": 8,
       "title": "Gobaek (Confession)",
-      "artist": "Hot Potato"
+      "artist": "Hot Potato",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0230511eab545df2b7d2dbf668",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1hPWch82FFxW4FBVyE2Za8",
+      "spotifyUrl": "https://open.spotify.com/track/1hPWch82FFxW4FBVyE2Za8"
     },
     {
       "rank": 9,
       "title": "Sigana Meomchwora (Time Please Stop)",
-      "artist": "Davichi"
+      "artist": "Davichi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020237d6e3f43ff4386ee3ca59",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0FqSI5fSmaauSg0i9OnHbo",
+      "spotifyUrl": "https://open.spotify.com/track/0FqSI5fSmaauSg0i9OnHbo"
     },
     {
       "rank": 10,
       "title": "Jugeoudo Mot Bonae (Can't Send You Even If I Die)",
-      "artist": "2AM"
+      "artist": "2AM",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0265e54126a9b2ce3e8514de0a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0hSnnJGW7qyxlbqTxM2nsf",
+      "spotifyUrl": "https://open.spotify.com/track/0hSnnJGW7qyxlbqTxM2nsf"
     }
   ]
 }

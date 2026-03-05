@@ -6,52 +6,101 @@
     {
       "rank": 1,
       "title": "Hoshikage no Waltz (Star Shadow Waltz)",
-      "artist": "Sen Masao"
+      "artist": "Sen Masao",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c63eb33f1a296ec93dc2eb28",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6U2oocUrAiMp9F8k4Khaa3",
+      "spotifyUrl": "https://open.spotify.com/track/6U2oocUrAiMp9F8k4Khaa3",
+      "youtubeId": "7ClypEPkRtA"
     },
     {
       "rank": 2,
       "title": "Kaette Kita Yopparai (The Drunken Man Returns)",
-      "artist": "The Folk Crusaders"
+      "artist": "The Folk Crusaders",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0248aa22984b9dc4d38a8ede95",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4CkIURmNRubxc12llcAiuh",
+      "spotifyUrl": "https://open.spotify.com/track/4CkIURmNRubxc12llcAiuh",
+      "youtubeId": "kwMLMTJaoTg"
     },
     {
       "rank": 3,
       "title": "Koi no Kisetsu (Season of Love)",
-      "artist": "Pinky & Killers"
+      "artist": "Pinky & Killers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022de100aab5604fc9d5735dfa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4dlGz2heWuSZ6nE6gOyLjD",
+      "spotifyUrl": "https://open.spotify.com/track/4dlGz2heWuSZ6nE6gOyLjD",
+      "youtubeId": "xoeX8m5Vk5A"
     },
     {
       "rank": 4,
       "title": "Otaru no Hito yo (People of Otaru)",
-      "artist": "Tsuruoka Masayoshi & Tokyo Romantica"
+      "artist": "Tsuruoka Masayoshi & Tokyo Romantica",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023174a9f789d91a20d3ef14aa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5floNyItopWZyB4IzKrJtW",
+      "spotifyUrl": "https://open.spotify.com/track/5floNyItopWZyB4IzKrJtW",
+      "youtubeId": "VLBIOZ6jh3E"
     },
     {
       "rank": 5,
       "title": "Koi no Shizuku (Love's Droplets)",
-      "artist": "Ito Yukari"
+      "artist": "Ito Yukari",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c952d2493d29442fed75e8db",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1ZjTetei30ZIo6xtkRkEtn",
+      "spotifyUrl": "https://open.spotify.com/track/1ZjTetei30ZIo6xtkRkEtn",
+      "youtubeId": "ZbYd9daZAj4"
     },
     {
       "rank": 6,
       "title": "Hana no Kubikazari (Flower Garland)",
-      "artist": "The Tigers"
+      "artist": "The Tigers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c1b87fef4fc9881c04816f09",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1Eqzj26CxHPEhKWLSoLxkf",
+      "spotifyUrl": "https://open.spotify.com/track/1Eqzj26CxHPEhKWLSoLxkf"
     },
     {
       "rank": 7,
       "title": "The Sound of Silence",
-      "artist": "Simon & Garfunkel"
+      "artist": "Simon & Garfunkel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02af4d7d647d72345ad6a294ad",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5y788ya4NvwhBznoDIcXwK",
+      "spotifyUrl": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK",
+      "youtubeId": "9O9DaZUS_EU"
     },
     {
       "rank": 8,
       "title": "Yube no Himitsu (Last Night's Secret)",
-      "artist": "Ogawa Tomoko"
+      "artist": "Ogawa Tomoko",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e5cdab693bda0ed0bcffe334",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:38LUbz74v3nmP8x0efElw2",
+      "spotifyUrl": "https://open.spotify.com/track/38LUbz74v3nmP8x0efElw2",
+      "youtubeId": "U_EcOt2MC48"
     },
     {
       "rank": 9,
       "title": "Massachusetts",
-      "artist": "Bee Gees"
+      "artist": "Bee Gees",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020672d9218e3a81286c752555",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2R30N7DHSavVqORsbMApqV",
+      "spotifyUrl": "https://open.spotify.com/track/2R30N7DHSavVqORsbMApqV",
+      "youtubeId": "ZZR23dPiVMs"
     },
     {
       "rank": 10,
       "title": "C-C-C",
-      "artist": "The Tigers"
+      "artist": "The Tigers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024c413563a714bf7239e5532d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:44NgQWsIHmDDD99tauQPS3",
+      "spotifyUrl": "https://open.spotify.com/track/44NgQWsIHmDDD99tauQPS3",
+      "youtubeId": "hvWJ1QbidVo"
     }
   ]
 }

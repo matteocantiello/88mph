@@ -6,52 +6,102 @@
     {
       "rank": 1,
       "title": "A un passo dalla luna",
-      "artist": "Rocco Hunt & Ana Mena"
+      "artist": "Rocco Hunt & Ana Mena",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0231ec016cb94ccb60cc2ac8d2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3YNcQUeVOpM3SDmwBeGfMK",
+      "spotifyUrl": "https://open.spotify.com/track/3YNcQUeVOpM3SDmwBeGfMK",
+      "youtubeId": "P9VyioCYhk4"
     },
     {
       "rank": 2,
       "title": "Superclassico",
-      "artist": "Ernia"
+      "artist": "Ernia",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02820c0ed614ed30340ba38f28",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Ahg1hncxUdK0ICqU03BCu",
+      "spotifyUrl": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu",
+      "youtubeId": "E3qCzGi-Zco"
     },
     {
       "rank": 3,
       "title": "Karaoke",
-      "artist": "Boomdabash & Alessandra Amoroso"
+      "artist": "Boomdabash & Alessandra Amoroso",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b55c33023828397d3ea10157",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0188AG0rjqVWbYhDPd8rgr",
+      "spotifyUrl": "https://open.spotify.com/track/0188AG0rjqVWbYhDPd8rgr",
+      "youtubeId": "uBc4KThajDc"
     },
     {
       "rank": 4,
       "title": "Blinding Lights",
-      "artist": "The Weeknd"
+      "artist": "The Weeknd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "youtubeId": "H64a2ggVIWc"
     },
     {
       "rank": 5,
       "title": "Hypnotized",
-      "artist": "Purple Disco Machine & Sophie and the Giants"
+      "artist": "Purple Disco Machine & Sophie and the Giants",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e484792571ce0835483ed649",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7HxWZggiHyGWT9ZSmWzcxu",
+      "spotifyUrl": "https://open.spotify.com/track/7HxWZggiHyGWT9ZSmWzcxu",
+      "youtubeId": "uWLxYRAIIeg"
     },
     {
       "rank": 6,
       "title": "Ti volevo dedicare",
-      "artist": "Rocco Hunt feat. J-Ax & BoomDaBash"
+      "artist": "Rocco Hunt feat. J-Ax & BoomDaBash",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c685dbd2a3bdf9b7ad00e59",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:00GxbkrW4m1Tac5xySEJ4M",
+      "spotifyUrl": "https://open.spotify.com/track/00GxbkrW4m1Tac5xySEJ4M",
+      "youtubeId": "X5Wt6V5uUA4"
     },
     {
       "rank": 7,
       "title": "Mediterranea",
-      "artist": "Irama"
+      "artist": "Irama",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ffe0c0eda6de204187b7157b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Up8QSKRV7WnZxZAQasEUq",
+      "spotifyUrl": "https://open.spotify.com/track/2Up8QSKRV7WnZxZAQasEUq",
+      "youtubeId": "4b1SS91KkV4"
     },
     {
       "rank": 8,
       "title": "Good Times",
-      "artist": "Ghali"
+      "artist": "Ghali",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6e2ba57759d998be3267e2c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3vgclHni3T3qu7ZXz8idsk",
+      "spotifyUrl": "https://open.spotify.com/track/3vgclHni3T3qu7ZXz8idsk",
+      "youtubeId": "-FBVSir9ql4"
     },
     {
       "rank": 9,
       "title": "blun7 a swishland",
-      "artist": "tha Supreme"
+      "artist": "tha Supreme",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0237baa3bdecc1dc19f7364d82",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7HwvPmK74MBRDhCIyMXReP",
+      "spotifyUrl": "https://open.spotify.com/track/7HwvPmK74MBRDhCIyMXReP",
+      "youtubeId": "p8AUJmjr9bg"
     },
     {
       "rank": 10,
       "title": "Destri",
-      "artist": "Gazzelle"
+      "artist": "Gazzelle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024bb4503a6dee24df7dc97413",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:48Hz53VkZepNtNPdhrJQbq",
+      "spotifyUrl": "https://open.spotify.com/track/48Hz53VkZepNtNPdhrJQbq",
+      "youtubeId": "wB9zeMOpMao"
     }
   ]
 }

@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Ticket to Ride",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7CZiDzGVjUssMSOXrDNYHL",
+      "spotifyUrl": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
     },
     {
       "rank": 2,
       "title": "Letkiss",
-      "artist": "Dutch Swing College Band"
+      "artist": "Dutch Swing College Band",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02104388c21b1f890961d51a7e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:60Dnv0kYHg63WHgdTM9hbV",
+      "spotifyUrl": "https://open.spotify.com/track/60Dnv0kYHg63WHgdTM9hbV"
     },
     {
       "rank": 3,
       "title": "Help!",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7DD7eSuYSC5xk2ArU62esN",
+      "spotifyUrl": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
       "rank": 4,
       "title": "Yesterday",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e3e3b64cea45265469d4cafa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3BQHpFgAp4l80e1XslIjNI",
+      "spotifyUrl": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
     },
     {
       "rank": 5,
       "title": "I Feel Fine",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025ef4660298ae29ee18799fc2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4gxs9En3aoaOm2J5wNMMm9",
+      "spotifyUrl": "https://open.spotify.com/track/4gxs9En3aoaOm2J5wNMMm9"
     },
     {
       "rank": 6,
       "title": "(I Can't Get No) Satisfaction",
-      "artist": "The Rolling Stones"
+      "artist": "The Rolling Stones",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0205c5be85b64eaff732f7cb0b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2PzU4IB8Dr6mxV3lHuaG34",
+      "spotifyUrl": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "rank": 7,
       "title": "Wooly Bully",
-      "artist": "Sam the Sham & The Pharaohs"
+      "artist": "Sam the Sham & The Pharaohs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02009bb3b8a5b27dd004eb9031",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4GNmvOYZW11lGzcZm0FKGY",
+      "spotifyUrl": "https://open.spotify.com/track/4GNmvOYZW11lGzcZm0FKGY"
     },
     {
       "rank": 8,
       "title": "Rock and Roll Music / No Reply",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbbfbbfc714899967080e07f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0U7XWqnMmpHUhFyAJp1NT5",
+      "spotifyUrl": "https://open.spotify.com/track/0U7XWqnMmpHUhFyAJp1NT5"
     },
     {
       "rank": 9,
       "title": "This Strange Effect",
-      "artist": "Dave Berry"
+      "artist": "Dave Berry",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fa8256c7e6324813244f31af",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2y22hvHhf5uD44YG6s05WU",
+      "spotifyUrl": "https://open.spotify.com/track/2y22hvHhf5uD44YG6s05WU"
     },
     {
       "rank": 10,
       "title": "The French Song",
-      "artist": "Lucille Starr"
+      "artist": "Lucille Starr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fc9fe37add134a07ccd71d9e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6C42ex32idi2azb3A9NyXc",
+      "spotifyUrl": "https://open.spotify.com/track/6C42ex32idi2azb3A9NyXc"
     }
   ]
 }

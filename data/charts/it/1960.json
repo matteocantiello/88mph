@@ -6,52 +6,102 @@
     {
       "rank": 1,
       "title": "Il Cielo in una stanza",
-      "artist": "Mina"
+      "artist": "Mina",
+      "youtubeId": "x8YkoHWVb-Q",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c56ae588407160d9689f7346",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2vSSSxUwKb58bjGGBybt1h",
+      "spotifyUrl": "https://open.spotify.com/track/2vSSSxUwKb58bjGGBybt1h"
     },
     {
       "rank": 2,
       "title": "Il Nostro concerto",
-      "artist": "Umberto Bindi"
+      "artist": "Umberto Bindi",
+      "youtubeId": "NpY-XI4ic0c",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026825e4dbf88d8febb89d98b5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0e5BsoquUBt2XUmlAoxfOE",
+      "spotifyUrl": "https://open.spotify.com/track/0e5BsoquUBt2XUmlAoxfOE"
     },
     {
       "rank": 3,
       "title": "Scandalo al sole",
-      "artist": "Percy Faith"
+      "artist": "Percy Faith",
+      "youtubeId": "Q3tVmzLYoLA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0276fc9a7901684a3cacf4bfa9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5CzznWGtXlCgya10Y2hVrs",
+      "spotifyUrl": "https://open.spotify.com/track/5CzznWGtXlCgya10Y2hVrs"
     },
     {
       "rank": 4,
       "title": "Nessuno al mondo",
-      "artist": "Peppino Di Capri"
+      "artist": "Peppino Di Capri",
+      "youtubeId": "1dFiiB1V6gA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025037026fcdb552846f889008",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2HZyG9wgzR5R4njeTUhVRv",
+      "spotifyUrl": "https://open.spotify.com/track/2HZyG9wgzR5R4njeTUhVRv"
     },
     {
       "rank": 5,
       "title": "Personalità",
-      "artist": "Caterina Valente"
+      "artist": "Caterina Valente",
+      "youtubeId": "M1pOuZ3V9kI",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02759cd3461af90eb8d4eecfac",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3xMV773Thlmy73Uh8CYg8M",
+      "spotifyUrl": "https://open.spotify.com/track/3xMV773Thlmy73Uh8CYg8M"
     },
     {
       "rank": 6,
       "title": "What a Sky",
-      "artist": "Nico Fidenco"
+      "artist": "Nico Fidenco",
+      "youtubeId": "SrIBmgAFUg0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0239a111bbaff2859ed4e6627f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5i25aBJYVCnY2zkxtLtqC3",
+      "spotifyUrl": "https://open.spotify.com/track/5i25aBJYVCnY2zkxtLtqC3"
     },
     {
       "rank": 7,
       "title": "Uno a te uno a me",
-      "artist": "Dalida"
+      "artist": "Dalida",
+      "youtubeId": "FtQ5rvdEoz0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023e8a87ab81a8b68b023af122",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4G8opCy4nKjQUOJm2W5aSh",
+      "spotifyUrl": "https://open.spotify.com/track/4G8opCy4nKjQUOJm2W5aSh"
     },
     {
       "rank": 8,
       "title": "Impazzivo per te",
-      "artist": "Adriano Celentano"
+      "artist": "Adriano Celentano",
+      "youtubeId": "jZ4O0KEL7y0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025482b7a656addd7a91696534",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7qvOMjAuBrZis46k4guGqb",
+      "spotifyUrl": "https://open.spotify.com/track/7qvOMjAuBrZis46k4guGqb"
     },
     {
       "rank": 9,
       "title": "Marina",
-      "artist": "Rocco Granata"
+      "artist": "Rocco Granata",
+      "youtubeId": "l0vLsREojTo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0228e6cab868bedd1ae08b8a5f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4hFhb8YNgPc94Fq0NANpIB",
+      "spotifyUrl": "https://open.spotify.com/track/4hFhb8YNgPc94Fq0NANpIB"
     },
     {
       "rank": 10,
       "title": "Morgen",
-      "artist": "Eddie Calvert"
+      "artist": "Eddie Calvert",
+      "youtubeId": "5L7uVy_WEcY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f653a38e9fa7b3498a72b975",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:394ONjjFKm2IyqXviTkAMw",
+      "spotifyUrl": "https://open.spotify.com/track/394ONjjFKm2IyqXviTkAMw"
     }
   ]
 }

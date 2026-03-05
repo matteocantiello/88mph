@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Si Me Dejas Ahora",
-      "artist": "José José"
+      "artist": "José José",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028aa0f3ac9e10d38c8e3331a2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4Ffrs6kqh1cyNC1gdRWI38",
+      "spotifyUrl": "https://open.spotify.com/track/4Ffrs6kqh1cyNC1gdRWI38"
     },
     {
       "rank": 2,
       "title": "He Venido A Pedirte Perdón",
-      "artist": "Juan Gabriel"
+      "artist": "Juan Gabriel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0219b9271ad2657a9dc1275756",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6OciJaFaUdtPU2llVaYVaq",
+      "spotifyUrl": "https://open.spotify.com/track/6OciJaFaUdtPU2llVaYVaq"
     },
     {
       "rank": 3,
       "title": "Todo Se Derrumbó",
-      "artist": "Emmanuel"
+      "artist": "Emmanuel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0252da6777fbd4ab8db5f176b4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4hWUYwFwJKpu4o49Gon76Z",
+      "spotifyUrl": "https://open.spotify.com/track/4hWUYwFwJKpu4o49Gon76Z"
     },
     {
       "rank": 4,
       "title": "Hey",
-      "artist": "Julio Iglesias"
+      "artist": "Julio Iglesias",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0285c02182c2dff19d5c66c42d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3X8buu765D59qlQ6z78I8A",
+      "spotifyUrl": "https://open.spotify.com/track/3X8buu765D59qlQ6z78I8A"
     },
     {
       "rank": 5,
       "title": "Noa Noa",
-      "artist": "Juan Gabriel"
+      "artist": "Juan Gabriel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0219b9271ad2657a9dc1275756",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2vfJS6gcbDia3SeM6VH0Id",
+      "spotifyUrl": "https://open.spotify.com/track/2vfJS6gcbDia3SeM6VH0Id"
     },
     {
       "rank": 6,
       "title": "Inocente, Pobre Amiga",
-      "artist": "Lupita D'Alessio"
+      "artist": "Lupita D'Alessio",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ac49130cb72149386570dd5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2TaghFF3ycrFVQs5h3oIFP",
+      "spotifyUrl": "https://open.spotify.com/track/2TaghFF3ycrFVQs5h3oIFP"
     },
     {
       "rank": 7,
       "title": "Eres",
-      "artist": "Napoleón"
+      "artist": "Napoleón",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021dab4f4ffc4f00fe78472c2f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:08fbpynRAv6hPqqPZISRsa",
+      "spotifyUrl": "https://open.spotify.com/track/08fbpynRAv6hPqqPZISRsa"
     },
     {
       "rank": 8,
       "title": "Como Yo Te Amo",
-      "artist": "Raphael"
+      "artist": "Raphael",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f308f1fe69e4f379e2158987",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2N1u2w7dbHt058hi7pIFjW",
+      "spotifyUrl": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
     },
     {
       "rank": 9,
       "title": "Esperanzas",
-      "artist": "Yuri"
+      "artist": "Yuri",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026295cdc4ba087edb36ac7520",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5X8llpd4YmgP74bsOLhVT4",
+      "spotifyUrl": "https://open.spotify.com/track/5X8llpd4YmgP74bsOLhVT4"
     },
     {
       "rank": 10,
       "title": "Nadie Es Como Tú",
-      "artist": "Rocío Dúrcal"
+      "artist": "Rocío Dúrcal",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fb7dcf0561411587df105b8f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1pAbxPEY5qiSJJRXpatqty",
+      "spotifyUrl": "https://open.spotify.com/track/1pAbxPEY5qiSJJRXpatqty"
     }
   ]
 }

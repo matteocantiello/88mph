@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Wait for Me",
-      "artist": "Onyeka Onwenu & King Sunny Ade"
+      "artist": "Onyeka Onwenu & King Sunny Ade",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b3e8e775bc70758de577fd25",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4XQTgD04Rh8BXwH0ambsCy",
+      "spotifyUrl": "https://open.spotify.com/track/4XQTgD04Rh8BXwH0ambsCy"
     },
     {
       "rank": 2,
       "title": "Talazo System",
-      "artist": "King Wasiu Ayinde Marshall"
+      "artist": "King Wasiu Ayinde Marshall",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0204032997a138da114a2846b7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1gVwxxuVgg0VJRo3wMI4vA",
+      "spotifyUrl": "https://open.spotify.com/track/1gVwxxuVgg0VJRo3wMI4vA"
     },
     {
       "rank": 3,
       "title": "Winnie Mandela",
-      "artist": "Onyeka Onwenu"
+      "artist": "Onyeka Onwenu",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a505e27fedc6a79a8f9b6834",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0pMk8h5CHfJFqh0ohVDtcv",
+      "spotifyUrl": "https://open.spotify.com/track/0pMk8h5CHfJFqh0ohVDtcv"
     },
     {
       "rank": 4,
       "title": "Ijuba Eni",
-      "artist": "Ebenezer Obey"
+      "artist": "Ebenezer Obey",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ef64620232cfc8fc1d6e04f8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5GXkzrTxiOLVCxdzeRjmId",
+      "spotifyUrl": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
     },
     {
       "rank": 5,
       "title": "Nigeria, My Beloved Country",
-      "artist": "Funmi Adams"
+      "artist": "Funmi Adams",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bdb2ccf9d6f8132a62e3c345",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1rzpTYiGRd9TiHDVrFMONP",
+      "spotifyUrl": "https://open.spotify.com/track/1rzpTYiGRd9TiHDVrFMONP"
     },
     {
       "rank": 6,
       "title": "Hear the Call",
-      "artist": "Christy Essien-Igbokwe"
+      "artist": "Christy Essien-Igbokwe",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d69b9038ada5ac394c2d0586",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:40Frtvu75WwqbgPcPyKncj",
+      "spotifyUrl": "https://open.spotify.com/track/40Frtvu75WwqbgPcPyKncj"
     },
     {
       "rank": 7,
       "title": "Joromi",
-      "artist": "Sir Victor Uwaifo"
+      "artist": "Sir Victor Uwaifo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02535b1ecabb23ab6d0fafec1b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5P79h7NLD3zIpkomzFaMWy",
+      "spotifyUrl": "https://open.spotify.com/track/5P79h7NLD3zIpkomzFaMWy"
     },
     {
       "rank": 8,
       "title": "Choices",
-      "artist": "Majek Fashek"
+      "artist": "Majek Fashek",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aff6bcbf7e18d9066f0732b1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5yyVAz3WD6L6143oGfQ3AT",
+      "spotifyUrl": "https://open.spotify.com/track/5yyVAz3WD6L6143oGfQ3AT"
     },
     {
       "rank": 9,
       "title": "Consolidation",
-      "artist": "King Sunny Ade"
+      "artist": "King Sunny Ade",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02413191f2cee4da15a260f42c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7HwvN8toW9TIikL0Jr0AfV",
+      "spotifyUrl": "https://open.spotify.com/track/7HwvN8toW9TIikL0Jr0AfV"
     },
     {
       "rank": 10,
       "title": "Fuji Garbage",
-      "artist": "Ayinla Kollington"
+      "artist": "Ayinla Kollington",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023a408daaa20a80df07e475c1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7945RsXlokFu5bcy84KrLE",
+      "spotifyUrl": "https://open.spotify.com/track/7945RsXlokFu5bcy84KrLE"
     }
   ]
 }

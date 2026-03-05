@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Kombat (Battalion Commander)",
-      "artist": "Lyube"
+      "artist": "Lyube",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0205408f5483e6e6542cf9ec83",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1onxmrkBUUeZrD5cQM5B20",
+      "spotifyUrl": "https://open.spotify.com/track/1onxmrkBUUeZrD5cQM5B20"
     },
     {
       "rank": 2,
       "title": "Kolybelnaya dlya Vulkana (Lullaby for the Volcano)",
-      "artist": "Filipp Kirkorov"
+      "artist": "Filipp Kirkorov",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bb632eaa5f899433d036b2a4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:47RyOrXqLydmsPrsVU7nTw",
+      "spotifyUrl": "https://open.spotify.com/track/47RyOrXqLydmsPrsVU7nTw"
     },
     {
       "rank": 3,
       "title": "Zhelty Tyulpany (Yellow Tulips)",
-      "artist": "Natasha Koroleva"
+      "artist": "Natasha Koroleva",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027661fa8c3f67c5453aa96520",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Z4PTPenJ2SFcH0uXhShYe",
+      "spotifyUrl": "https://open.spotify.com/track/6Z4PTPenJ2SFcH0uXhShYe"
     },
     {
       "rank": 4,
       "title": "Opium dlya Nikogo (Opium for Nobody)",
-      "artist": "Agata Kristi"
+      "artist": "Agata Kristi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a6cb015b1f5fa7ffc67b841c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2NOdVwQRhaM8L2PTTCMe7i",
+      "spotifyUrl": "https://open.spotify.com/track/2NOdVwQRhaM8L2PTTCMe7i"
     },
     {
       "rank": 5,
       "title": "Dobroye Utro (Good Morning)",
-      "artist": "Ruki Vverh!"
+      "artist": "Ruki Vverh!",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d2b420a7f33f6cfdcfc77b3b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:21YulUEEuIftI57cmEoRoW",
+      "spotifyUrl": "https://open.spotify.com/track/21YulUEEuIftI57cmEoRoW"
     },
     {
       "rank": 6,
       "title": "Oy, Moroz, Moroz (Oh, Frost, Frost)",
-      "artist": "Nadezhda Kadysheva"
+      "artist": "Nadezhda Kadysheva",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02304ffca87d09da6119162d9c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:10sOH0WfLruVL5hQ9r6fkA",
+      "spotifyUrl": "https://open.spotify.com/track/10sOH0WfLruVL5hQ9r6fkA"
     },
     {
       "rank": 7,
       "title": "Kukla Koldunyja (Doll Sorceress)",
-      "artist": "Ivanushki International"
+      "artist": "Ivanushki International",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fac93c98e164316dec082bfb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6jPInPpr5eOENh7mK9N9RV",
+      "spotifyUrl": "https://open.spotify.com/track/6jPInPpr5eOENh7mK9N9RV"
     },
     {
       "rank": 8,
       "title": "Davai Za... (Let's Drink To...)",
-      "artist": "Lyube"
+      "artist": "Lyube",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f4fece3ccf2a08698cfcc54a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5AeGXqM1TmedVvccCYlSYJ",
+      "spotifyUrl": "https://open.spotify.com/track/5AeGXqM1TmedVvccCYlSYJ"
     },
     {
       "rank": 9,
       "title": "Ugonshchitsa (The Hijacker)",
-      "artist": "Irina Allegrova"
+      "artist": "Irina Allegrova",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020198a8bd23cccd805924c918",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2uGOKYAZnUGMyASCy5jrSI",
+      "spotifyUrl": "https://open.spotify.com/track/2uGOKYAZnUGMyASCy5jrSI"
     },
     {
       "rank": 10,
       "title": "Strannik (Wanderer)",
-      "artist": "Natalya Vetlitskaya"
+      "artist": "Natalya Vetlitskaya",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0255498b9beff37ab614fb3697",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7pG2i1QLokufVdQTbHsM0c",
+      "spotifyUrl": "https://open.spotify.com/track/7pG2i1QLokufVdQTbHsM0c"
     }
   ]
 }

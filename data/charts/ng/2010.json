@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Oleku",
-      "artist": "Ice Prince ft. Brymo"
+      "artist": "Ice Prince ft. Brymo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b00f0c7365af1c3ccebe9d4d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0mDRuZmReEm6DquPLJlcEm",
+      "spotifyUrl": "https://open.spotify.com/track/0mDRuZmReEm6DquPLJlcEm"
     },
     {
       "rank": 2,
       "title": "Holla at Your Boy",
-      "artist": "Wizkid"
+      "artist": "Wizkid",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02475dd4740dc71dbd4a7101e5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4gn99f9Yv3FpMd9UuElz6g",
+      "spotifyUrl": "https://open.spotify.com/track/4gn99f9Yv3FpMd9UuElz6g"
     },
     {
       "rank": 3,
       "title": "Mr. Endowed",
-      "artist": "Olamide"
+      "artist": "Olamide",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e1e25b934a51e2a35996432b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2tA2uWPaJZb8Pazz0s0cQ7",
+      "spotifyUrl": "https://open.spotify.com/track/2tA2uWPaJZb8Pazz0s0cQ7"
     },
     {
       "rank": 4,
       "title": "Chop My Money",
-      "artist": "P-Square ft. Akon & May D"
+      "artist": "P-Square ft. Akon & May D",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025820910f45d0699fc946b47c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0rWlFiu0sMqLdtrViUwLT5",
+      "spotifyUrl": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
     },
     {
       "rank": 5,
       "title": "Oliver Twist",
-      "artist": "D'banj"
+      "artist": "D'banj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ab8e8bb3374dc6f9ca74b24d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6EOowyeP4iO02gXv7Em9j5",
+      "spotifyUrl": "https://open.spotify.com/track/6EOowyeP4iO02gXv7Em9j5"
     },
     {
       "rank": 6,
       "title": "Dami Duro",
-      "artist": "Davido"
+      "artist": "Davido",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024af20dd67113596ab82f8c53",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:66HHDrh1xx3sJlv4ke3UX8",
+      "spotifyUrl": "https://open.spotify.com/track/66HHDrh1xx3sJlv4ke3UX8"
     },
     {
       "rank": 7,
       "title": "Kukere",
-      "artist": "Iyanya"
+      "artist": "Iyanya",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0251971a39b4e72aec80cfdc14",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:78RxTO4V9rAMIKeXi0QwtN",
+      "spotifyUrl": "https://open.spotify.com/track/78RxTO4V9rAMIKeXi0QwtN"
     },
     {
       "rank": 8,
       "title": "Personally",
-      "artist": "P-Square"
+      "artist": "P-Square",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dd5ab06427fcc4f6ed14b1ae",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3uaObCyjKCjktezgA5MBX1",
+      "spotifyUrl": "https://open.spotify.com/track/3uaObCyjKCjktezgA5MBX1"
     },
     {
       "rank": 9,
       "title": "Your Waist",
-      "artist": "Iyanya ft. Emma Nyra"
+      "artist": "Iyanya ft. Emma Nyra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a84c85707a116b224d84870",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1dU9rk1klM32SwkeUUsurR",
+      "spotifyUrl": "https://open.spotify.com/track/1dU9rk1klM32SwkeUUsurR"
     },
     {
       "rank": 10,
       "title": "Superstar",
-      "artist": "Wizkid"
+      "artist": "Wizkid",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02475dd4740dc71dbd4a7101e5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2oWU6r6IvEIvr8GL1hawnp",
+      "spotifyUrl": "https://open.spotify.com/track/2oWU6r6IvEIvr8GL1hawnp"
     }
   ]
 }

@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "Blinding Lights",
-      "artist": "The Weeknd"
+      "artist": "The Weeknd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "rank": 2,
       "title": "Roses (Imanbek Remix)",
-      "artist": "SAINt JHN"
+      "artist": "SAINt JHN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028e51ad44471425be0ddcc6a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:72GVdRHK49beKrC1NqRCqj",
+      "spotifyUrl": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
     },
     {
       "rank": 3,
       "title": "Dance Monkey",
-      "artist": "Tones and I"
+      "artist": "Tones and I",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02931a1c33d7850f20ee23a5e1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2N8m6CYs74qQO4mjVcXO30",
+      "spotifyUrl": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
     },
     {
       "rank": 4,
       "title": "Pa olvidarte",
-      "artist": "Emma Heesters & Rolf Sanchez"
+      "artist": "Emma Heesters & Rolf Sanchez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cd448bded11bd2344119bcbf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1RO8Q3w2Jkir8cvvGEApI0",
+      "spotifyUrl": "https://open.spotify.com/track/1RO8Q3w2Jkir8cvvGEApI0"
     },
     {
       "rank": 5,
       "title": "Rockstar",
-      "artist": "DaBaby feat. Roddy Ricch"
+      "artist": "DaBaby feat. Roddy Ricch",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ytR5pFWmSjzHJIeQkgog4",
+      "spotifyUrl": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
     },
     {
       "rank": 6,
       "title": "Wat is je naam",
-      "artist": "Yxng Le x Frenna"
+      "artist": "Yxng Le x Frenna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0275edc004f72b008ea80dad0f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2PVPB3uZA5JrQltM8ohph7",
+      "spotifyUrl": "https://open.spotify.com/track/2PVPB3uZA5JrQltM8ohph7"
     },
     {
       "rank": 7,
       "title": "Before You Go",
-      "artist": "Lewis Capaldi"
+      "artist": "Lewis Capaldi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b9639babbe96e25071ec1d4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2gMXnyrvIjhVBUZwvLZDMP",
+      "spotifyUrl": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "rank": 8,
       "title": "Smoorverliefd",
-      "artist": "Snelle"
+      "artist": "Snelle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022c13f08997d910ef383034eb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:433a3I7BdVl2RUTKycgEzK",
+      "spotifyUrl": "https://open.spotify.com/track/433a3I7BdVl2RUTKycgEzK"
     },
     {
       "rank": 9,
       "title": "Breaking Me",
-      "artist": "Topic feat. A7S"
+      "artist": "Topic feat. A7S",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0232591885b6ac746346425e73",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:28RzfDKMqrzGZ3GhtQL4CG",
+      "spotifyUrl": "https://open.spotify.com/track/28RzfDKMqrzGZ3GhtQL4CG"
     },
     {
       "rank": 10,
       "title": "Roller Coaster",
-      "artist": "Danny Vera"
+      "artist": "Danny Vera",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f9c5093f70d3c39d3c7fbf4d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5B5YKjgne3TZzNpMsN9aj1",
+      "spotifyUrl": "https://open.spotify.com/track/5B5YKjgne3TZzNpMsN9aj1"
     }
   ]
 }

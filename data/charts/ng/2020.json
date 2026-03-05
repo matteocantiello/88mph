@@ -6,52 +6,92 @@
     {
       "rank": 1,
       "title": "FEM",
-      "artist": "Davido"
+      "artist": "Davido",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c3bcb68dea2e5d07462911b6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2PxLuV3mcHbxB8K7Zci1GQ",
+      "spotifyUrl": "https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ"
     },
     {
       "rank": 2,
       "title": "Nobody",
-      "artist": "DJ Neptune ft. Joeboy & Mr Eazi"
+      "artist": "DJ Neptune ft. Joeboy & Mr Eazi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024d3a3c0a1789cdb85febf608",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2hQG5UZ0DZD0lCpq3rwoWx",
+      "spotifyUrl": "https://open.spotify.com/track/2hQG5UZ0DZD0lCpq3rwoWx"
     },
     {
       "rank": 3,
       "title": "Duduke",
-      "artist": "Simi"
+      "artist": "Simi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020485a328ef91bba55088b11d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0MardG1WRPku1zcG7X2fBf",
+      "spotifyUrl": "https://open.spotify.com/track/0MardG1WRPku1zcG7X2fBf"
     },
     {
       "rank": 4,
       "title": "Ginger",
-      "artist": "Wizkid ft. Burna Boy"
+      "artist": "Wizkid ft. Burna Boy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025e4d1c49ee120249d48597e6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5TOoNqmK73ev73C5JiJ5yC",
+      "spotifyUrl": "https://open.spotify.com/track/5TOoNqmK73ev73C5JiJ5yC"
     },
     {
       "rank": 5,
       "title": "Odogwu",
-      "artist": "Burna Boy"
+      "artist": "Burna Boy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028816b2583e34db0fc21918cb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5jeFguGsmlRXUj66Z94JOJ",
+      "spotifyUrl": "https://open.spotify.com/track/5jeFguGsmlRXUj66Z94JOJ"
     },
     {
       "rank": 6,
       "title": "Beamer (Bad Boys)",
-      "artist": "Rema ft. Rvssian"
+      "artist": "Rema ft. Rvssian",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022885e0626dac054bdbb6071c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5IEeg7diFgz2IukaEwO8BF",
+      "spotifyUrl": "https://open.spotify.com/track/5IEeg7diFgz2IukaEwO8BF"
     },
     {
       "rank": 7,
       "title": "Away",
-      "artist": "Oxlade"
+      "artist": "Oxlade",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027019675b94c1a5b52daf3b88",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1wfIqsTXmMVtZxYk8uWxGa",
+      "spotifyUrl": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
     },
     {
       "rank": 8,
       "title": "ELI",
-      "artist": "Fireboy DML"
+      "artist": "Fireboy DML",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a74766a3fc47416df6ba4db2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2NZG481vNSuLTBbGl1SFKj",
+      "spotifyUrl": "https://open.spotify.com/track/2NZG481vNSuLTBbGl1SFKj"
     },
     {
       "rank": 9,
       "title": "Dangerous Love",
-      "artist": "Tiwa Savage"
+      "artist": "Tiwa Savage",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0225bececcdc7bcade57bec01b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0HLFdqAJZ3sUlICbZeLbYf",
+      "spotifyUrl": "https://open.spotify.com/track/0HLFdqAJZ3sUlICbZeLbYf"
     },
     {
       "rank": 10,
       "title": "Green Light",
-      "artist": "Olamide"
+      "artist": "Olamide",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0287d20b9a27d5e14d74b5cb77",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:11qqSo6AyQR68xqVlmwYls",
+      "spotifyUrl": "https://open.spotify.com/track/11qqSo6AyQR68xqVlmwYls"
     }
   ]
 }
