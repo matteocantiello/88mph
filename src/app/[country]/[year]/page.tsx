@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
 import fs from "fs";
@@ -13,6 +14,32 @@ import LastDepartedTracker from "@/components/LastDepartedTracker";
 
 interface PageProps {
   params: { country: string; year: string };
+}
+
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const country = params.country;
+  const year = parseInt(params.year, 10);
+  if (!isValidCountry(country) || !isValidYear(year)) return {};
+
+  const name = getCountryName(country);
+  const flag = getCountryFlag(country);
+  const title = `${flag} ${name} ${year} — Top 10 | 88mph`;
+  const description = `What was ${name} listening to in ${year}? Discover the year-end top 10 chart.`;
+
+  return {
+    title,
+    description,
+    openGraph: {
+      title: `${name} ${year} — Top 10`,
+      description,
+      siteName: "88mph",
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: `${name} ${year} — Top 10`,
+      description,
+    },
+  };
 }
 
 export default async function ChartPage({ params }: PageProps) {

@@ -27,9 +27,23 @@ const shareTechMono = Share_Tech_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "88mph — Musical Time Machine",
+  title: "88mph — What was the world listening to?",
   description:
-    "Travel through decades of music. Select a country and year to discover the top 10 songs that defined an era.",
+    "No algorithm. No 'you might also like.' Just what the world was actually listening to — whether you were there or not.",
+  icons: {
+    icon: "/icon.svg",
+  },
+  openGraph: {
+    title: "88mph",
+    description: "What was the world listening to?",
+    siteName: "88mph",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "88mph",
+    description: "What was the world listening to?",
+  },
 };
 
 export default function RootLayout({
