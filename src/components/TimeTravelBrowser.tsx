@@ -13,12 +13,18 @@ interface LastDeparted {
 
 interface TimeTravelBrowserProps {
   availableYearsByCountry: Record<string, number[]>;
+  /** Use vertical stacked layout (map on top, circuit below) */
+  stacked?: boolean;
+  /** Hide the section header */
+  hideHeader?: boolean;
 }
 
 const LS_KEY = "88mph-last-departed";
 
 export default function TimeTravelBrowser({
   availableYearsByCountry,
+  stacked = false,
+  hideHeader = false,
 }: TimeTravelBrowserProps) {
   const router = useRouter();
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
@@ -82,38 +88,59 @@ export default function TimeTravelBrowser({
   return (
     <div>
       {/* Section header */}
-      <div className="flex items-baseline justify-between mb-8">
-        <h2 className="font-display text-3xl md:text-4xl text-foreground/80">
-          Set Your Destination
-        </h2>
-        <span className="font-body text-[11px] text-foreground/15 tracking-wide">
-          {Object.keys(availableYearsByCountry).length} countries
-        </span>
-      </div>
-
-      {/* Map + Circuit grid */}
-      <div className="grid grid-cols-1 lg:grid-cols-[1.2fr,1fr] gap-6 lg:gap-8 items-start">
-        {/* Left: World Map */}
-        <div className="anim-slide-up">
-          <WorldMap
-            selectedCountry={selectedCountry}
-            onSelectCountry={setSelectedCountry}
-            availableYearsByCountry={availableYearsByCountry}
-          />
+      {!hideHeader && (
+        <div className="flex items-baseline justify-between mb-8">
+          <h2 className="font-display text-3xl md:text-4xl text-foreground/80">
+            Set Your Destination
+          </h2>
+          <span className="font-body text-[11px] text-foreground/15 tracking-wide">
+            {Object.keys(availableYearsByCountry).length} countries
+          </span>
         </div>
+      )}
 
-        {/* Right: Time Circuit */}
-        <div className="anim-slide-up" style={{ animationDelay: "0.1s" }}>
-          <TimeCircuit
-            selectedCountry={selectedCountry}
-            destinationYear={destinationYear}
-            onYearChange={setDestinationYear}
-            availableYears={availableYears}
-            lastDeparted={lastDeparted}
-            onGo={handleGo}
-          />
+      {/* Map + Circuit */}
+      {stacked ? (
+        <div className="space-y-4">
+          <div className="anim-slide-up">
+            <WorldMap
+              selectedCountry={selectedCountry}
+              onSelectCountry={setSelectedCountry}
+              availableYearsByCountry={availableYearsByCountry}
+            />
+          </div>
+          <div className="anim-slide-up" style={{ animationDelay: "0.1s" }}>
+            <TimeCircuit
+              selectedCountry={selectedCountry}
+              destinationYear={destinationYear}
+              onYearChange={setDestinationYear}
+              availableYears={availableYears}
+              lastDeparted={lastDeparted}
+              onGo={handleGo}
+            />
+          </div>
         </div>
-      </div>
+      ) : (
+        <div className="grid grid-cols-1 lg:grid-cols-[1.2fr,1fr] gap-6 lg:gap-8 items-start">
+          <div className="anim-slide-up">
+            <WorldMap
+              selectedCountry={selectedCountry}
+              onSelectCountry={setSelectedCountry}
+              availableYearsByCountry={availableYearsByCountry}
+            />
+          </div>
+          <div className="anim-slide-up" style={{ animationDelay: "0.1s" }}>
+            <TimeCircuit
+              selectedCountry={selectedCountry}
+              destinationYear={destinationYear}
+              onYearChange={setDestinationYear}
+              availableYears={availableYears}
+              lastDeparted={lastDeparted}
+              onGo={handleGo}
+            />
+          </div>
+        </div>
+      )}
     </div>
   );
 }

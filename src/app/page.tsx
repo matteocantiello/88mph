@@ -1,5 +1,6 @@
 import { getMetadata, getChartData, getAvailableYears, ChartData } from "@/lib/data";
 import { COUNTRIES } from "@/lib/utils";
+import Image from "next/image";
 import RandomButton from "@/components/RandomButton";
 import TimeTravelBrowser from "@/components/TimeTravelBrowser";
 
@@ -23,69 +24,93 @@ export default async function HomePage() {
     <main className="min-h-screen bg-background">
       {/* Hero */}
       <header className="relative overflow-hidden">
+        {/* Hero background image */}
+        <div className="absolute inset-0 postcard-hero pointer-events-none">
+          <Image
+            src="/hero.webp"
+            alt=""
+            fill
+            priority
+            className="object-cover object-center"
+            sizes="100vw"
+          />
+          <div
+            className="absolute inset-0"
+            style={{
+              background: `linear-gradient(to bottom, #0c0b0a70 0%, #0c0b0a40 20%, #0c0b0a99 50%, #0c0b0aee 75%, #0c0b0a 100%)`,
+            }}
+          />
+        </div>
         <div className="absolute inset-0 hero-gradient" />
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[900px] h-[600px] rounded-full blur-[180px] opacity-[0.04] bg-accent" />
 
         <div className="relative max-w-7xl mx-auto px-6 pt-12 md:pt-20 pb-6 md:pb-10">
-          <div className="grid grid-cols-1 lg:grid-cols-[1fr,1.1fr] gap-10 lg:gap-16 items-start">
-            {/* Left: Title + CTA */}
-            <div className="anim-slide-up">
-              <p className="font-body text-[10px] uppercase tracking-[0.35em] text-accent/50 mb-5 flex items-center gap-2">
-                <span className="w-8 h-px bg-accent/30" />
-                The past, on shuffle.
-              </p>
-              <h1 className="led-hero text-5xl sm:text-7xl md:text-[7rem] lg:text-[8.5rem] leading-[0.82] mb-5">
-                8<span className="-ml-[0.08em]">8</span>mph
-              </h1>
-              <p className="font-body text-foreground/30 text-base md:text-lg max-w-md leading-relaxed mb-8">
-                No algorithm. No &lsquo;you might also like.&rsquo; Just what the world was
-                actually listening to — whether you were there or not.
-              </p>
-              <div className="flex items-center gap-5">
-                <RandomButton metadata={metadata} />
-                <span className="text-foreground/12 text-sm font-body">
-                  or explore below
-                </span>
-              </div>
+          {/* Title + tagline */}
+          <div className="anim-slide-up text-center max-w-3xl mx-auto mb-8 md:mb-10">
+            <p className="font-body text-[10px] uppercase tracking-[0.35em] text-accent/50 mb-5 flex items-center justify-center gap-2">
+              <span className="w-8 h-px bg-accent/30" />
+              The past, on shuffle.
+              <span className="w-8 h-px bg-accent/30" />
+            </p>
+            <h1 className="led-hero text-5xl sm:text-7xl md:text-[7rem] lg:text-[8.5rem] leading-[0.82] mb-5">
+              8<span className="-ml-[0.08em]">8</span>mph
+            </h1>
+            <p className="font-body text-foreground/40 text-base md:text-lg max-w-lg mx-auto leading-relaxed mb-8">
+              No algorithm. No &lsquo;you might also like.&rsquo; Just what the world was
+              actually listening to — whether you were there or not.
+            </p>
 
-              {/* Stats */}
-              <div className="flex flex-wrap items-center gap-8 mt-10 pt-8 border-t border-white/[0.04]">
-                <div>
-                  <span className="font-display text-3xl text-accent/80">{totalCharts}</span>
-                  <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/20 mt-1">Charts</p>
-                </div>
-                <div>
-                  <span className="font-display text-3xl text-accent/80">19</span>
-                  <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/20 mt-1">Countries</p>
-                </div>
-                <div>
-                  <span className="font-display text-3xl text-accent/80">1940</span>
-                  <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/20 mt-1">Earliest</p>
-                </div>
-              </div>
+            {/* CTA */}
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
+              <RandomButton metadata={metadata} />
+              <span className="text-foreground/20 text-sm font-body hidden sm:inline">or</span>
+              <span className="text-foreground/30 text-sm font-body">
+                Pick a destination below ↓
+              </span>
             </div>
 
-            {/* Right: Spotlight Charts */}
-            <div className="anim-slide-up" style={{ animationDelay: "0.1s" }}>
-              <div className="space-y-3">
-                {spotlights.map((chart, i) => (
-                  <SpotlightCard key={`${chart.country}-${chart.year}`} chart={chart} index={i} />
-                ))}
+            {/* Stats row */}
+            <div className="flex items-center justify-center gap-8 md:gap-12 pt-6 border-t border-white/[0.06]">
+              <div className="text-center">
+                <span className="font-display text-2xl md:text-3xl text-accent/80">{totalCharts}</span>
+                <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/25 mt-1">Charts</p>
+              </div>
+              <div className="text-center">
+                <span className="font-display text-2xl md:text-3xl text-accent/80">19</span>
+                <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/25 mt-1">Countries</p>
+              </div>
+              <div className="text-center">
+                <span className="font-display text-2xl md:text-3xl text-accent/80">1940</span>
+                <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/25 mt-1">Earliest</p>
               </div>
             </div>
+          </div>
+
+          {/* Full-width Map + Time Circuit */}
+          <div className="anim-slide-up" style={{ animationDelay: "0.1s" }}>
+            <TimeTravelBrowser
+              availableYearsByCountry={availableYearsByCountry}
+              hideHeader
+            />
           </div>
         </div>
       </header>
 
-      {/* Region Browser */}
+      {/* Spotlight Charts */}
       <section className="relative">
         <div className="max-w-7xl mx-auto px-6">
           <div className="divider-animated" />
         </div>
         <div className="max-w-7xl mx-auto px-6 py-12 md:py-16">
-          <TimeTravelBrowser
-            availableYearsByCountry={availableYearsByCountry}
-          />
+          <div className="flex items-baseline justify-between mb-8">
+            <h2 className="font-display text-3xl md:text-4xl text-foreground/80">
+              Now Playing Somewhere
+            </h2>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {spotlights.map((chart, i) => (
+              <SpotlightCard key={`${chart.country}-${chart.year}`} chart={chart} index={i} />
+            ))}
+          </div>
         </div>
       </section>
 
@@ -112,16 +137,13 @@ import Link from "next/link";
 import { getCountryFlag, getCountryName } from "@/lib/utils";
 import { getThemeForYear } from "@/lib/themes";
 
-function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
+function SpotlightCard({ chart }: { chart: ChartData; index: number }) {
   const theme = getThemeForYear(chart.year);
-  const isFirst = index === 0;
 
   return (
     <Link
       href={`/${chart.country}/${chart.year}`}
-      className={`spotlight-card group block rounded-2xl overflow-hidden border border-white/[0.05] relative transition-all duration-500 hover:border-white/[0.1] ${
-        isFirst ? "p-4 md:p-6 lg:p-7" : "p-5"
-      }`}
+      className="spotlight-card group block rounded-2xl overflow-hidden border border-white/[0.05] relative transition-all duration-500 hover:border-white/[0.1] p-5"
       style={{ background: theme.gradient }}
     >
       {/* Accent glow */}
@@ -134,7 +156,7 @@ function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
         {/* Header */}
         <div className="flex items-center justify-between mb-3">
           <div className="flex items-center gap-2">
-            <span className={isFirst ? "text-xl" : "text-base"}>{getCountryFlag(chart.country)}</span>
+            <span className="text-base">{getCountryFlag(chart.country)}</span>
             <span
               className="text-[10px] font-body font-medium uppercase tracking-[0.15em] opacity-40"
               style={{ color: theme.foreground }}
@@ -143,7 +165,7 @@ function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
             </span>
           </div>
           <span
-            className={`font-display leading-none opacity-80 ${isFirst ? "text-4xl md:text-5xl" : "text-3xl"}`}
+            className="font-display text-3xl leading-none opacity-80"
             style={{ color: theme.accent }}
           >
             {chart.year}
@@ -151,7 +173,7 @@ function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
         </div>
 
         {/* Track list */}
-        <div className={isFirst ? "space-y-0" : "space-y-0"}>
+        <div>
           {chart.tracks.slice(0, 3).map((track) => (
             <div
               key={track.rank}
@@ -171,7 +193,7 @@ function SpotlightCard({ chart, index }: { chart: ChartData; index: number }) {
                 {track.title}
               </span>
               <span
-                className="text-[11px] font-body opacity-35 truncate shrink-0 max-w-[140px] text-right"
+                className="text-[11px] font-body opacity-35 truncate shrink-0 max-w-[140px] text-right hidden sm:block"
                 style={{ color: theme.foreground }}
               >
                 {track.artist}

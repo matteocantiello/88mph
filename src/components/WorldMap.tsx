@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, memo, useCallback } from "react";
+import { memo, useCallback } from "react";
 import {
   ComposableMap,
   Geographies,
@@ -68,8 +68,6 @@ function WorldMap({
   onSelectCountry,
   availableYearsByCountry,
 }: WorldMapProps) {
-  const [hoveredCountry, setHoveredCountry] = useState<string | null>(null);
-
   const getCountryCode = useCallback((geo: { id?: string; properties?: { ISO_A2?: string } }) => {
     // world-atlas uses numeric IDs
     const id = geo.id || "";
@@ -77,7 +75,7 @@ function WorldMap({
   }, []);
 
   return (
-    <div>
+    <div className="rounded-xl bg-[#0c0b0a]/80 backdrop-blur-sm border border-white/[0.04] p-2 md:p-3">
       <ComposableMap
         projection="geoEqualEarth"
         projectionConfig={{ scale: 160, center: [10, 5] }}
@@ -113,8 +111,7 @@ function WorldMap({
               const isOurCountry = code !== null;
               const hasCharts = isOurCountry && (availableYearsByCountry[code]?.length ?? 0) > 0;
               const isSelected = code === selectedCountry;
-              const isHovered = code === hoveredCountry;
-              const isActive = isSelected || isHovered;
+              const isActive = isSelected;
 
               // Determine fill
               let fill = "rgba(255,255,255,0.07)";
@@ -143,21 +140,12 @@ function WorldMap({
                       ? () => onSelectCountry(code)
                       : undefined
                   }
-                  onMouseEnter={
-                    hasCharts
-                      ? () => setHoveredCountry(code)
-                      : undefined
-                  }
-                  onMouseLeave={() => setHoveredCountry(null)}
                   style={{
                     default: {
                       outline: "none",
                       cursor: hasCharts ? "pointer" : "default",
                       transition: "fill 0.2s ease, stroke 0.2s ease",
                       paintOrder: "stroke",
-                      filter: isActive && hasCharts
-                        ? "drop-shadow(0 0 8px rgba(232,168,73,0.4))"
-                        : "none",
                     },
                     hover: {
                       outline: "none",
@@ -166,9 +154,6 @@ function WorldMap({
                       fill: hasCharts ? `url(#flag-${code})` : "rgba(255,255,255,0.09)",
                       stroke: hasCharts ? "var(--accent)" : "rgba(255,255,255,0.15)",
                       strokeWidth: hasCharts ? 1.5 : 0.5,
-                      filter: hasCharts
-                        ? "drop-shadow(0 0 8px rgba(232,168,73,0.4))"
-                        : "none",
                     },
                     pressed: {
                       outline: "none",
@@ -186,7 +171,7 @@ function WorldMap({
       </ComposableMap>
 
       {/* Empty state guidance */}
-      {!selectedCountry && !hoveredCountry && (
+      {!selectedCountry && (
         <p className="text-center font-body text-sm text-foreground/25 mt-2">
           Click a highlighted country to begin
         </p>
@@ -205,18 +190,6 @@ function WorldMap({
         </div>
       )}
 
-      {/* Hovered country tooltip (when not selected) */}
-      {hoveredCountry && hoveredCountry !== selectedCountry && COUNTRIES[hoveredCountry] && (
-        <div className="flex items-center justify-center gap-2 mt-2 anim-fade">
-          <span className="text-lg">{COUNTRIES[hoveredCountry].flag}</span>
-          <span className="font-body text-sm text-foreground/50">
-            {COUNTRIES[hoveredCountry].name}
-          </span>
-          <span className="font-body text-[11px] text-foreground/25">
-            {(availableYearsByCountry[hoveredCountry] || []).length} charts
-          </span>
-        </div>
-      )}
     </div>
   );
 }

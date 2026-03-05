@@ -36,10 +36,10 @@ export default function RandomButton({ metadata }: RandomButtonProps) {
     <button
       onClick={teleport}
       disabled={spinning}
-      className={`group relative inline-flex items-center gap-3 px-7 py-3.5 rounded-full font-body font-semibold text-sm tracking-wide transition-all duration-500 ${
+      className={`group relative inline-flex items-center gap-3 px-8 py-4 rounded-full font-body font-bold text-base tracking-wide transition-all duration-500 ${
         spinning
-          ? "bg-accent/10 text-accent border border-accent/30 scale-95"
-          : "bg-surface-raised/80 text-foreground/60 border border-white/[0.06] hover:border-accent/30 hover:text-accent hover:bg-accent/[0.06] hover:shadow-[0_0_40px_-10px] hover:shadow-accent/20"
+          ? "bg-accent/20 text-accent border-2 border-accent/40 scale-95"
+          : "bg-accent text-background border-2 border-accent hover:bg-accent/90 hover:shadow-[0_0_50px_-5px] hover:shadow-accent/40 hover:scale-105"
       }`}
     >
       {/* Vinyl disc icon */}
