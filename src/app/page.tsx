@@ -27,7 +27,7 @@ export default async function HomePage() {
         {/* Hero background image */}
         <div className="absolute inset-0 postcard-hero pointer-events-none">
           <Image
-            src="/hero.webp"
+            src="/og.webp"
             alt=""
             fill
             priority
