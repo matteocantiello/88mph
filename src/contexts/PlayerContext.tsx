@@ -93,7 +93,7 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
       if (!iframe?.contentWindow) return;
       iframe.contentWindow.postMessage(
         JSON.stringify({ event: "listening", id: 1 }),
-        "*"
+        "https://www.youtube.com"
       );
     }, 500);
   }, [stopYTProgress]);
@@ -431,10 +431,11 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
               }
             : {
                 position: "fixed" as const,
-                top: "-9999px",
-                left: "-9999px",
-                width: "640px",
-                height: "360px",
+                bottom: "0px",
+                left: "0px",
+                width: "200px",
+                height: "200px",
+                opacity: 0,
                 pointerEvents: "none" as const,
                 zIndex: -1,
               }
