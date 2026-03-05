@@ -120,7 +120,10 @@ export default async function HomePage() {
           <div>
             <p className="font-display text-lg text-foreground/15">88mph</p>
             <p className="font-body text-[11px] text-foreground/10 mt-1">
-              Previews powered by Spotify. Data is illustrative.
+              Created by{" "}
+              <a href="https://x.com/kantyellow" target="_blank" rel="noopener noreferrer" className="text-foreground/25 hover:text-accent transition-colors">
+                @kantyellow
+              </a>
             </p>
           </div>
           <p className="font-body text-[11px] text-foreground/10">
