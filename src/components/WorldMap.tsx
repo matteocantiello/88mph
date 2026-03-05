@@ -98,7 +98,7 @@ function WorldMap({
                 href={`https://flagcdn.com/w640/${iso}.png`}
                 width="1"
                 height="1"
-                preserveAspectRatio="xMidYMid slice"
+                preserveAspectRatio="none"
               />
             </pattern>
           ))}
