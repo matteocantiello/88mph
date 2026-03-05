@@ -47,8 +47,7 @@ export default function TimeSelector({
   }, [showCountryPicker]);
 
   const handleYearClick = (year: number) => {
-    window.scrollTo(0, 0);
-    router.push(`/${country}/${year}`);
+    router.push(`/${country}/${year}`, { scroll: true });
   };
 
   const handleCountrySelect = (code: string) => {
