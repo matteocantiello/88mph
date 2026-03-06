@@ -9,8 +9,8 @@ import {
 } from "@/lib/utils";
 
 describe("COUNTRIES", () => {
-  it("has 19 countries", () => {
-    expect(Object.keys(COUNTRIES)).toHaveLength(19);
+  it("has 20 countries", () => {
+    expect(Object.keys(COUNTRIES)).toHaveLength(20);
   });
 
   it("each country has a name and flag", () => {
