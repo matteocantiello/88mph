@@ -27,6 +27,8 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Monitor Latino | MX | https://monitorlatino.com/ | Mexican music chart |
 | Notitas Musicales | MX | — | Historical Mexican chart publication |
 | Billboard Mexico | MX | — | Mexican Billboard charts |
+| RPM Magazine | CA | https://en.wikipedia.org/wiki/RPM_(magazine) | Canada's primary music trade publication (1964–2000); year-end singles charts |
+| Billboard Canadian Hot 100 | CA | https://en.wikipedia.org/wiki/Canadian_Hot_100 | Canadian singles chart (from 2007); year-end data |
 
 ## Awards & Radio Data
 
@@ -82,8 +84,9 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Norway | no | 4 | 1970–2015 | VG-lista |
 | Nigeria | ng | 4 | 1975–2020 | Cultural significance (Afrobeat/Afrobeats documentation) |
 | South Africa | za | 4 | 1965–2020 | Springbok Radio, cultural significance |
+| Canada | ca | 11 | 1970–2025 | RPM Magazine (1970–2000), Billboard Canadian Hot 100 (2010–2025) |
 
-**Total: 151 charts across 19 countries (1940–2025)**
+**Total: 162 charts across 20 countries (1940–2025)**
 
 ## Notes
 

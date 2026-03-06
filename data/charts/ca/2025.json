@@ -1,0 +1,17 @@
+{
+  "country": "ca",
+  "year": 2025,
+  "context": "Shaboozey's 'A Bar Song (Tipsy)' topped the Canadian year-end chart for the second consecutive year, reflecting country-pop's crossover dominance. Alex Warren's 'Ordinary' spent 21 weeks at #1 on the weekly Canadian Hot 100, approaching an all-time record. The top Canadian artist was Tate McRae with 'Sports Car' at #14.",
+  "tracks": [
+    { "rank": 1, "title": "A Bar Song (Tipsy)", "artist": "Shaboozey" },
+    { "rank": 2, "title": "Ordinary", "artist": "Alex Warren" },
+    { "rank": 3, "title": "APT.", "artist": "ROSÉ & Bruno Mars" },
+    { "rank": 4, "title": "Die with a Smile", "artist": "Lady Gaga & Bruno Mars" },
+    { "rank": 5, "title": "Beautiful Things", "artist": "Benson Boone" },
+    { "rank": 6, "title": "That's So True", "artist": "Gracie Abrams" },
+    { "rank": 7, "title": "I Had Some Help", "artist": "Post Malone feat. Morgan Wallen" },
+    { "rank": 8, "title": "Pink Pony Club", "artist": "Chappell Roan" },
+    { "rank": 9, "title": "Messy", "artist": "Lola Young" },
+    { "rank": 10, "title": "Birds of a Feather", "artist": "Billie Eilish" }
+  ]
+}

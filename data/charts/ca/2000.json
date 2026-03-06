@@ -1,0 +1,17 @@
+{
+  "country": "ca",
+  "year": 2000,
+  "context": "RPM Magazine, Canada's primary music trade publication since 1964, published its final issue on November 6, ending 36 years of chart tracking. Madonna's 'Music' dominated with nine weeks at number one through the magazine's last issues, while Canadian acts soulDecision and the Moffatts both topped the chart amid a global teen pop wave.",
+  "tracks": [
+    { "rank": 1, "title": "Music", "artist": "Madonna" },
+    { "rank": 2, "title": "Oops!... I Did It Again", "artist": "Britney Spears" },
+    { "rank": 3, "title": "It Feels So Good", "artist": "Sonique" },
+    { "rank": 4, "title": "Bent", "artist": "Matchbox Twenty" },
+    { "rank": 5, "title": "I Knew I Loved You", "artist": "Savage Garden" },
+    { "rank": 6, "title": "It's Gonna Be Me", "artist": "*NSYNC" },
+    { "rank": 7, "title": "What a Girl Wants", "artist": "Christina Aguilera" },
+    { "rank": 8, "title": "Show Me the Meaning of Being Lonely", "artist": "Backstreet Boys" },
+    { "rank": 9, "title": "Never Let You Go", "artist": "Third Eye Blind" },
+    { "rank": 10, "title": "Faded", "artist": "soulDecision" }
+  ]
+}

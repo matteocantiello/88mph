@@ -169,6 +169,18 @@
     { "country": "za", "year": 1965, "available": true },
     { "country": "za", "year": 1985, "available": true },
     { "country": "za", "year": 2000, "available": true },
-    { "country": "za", "year": 2020, "available": true }
+    { "country": "za", "year": 2020, "available": true },
+
+    { "country": "ca", "year": 1970, "available": true },
+    { "country": "ca", "year": 1975, "available": true },
+    { "country": "ca", "year": 1980, "available": true },
+    { "country": "ca", "year": 1985, "available": true },
+    { "country": "ca", "year": 1990, "available": true },
+    { "country": "ca", "year": 1995, "available": true },
+    { "country": "ca", "year": 2000, "available": true },
+    { "country": "ca", "year": 2010, "available": true },
+    { "country": "ca", "year": 2015, "available": true },
+    { "country": "ca", "year": 2020, "available": true },
+    { "country": "ca", "year": 2025, "available": true }
   ]
 }

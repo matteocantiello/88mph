@@ -1,0 +1,17 @@
+{
+  "country": "ca",
+  "year": 2010,
+  "context": "Canada's 2010 chart was dominated by American and international dance-pop acts, with Katy Perry, Lady Gaga, and Ke$ha leading the charge. The top Canadian artist was Hedley at #18 with 'Perfect,' reflecting that while homegrown talent was building momentum, the mainstream chart remained tilted toward US-originating hits.",
+  "tracks": [
+    { "rank": 1, "title": "California Gurls", "artist": "Katy Perry feat. Snoop Dogg" },
+    { "rank": 2, "title": "TiK ToK", "artist": "Ke$ha" },
+    { "rank": 3, "title": "Bad Romance", "artist": "Lady Gaga" },
+    { "rank": 4, "title": "Dynamite", "artist": "Taio Cruz" },
+    { "rank": 5, "title": "Break Your Heart", "artist": "Taio Cruz feat. Ludacris" },
+    { "rank": 6, "title": "Hey, Soul Sister", "artist": "Train" },
+    { "rank": 7, "title": "Love the Way You Lie", "artist": "Eminem feat. Rihanna" },
+    { "rank": 8, "title": "Airplanes", "artist": "B.o.B feat. Hayley Williams" },
+    { "rank": 9, "title": "Need You Now", "artist": "Lady Antebellum" },
+    { "rank": 10, "title": "I Gotta Feeling", "artist": "The Black Eyed Peas" }
+  ]
+}

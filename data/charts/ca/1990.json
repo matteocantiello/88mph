@@ -1,0 +1,17 @@
+{
+  "country": "ca",
+  "year": 1990,
+  "context": "Alias, a Vancouver rock duo, became the highest-charting Canadian act of the year at number two, while Phil Collins dominated with two top-10 entries. RPM's year-end chart combined radio airplay and nationwide sales, reflecting distinctly Canadian listening patterns that sometimes diverged from the US Billboard charts.",
+  "tracks": [
+    { "rank": 1, "title": "I Wish It Would Rain Down", "artist": "Phil Collins" },
+    { "rank": 2, "title": "More Than Words Can Say", "artist": "Alias" },
+    { "rank": 3, "title": "Nothing Compares 2 U", "artist": "Sinéad O'Connor" },
+    { "rank": 4, "title": "Vogue", "artist": "Madonna" },
+    { "rank": 5, "title": "Downtown Train", "artist": "Rod Stewart" },
+    { "rank": 6, "title": "Release Me", "artist": "Wilson Phillips" },
+    { "rank": 7, "title": "All I Wanna Do Is Make Love to You", "artist": "Heart" },
+    { "rank": 8, "title": "Vision of Love", "artist": "Mariah Carey" },
+    { "rank": 9, "title": "Do You Remember?", "artist": "Phil Collins" },
+    { "rank": 10, "title": "Escapade", "artist": "Janet Jackson" }
+  ]
+}

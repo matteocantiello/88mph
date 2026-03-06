@@ -1,0 +1,67 @@
+{
+  "country": "ca",
+  "year": 1975,
+  "context": "By 1975, CanCon regulations had been nurturing a growing domestic music industry for four years. Bachman-Turner Overdrive was the lone Canadian act in the top 10, while disco began its ascent through Van McCoy's 'The Hustle' and LaBelle's 'Lady Marmalade' alongside the continued dominance of Elton John.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Love Will Keep Us Together",
+      "artist": "Captain & Tennille",
+      "youtubeId": "GpBZNh70uhA"
+    },
+    {
+      "rank": 2,
+      "title": "Bad Blood",
+      "artist": "Neil Sedaka",
+      "youtubeId": "Qpl1wHKtRvc"
+    },
+    {
+      "rank": 3,
+      "title": "Jive Talkin'",
+      "artist": "Bee Gees",
+      "youtubeId": "tNSeg3XFOgQ"
+    },
+    {
+      "rank": 4,
+      "title": "Rhinestone Cowboy",
+      "artist": "Glen Campbell",
+      "youtubeId": "ctsLFINNHjw"
+    },
+    {
+      "rank": 5,
+      "title": "Philadelphia Freedom",
+      "artist": "Elton John",
+      "youtubeId": "sOF6_kHBkyg"
+    },
+    {
+      "rank": 6,
+      "title": "I'm Not in Love",
+      "artist": "10cc",
+      "youtubeId": "UlhGozyX-IA"
+    },
+    {
+      "rank": 7,
+      "title": "Lucy in the Sky with Diamonds",
+      "artist": "Elton John",
+      "youtubeId": "y10iVBM8cJs"
+    },
+    {
+      "rank": 8,
+      "title": "Lady Marmalade",
+      "artist": "LaBelle",
+      "youtubeId": "Bief-0SlcdA"
+    },
+    {
+      "rank": 9,
+      "title": "The Hustle",
+      "artist": "Van McCoy",
+      "youtubeId": "4Dp48Acl62E"
+    },
+    {
+      "rank": 10,
+      "title": "Hey You",
+      "artist": "Bachman-Turner Overdrive",
+      "youtubeId": "FHyrIe69L50"
+    }
+  ]
+}

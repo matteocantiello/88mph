@@ -1,0 +1,67 @@
+{
+  "country": "ca",
+  "year": 1970,
+  "context": "The Canadian music industry was entering a transformative period, with the CRTC's Canadian content regulations (CanCon) set to take effect in January 1971. The Guess Who from Winnipeg scored with 'American Woman' while Montreal's Mashmakhan broke through nationally with 'As the Years Go By,' demonstrating the growing strength of domestic talent in the pre-CanCon era.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Bridge Over Troubled Water",
+      "artist": "Simon & Garfunkel",
+      "youtubeId": "nvF5imxSaLI"
+    },
+    {
+      "rank": 2,
+      "title": "I Think I Love You",
+      "artist": "The Partridge Family",
+      "youtubeId": "A1T1W-948FE"
+    },
+    {
+      "rank": 3,
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "youtubeId": "HzvDofigTKQ"
+    },
+    {
+      "rank": 4,
+      "title": "Lookin' Out My Back Door",
+      "artist": "Creedence Clearwater Revival",
+      "youtubeId": "YlbRvLmPRMk"
+    },
+    {
+      "rank": 5,
+      "title": "American Woman",
+      "artist": "The Guess Who",
+      "youtubeId": "3r_qd2yxIsM"
+    },
+    {
+      "rank": 6,
+      "title": "Raindrops Keep Fallin' on My Head",
+      "artist": "B.J. Thomas",
+      "youtubeId": "sySlY1XKlhM"
+    },
+    {
+      "rank": 7,
+      "title": "In the Summertime",
+      "artist": "Mungo Jerry",
+      "youtubeId": "0yKvBG7Z4po"
+    },
+    {
+      "rank": 8,
+      "title": "Cracklin' Rosie",
+      "artist": "Neil Diamond",
+      "youtubeId": "lXrcuv3G_7A"
+    },
+    {
+      "rank": 9,
+      "title": "(They Long to Be) Close to You",
+      "artist": "The Carpenters",
+      "youtubeId": "M268Csnue9I"
+    },
+    {
+      "rank": 10,
+      "title": "As the Years Go By",
+      "artist": "Mashmakhan",
+      "youtubeId": "dkeDPqzsA1g"
+    }
+  ]
+}

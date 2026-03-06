@@ -38,6 +38,7 @@ const ISO_N3_TO_CODE: Record<string, string> = {
   "156": "cn", // China
   "566": "ng", // Nigeria
   "710": "za", // South Africa
+  "124": "ca", // Canada
 };
 
 // Map our codes to ISO 3166-1 alpha-2 for flag CDN (flagcdn.com)
@@ -61,6 +62,7 @@ const CODE_TO_FLAG_ISO: Record<string, string> = {
   cn: "cn",
   ng: "ng",
   za: "za",
+  ca: "ca",
 };
 
 function WorldMap({

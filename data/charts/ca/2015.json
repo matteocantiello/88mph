@@ -1,0 +1,17 @@
+{
+  "country": "ca",
+  "year": 2015,
+  "context": "The Weeknd's breakout into the mainstream was the defining Canadian music story of 2015, with 'Can't Feel My Face' becoming his first top-10 year-end entry. Drake also had multiple entries in the full chart. Canada placed 21 songs in the year-end top 100, reflecting a growing Canadian presence in global pop.",
+  "tracks": [
+    { "rank": 1, "title": "Uptown Funk", "artist": "Mark Ronson feat. Bruno Mars" },
+    { "rank": 2, "title": "Thinking Out Loud", "artist": "Ed Sheeran" },
+    { "rank": 3, "title": "Cheerleader", "artist": "OMI" },
+    { "rank": 4, "title": "See You Again", "artist": "Wiz Khalifa feat. Charlie Puth" },
+    { "rank": 5, "title": "Sugar", "artist": "Maroon 5" },
+    { "rank": 6, "title": "Blank Space", "artist": "Taylor Swift" },
+    { "rank": 7, "title": "Take Me to Church", "artist": "Hozier" },
+    { "rank": 8, "title": "Can't Feel My Face", "artist": "The Weeknd" },
+    { "rank": 9, "title": "Lean On", "artist": "Major Lazer & DJ Snake feat. MØ" },
+    { "rank": 10, "title": "Shut Up and Dance", "artist": "Walk the Moon" }
+  ]
+}

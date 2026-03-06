@@ -1,0 +1,17 @@
+{
+  "country": "ca",
+  "year": 1985,
+  "context": "A landmark year for Canadian pop, with Montreal's Corey Hart claiming the number-one year-end spot with 'Never Surrender' -- the first Canadian artist to top the RPM year-end chart since 1974. Toronto's Platinum Blonde also broke into the top 5 with 'Crying Over You,' featuring a guitar cameo by Rush's Alex Lifeson.",
+  "tracks": [
+    { "rank": 1, "title": "Never Surrender", "artist": "Corey Hart" },
+    { "rank": 2, "title": "Careless Whisper", "artist": "Wham! featuring George Michael" },
+    { "rank": 3, "title": "I Want to Know What Love Is", "artist": "Foreigner" },
+    { "rank": 4, "title": "Easy Lover", "artist": "Philip Bailey & Phil Collins" },
+    { "rank": 5, "title": "Crying Over You", "artist": "Platinum Blonde" },
+    { "rank": 6, "title": "Cherish", "artist": "Kool & the Gang" },
+    { "rank": 7, "title": "Crazy for You", "artist": "Madonna" },
+    { "rank": 8, "title": "Shout", "artist": "Tears for Fears" },
+    { "rank": 9, "title": "Part-Time Lover", "artist": "Stevie Wonder" },
+    { "rank": 10, "title": "Separate Lives", "artist": "Phil Collins & Marilyn Martin" }
+  ]
+}

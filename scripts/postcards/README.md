@@ -47,7 +47,7 @@ Options:
 | `--year 1985` | all | Filter by year |
 | `--model <id>` | `FLUX.1-schnell` | Together AI model ID |
 | `--width 1280` | 1280 | Image width in pixels |
-| `--height 720` | 720 | Image height in pixels |
+| `--height 736` | 720 | Image height in pixels (must be multiple of 32 for FLUX pro models) |
 | `--steps 4` | 4 | Diffusion steps (more = better quality, slower) |
 | `--seed 42` | random | Reproducible output |
 | `--prefix "..."` | none | Prepend to all prompts |

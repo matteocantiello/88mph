@@ -1,0 +1,67 @@
+{
+  "country": "ca",
+  "year": 1980,
+  "context": "The 1980 Canadian chart captured the post-disco transition, with new wave acts like Gary Numan and Blondie charting alongside legacy rock and soft pop. No Canadian artists cracked the top 10, though Martha and the Muffins' 'Echo Beach' reached number 16. Pink Floyd's anti-education anthem dominated Canadian airwaves just as it did globally.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Another Brick in the Wall (Part II)",
+      "artist": "Pink Floyd",
+      "youtubeId": "Ey8gm1W-e1Y"
+    },
+    {
+      "rank": 2,
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Queen",
+      "youtubeId": "zO6D_BAuYCI"
+    },
+    {
+      "rank": 3,
+      "title": "Call Me",
+      "artist": "Blondie",
+      "youtubeId": "tykf2xYPNdc"
+    },
+    {
+      "rank": 4,
+      "title": "Coward of the County",
+      "artist": "Kenny Rogers",
+      "youtubeId": "aVtOLfGT3_8"
+    },
+    {
+      "rank": 5,
+      "title": "Cars",
+      "artist": "Gary Numan",
+      "youtubeId": "LrjM8Fi7J58"
+    },
+    {
+      "rank": 6,
+      "title": "It's Still Rock and Roll to Me",
+      "artist": "Billy Joel",
+      "youtubeId": "lvlPoBduEe4"
+    },
+    {
+      "rank": 7,
+      "title": "Misunderstanding",
+      "artist": "Genesis",
+      "youtubeId": "tVQHWKfzYEM"
+    },
+    {
+      "rank": 8,
+      "title": "Please Don't Go",
+      "artist": "KC and the Sunshine Band",
+      "youtubeId": "-_hBXvvTjvM"
+    },
+    {
+      "rank": 9,
+      "title": "The Rose",
+      "artist": "Bette Midler",
+      "youtubeId": "vBpDk7hS_co"
+    },
+    {
+      "rank": 10,
+      "title": "Magic",
+      "artist": "Olivia Newton-John",
+      "youtubeId": "sDmjEN-6ekE"
+    }
+  ]
+}

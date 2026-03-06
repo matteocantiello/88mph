@@ -1,0 +1,17 @@
+{
+  "country": "ca",
+  "year": 1995,
+  "context": "The Friends theme song dominated Canadian radio, while homegrown artists Tom Cochrane and Bryan Adams both cracked the top five. Twenty-five songs in the year-end top 100 involved Canadian artists, reflecting a strong year for domestic talent alongside the adult alternative and roots rock sounds that defined the mid-1990s.",
+  "tracks": [
+    { "rank": 1, "title": "I'll Be There for You", "artist": "The Rembrandts" },
+    { "rank": 2, "title": "Only Wanna Be with You", "artist": "Hootie & the Blowfish" },
+    { "rank": 3, "title": "Take a Bow", "artist": "Madonna" },
+    { "rank": 4, "title": "I Wish You Well", "artist": "Tom Cochrane" },
+    { "rank": 5, "title": "Have You Ever Really Loved a Woman?", "artist": "Bryan Adams" },
+    { "rank": 6, "title": "Until I Hear It from You", "artist": "Gin Blossoms" },
+    { "rank": 7, "title": "Kiss from a Rose", "artist": "Seal" },
+    { "rank": 8, "title": "Strong Enough", "artist": "Sheryl Crow" },
+    { "rank": 9, "title": "Believe", "artist": "Elton John" },
+    { "rank": 10, "title": "No More I Love You's", "artist": "Annie Lennox" }
+  ]
+}

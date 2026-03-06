@@ -1,0 +1,17 @@
+{
+  "country": "ca",
+  "year": 2020,
+  "context": "The COVID-19 pandemic reshaped music consumption in 2020, with streaming becoming even more dominant. Australia's Tones and I topped the chart with the inescapable 'Dance Monkey,' while The Weeknd's 'Blinding Lights' at #2 was the biggest Canadian-artist entry, cementing his status as Canada's most successful global pop export.",
+  "tracks": [
+    { "rank": 1, "title": "Dance Monkey", "artist": "Tones and I" },
+    { "rank": 2, "title": "Blinding Lights", "artist": "The Weeknd" },
+    { "rank": 3, "title": "Don't Start Now", "artist": "Dua Lipa" },
+    { "rank": 4, "title": "The Box", "artist": "Roddy Ricch" },
+    { "rank": 5, "title": "Circles", "artist": "Post Malone" },
+    { "rank": 6, "title": "Roses", "artist": "SAINt JHN" },
+    { "rank": 7, "title": "Memories", "artist": "Maroon 5" },
+    { "rank": 8, "title": "Say So", "artist": "Doja Cat" },
+    { "rank": 9, "title": "Roxanne", "artist": "Arizona Zervas" },
+    { "rank": 10, "title": "Someone You Loved", "artist": "Lewis Capaldi" }
+  ]
+}
