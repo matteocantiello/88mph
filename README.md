@@ -1,8 +1,20 @@
-# 88mph
+<p align="center">
+  <a href="https://88mph.fm">
+    <img src="public/readme-hero.png" alt="88mph — What was the world listening to?" width="100%" />
+  </a>
+</p>
 
-**A musical time machine.** Select a country and year to discover the top 10 songs that defined an era — from 1940s big band to 2020s Afrobeats, across 20 countries.
+<h1 align="center">88mph</h1>
 
-[![CI](https://github.com/matteocantiello/88mph/actions/workflows/ci.yml/badge.svg)](https://github.com/matteocantiello/88mph/actions/workflows/ci.yml)
+<p align="center">
+  <strong>A musical time machine.</strong><br>
+  Select a country and year to discover the top 10 songs that defined an era — from 1940s big band to 2020s Afrobeats, across 20 countries.
+</p>
+
+<p align="center">
+  <a href="https://88mph.fm">88mph.fm</a> &middot;
+  <a href="https://github.com/matteocantiello/88mph/actions/workflows/ci.yml"><img src="https://github.com/matteocantiello/88mph/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
+</p>
 
 ## Quick Start
 
