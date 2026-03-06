@@ -102,8 +102,8 @@ export default async function HomePage() {
             <p className="font-display text-lg text-foreground/15">88mph</p>
             <p className="font-body text-[11px] text-foreground/10 mt-1">
               Created by{" "}
-              <a href="https://x.com/kantyellow" target="_blank" rel="noopener noreferrer" className="text-foreground/25 hover:text-accent transition-colors">
-                @kantyellow
+              <a href="https://matteocantiello.com/" target="_blank" rel="noopener noreferrer" className="text-foreground/25 hover:text-accent transition-colors">
+                Matteo Cantiello
               </a>
             </p>
           </div>
