@@ -3,15 +3,75 @@
   "year": 2000,
   "context": "RPM Magazine, Canada's primary music trade publication since 1964, published its final issue on November 6, ending 36 years of chart tracking. Madonna's 'Music' dominated with nine weeks at number one through the magazine's last issues, while Canadian acts soulDecision and the Moffatts both topped the chart amid a global teen pop wave.",
   "tracks": [
-    { "rank": 1, "title": "Music", "artist": "Madonna" },
-    { "rank": 2, "title": "Oops!... I Did It Again", "artist": "Britney Spears" },
-    { "rank": 3, "title": "It Feels So Good", "artist": "Sonique" },
-    { "rank": 4, "title": "Bent", "artist": "Matchbox Twenty" },
-    { "rank": 5, "title": "I Knew I Loved You", "artist": "Savage Garden" },
-    { "rank": 6, "title": "It's Gonna Be Me", "artist": "*NSYNC" },
-    { "rank": 7, "title": "What a Girl Wants", "artist": "Christina Aguilera" },
-    { "rank": 8, "title": "Show Me the Meaning of Being Lonely", "artist": "Backstreet Boys" },
-    { "rank": 9, "title": "Never Let You Go", "artist": "Third Eye Blind" },
-    { "rank": 10, "title": "Faded", "artist": "soulDecision" }
+    {
+      "rank": 1,
+      "title": "Music",
+      "artist": "Madonna",
+      "youtubeId": "A9EvnyhUZrA",
+      "albumArt": "https://img.youtube.com/vi/A9EvnyhUZrA/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Oops!... I Did It Again",
+      "artist": "Britney Spears",
+      "youtubeId": "OO0aTOIU_3w",
+      "albumArt": "https://img.youtube.com/vi/OO0aTOIU_3w/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "It Feels So Good",
+      "artist": "Sonique",
+      "youtubeId": "G28dz7JOjQM",
+      "albumArt": "https://img.youtube.com/vi/G28dz7JOjQM/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Bent",
+      "artist": "Matchbox Twenty",
+      "youtubeId": "2QzqFImaLFw",
+      "albumArt": "https://img.youtube.com/vi/2QzqFImaLFw/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "I Knew I Loved You",
+      "artist": "Savage Garden",
+      "youtubeId": "Ufdd6l1OGXA",
+      "albumArt": "https://img.youtube.com/vi/Ufdd6l1OGXA/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "It's Gonna Be Me",
+      "artist": "*NSYNC",
+      "youtubeId": "dyDBxOiR4dc",
+      "albumArt": "https://img.youtube.com/vi/dyDBxOiR4dc/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "What a Girl Wants",
+      "artist": "Christina Aguilera",
+      "youtubeId": "_vLdHpLdwWo",
+      "albumArt": "https://img.youtube.com/vi/_vLdHpLdwWo/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Show Me the Meaning of Being Lonely",
+      "artist": "Backstreet Boys",
+      "youtubeId": "Qgd_TRKSWa8",
+      "albumArt": "https://img.youtube.com/vi/Qgd_TRKSWa8/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Never Let You Go",
+      "artist": "Third Eye Blind",
+      "youtubeId": "KajGqKJ3ePg",
+      "albumArt": "https://img.youtube.com/vi/KajGqKJ3ePg/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Faded",
+      "artist": "soulDecision",
+      "youtubeId": "Y7GlV3h9lsY",
+      "albumArt": "https://img.youtube.com/vi/Y7GlV3h9lsY/hqdefault.jpg"
+    }
   ]
 }

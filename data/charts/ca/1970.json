@@ -7,61 +7,71 @@
       "rank": 1,
       "title": "Bridge Over Troubled Water",
       "artist": "Simon & Garfunkel",
-      "youtubeId": "nvF5imxSaLI"
+      "youtubeId": "nvF5imxSaLI",
+      "albumArt": "https://img.youtube.com/vi/nvF5imxSaLI/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "I Think I Love You",
       "artist": "The Partridge Family",
-      "youtubeId": "A1T1W-948FE"
+      "youtubeId": "A1T1W-948FE",
+      "albumArt": "https://img.youtube.com/vi/A1T1W-948FE/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Let It Be",
       "artist": "The Beatles",
-      "youtubeId": "HzvDofigTKQ"
+      "youtubeId": "HzvDofigTKQ",
+      "albumArt": "https://img.youtube.com/vi/HzvDofigTKQ/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Lookin' Out My Back Door",
       "artist": "Creedence Clearwater Revival",
-      "youtubeId": "YlbRvLmPRMk"
+      "youtubeId": "YlbRvLmPRMk",
+      "albumArt": "https://img.youtube.com/vi/YlbRvLmPRMk/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "American Woman",
       "artist": "The Guess Who",
-      "youtubeId": "3r_qd2yxIsM"
+      "youtubeId": "3r_qd2yxIsM",
+      "albumArt": "https://img.youtube.com/vi/3r_qd2yxIsM/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Raindrops Keep Fallin' on My Head",
       "artist": "B.J. Thomas",
-      "youtubeId": "sySlY1XKlhM"
+      "youtubeId": "sySlY1XKlhM",
+      "albumArt": "https://img.youtube.com/vi/sySlY1XKlhM/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "In the Summertime",
       "artist": "Mungo Jerry",
-      "youtubeId": "0yKvBG7Z4po"
+      "youtubeId": "0yKvBG7Z4po",
+      "albumArt": "https://img.youtube.com/vi/0yKvBG7Z4po/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Cracklin' Rosie",
       "artist": "Neil Diamond",
-      "youtubeId": "lXrcuv3G_7A"
+      "youtubeId": "lXrcuv3G_7A",
+      "albumArt": "https://img.youtube.com/vi/lXrcuv3G_7A/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "(They Long to Be) Close to You",
       "artist": "The Carpenters",
-      "youtubeId": "M268Csnue9I"
+      "youtubeId": "M268Csnue9I",
+      "albumArt": "https://img.youtube.com/vi/M268Csnue9I/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "As the Years Go By",
       "artist": "Mashmakhan",
-      "youtubeId": "dkeDPqzsA1g"
+      "youtubeId": "dkeDPqzsA1g",
+      "albumArt": "https://img.youtube.com/vi/dkeDPqzsA1g/hqdefault.jpg"
     }
   ]
 }

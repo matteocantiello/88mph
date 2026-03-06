@@ -3,15 +3,75 @@
   "year": 2020,
   "context": "The COVID-19 pandemic reshaped music consumption in 2020, with streaming becoming even more dominant. Australia's Tones and I topped the chart with the inescapable 'Dance Monkey,' while The Weeknd's 'Blinding Lights' at #2 was the biggest Canadian-artist entry, cementing his status as Canada's most successful global pop export.",
   "tracks": [
-    { "rank": 1, "title": "Dance Monkey", "artist": "Tones and I" },
-    { "rank": 2, "title": "Blinding Lights", "artist": "The Weeknd" },
-    { "rank": 3, "title": "Don't Start Now", "artist": "Dua Lipa" },
-    { "rank": 4, "title": "The Box", "artist": "Roddy Ricch" },
-    { "rank": 5, "title": "Circles", "artist": "Post Malone" },
-    { "rank": 6, "title": "Roses", "artist": "SAINt JHN" },
-    { "rank": 7, "title": "Memories", "artist": "Maroon 5" },
-    { "rank": 8, "title": "Say So", "artist": "Doja Cat" },
-    { "rank": 9, "title": "Roxanne", "artist": "Arizona Zervas" },
-    { "rank": 10, "title": "Someone You Loved", "artist": "Lewis Capaldi" }
+    {
+      "rank": 1,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "youtubeId": "Hx4nWW9z0ig",
+      "albumArt": "https://img.youtube.com/vi/Hx4nWW9z0ig/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "youtubeId": "H64a2ggVIWc",
+      "albumArt": "https://img.youtube.com/vi/H64a2ggVIWc/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "youtubeId": "htg8v0g_4e4",
+      "albumArt": "https://img.youtube.com/vi/htg8v0g_4e4/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "The Box",
+      "artist": "Roddy Ricch",
+      "youtubeId": "IxJjY5T9yag",
+      "albumArt": "https://img.youtube.com/vi/IxJjY5T9yag/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Circles",
+      "artist": "Post Malone",
+      "youtubeId": "y9QOPLPcOms",
+      "albumArt": "https://img.youtube.com/vi/y9QOPLPcOms/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Roses",
+      "artist": "SAINt JHN",
+      "youtubeId": "24hGLYgpu2Y",
+      "albumArt": "https://img.youtube.com/vi/24hGLYgpu2Y/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Memories",
+      "artist": "Maroon 5",
+      "youtubeId": "lNilb-EaTOU",
+      "albumArt": "https://img.youtube.com/vi/lNilb-EaTOU/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Say So",
+      "artist": "Doja Cat",
+      "youtubeId": "LmnCBjj-YyI",
+      "albumArt": "https://img.youtube.com/vi/LmnCBjj-YyI/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Roxanne",
+      "artist": "Arizona Zervas",
+      "youtubeId": "2EYHZ2zUqTg",
+      "albumArt": "https://img.youtube.com/vi/2EYHZ2zUqTg/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "youtubeId": "AyCrypt1pdI",
+      "albumArt": "https://img.youtube.com/vi/AyCrypt1pdI/hqdefault.jpg"
+    }
   ]
 }

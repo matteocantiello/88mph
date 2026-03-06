@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "Shaboozey's 'A Bar Song (Tipsy)' topped the Canadian year-end chart for the second consecutive year, reflecting country-pop's crossover dominance. Alex Warren's 'Ordinary' spent 21 weeks at #1 on the weekly Canadian Hot 100, approaching an all-time record. The top Canadian artist was Tate McRae with 'Sports Car' at #14.",
   "tracks": [
-    { "rank": 1, "title": "A Bar Song (Tipsy)", "artist": "Shaboozey" },
-    { "rank": 2, "title": "Ordinary", "artist": "Alex Warren" },
-    { "rank": 3, "title": "APT.", "artist": "ROSÉ & Bruno Mars" },
-    { "rank": 4, "title": "Die with a Smile", "artist": "Lady Gaga & Bruno Mars" },
-    { "rank": 5, "title": "Beautiful Things", "artist": "Benson Boone" },
-    { "rank": 6, "title": "That's So True", "artist": "Gracie Abrams" },
-    { "rank": 7, "title": "I Had Some Help", "artist": "Post Malone feat. Morgan Wallen" },
-    { "rank": 8, "title": "Pink Pony Club", "artist": "Chappell Roan" },
-    { "rank": 9, "title": "Messy", "artist": "Lola Young" },
-    { "rank": 10, "title": "Birds of a Feather", "artist": "Billie Eilish" }
+    {
+      "rank": 1,
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "youtubeId": "DPaqlPFznBI",
+      "albumArt": "https://img.youtube.com/vi/DPaqlPFznBI/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "youtubeId": "byxFUKxhT3s",
+      "albumArt": "https://img.youtube.com/vi/byxFUKxhT3s/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "DiTd771WumE",
+      "albumArt": "https://img.youtube.com/vi/DiTd771WumE/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Die with a Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "DlFXDl_ROAM",
+      "albumArt": "https://img.youtube.com/vi/DlFXDl_ROAM/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "youtubeId": "Oa_RSwwpPaA",
+      "albumArt": "https://img.youtube.com/vi/Oa_RSwwpPaA/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "youtubeId": "W_YOJWZIjxo",
+      "albumArt": "https://img.youtube.com/vi/W_YOJWZIjxo/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "I Had Some Help",
+      "artist": "Post Malone feat. Morgan Wallen",
+      "youtubeId": "B8VEqSBTjZQ",
+      "albumArt": "https://img.youtube.com/vi/B8VEqSBTjZQ/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "youtubeId": "R_iTpfSCIVk",
+      "albumArt": "https://img.youtube.com/vi/R_iTpfSCIVk/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Messy",
+      "artist": "Lola Young",
+      "youtubeId": "Y03n19YRXD4",
+      "albumArt": "https://img.youtube.com/vi/Y03n19YRXD4/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "youtubeId": "WKZO-CWeOVA",
+      "albumArt": "https://img.youtube.com/vi/WKZO-CWeOVA/hqdefault.jpg"
+    }
   ]
 }

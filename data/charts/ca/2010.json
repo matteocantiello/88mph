@@ -3,15 +3,75 @@
   "year": 2010,
   "context": "Canada's 2010 chart was dominated by American and international dance-pop acts, with Katy Perry, Lady Gaga, and Ke$ha leading the charge. The top Canadian artist was Hedley at #18 with 'Perfect,' reflecting that while homegrown talent was building momentum, the mainstream chart remained tilted toward US-originating hits.",
   "tracks": [
-    { "rank": 1, "title": "California Gurls", "artist": "Katy Perry feat. Snoop Dogg" },
-    { "rank": 2, "title": "TiK ToK", "artist": "Ke$ha" },
-    { "rank": 3, "title": "Bad Romance", "artist": "Lady Gaga" },
-    { "rank": 4, "title": "Dynamite", "artist": "Taio Cruz" },
-    { "rank": 5, "title": "Break Your Heart", "artist": "Taio Cruz feat. Ludacris" },
-    { "rank": 6, "title": "Hey, Soul Sister", "artist": "Train" },
-    { "rank": 7, "title": "Love the Way You Lie", "artist": "Eminem feat. Rihanna" },
-    { "rank": 8, "title": "Airplanes", "artist": "B.o.B feat. Hayley Williams" },
-    { "rank": 9, "title": "Need You Now", "artist": "Lady Antebellum" },
-    { "rank": 10, "title": "I Gotta Feeling", "artist": "The Black Eyed Peas" }
+    {
+      "rank": 1,
+      "title": "California Gurls",
+      "artist": "Katy Perry feat. Snoop Dogg",
+      "youtubeId": "q7hK_liBVzk",
+      "albumArt": "https://img.youtube.com/vi/q7hK_liBVzk/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "TiK ToK",
+      "artist": "Ke$ha",
+      "youtubeId": "RxUZLmN5RsY",
+      "albumArt": "https://img.youtube.com/vi/RxUZLmN5RsY/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "youtubeId": "52QarK_LoHE",
+      "albumArt": "https://img.youtube.com/vi/52QarK_LoHE/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Dynamite",
+      "artist": "Taio Cruz",
+      "youtubeId": "EQ2T-Tw_drE",
+      "albumArt": "https://img.youtube.com/vi/EQ2T-Tw_drE/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz feat. Ludacris",
+      "youtubeId": "P09-6KI2yqE",
+      "albumArt": "https://img.youtube.com/vi/P09-6KI2yqE/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "youtubeId": "_2qJy5r-WAY",
+      "albumArt": "https://img.youtube.com/vi/_2qJy5r-WAY/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Love the Way You Lie",
+      "artist": "Eminem feat. Rihanna",
+      "youtubeId": "RnkShwdXfyc",
+      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Airplanes",
+      "artist": "B.o.B feat. Hayley Williams",
+      "youtubeId": "pfEZW-1eDl8",
+      "albumArt": "https://img.youtube.com/vi/pfEZW-1eDl8/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Need You Now",
+      "artist": "Lady Antebellum",
+      "youtubeId": "fbq7ZM0du-c",
+      "albumArt": "https://img.youtube.com/vi/fbq7ZM0du-c/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "I Gotta Feeling",
+      "artist": "The Black Eyed Peas",
+      "youtubeId": "OIPmhkzN2ug",
+      "albumArt": "https://img.youtube.com/vi/OIPmhkzN2ug/hqdefault.jpg"
+    }
   ]
 }

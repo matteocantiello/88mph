@@ -7,61 +7,71 @@
       "rank": 1,
       "title": "Another Brick in the Wall (Part II)",
       "artist": "Pink Floyd",
-      "youtubeId": "Ey8gm1W-e1Y"
+      "youtubeId": "Ey8gm1W-e1Y",
+      "albumArt": "https://img.youtube.com/vi/Ey8gm1W-e1Y/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Crazy Little Thing Called Love",
       "artist": "Queen",
-      "youtubeId": "zO6D_BAuYCI"
+      "youtubeId": "zO6D_BAuYCI",
+      "albumArt": "https://img.youtube.com/vi/zO6D_BAuYCI/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Call Me",
       "artist": "Blondie",
-      "youtubeId": "tykf2xYPNdc"
+      "youtubeId": "tykf2xYPNdc",
+      "albumArt": "https://img.youtube.com/vi/tykf2xYPNdc/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Coward of the County",
       "artist": "Kenny Rogers",
-      "youtubeId": "aVtOLfGT3_8"
+      "youtubeId": "aVtOLfGT3_8",
+      "albumArt": "https://img.youtube.com/vi/aVtOLfGT3_8/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Cars",
       "artist": "Gary Numan",
-      "youtubeId": "LrjM8Fi7J58"
+      "youtubeId": "LrjM8Fi7J58",
+      "albumArt": "https://img.youtube.com/vi/LrjM8Fi7J58/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "It's Still Rock and Roll to Me",
       "artist": "Billy Joel",
-      "youtubeId": "lvlPoBduEe4"
+      "youtubeId": "lvlPoBduEe4",
+      "albumArt": "https://img.youtube.com/vi/lvlPoBduEe4/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Misunderstanding",
       "artist": "Genesis",
-      "youtubeId": "tVQHWKfzYEM"
+      "youtubeId": "tVQHWKfzYEM",
+      "albumArt": "https://img.youtube.com/vi/tVQHWKfzYEM/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Please Don't Go",
       "artist": "KC and the Sunshine Band",
-      "youtubeId": "-_hBXvvTjvM"
+      "youtubeId": "-_hBXvvTjvM",
+      "albumArt": "https://img.youtube.com/vi/-_hBXvvTjvM/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "The Rose",
       "artist": "Bette Midler",
-      "youtubeId": "vBpDk7hS_co"
+      "youtubeId": "vBpDk7hS_co",
+      "albumArt": "https://img.youtube.com/vi/vBpDk7hS_co/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Magic",
       "artist": "Olivia Newton-John",
-      "youtubeId": "sDmjEN-6ekE"
+      "youtubeId": "sDmjEN-6ekE",
+      "albumArt": "https://img.youtube.com/vi/sDmjEN-6ekE/hqdefault.jpg"
     }
   ]
 }

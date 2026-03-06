@@ -7,61 +7,71 @@
       "rank": 1,
       "title": "Love Will Keep Us Together",
       "artist": "Captain & Tennille",
-      "youtubeId": "GpBZNh70uhA"
+      "youtubeId": "GpBZNh70uhA",
+      "albumArt": "https://img.youtube.com/vi/GpBZNh70uhA/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Bad Blood",
       "artist": "Neil Sedaka",
-      "youtubeId": "Qpl1wHKtRvc"
+      "youtubeId": "Qpl1wHKtRvc",
+      "albumArt": "https://img.youtube.com/vi/Qpl1wHKtRvc/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Jive Talkin'",
       "artist": "Bee Gees",
-      "youtubeId": "tNSeg3XFOgQ"
+      "youtubeId": "tNSeg3XFOgQ",
+      "albumArt": "https://img.youtube.com/vi/tNSeg3XFOgQ/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Rhinestone Cowboy",
       "artist": "Glen Campbell",
-      "youtubeId": "ctsLFINNHjw"
+      "youtubeId": "ctsLFINNHjw",
+      "albumArt": "https://img.youtube.com/vi/ctsLFINNHjw/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Philadelphia Freedom",
       "artist": "Elton John",
-      "youtubeId": "sOF6_kHBkyg"
+      "youtubeId": "sOF6_kHBkyg",
+      "albumArt": "https://img.youtube.com/vi/sOF6_kHBkyg/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "I'm Not in Love",
       "artist": "10cc",
-      "youtubeId": "UlhGozyX-IA"
+      "youtubeId": "UlhGozyX-IA",
+      "albumArt": "https://img.youtube.com/vi/UlhGozyX-IA/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Lucy in the Sky with Diamonds",
       "artist": "Elton John",
-      "youtubeId": "y10iVBM8cJs"
+      "youtubeId": "y10iVBM8cJs",
+      "albumArt": "https://img.youtube.com/vi/y10iVBM8cJs/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Lady Marmalade",
       "artist": "LaBelle",
-      "youtubeId": "Bief-0SlcdA"
+      "youtubeId": "Bief-0SlcdA",
+      "albumArt": "https://img.youtube.com/vi/Bief-0SlcdA/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "The Hustle",
       "artist": "Van McCoy",
-      "youtubeId": "4Dp48Acl62E"
+      "youtubeId": "4Dp48Acl62E",
+      "albumArt": "https://img.youtube.com/vi/4Dp48Acl62E/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Hey You",
       "artist": "Bachman-Turner Overdrive",
-      "youtubeId": "FHyrIe69L50"
+      "youtubeId": "FHyrIe69L50",
+      "albumArt": "https://img.youtube.com/vi/FHyrIe69L50/hqdefault.jpg"
     }
   ]
 }

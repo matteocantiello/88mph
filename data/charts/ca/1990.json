@@ -3,15 +3,75 @@
   "year": 1990,
   "context": "Alias, a Vancouver rock duo, became the highest-charting Canadian act of the year at number two, while Phil Collins dominated with two top-10 entries. RPM's year-end chart combined radio airplay and nationwide sales, reflecting distinctly Canadian listening patterns that sometimes diverged from the US Billboard charts.",
   "tracks": [
-    { "rank": 1, "title": "I Wish It Would Rain Down", "artist": "Phil Collins" },
-    { "rank": 2, "title": "More Than Words Can Say", "artist": "Alias" },
-    { "rank": 3, "title": "Nothing Compares 2 U", "artist": "Sinéad O'Connor" },
-    { "rank": 4, "title": "Vogue", "artist": "Madonna" },
-    { "rank": 5, "title": "Downtown Train", "artist": "Rod Stewart" },
-    { "rank": 6, "title": "Release Me", "artist": "Wilson Phillips" },
-    { "rank": 7, "title": "All I Wanna Do Is Make Love to You", "artist": "Heart" },
-    { "rank": 8, "title": "Vision of Love", "artist": "Mariah Carey" },
-    { "rank": 9, "title": "Do You Remember?", "artist": "Phil Collins" },
-    { "rank": 10, "title": "Escapade", "artist": "Janet Jackson" }
+    {
+      "rank": 1,
+      "title": "I Wish It Would Rain Down",
+      "artist": "Phil Collins",
+      "youtubeId": "JGb_E3UzDXk",
+      "albumArt": "https://img.youtube.com/vi/JGb_E3UzDXk/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "More Than Words Can Say",
+      "artist": "Alias",
+      "youtubeId": "u4YLqoTcSek",
+      "albumArt": "https://img.youtube.com/vi/u4YLqoTcSek/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinéad O'Connor",
+      "youtubeId": "Ouf9-bOqJVk",
+      "albumArt": "https://img.youtube.com/vi/Ouf9-bOqJVk/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Vogue",
+      "artist": "Madonna",
+      "youtubeId": "QJ1LOC_4n0g",
+      "albumArt": "https://img.youtube.com/vi/QJ1LOC_4n0g/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Downtown Train",
+      "artist": "Rod Stewart",
+      "youtubeId": "es3B90Wyy6w",
+      "albumArt": "https://img.youtube.com/vi/es3B90Wyy6w/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Release Me",
+      "artist": "Wilson Phillips",
+      "youtubeId": "_t0yh96Rjgw",
+      "albumArt": "https://img.youtube.com/vi/_t0yh96Rjgw/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "All I Wanna Do Is Make Love to You",
+      "artist": "Heart",
+      "youtubeId": "1AjNZx_l310",
+      "albumArt": "https://img.youtube.com/vi/1AjNZx_l310/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Vision of Love",
+      "artist": "Mariah Carey",
+      "youtubeId": "tov22NtCMC4",
+      "albumArt": "https://img.youtube.com/vi/tov22NtCMC4/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Do You Remember?",
+      "artist": "Phil Collins",
+      "youtubeId": "hhfx1MdjnZc",
+      "albumArt": "https://img.youtube.com/vi/hhfx1MdjnZc/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Escapade",
+      "artist": "Janet Jackson",
+      "youtubeId": "OOeObuVnaJ8",
+      "albumArt": "https://img.youtube.com/vi/OOeObuVnaJ8/hqdefault.jpg"
+    }
   ]
 }
