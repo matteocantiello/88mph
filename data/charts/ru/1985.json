@@ -19,7 +19,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e02d7cab5ea8874378f43d86e02",
       "previewUrl": null,
       "spotifyUri": "spotify:track:4EJN7S0RIFD50gZQOf4pRM",
-      "spotifyUrl": "https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM"
+      "spotifyUrl": "https://open.spotify.com/track/4EJN7S0RIFD50gZQOf4pRM",
+      "youtubeId": "b5991xEck5E"
     },
     {
       "rank": 3,
@@ -28,7 +29,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e02aa42414997a8a298a27de1e0",
       "previewUrl": null,
       "spotifyUri": "spotify:track:11dnSiSjN3hrmxuhFeL9a3",
-      "spotifyUrl": "https://open.spotify.com/track/11dnSiSjN3hrmxuhFeL9a3"
+      "spotifyUrl": "https://open.spotify.com/track/11dnSiSjN3hrmxuhFeL9a3",
+      "youtubeId": "aEOQ78xFdNo"
     },
     {
       "rank": 4,
@@ -37,7 +39,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e02e76117b240cf916b53755b50",
       "previewUrl": null,
       "spotifyUri": "spotify:track:4lmiJUs4OOiwJrozGmQLi5",
-      "spotifyUrl": "https://open.spotify.com/track/4lmiJUs4OOiwJrozGmQLi5"
+      "spotifyUrl": "https://open.spotify.com/track/4lmiJUs4OOiwJrozGmQLi5",
+      "youtubeId": "TvwRUSVkACk"
     },
     {
       "rank": 5,
@@ -46,7 +49,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e02c90b5d9cda57c4a26eea2058",
       "previewUrl": null,
       "spotifyUri": "spotify:track:6y9ZHB5YdYkWzGTwOt7GtV",
-      "spotifyUrl": "https://open.spotify.com/track/6y9ZHB5YdYkWzGTwOt7GtV"
+      "spotifyUrl": "https://open.spotify.com/track/6y9ZHB5YdYkWzGTwOt7GtV",
+      "youtubeId": "2ep3a2i3hr0"
     },
     {
       "rank": 6,
@@ -55,7 +59,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e029ea7653617fbf254a7c106f2",
       "previewUrl": null,
       "spotifyUri": "spotify:track:4izZoKL2bYp3Edh0u34uI1",
-      "spotifyUrl": "https://open.spotify.com/track/4izZoKL2bYp3Edh0u34uI1"
+      "spotifyUrl": "https://open.spotify.com/track/4izZoKL2bYp3Edh0u34uI1",
+      "youtubeId": "At3Qo9n4_Uc"
     },
     {
       "rank": 7,
@@ -64,7 +69,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e0219793d1fb940d2b61a952e17",
       "previewUrl": null,
       "spotifyUri": "spotify:track:06RIppEeTnsGXU3UcaRXpV",
-      "spotifyUrl": "https://open.spotify.com/track/06RIppEeTnsGXU3UcaRXpV"
+      "spotifyUrl": "https://open.spotify.com/track/06RIppEeTnsGXU3UcaRXpV",
+      "youtubeId": "FNfS1VBeKTg"
     },
     {
       "rank": 8,
@@ -91,7 +97,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e0281dd57adc240bd3ebe35d02c",
       "previewUrl": null,
       "spotifyUri": "spotify:track:6mrwHoafWEfB7iJYnNIGMn",
-      "spotifyUrl": "https://open.spotify.com/track/6mrwHoafWEfB7iJYnNIGMn"
+      "spotifyUrl": "https://open.spotify.com/track/6mrwHoafWEfB7iJYnNIGMn",
+      "youtubeId": "y6lGijnXerw"
     }
   ]
 }
