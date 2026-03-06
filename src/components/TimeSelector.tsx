@@ -28,8 +28,13 @@ export default function TimeSelector({
 
   useEffect(() => {
     if (initialYear && scrollRef.current) {
-      const el = scrollRef.current.querySelector(`[data-year="${initialYear}"]`);
-      el?.scrollIntoView({ behavior: "smooth", inline: "center", block: "nearest" });
+      const el = scrollRef.current.querySelector(`[data-year="${initialYear}"]`) as HTMLElement | null;
+      if (el) {
+        // Use scrollLeft instead of scrollIntoView to avoid scrolling the whole page
+        const container = scrollRef.current;
+        const scrollTarget = el.offsetLeft - container.offsetWidth / 2 + el.offsetWidth / 2;
+        container.scrollTo({ left: scrollTarget, behavior: "smooth" });
+      }
     }
   }, [initialYear, country]);
 
