@@ -54,7 +54,7 @@ export default async function HomePage() {
             <h1 className="led-hero text-5xl sm:text-7xl md:text-[7rem] lg:text-[8.5rem] leading-[0.82] mb-5">
               8<span className="-ml-[0.08em]">8</span>mph
             </h1>
-            <p className="font-body text-foreground/40 text-base md:text-lg max-w-lg mx-auto leading-relaxed mb-8">
+            <p className="font-display text-foreground/50 text-xl md:text-2xl lg:text-3xl max-w-lg mx-auto leading-relaxed mb-8">
               What was the world listening to?
             </p>
 
