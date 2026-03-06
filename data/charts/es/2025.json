@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "Spain's 2025 year-end chart confirmed the total domination of Latin urbano and reggaeton, with Colombian trio W Sound, Beéle, and Ovy On The Drums scoring the year's biggest single with 'La Plena'. Bad Bunny placed four songs in the top 10, cementing his status as Spain's biggest artist of the era, while Karol G's late 2024 hit maintained its chart presence deep into 2025.",
   "tracks": [
-    {"rank": 1, "title": "La Plena", "artist": "W Sound feat. Beéle & Ovy On The Drums"},
-    {"rank": 2, "title": "Capaz (Merengueton)", "artist": "Yorghaki feat. Alleh"},
-    {"rank": 3, "title": "BAILE INoLVIDABLE", "artist": "Bad Bunny"},
-    {"rank": 4, "title": "Mi Refe", "artist": "Beéle feat. Ovy On The Drums"},
-    {"rank": 5, "title": "No Tiene Sentido", "artist": "Beéle"},
-    {"rank": 6, "title": "NUEVAYoL", "artist": "Bad Bunny"},
-    {"rank": 7, "title": "Veldá", "artist": "Bad Bunny feat. Omar Courtz & Dei V"},
-    {"rank": 8, "title": "Si Antes Te Hubiera Conocido", "artist": "Karol G"},
-    {"rank": 9, "title": "DTMF", "artist": "Bad Bunny"},
-    {"rank": 10, "title": "Yo y Tú", "artist": "Ovy On The Drums feat. Quevedo & Beéle"}
+    {
+      "rank": 1,
+      "title": "La Plena",
+      "artist": "W Sound feat. Beéle & Ovy On The Drums",
+      "youtubeId": "H1pnb-P68I0",
+      "albumArt": "https://img.youtube.com/vi/H1pnb-P68I0/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Capaz (Merengueton)",
+      "artist": "Yorghaki feat. Alleh",
+      "youtubeId": "cMhT1SqxqHY",
+      "albumArt": "https://img.youtube.com/vi/cMhT1SqxqHY/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "youtubeId": "a1Femq4NPxs",
+      "albumArt": "https://img.youtube.com/vi/a1Femq4NPxs/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Mi Refe",
+      "artist": "Beéle feat. Ovy On The Drums",
+      "youtubeId": "w8l33K5D5CI",
+      "albumArt": "https://img.youtube.com/vi/w8l33K5D5CI/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "No Tiene Sentido",
+      "artist": "Beéle",
+      "youtubeId": "HL9VoQ-er_U",
+      "albumArt": "https://img.youtube.com/vi/HL9VoQ-er_U/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "NUEVAYoL",
+      "artist": "Bad Bunny",
+      "youtubeId": "KU5V5WZVcVE",
+      "albumArt": "https://img.youtube.com/vi/KU5V5WZVcVE/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Veldá",
+      "artist": "Bad Bunny feat. Omar Courtz & Dei V",
+      "youtubeId": "yNEpyU3PnDI",
+      "albumArt": "https://img.youtube.com/vi/yNEpyU3PnDI/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Si Antes Te Hubiera Conocido",
+      "artist": "Karol G",
+      "youtubeId": "MgsdDfdGdHc",
+      "albumArt": "https://img.youtube.com/vi/MgsdDfdGdHc/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "DTMF",
+      "artist": "Bad Bunny",
+      "youtubeId": "v9T_MGfzq7I",
+      "albumArt": "https://img.youtube.com/vi/v9T_MGfzq7I/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Yo y Tú",
+      "artist": "Ovy On The Drums feat. Quevedo & Beéle",
+      "youtubeId": "qy6PB3LQizY",
+      "albumArt": "https://img.youtube.com/vi/qy6PB3LQizY/hqdefault.jpg"
+    }
   ]
 }

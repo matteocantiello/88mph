@@ -3,15 +3,75 @@
   "year": 2015,
   "context": "2015 saw global EDM and pop crossovers dominate the French singles chart, with tropical house and dance tracks from Omi, Major Lazer, and Feder leading the year-end tally. French artists made their presence felt through rising pop star Marina Kaye, Feder's Strasbourg-born production, and Louane's breakout from 'The Voice France' and the César-winning film 'La Famille Bélier'. Streaming began to reshape how chart points were calculated in France.",
   "tracks": [
-    {"rank": 1, "title": "Cheerleader (Felix Jaehn Remix)", "artist": "Omi"},
-    {"rank": 2, "title": "Lean On", "artist": "Major Lazer feat. DJ Snake & MØ"},
-    {"rank": 3, "title": "Uptown Funk", "artist": "Mark Ronson feat. Bruno Mars"},
-    {"rank": 4, "title": "Take Me To Church", "artist": "Hozier"},
-    {"rank": 5, "title": "Homeless", "artist": "Marina Kaye"},
-    {"rank": 6, "title": "Goodbye", "artist": "Feder feat. Lyse"},
-    {"rank": 7, "title": "Avenir", "artist": "Louane"},
-    {"rank": 8, "title": "See You Again", "artist": "Wiz Khalifa feat. Charlie Puth"},
-    {"rank": 9, "title": "Love Me Like You Do", "artist": "Ellie Goulding"},
-    {"rank": 10, "title": "Are You With Me", "artist": "Lost Frequencies"}
+    {
+      "rank": 1,
+      "title": "Cheerleader (Felix Jaehn Remix)",
+      "artist": "Omi",
+      "youtubeId": "jGflUbPQfW8",
+      "albumArt": "https://img.youtube.com/vi/jGflUbPQfW8/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Lean On",
+      "artist": "Major Lazer feat. DJ Snake & MØ",
+      "youtubeId": "YqeW9_5kURI",
+      "albumArt": "https://img.youtube.com/vi/YqeW9_5kURI/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson feat. Bruno Mars",
+      "youtubeId": "OPf0YbXqDm0",
+      "albumArt": "https://img.youtube.com/vi/OPf0YbXqDm0/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Take Me To Church",
+      "artist": "Hozier",
+      "youtubeId": "PVjiKRfKpPI",
+      "albumArt": "https://img.youtube.com/vi/PVjiKRfKpPI/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Homeless",
+      "artist": "Marina Kaye",
+      "youtubeId": "pwKkjLOHd7s",
+      "albumArt": "https://img.youtube.com/vi/pwKkjLOHd7s/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Goodbye",
+      "artist": "Feder feat. Lyse",
+      "youtubeId": "Mptdcx36qZU",
+      "albumArt": "https://img.youtube.com/vi/Mptdcx36qZU/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Avenir",
+      "artist": "Louane",
+      "youtubeId": "niyGWxVE-e4",
+      "albumArt": "https://img.youtube.com/vi/niyGWxVE-e4/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "See You Again",
+      "artist": "Wiz Khalifa feat. Charlie Puth",
+      "youtubeId": "RgKAFK5djSk",
+      "albumArt": "https://img.youtube.com/vi/RgKAFK5djSk/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "youtubeId": "AJtDXIazrMo",
+      "albumArt": "https://img.youtube.com/vi/AJtDXIazrMo/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Are You With Me",
+      "artist": "Lost Frequencies",
+      "youtubeId": "VjHMDlAPMUw",
+      "albumArt": "https://img.youtube.com/vi/VjHMDlAPMUw/hqdefault.jpg"
+    }
   ]
 }

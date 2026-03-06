@@ -3,15 +3,75 @@
   "year": 2020,
   "context": "2020 was defined by the pandemic and the total dominance of French rap and urban music. Jul's Marseille collective anthem 'Bande Organisée' became a cultural phenomenon, featuring eight rappers and embodying the collaborative, street-rooted style of southern French rap. The chart reflected streaming's full takeover of French music consumption, with Afro-influenced trap alongside global crossover hits like The Weeknd's 'Blinding Lights'.",
   "tracks": [
-    {"rank": 1, "title": "Bande Organisée", "artist": "Jul feat. SCH, Naps, Kofs, Elams, Solda, Houari & Soso Maness"},
-    {"rank": 2, "title": "Blinding Lights", "artist": "The Weeknd"},
-    {"rank": 3, "title": "Angela", "artist": "Hatik"},
-    {"rank": 4, "title": "Dance Monkey", "artist": "Tones and I"},
-    {"rank": 5, "title": "Lettre à Une Femme", "artist": "Ninho"},
-    {"rank": 6, "title": "Ne Reviens Pas", "artist": "Gradur feat. Heuss L'Enfoiré"},
-    {"rank": 7, "title": "Djomb", "artist": "Bosh"},
-    {"rank": 8, "title": "Roses", "artist": "SAINt JHN"},
-    {"rank": 9, "title": "Blanche", "artist": "Maes feat. Booba"},
-    {"rank": 10, "title": "Distant", "artist": "Maes feat. Ninho"}
+    {
+      "rank": 1,
+      "title": "Bande Organisée",
+      "artist": "Jul feat. SCH, Naps, Kofs, Elams, Solda, Houari & Soso Maness",
+      "youtubeId": "-CVn3-3g_BI",
+      "albumArt": "https://img.youtube.com/vi/-CVn3-3g_BI/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "youtubeId": "4NRXx6U8ABQ",
+      "albumArt": "https://img.youtube.com/vi/4NRXx6U8ABQ/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Angela",
+      "artist": "Hatik",
+      "youtubeId": "uqsGUAM9WDk",
+      "albumArt": "https://img.youtube.com/vi/uqsGUAM9WDk/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "youtubeId": "q0hyYWKXF0Q",
+      "albumArt": "https://img.youtube.com/vi/q0hyYWKXF0Q/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Lettre à Une Femme",
+      "artist": "Ninho",
+      "youtubeId": "ifNfpzkoY9s",
+      "albumArt": "https://img.youtube.com/vi/ifNfpzkoY9s/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Ne Reviens Pas",
+      "artist": "Gradur feat. Heuss L'Enfoiré",
+      "youtubeId": "ZVgdQHA_IH4",
+      "albumArt": "https://img.youtube.com/vi/ZVgdQHA_IH4/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Djomb",
+      "artist": "Bosh",
+      "youtubeId": "zquFZaHw2TQ",
+      "albumArt": "https://img.youtube.com/vi/zquFZaHw2TQ/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Roses",
+      "artist": "SAINt JHN",
+      "youtubeId": "2zToEPpFEN8",
+      "albumArt": "https://img.youtube.com/vi/2zToEPpFEN8/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Blanche",
+      "artist": "Maes feat. Booba",
+      "youtubeId": "9k_ddK4wVXM",
+      "albumArt": "https://img.youtube.com/vi/9k_ddK4wVXM/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Distant",
+      "artist": "Maes feat. Ninho",
+      "youtubeId": "C7cdnKXqKOU",
+      "albumArt": "https://img.youtube.com/vi/C7cdnKXqKOU/hqdefault.jpg"
+    }
   ]
 }

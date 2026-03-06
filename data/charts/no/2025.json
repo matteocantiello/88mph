@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "Norway's 2025 chart was dominated by domestic breakouts: Tobias Sten placed multiple songs in the top 15, reflecting the powerful grip of local-language streaming on VG-lista. Norwegian acts Ari Bajgora and Emma Steinbakken showed strong appeal alongside Kjartan Lauritzen's Astrid S collaboration. International crossovers from ROSÉ, Bruno Mars, and Lady Gaga still claimed top-10 slots.",
   "tracks": [
-    {"rank": 1, "title": "Ordinary", "artist": "Alex Warren"},
-    {"rank": 2, "title": "Eli", "artist": "Tobias Sten"},
-    {"rank": 3, "title": "Falle Og Slå Seg", "artist": "Ari Bajgora"},
-    {"rank": 4, "title": "Friskis", "artist": "Kjartan Lauritzen feat. Astrid S"},
-    {"rank": 5, "title": "APT.", "artist": "ROSÉ & Bruno Mars"},
-    {"rank": 6, "title": "Fy Faen Du E Deili", "artist": "Tobias Sten"},
-    {"rank": 7, "title": "Die With A Smile", "artist": "Lady Gaga & Bruno Mars"},
-    {"rank": 8, "title": "Alle Vil Til Himmelen", "artist": "Emma Steinbakken feat. Synne Vo"},
-    {"rank": 9, "title": "Messy", "artist": "Lola Young"},
-    {"rank": 10, "title": "That's So True", "artist": "Gracie Abrams"}
+    {
+      "rank": 1,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "youtubeId": "u2ah9tWTkmk",
+      "albumArt": "https://img.youtube.com/vi/u2ah9tWTkmk/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Eli",
+      "artist": "Tobias Sten",
+      "youtubeId": "UutwmOIJMos",
+      "albumArt": "https://img.youtube.com/vi/UutwmOIJMos/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Falle Og Slå Seg",
+      "artist": "Ari Bajgora",
+      "youtubeId": "B69kQ5E_PQE",
+      "albumArt": "https://img.youtube.com/vi/B69kQ5E_PQE/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Friskis",
+      "artist": "Kjartan Lauritzen feat. Astrid S",
+      "youtubeId": "dLSXt6DmrLc",
+      "albumArt": "https://img.youtube.com/vi/dLSXt6DmrLc/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "ekr2nIex040",
+      "albumArt": "https://img.youtube.com/vi/ekr2nIex040/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Fy Faen Du E Deili",
+      "artist": "Tobias Sten",
+      "youtubeId": "e8A891_PzMg",
+      "albumArt": "https://img.youtube.com/vi/e8A891_PzMg/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "kPa7bsKwL-c",
+      "albumArt": "https://img.youtube.com/vi/kPa7bsKwL-c/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Alle Vil Til Himmelen",
+      "artist": "Emma Steinbakken feat. Synne Vo",
+      "youtubeId": "nBV3mdjf7-w",
+      "albumArt": "https://img.youtube.com/vi/nBV3mdjf7-w/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Messy",
+      "artist": "Lola Young",
+      "youtubeId": "k-k2_Liofy8",
+      "albumArt": "https://img.youtube.com/vi/k-k2_Liofy8/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "youtubeId": "BDHM8cyJQa8",
+      "albumArt": "https://img.youtube.com/vi/BDHM8cyJQa8/hqdefault.jpg"
+    }
   ]
 }

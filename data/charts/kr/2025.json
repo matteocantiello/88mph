@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "The 2025 Circle Chart year-end was topped by WOODZ's 'Drowning' with 687 million weighted points. The chart reflected K-pop's global momentum alongside a strong domestic ballad tradition, with G-Dragon's long-awaited comeback featuring Big Bang members and Rosé's collaboration 'APT.' with Bruno Mars both charting prominently.",
   "tracks": [
-    {"rank": 1, "title": "Drowning", "artist": "WOODZ"},
-    {"rank": 2, "title": "Whiplash", "artist": "aespa"},
-    {"rank": 3, "title": "Golden", "artist": "HUNTR/X"},
-    {"rank": 4, "title": "I'm Firefly", "artist": "Hwang Karam"},
-    {"rank": 5, "title": "HOME SWEET HOME", "artist": "G-Dragon feat. Taeyang & Daesung"},
-    {"rank": 6, "title": "Don't You Know", "artist": "ZO ZAZZ"},
-    {"rank": 7, "title": "APT.", "artist": "Rosé & Bruno Mars"},
-    {"rank": 8, "title": "REBEL HEART", "artist": "IVE"},
-    {"rank": 9, "title": "To Reach You", "artist": "10CM"},
-    {"rank": 10, "title": "IF I SAY, I LOVE YOU", "artist": "BOYNEXTDOOR"}
+    {
+      "rank": 1,
+      "title": "Drowning",
+      "artist": "WOODZ",
+      "youtubeId": "tiKFuzpX-NA",
+      "albumArt": "https://img.youtube.com/vi/tiKFuzpX-NA/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Whiplash",
+      "artist": "aespa",
+      "youtubeId": "jWQx2f-CErU",
+      "albumArt": "https://img.youtube.com/vi/jWQx2f-CErU/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Golden",
+      "artist": "HUNTR/X",
+      "youtubeId": "yebNIHKAC4A",
+      "albumArt": "https://img.youtube.com/vi/yebNIHKAC4A/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "I'm Firefly",
+      "artist": "Hwang Karam",
+      "youtubeId": "vpdxIyJVJ48",
+      "albumArt": "https://img.youtube.com/vi/vpdxIyJVJ48/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "HOME SWEET HOME",
+      "artist": "G-Dragon feat. Taeyang & Daesung",
+      "youtubeId": "fLi0EJfi_vg",
+      "albumArt": "https://img.youtube.com/vi/fLi0EJfi_vg/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Don't You Know",
+      "artist": "ZO ZAZZ",
+      "youtubeId": "tfmwbxBKPh0",
+      "albumArt": "https://img.youtube.com/vi/tfmwbxBKPh0/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "APT.",
+      "artist": "Rosé & Bruno Mars",
+      "youtubeId": "ekr2nIex040",
+      "albumArt": "https://img.youtube.com/vi/ekr2nIex040/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "REBEL HEART",
+      "artist": "IVE",
+      "youtubeId": "g36q0ZLvygQ",
+      "albumArt": "https://img.youtube.com/vi/g36q0ZLvygQ/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "To Reach You",
+      "artist": "10CM",
+      "youtubeId": "Ry1RrIVyl1M",
+      "albumArt": "https://img.youtube.com/vi/Ry1RrIVyl1M/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "IF I SAY, I LOVE YOU",
+      "artist": "BOYNEXTDOOR",
+      "youtubeId": "B4mLKcVIERs",
+      "albumArt": "https://img.youtube.com/vi/B4mLKcVIERs/hqdefault.jpg"
+    }
   ]
 }

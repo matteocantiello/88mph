@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "2025 was the year of Gims's total dominance of the French charts, with the Congolese-French rapper-singer placing multiple tracks in the year-end top 10. French rap and urban pop remained the backbone of chart activity, while SDM's street-rap collaborations with Booba signaled the continued commercial power of the Parisian rap scene. Global crossovers from Alex Warren and Lola Young also penetrated the French market.",
   "tracks": [
-    {"rank": 1, "title": "Ciel", "artist": "Gims"},
-    {"rank": 2, "title": "Feel Good", "artist": "Charlotte Cardin"},
-    {"rank": 3, "title": "Cartier Santos", "artist": "SDM"},
-    {"rank": 4, "title": "Sois Pas Timide", "artist": "Gims"},
-    {"rank": 5, "title": "Dolce Camara", "artist": "Booba & SDM"},
-    {"rank": 6, "title": "Ninao", "artist": "Gims"},
-    {"rank": 7, "title": "Spider", "artist": "Gims & Dystinct"},
-    {"rank": 8, "title": "Ordinary", "artist": "Alex Warren"},
-    {"rank": 9, "title": "Messy", "artist": "Lola Young"},
-    {"rank": 10, "title": "Melrose Place", "artist": "Keblack & Guy2Bezbar"}
+    {
+      "rank": 1,
+      "title": "Ciel",
+      "artist": "Gims",
+      "youtubeId": "KG6ft_YDp5k",
+      "albumArt": "https://img.youtube.com/vi/KG6ft_YDp5k/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Feel Good",
+      "artist": "Charlotte Cardin",
+      "youtubeId": "_eUYB7M4EDE",
+      "albumArt": "https://img.youtube.com/vi/_eUYB7M4EDE/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Cartier Santos",
+      "artist": "SDM",
+      "youtubeId": "4lRWIQzuge8",
+      "albumArt": "https://img.youtube.com/vi/4lRWIQzuge8/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Sois Pas Timide",
+      "artist": "Gims",
+      "youtubeId": "Sq5EDI7JktA",
+      "albumArt": "https://img.youtube.com/vi/Sq5EDI7JktA/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Dolce Camara",
+      "artist": "Booba & SDM",
+      "youtubeId": "AgFG6_TGdTY",
+      "albumArt": "https://img.youtube.com/vi/AgFG6_TGdTY/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Ninao",
+      "artist": "Gims",
+      "youtubeId": "VT2qF97pQNw",
+      "albumArt": "https://img.youtube.com/vi/VT2qF97pQNw/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Spider",
+      "artist": "Gims & Dystinct",
+      "youtubeId": "NLXiGXbxl6Q",
+      "albumArt": "https://img.youtube.com/vi/NLXiGXbxl6Q/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "youtubeId": "u2ah9tWTkmk",
+      "albumArt": "https://img.youtube.com/vi/u2ah9tWTkmk/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Messy",
+      "artist": "Lola Young",
+      "youtubeId": "k-k2_Liofy8",
+      "albumArt": "https://img.youtube.com/vi/k-k2_Liofy8/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Melrose Place",
+      "artist": "Keblack & Guy2Bezbar",
+      "youtubeId": "dxnacr0NriQ",
+      "albumArt": "https://img.youtube.com/vi/dxnacr0NriQ/hqdefault.jpg"
+    }
   ]
 }

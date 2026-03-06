@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "The 2025 Dutch year-end chart reflected a mix of viral international hits and homegrown Dutch talent. American singer Alex Warren's 'Ordinary' topped the chart, while a Utrecht student association's charity single 'Lotje' became a viral sensation. Dutch Afrobeats act Frenna and local pop artists like Antoon represented the rising influence of urban sounds alongside global pop from Lady Gaga, Bruno Mars, and Lola Young.",
   "tracks": [
-    {"rank": 1, "title": "Ordinary", "artist": "Alex Warren"},
-    {"rank": 2, "title": "Echte liefde is te koop", "artist": "Samuel Welten"},
-    {"rank": 3, "title": "Zaazaa", "artist": "Frenna feat. Shallipopi"},
-    {"rank": 4, "title": "Messy", "artist": "Lola Young"},
-    {"rank": 5, "title": "Die With A Smile", "artist": "Lady Gaga & Bruno Mars"},
-    {"rank": 6, "title": "Show Me Love", "artist": "WizTheMc x Bees & Honey"},
-    {"rank": 7, "title": "APT.", "artist": "ROSÉ & Bruno Mars"},
-    {"rank": 8, "title": "Terug in de tijd", "artist": "Yves Berendse"},
-    {"rank": 9, "title": "Beetje van mij", "artist": "Antoon"},
-    {"rank": 10, "title": "That's So True", "artist": "Gracie Abrams"}
+    {
+      "rank": 1,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "youtubeId": "u2ah9tWTkmk",
+      "albumArt": "https://img.youtube.com/vi/u2ah9tWTkmk/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Echte liefde is te koop",
+      "artist": "Samuel Welten",
+      "youtubeId": "cw0AyFUHCfc",
+      "albumArt": "https://img.youtube.com/vi/cw0AyFUHCfc/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Zaazaa",
+      "artist": "Frenna feat. Shallipopi",
+      "youtubeId": "J2ehMsHHtK0",
+      "albumArt": "https://img.youtube.com/vi/J2ehMsHHtK0/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Messy",
+      "artist": "Lola Young",
+      "youtubeId": "k-k2_Liofy8",
+      "albumArt": "https://img.youtube.com/vi/k-k2_Liofy8/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "kPa7bsKwL-c",
+      "albumArt": "https://img.youtube.com/vi/kPa7bsKwL-c/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Show Me Love",
+      "artist": "WizTheMc x Bees & Honey",
+      "youtubeId": "Z3aduh5fxCo",
+      "albumArt": "https://img.youtube.com/vi/Z3aduh5fxCo/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "ekr2nIex040",
+      "albumArt": "https://img.youtube.com/vi/ekr2nIex040/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Terug in de tijd",
+      "artist": "Yves Berendse",
+      "youtubeId": "DfUYjPUlxwg",
+      "albumArt": "https://img.youtube.com/vi/DfUYjPUlxwg/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Beetje van mij",
+      "artist": "Antoon",
+      "youtubeId": "F-txo-OplB4",
+      "albumArt": "https://img.youtube.com/vi/F-txo-OplB4/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "youtubeId": "BDHM8cyJQa8",
+      "albumArt": "https://img.youtube.com/vi/BDHM8cyJQa8/hqdefault.jpg"
+    }
   ]
 }

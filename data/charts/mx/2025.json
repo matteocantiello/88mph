@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "In 2025, corridos tumbados and música mexicana completed their global conquest, with Fuerza Regida and Grupo Frontera placing multiple tracks on international charts while Bad Bunny's DeBÍ TiRAR MáS FOToS dominated Latin music globally. Bad Bunny placed six songs in the Billboard year-end Hot Latin Songs top 10, while Fuerza Regida claimed three spots, cementing Mexican regional music's rise to mainstream powerhouse status.",
   "tracks": [
-    {"rank": 1, "title": "DtMF", "artist": "Bad Bunny"},
-    {"rank": 2, "title": "BAILE INoLVIDABLE", "artist": "Bad Bunny"},
-    {"rank": 3, "title": "NUEVAYoL", "artist": "Bad Bunny"},
-    {"rank": 4, "title": "EoO", "artist": "Bad Bunny"},
-    {"rank": 5, "title": "ME JALO", "artist": "Fuerza Regida & Grupo Frontera"},
-    {"rank": 6, "title": "Tu Boda", "artist": "Óscar Maydon & Fuerza Regida"},
-    {"rank": 7, "title": "Loco", "artist": "Netón Vega"},
-    {"rank": 8, "title": "Qué Pasaría…", "artist": "Rauw Alejandro & Bad Bunny"},
-    {"rank": 9, "title": "VOY A LLeVARTE PA PR", "artist": "Bad Bunny"},
-    {"rank": 10, "title": "Por Esos Ojos", "artist": "Fuerza Regida"}
+    {
+      "rank": 1,
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "youtubeId": "v9T_MGfzq7I",
+      "albumArt": "https://img.youtube.com/vi/v9T_MGfzq7I/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "BAILE INoLVIDABLE",
+      "artist": "Bad Bunny",
+      "youtubeId": "a1Femq4NPxs",
+      "albumArt": "https://img.youtube.com/vi/a1Femq4NPxs/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "NUEVAYoL",
+      "artist": "Bad Bunny",
+      "youtubeId": "KU5V5WZVcVE",
+      "albumArt": "https://img.youtube.com/vi/KU5V5WZVcVE/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "EoO",
+      "artist": "Bad Bunny",
+      "youtubeId": "myDIeOjqQos",
+      "albumArt": "https://img.youtube.com/vi/myDIeOjqQos/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "ME JALO",
+      "artist": "Fuerza Regida & Grupo Frontera",
+      "youtubeId": "naSfZ-Q-PpE",
+      "albumArt": "https://img.youtube.com/vi/naSfZ-Q-PpE/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Tu Boda",
+      "artist": "Óscar Maydon & Fuerza Regida",
+      "youtubeId": "_ymicn0_GYc",
+      "albumArt": "https://img.youtube.com/vi/_ymicn0_GYc/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Loco",
+      "artist": "Netón Vega",
+      "youtubeId": "z7-bDzJbtis",
+      "albumArt": "https://img.youtube.com/vi/z7-bDzJbtis/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Qué Pasaría…",
+      "artist": "Rauw Alejandro & Bad Bunny",
+      "youtubeId": "g08y_x83d5E",
+      "albumArt": "https://img.youtube.com/vi/g08y_x83d5E/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "VOY A LLeVARTE PA PR",
+      "artist": "Bad Bunny",
+      "youtubeId": "X2MGCIDOMZ4",
+      "albumArt": "https://img.youtube.com/vi/X2MGCIDOMZ4/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Por Esos Ojos",
+      "artist": "Fuerza Regida",
+      "youtubeId": "4OhjzNnTpW0",
+      "albumArt": "https://img.youtube.com/vi/4OhjzNnTpW0/hqdefault.jpg"
+    }
   ]
 }

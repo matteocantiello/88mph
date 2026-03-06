@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "2025 was a watershed year for Australian chart homogenisation — not a single Australian act cracked the ARIA Top 20, with global pop entirely dominating. Alex Warren's 'Ordinary' spent 17 weeks at number one, the longest run of the year, while Chappell Roan and Bruno Mars collaborations defined the year's sound. The ARIA chart methodology was updated in September 2025, reflecting growing influence of streaming data weighting.",
   "tracks": [
-    {"rank": 1, "title": "Ordinary", "artist": "Alex Warren"},
-    {"rank": 2, "title": "APT.", "artist": "ROSÉ & Bruno Mars"},
-    {"rank": 3, "title": "That's So True", "artist": "Gracie Abrams"},
-    {"rank": 4, "title": "Die With A Smile", "artist": "Lady Gaga & Bruno Mars"},
-    {"rank": 5, "title": "Birds of a Feather", "artist": "Billie Eilish"},
-    {"rank": 6, "title": "Beautiful Things", "artist": "Benson Boone"},
-    {"rank": 7, "title": "Messy", "artist": "Lola Young"},
-    {"rank": 8, "title": "A Bar Song (Tipsy)", "artist": "Shaboozey"},
-    {"rank": 9, "title": "Pink Pony Club", "artist": "Chappell Roan"},
-    {"rank": 10, "title": "Good Luck, Babe!", "artist": "Chappell Roan"}
+    {
+      "rank": 1,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "youtubeId": "u2ah9tWTkmk",
+      "albumArt": "https://img.youtube.com/vi/u2ah9tWTkmk/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "ekr2nIex040",
+      "albumArt": "https://img.youtube.com/vi/ekr2nIex040/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "youtubeId": "BDHM8cyJQa8",
+      "albumArt": "https://img.youtube.com/vi/BDHM8cyJQa8/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "kPa7bsKwL-c",
+      "albumArt": "https://img.youtube.com/vi/kPa7bsKwL-c/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "youtubeId": "V9PVRfjEBTI",
+      "albumArt": "https://img.youtube.com/vi/V9PVRfjEBTI/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "youtubeId": "Oa_RSwwpPaA",
+      "albumArt": "https://img.youtube.com/vi/Oa_RSwwpPaA/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Messy",
+      "artist": "Lola Young",
+      "youtubeId": "k-k2_Liofy8",
+      "albumArt": "https://img.youtube.com/vi/k-k2_Liofy8/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "youtubeId": "t7bQwwqW-Hc",
+      "albumArt": "https://img.youtube.com/vi/t7bQwwqW-Hc/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "youtubeId": "GR3Liudev18",
+      "albumArt": "https://img.youtube.com/vi/GR3Liudev18/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "youtubeId": "U_Lz_MG35hM",
+      "albumArt": "https://img.youtube.com/vi/U_Lz_MG35hM/hqdefault.jpg"
+    }
   ]
 }

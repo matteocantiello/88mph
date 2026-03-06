@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "The 2025 Oricon chart reflected continued dominance of Johnny's successor acts and Sakamichi-series idol groups. Snow Man topped the year with 'SERIOUS', while Nogizaka46 placed three singles in the top 10. K-pop groups ENHYPEN and &TEAM, releasing Japanese-language singles, cracked the top 10, reflecting the sustained strength of Korean acts in the Japanese market.",
   "tracks": [
-    {"rank": 1, "title": "SERIOUS", "artist": "Snow Man"},
-    {"rank": 2, "title": "THE WINTER MAGIC", "artist": "INI"},
-    {"rank": 3, "title": "Same Numbers", "artist": "Nogizaka46"},
-    {"rank": 4, "title": "Handz In My Pocket", "artist": "JO1"},
-    {"rank": 5, "title": "Biryani", "artist": "Nogizaka46"},
-    {"rank": 6, "title": "Unhappy Birthday Koubun", "artist": "Sakurazaka46"},
-    {"rank": 7, "title": "Navel Orange", "artist": "Nogizaka46"},
-    {"rank": 8, "title": "YOI", "artist": "ENHYPEN"},
-    {"rank": 9, "title": "Go in Blind", "artist": "&TEAM"},
-    {"rank": 10, "title": "Steal The Show / Recipe", "artist": "timelesz"}
+    {
+      "rank": 1,
+      "title": "SERIOUS",
+      "artist": "Snow Man",
+      "youtubeId": "H0MuwWjM4ok",
+      "albumArt": "https://img.youtube.com/vi/H0MuwWjM4ok/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "THE WINTER MAGIC",
+      "artist": "INI",
+      "youtubeId": "idlKynwc5zc",
+      "albumArt": "https://img.youtube.com/vi/idlKynwc5zc/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Same Numbers",
+      "artist": "Nogizaka46",
+      "youtubeId": "g70yImobLm4",
+      "albumArt": "https://img.youtube.com/vi/g70yImobLm4/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Handz In My Pocket",
+      "artist": "JO1",
+      "youtubeId": "wniN-2kFKRc",
+      "albumArt": "https://img.youtube.com/vi/wniN-2kFKRc/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Biryani",
+      "artist": "Nogizaka46",
+      "youtubeId": "NReeTQ3YTAU",
+      "albumArt": "https://img.youtube.com/vi/NReeTQ3YTAU/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Unhappy Birthday Koubun",
+      "artist": "Sakurazaka46",
+      "youtubeId": "hBfDlIN0WtI",
+      "albumArt": "https://img.youtube.com/vi/hBfDlIN0WtI/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Navel Orange",
+      "artist": "Nogizaka46",
+      "youtubeId": "06E14_7t710",
+      "albumArt": "https://img.youtube.com/vi/06E14_7t710/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "YOI",
+      "artist": "ENHYPEN",
+      "youtubeId": "HmAtJr0Mhh4",
+      "albumArt": "https://img.youtube.com/vi/HmAtJr0Mhh4/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Go in Blind",
+      "artist": "&TEAM",
+      "youtubeId": "RjJTiajpyrA",
+      "albumArt": "https://img.youtube.com/vi/RjJTiajpyrA/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Steal The Show / Recipe",
+      "artist": "timelesz",
+      "youtubeId": "YipTcFcOhb4",
+      "albumArt": "https://img.youtube.com/vi/YipTcFcOhb4/hqdefault.jpg"
+    }
   ]
 }

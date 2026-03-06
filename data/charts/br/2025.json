@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "2025 Brazil was dominated entirely by domestic acts, with sertanejo and funk claiming all top 10 positions on Spotify. Grupo Menos É Mais brought pagode back into the mainstream, while Diego & Victor Hugo and Henrique & Juliano continued sertanejo's reign. Funk carioca from DJ Caio Vieira and MC collaborations showed the genre's streaming power alongside arrocha and forró crossovers.",
   "tracks": [
-    {"rank": 1, "title": "Tubarões", "artist": "Diego & Victor Hugo"},
-    {"rank": 2, "title": "P do Pecado", "artist": "Grupo Menos É Mais & Simone Mendes"},
-    {"rank": 3, "title": "Coração Partido", "artist": "Grupo Menos É Mais"},
-    {"rank": 4, "title": "Apaga Apaga Apaga", "artist": "Danilo e Davi"},
-    {"rank": 5, "title": "Última Saudade", "artist": "Henrique & Juliano"},
-    {"rank": 6, "title": "Fui Mlk", "artist": "Nilo & MC Paiva ZS & DJ Di Marques"},
-    {"rank": 7, "title": "Famosinha", "artist": "DJ Caio Vieira & MC Meno K & MC Rodrigo do CN"},
-    {"rank": 8, "title": "Cópia Proibida", "artist": "Léo Foguete"},
-    {"rank": 9, "title": "Oh Garota Eu Quero Você Só Pra Mim", "artist": "Oruam & Zé Felipe & MC Tuto"},
-    {"rank": 10, "title": "Ilusão De Ótica", "artist": "Matheus & Kauan & Ana Castela"}
+    {
+      "rank": 1,
+      "title": "Tubarões",
+      "artist": "Diego & Victor Hugo",
+      "youtubeId": "10XarNSkw0s",
+      "albumArt": "https://img.youtube.com/vi/10XarNSkw0s/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "P do Pecado",
+      "artist": "Grupo Menos É Mais & Simone Mendes",
+      "youtubeId": "eAIivxKZYZw",
+      "albumArt": "https://img.youtube.com/vi/eAIivxKZYZw/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Coração Partido",
+      "artist": "Grupo Menos É Mais",
+      "youtubeId": "n5wxZ_OBUXk",
+      "albumArt": "https://img.youtube.com/vi/n5wxZ_OBUXk/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Apaga Apaga Apaga",
+      "artist": "Danilo e Davi",
+      "youtubeId": "WLhMxtuZr70",
+      "albumArt": "https://img.youtube.com/vi/WLhMxtuZr70/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Última Saudade",
+      "artist": "Henrique & Juliano",
+      "youtubeId": "9Vt4XguN2-A",
+      "albumArt": "https://img.youtube.com/vi/9Vt4XguN2-A/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Fui Mlk",
+      "artist": "Nilo & MC Paiva ZS & DJ Di Marques",
+      "youtubeId": "WjDCg41Yfl8",
+      "albumArt": "https://img.youtube.com/vi/WjDCg41Yfl8/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Famosinha",
+      "artist": "DJ Caio Vieira & MC Meno K & MC Rodrigo do CN",
+      "youtubeId": "bE9QYHv1CLo",
+      "albumArt": "https://img.youtube.com/vi/bE9QYHv1CLo/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Cópia Proibida",
+      "artist": "Léo Foguete",
+      "youtubeId": "AC8aNNki8LU",
+      "albumArt": "https://img.youtube.com/vi/AC8aNNki8LU/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Oh Garota Eu Quero Você Só Pra Mim",
+      "artist": "Oruam & Zé Felipe & MC Tuto",
+      "youtubeId": "sIkIzcYpouA",
+      "albumArt": "https://img.youtube.com/vi/sIkIzcYpouA/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Ilusão De Ótica",
+      "artist": "Matheus & Kauan & Ana Castela",
+      "youtubeId": "THAc6Y_UltE",
+      "albumArt": "https://img.youtube.com/vi/THAc6Y_UltE/hqdefault.jpg"
+    }
   ]
 }
