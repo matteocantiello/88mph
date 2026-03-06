@@ -7,61 +7,71 @@
       "rank": 1,
       "title": "Rolling in the Deep",
       "artist": "Adele",
-      "youtubeId": "x9Qv47HpEqw"
+      "youtubeId": "x9Qv47HpEqw",
+      "albumArt": "https://img.youtube.com/vi/x9Qv47HpEqw/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Party Rock Anthem",
       "artist": "LMFAO ft. Lauren Bennett & GoonRock",
-      "youtubeId": "KQ6zr6kCPj8"
+      "youtubeId": "KQ6zr6kCPj8",
+      "albumArt": "https://img.youtube.com/vi/KQ6zr6kCPj8/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Firework",
       "artist": "Katy Perry",
-      "youtubeId": "D7dp3I4HZGY"
+      "youtubeId": "D7dp3I4HZGY",
+      "albumArt": "https://img.youtube.com/vi/D7dp3I4HZGY/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "E.T.",
       "artist": "Katy Perry ft. Kanye West",
-      "youtubeId": "7XI4B2ckhog"
+      "youtubeId": "7XI4B2ckhog",
+      "albumArt": "https://img.youtube.com/vi/7XI4B2ckhog/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Give Me Everything",
       "artist": "Pitbull ft. Ne-Yo, Afrojack & Nayer",
-      "youtubeId": "E2lX1ZovtcA"
+      "youtubeId": "E2lX1ZovtcA",
+      "albumArt": "https://img.youtube.com/vi/E2lX1ZovtcA/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Grenade",
       "artist": "Bruno Mars",
-      "youtubeId": "SR6iYWJxHqs"
+      "youtubeId": "SR6iYWJxHqs",
+      "albumArt": "https://img.youtube.com/vi/SR6iYWJxHqs/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Forget You",
       "artist": "CeeLo Green",
-      "youtubeId": "bKxodgpyGec"
+      "youtubeId": "bKxodgpyGec",
+      "albumArt": "https://img.youtube.com/vi/bKxodgpyGec/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Super Bass",
       "artist": "Nicki Minaj",
-      "youtubeId": "zqZt6VNnEIA"
+      "youtubeId": "zqZt6VNnEIA",
+      "albumArt": "https://img.youtube.com/vi/zqZt6VNnEIA/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Moves Like Jagger",
       "artist": "Maroon 5 ft. Christina Aguilera",
-      "youtubeId": "iEPTlhBmwRg"
+      "youtubeId": "iEPTlhBmwRg",
+      "albumArt": "https://img.youtube.com/vi/iEPTlhBmwRg/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Just Can't Get Enough",
       "artist": "The Black Eyed Peas",
-      "youtubeId": "e6ztG5kjUZo"
+      "youtubeId": "e6ztG5kjUZo",
+      "albumArt": "https://img.youtube.com/vi/e6ztG5kjUZo/hqdefault.jpg"
     }
   ]
 }

@@ -3,15 +3,75 @@
   "year": 2023,
   "context": "Country and Latin music surged into the pop mainstream as Morgan Wallen's 'Last Night' topped the year-end chart and Eslabon Armado and Peso Pluma's 'Ella Baila Sola' became the first regional Mexican song to crack the top five. SZA landed two entries from her critically acclaimed SOS, Taylor Swift's 'Anti-Hero' extended her Midnights era dominance, and Miley Cyrus reclaimed pop stardom with the empowerment anthem 'Flowers.'",
   "tracks": [
-    { "rank": 1, "title": "Last Night", "artist": "Morgan Wallen" },
-    { "rank": 2, "title": "Flowers", "artist": "Miley Cyrus" },
-    { "rank": 3, "title": "Anti-Hero", "artist": "Taylor Swift" },
-    { "rank": 4, "title": "Kill Bill", "artist": "SZA" },
-    { "rank": 5, "title": "Ella Baila Sola", "artist": "Eslabon Armado & Peso Pluma" },
-    { "rank": 6, "title": "Vampire", "artist": "Olivia Rodrigo" },
-    { "rank": 7, "title": "Die for You (Remix)", "artist": "The Weeknd & Ariana Grande" },
-    { "rank": 8, "title": "Fast Car", "artist": "Luke Combs" },
-    { "rank": 9, "title": "Snooze", "artist": "SZA" },
-    { "rank": 10, "title": "I'm Good (Blue)", "artist": "David Guetta & Bebe Rexha" }
+    {
+      "rank": 1,
+      "title": "Last Night",
+      "artist": "Morgan Wallen",
+      "youtubeId": "GwXVMhVjjCI",
+      "albumArt": "https://img.youtube.com/vi/GwXVMhVjjCI/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "youtubeId": "BkSSOGNeWTM",
+      "albumArt": "https://img.youtube.com/vi/BkSSOGNeWTM/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "youtubeId": "gGwN25z7FrE",
+      "albumArt": "https://img.youtube.com/vi/gGwN25z7FrE/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Kill Bill",
+      "artist": "SZA",
+      "youtubeId": "lcX37Pzobxw",
+      "albumArt": "https://img.youtube.com/vi/lcX37Pzobxw/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Ella Baila Sola",
+      "artist": "Eslabon Armado & Peso Pluma",
+      "youtubeId": "1TVyEcR5pcw",
+      "albumArt": "https://img.youtube.com/vi/1TVyEcR5pcw/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Vampire",
+      "artist": "Olivia Rodrigo",
+      "youtubeId": "RXdABv5O4qc",
+      "albumArt": "https://img.youtube.com/vi/RXdABv5O4qc/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Die for You (Remix)",
+      "artist": "The Weeknd & Ariana Grande",
+      "youtubeId": "AySMGpXQ1Mo",
+      "albumArt": "https://img.youtube.com/vi/AySMGpXQ1Mo/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Fast Car",
+      "artist": "Luke Combs",
+      "youtubeId": "aXmmyuIqZyo",
+      "albumArt": "https://img.youtube.com/vi/aXmmyuIqZyo/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Snooze",
+      "artist": "SZA",
+      "youtubeId": "LDY_XyxBu8A",
+      "albumArt": "https://img.youtube.com/vi/LDY_XyxBu8A/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta & Bebe Rexha",
+      "youtubeId": "uFLt7knYUek",
+      "albumArt": "https://img.youtube.com/vi/uFLt7knYUek/hqdefault.jpg"
+    }
   ]
 }

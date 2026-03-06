@@ -3,15 +3,75 @@
   "year": 2025,
   "context": "Lady Gaga and Bruno Mars' 'Die With a Smile' topped the charts with a retro-pop duet that proved superstar collaborations still reign supreme. Kendrick Lamar and SZA continued their hot streaks with 'Luther,' Chappell Roan's 'Pink Pony Club' completed one of the longest viral-to-mainstream journeys in pop history, and Billie Eilish and Shaboozey carried over momentum from 2024 to cement themselves as defining voices of the mid-2020s.",
   "tracks": [
-    { "rank": 1, "title": "Die With a Smile", "artist": "Lady Gaga & Bruno Mars" },
-    { "rank": 2, "title": "Luther", "artist": "Kendrick Lamar & SZA" },
-    { "rank": 3, "title": "A Bar Song (Tipsy)", "artist": "Shaboozey" },
-    { "rank": 4, "title": "Lose Control", "artist": "Teddy Swims" },
-    { "rank": 5, "title": "Birds of a Feather", "artist": "Billie Eilish" },
-    { "rank": 6, "title": "Beautiful Things", "artist": "Benson Boone" },
-    { "rank": 7, "title": "Ordinary", "artist": "Alex Warren" },
-    { "rank": 8, "title": "I Had Some Help", "artist": "Post Malone ft. Morgan Wallen" },
-    { "rank": 9, "title": "APT.", "artist": "ROSÉ & Bruno Mars" },
-    { "rank": 10, "title": "Pink Pony Club", "artist": "Chappell Roan" }
+    {
+      "rank": 1,
+      "title": "Die With a Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "DlFXDl_ROAM",
+      "albumArt": "https://img.youtube.com/vi/DlFXDl_ROAM/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Luther",
+      "artist": "Kendrick Lamar & SZA",
+      "youtubeId": "XVveECQmiAk",
+      "albumArt": "https://img.youtube.com/vi/XVveECQmiAk/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "youtubeId": "DPaqlPFznBI",
+      "albumArt": "https://img.youtube.com/vi/DPaqlPFznBI/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Lose Control",
+      "artist": "Teddy Swims",
+      "youtubeId": "mOAy_vCa33E",
+      "albumArt": "https://img.youtube.com/vi/mOAy_vCa33E/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "youtubeId": "WKZO-CWeOVA",
+      "albumArt": "https://img.youtube.com/vi/WKZO-CWeOVA/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "youtubeId": "Oa_RSwwpPaA",
+      "albumArt": "https://img.youtube.com/vi/Oa_RSwwpPaA/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "youtubeId": "byxFUKxhT3s",
+      "albumArt": "https://img.youtube.com/vi/byxFUKxhT3s/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "I Had Some Help",
+      "artist": "Post Malone ft. Morgan Wallen",
+      "youtubeId": "B8VEqSBTjZQ",
+      "albumArt": "https://img.youtube.com/vi/B8VEqSBTjZQ/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "DiTd771WumE",
+      "albumArt": "https://img.youtube.com/vi/DiTd771WumE/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "youtubeId": "R_iTpfSCIVk",
+      "albumArt": "https://img.youtube.com/vi/R_iTpfSCIVk/hqdefault.jpg"
+    }
   ]
 }

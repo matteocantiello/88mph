@@ -3,15 +3,75 @@
   "year": 2022,
   "context": "Glass Animals' 'Heat Waves' completed an unprecedented slow-burn climb that took over two years from release to year-end #1, exemplifying TikTok's power to revive catalog tracks. Harry Styles dominated with two top-ten entries from Harry's House, Adele's 'Easy On Me' carried over from a blockbuster late-2021 album cycle, and Steve Lacy's 'Bad Habit' showed that lo-fi bedroom pop could scale to mainstream success.",
   "tracks": [
-    { "rank": 1, "title": "Heat Waves", "artist": "Glass Animals" },
-    { "rank": 2, "title": "As It Was", "artist": "Harry Styles" },
-    { "rank": 3, "title": "Stay", "artist": "The Kid LAROI & Justin Bieber" },
-    { "rank": 4, "title": "Easy On Me", "artist": "Adele" },
-    { "rank": 5, "title": "Shivers", "artist": "Ed Sheeran" },
-    { "rank": 6, "title": "First Class", "artist": "Jack Harlow" },
-    { "rank": 7, "title": "Wait for U", "artist": "Future ft. Drake & Tems" },
-    { "rank": 8, "title": "Bad Habit", "artist": "Steve Lacy" },
-    { "rank": 9, "title": "Late Night Talking", "artist": "Harry Styles" },
-    { "rank": 10, "title": "Levitating", "artist": "Dua Lipa" }
+    {
+      "rank": 1,
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "youtubeId": "pzeefqfSMjY",
+      "albumArt": "https://img.youtube.com/vi/pzeefqfSMjY/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "youtubeId": "nujn6wbr-e8",
+      "albumArt": "https://img.youtube.com/vi/nujn6wbr-e8/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Stay",
+      "artist": "The Kid LAROI & Justin Bieber",
+      "youtubeId": "XfEMj-z3TtA",
+      "albumArt": "https://img.youtube.com/vi/XfEMj-z3TtA/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Easy On Me",
+      "artist": "Adele",
+      "youtubeId": "H9NJenpBV2I",
+      "albumArt": "https://img.youtube.com/vi/H9NJenpBV2I/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "youtubeId": "JQ8osGtqVD8",
+      "albumArt": "https://img.youtube.com/vi/JQ8osGtqVD8/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "First Class",
+      "artist": "Jack Harlow",
+      "youtubeId": "pn8psTdqrY0",
+      "albumArt": "https://img.youtube.com/vi/pn8psTdqrY0/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Wait for U",
+      "artist": "Future ft. Drake & Tems",
+      "youtubeId": "y9qO_xgE34Q",
+      "albumArt": "https://img.youtube.com/vi/y9qO_xgE34Q/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Bad Habit",
+      "artist": "Steve Lacy",
+      "youtubeId": "1E2ihUl6ed4",
+      "albumArt": "https://img.youtube.com/vi/1E2ihUl6ed4/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Late Night Talking",
+      "artist": "Harry Styles",
+      "youtubeId": "ls6XtAmqERc",
+      "albumArt": "https://img.youtube.com/vi/ls6XtAmqERc/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "youtubeId": "OsfAnsMY21M",
+      "albumArt": "https://img.youtube.com/vi/OsfAnsMY21M/hqdefault.jpg"
+    }
   ]
 }

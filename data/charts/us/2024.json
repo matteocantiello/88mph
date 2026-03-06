@@ -3,15 +3,75 @@
   "year": 2024,
   "context": "Genre boundaries dissolved further as Shaboozey's country-rap hybrid 'A Bar Song (Tipsy)' and Teddy Swims' R&B-soul 'Lose Control' led a chart dominated by genre-fluid artists. Kendrick Lamar's Drake diss track 'Not Like Us' became a rare rap battle record to achieve massive pop success, Sabrina Carpenter's 'Espresso' launched a pop-star-making summer run, and Post Malone's pivot to country with Morgan Wallen proved streaming-era versatility was the new career playbook.",
   "tracks": [
-    { "rank": 1, "title": "Lose Control", "artist": "Teddy Swims" },
-    { "rank": 2, "title": "A Bar Song (Tipsy)", "artist": "Shaboozey" },
-    { "rank": 3, "title": "Beautiful Things", "artist": "Benson Boone" },
-    { "rank": 4, "title": "I Had Some Help", "artist": "Post Malone ft. Morgan Wallen" },
-    { "rank": 5, "title": "Lovin on Me", "artist": "Jack Harlow" },
-    { "rank": 6, "title": "Not Like Us", "artist": "Kendrick Lamar" },
-    { "rank": 7, "title": "Espresso", "artist": "Sabrina Carpenter" },
-    { "rank": 8, "title": "Million Dollar Baby", "artist": "Tommy Richman" },
-    { "rank": 9, "title": "I Remember Everything", "artist": "Zach Bryan ft. Kacey Musgraves" },
-    { "rank": 10, "title": "Too Sweet", "artist": "Hozier" }
+    {
+      "rank": 1,
+      "title": "Lose Control",
+      "artist": "Teddy Swims",
+      "youtubeId": "mOAy_vCa33E",
+      "albumArt": "https://img.youtube.com/vi/mOAy_vCa33E/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "youtubeId": "DPaqlPFznBI",
+      "albumArt": "https://img.youtube.com/vi/DPaqlPFznBI/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "youtubeId": "Oa_RSwwpPaA",
+      "albumArt": "https://img.youtube.com/vi/Oa_RSwwpPaA/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "I Had Some Help",
+      "artist": "Post Malone ft. Morgan Wallen",
+      "youtubeId": "B8VEqSBTjZQ",
+      "albumArt": "https://img.youtube.com/vi/B8VEqSBTjZQ/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Lovin on Me",
+      "artist": "Jack Harlow",
+      "youtubeId": "fvuTYadfBQA",
+      "albumArt": "https://img.youtube.com/vi/fvuTYadfBQA/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "youtubeId": "H58vbez_m4E",
+      "albumArt": "https://img.youtube.com/vi/H58vbez_m4E/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "youtubeId": "kIft-LUHHVA",
+      "albumArt": "https://img.youtube.com/vi/kIft-LUHHVA/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Million Dollar Baby",
+      "artist": "Tommy Richman",
+      "youtubeId": "LF2LGaCsMbc",
+      "albumArt": "https://img.youtube.com/vi/LF2LGaCsMbc/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "I Remember Everything",
+      "artist": "Zach Bryan ft. Kacey Musgraves",
+      "youtubeId": "Qdjw81ZVEe8",
+      "albumArt": "https://img.youtube.com/vi/Qdjw81ZVEe8/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "youtubeId": "mfha0a8IXKs",
+      "albumArt": "https://img.youtube.com/vi/mfha0a8IXKs/hqdefault.jpg"
+    }
   ]
 }

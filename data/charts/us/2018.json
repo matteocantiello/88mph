@@ -3,15 +3,75 @@
   "year": 2018,
   "context": "Hip-hop officially overtook pop as America's most-consumed genre, with Drake's 'God's Plan' and 'In My Feelings' dominating through massive streaming numbers. Post Malone straddled rap and pop with three top-ten entries, Cardi B's 'I Like It' brought Latin trap to the mainstream, and Childish Gambino's 'This Is America' became a rare protest song to debut at #1.",
   "tracks": [
-    { "rank": 1, "title": "God's Plan", "artist": "Drake" },
-    { "rank": 2, "title": "I Like It", "artist": "Cardi B ft. Bad Bunny & J Balvin" },
-    { "rank": 3, "title": "Psycho", "artist": "Post Malone ft. Ty Dolla $ign" },
-    { "rank": 4, "title": "In My Feelings", "artist": "Drake" },
-    { "rank": 5, "title": "Better Now", "artist": "Post Malone" },
-    { "rank": 6, "title": "Nice for What", "artist": "Drake" },
-    { "rank": 7, "title": "Sicko Mode", "artist": "Travis Scott" },
-    { "rank": 8, "title": "This Is America", "artist": "Childish Gambino" },
-    { "rank": 9, "title": "Young Dumb & Broke", "artist": "Khalid" },
-    { "rank": 10, "title": "Rockstar", "artist": "Post Malone ft. 21 Savage" }
+    {
+      "rank": 1,
+      "title": "God's Plan",
+      "artist": "Drake",
+      "youtubeId": "m1a_GqJf02M",
+      "albumArt": "https://img.youtube.com/vi/m1a_GqJf02M/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "I Like It",
+      "artist": "Cardi B ft. Bad Bunny & J Balvin",
+      "youtubeId": "yi4d7Ubz44o",
+      "albumArt": "https://img.youtube.com/vi/yi4d7Ubz44o/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Psycho",
+      "artist": "Post Malone ft. Ty Dolla $ign",
+      "youtubeId": "d1wy6LWfHAs",
+      "albumArt": "https://img.youtube.com/vi/d1wy6LWfHAs/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "In My Feelings",
+      "artist": "Drake",
+      "youtubeId": "SD1tkI5-3dI",
+      "albumArt": "https://img.youtube.com/vi/SD1tkI5-3dI/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Better Now",
+      "artist": "Post Malone",
+      "youtubeId": "0tTn95TLIaw",
+      "albumArt": "https://img.youtube.com/vi/0tTn95TLIaw/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Nice for What",
+      "artist": "Drake",
+      "youtubeId": "El2KPBO-_uk",
+      "albumArt": "https://img.youtube.com/vi/El2KPBO-_uk/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Sicko Mode",
+      "artist": "Travis Scott",
+      "youtubeId": "5rH9v7geLr8",
+      "albumArt": "https://img.youtube.com/vi/5rH9v7geLr8/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "This Is America",
+      "artist": "Childish Gambino",
+      "youtubeId": "3P3w9Y50cxU",
+      "albumArt": "https://img.youtube.com/vi/3P3w9Y50cxU/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Young Dumb & Broke",
+      "artist": "Khalid",
+      "youtubeId": "YhK2NwPIdt4",
+      "albumArt": "https://img.youtube.com/vi/YhK2NwPIdt4/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Rockstar",
+      "artist": "Post Malone ft. 21 Savage",
+      "youtubeId": "AaxFIY-cWH0",
+      "albumArt": "https://img.youtube.com/vi/AaxFIY-cWH0/hqdefault.jpg"
+    }
   ]
 }

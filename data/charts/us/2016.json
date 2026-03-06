@@ -3,15 +3,75 @@
   "year": 2016,
   "context": "Streaming fully reshaped the charts as Drake's 'One Dance' and Justin Bieber's 'Love Yourself' rode Spotify and Apple Music plays to year-end dominance. The Chainsmokers emerged as EDM-pop's biggest act with 'Closer,' Twenty One Pilots brought alternative to the mainstream, and Adele's 'Hello' proved that a blockbuster album launch could still cut through the algorithm-driven landscape.",
   "tracks": [
-    { "rank": 1, "title": "Love Yourself", "artist": "Justin Bieber" },
-    { "rank": 2, "title": "One Dance", "artist": "Drake" },
-    { "rank": 3, "title": "Sorry", "artist": "Justin Bieber" },
-    { "rank": 4, "title": "Closer", "artist": "The Chainsmokers ft. Halsey" },
-    { "rank": 5, "title": "Stressed Out", "artist": "Twenty One Pilots" },
-    { "rank": 6, "title": "Work", "artist": "Rihanna ft. Drake" },
-    { "rank": 7, "title": "7 Years", "artist": "Lukas Graham" },
-    { "rank": 8, "title": "Hello", "artist": "Adele" },
-    { "rank": 9, "title": "Pillowtalk", "artist": "Zayn" },
-    { "rank": 10, "title": "I Took a Pill in Ibiza", "artist": "Mike Posner" }
+    {
+      "rank": 1,
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "youtubeId": "p-IXgwqhfmg",
+      "albumArt": "https://img.youtube.com/vi/p-IXgwqhfmg/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "One Dance",
+      "artist": "Drake",
+      "youtubeId": "EG6xVbwwLiI",
+      "albumArt": "https://img.youtube.com/vi/EG6xVbwwLiI/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "youtubeId": "yqBE1Y-8-JA",
+      "albumArt": "https://img.youtube.com/vi/yqBE1Y-8-JA/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Closer",
+      "artist": "The Chainsmokers ft. Halsey",
+      "youtubeId": "0zGcUoRlhmw",
+      "albumArt": "https://img.youtube.com/vi/0zGcUoRlhmw/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "youtubeId": "K1FlAphL2p8",
+      "albumArt": "https://img.youtube.com/vi/K1FlAphL2p8/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Work",
+      "artist": "Rihanna ft. Drake",
+      "youtubeId": "2XgKktyhAQg",
+      "albumArt": "https://img.youtube.com/vi/2XgKktyhAQg/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "7 Years",
+      "artist": "Lukas Graham",
+      "youtubeId": "vTMAa6zZ7jY",
+      "albumArt": "https://img.youtube.com/vi/vTMAa6zZ7jY/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Hello",
+      "artist": "Adele",
+      "youtubeId": "yjo_aXygRDI",
+      "albumArt": "https://img.youtube.com/vi/yjo_aXygRDI/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Pillowtalk",
+      "artist": "Zayn",
+      "youtubeId": "Yo0JpyvcB00",
+      "albumArt": "https://img.youtube.com/vi/Yo0JpyvcB00/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "I Took a Pill in Ibiza",
+      "artist": "Mike Posner",
+      "youtubeId": "Og_tTWbZP9Q",
+      "albumArt": "https://img.youtube.com/vi/Og_tTWbZP9Q/hqdefault.jpg"
+    }
   ]
 }

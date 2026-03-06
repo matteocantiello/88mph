@@ -7,61 +7,71 @@
       "rank": 1,
       "title": "Thrift Shop",
       "artist": "Macklemore & Ryan Lewis ft. Wanz",
-      "youtubeId": "QK8mJJJvaes"
+      "youtubeId": "QK8mJJJvaes",
+      "albumArt": "https://img.youtube.com/vi/QK8mJJJvaes/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Blurred Lines",
       "artist": "Robin Thicke ft. T.I. & Pharrell",
-      "youtubeId": "UJHEK0GIdYE"
+      "youtubeId": "UJHEK0GIdYE",
+      "albumArt": "https://img.youtube.com/vi/UJHEK0GIdYE/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Harlem Shake",
       "artist": "Baauer",
-      "youtubeId": "78PjJ1soEZk"
+      "youtubeId": "78PjJ1soEZk",
+      "albumArt": "https://img.youtube.com/vi/78PjJ1soEZk/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Locked Out of Heaven",
       "artist": "Bruno Mars",
-      "youtubeId": "GKsR3A1zyjo"
+      "youtubeId": "GKsR3A1zyjo",
+      "albumArt": "https://img.youtube.com/vi/GKsR3A1zyjo/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Can't Hold Us",
       "artist": "Macklemore & Ryan Lewis ft. Ray Dalton",
-      "youtubeId": "96L5sV7rqX0"
+      "youtubeId": "96L5sV7rqX0",
+      "albumArt": "https://img.youtube.com/vi/96L5sV7rqX0/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Mirrors",
       "artist": "Justin Timberlake",
-      "youtubeId": "59nAgJZ5IoE"
+      "youtubeId": "59nAgJZ5IoE",
+      "albumArt": "https://img.youtube.com/vi/59nAgJZ5IoE/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Just Give Me a Reason",
       "artist": "Pink ft. Nate Ruess",
-      "youtubeId": "OpQFFLBMEPI"
+      "youtubeId": "OpQFFLBMEPI",
+      "albumArt": "https://img.youtube.com/vi/OpQFFLBMEPI/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "I Knew You Were Trouble",
       "artist": "Taylor Swift",
-      "youtubeId": "VmBoTeLsKfs"
+      "youtubeId": "VmBoTeLsKfs",
+      "albumArt": "https://img.youtube.com/vi/VmBoTeLsKfs/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Radioactive",
       "artist": "Imagine Dragons",
-      "youtubeId": "3Yb2-CWjrME"
+      "youtubeId": "3Yb2-CWjrME",
+      "albumArt": "https://img.youtube.com/vi/3Yb2-CWjrME/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "We Are Young",
       "artist": "Fun. ft. Janelle Monáe",
-      "youtubeId": "f_K_0SNaRk0"
+      "youtubeId": "f_K_0SNaRk0",
+      "albumArt": "https://img.youtube.com/vi/f_K_0SNaRk0/hqdefault.jpg"
     }
   ]
 }

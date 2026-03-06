@@ -3,15 +3,75 @@
   "year": 2021,
   "context": "The post-pandemic rebound fueled a year of feel-good pop and nostalgic throwbacks. Dua Lipa's disco-revival 'Levitating' dominated through sheer streaming longevity, Olivia Rodrigo emerged as the year's breakout with two top-ten hits from her debut album, and Silk Sonic's 'Leave the Door Open' channeled 1970s soul into a Grammy-sweeping comeback.",
   "tracks": [
-    { "rank": 1, "title": "Levitating", "artist": "Dua Lipa" },
-    { "rank": 2, "title": "Save Your Tears (Remix)", "artist": "The Weeknd & Ariana Grande" },
-    { "rank": 3, "title": "drivers license", "artist": "Olivia Rodrigo" },
-    { "rank": 4, "title": "Peaches", "artist": "Justin Bieber ft. Daniel Caesar & Giveon" },
-    { "rank": 5, "title": "Heat Waves", "artist": "Glass Animals" },
-    { "rank": 6, "title": "Leave the Door Open", "artist": "Silk Sonic" },
-    { "rank": 7, "title": "Bad Habits", "artist": "Ed Sheeran" },
-    { "rank": 8, "title": "Kiss Me More", "artist": "Doja Cat ft. SZA" },
-    { "rank": 9, "title": "good 4 u", "artist": "Olivia Rodrigo" },
-    { "rank": 10, "title": "Without You", "artist": "The Kid LAROI" }
+    {
+      "rank": 1,
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "youtubeId": "OsfAnsMY21M",
+      "albumArt": "https://img.youtube.com/vi/OsfAnsMY21M/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Save Your Tears (Remix)",
+      "artist": "The Weeknd & Ariana Grande",
+      "youtubeId": "lS9Kgp6PsWY",
+      "albumArt": "https://img.youtube.com/vi/lS9Kgp6PsWY/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "drivers license",
+      "artist": "Olivia Rodrigo",
+      "youtubeId": "tNJhkrpLGT8",
+      "albumArt": "https://img.youtube.com/vi/tNJhkrpLGT8/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Peaches",
+      "artist": "Justin Bieber ft. Daniel Caesar & Giveon",
+      "youtubeId": "5rnawnfK2sQ",
+      "albumArt": "https://img.youtube.com/vi/5rnawnfK2sQ/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "youtubeId": "RVobOMjwEWA",
+      "albumArt": "https://img.youtube.com/vi/RVobOMjwEWA/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Leave the Door Open",
+      "artist": "Silk Sonic",
+      "youtubeId": "e6iUdNkm9Lc",
+      "albumArt": "https://img.youtube.com/vi/e6iUdNkm9Lc/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "youtubeId": "hJWSZDJb-W4",
+      "albumArt": "https://img.youtube.com/vi/hJWSZDJb-W4/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Kiss Me More",
+      "artist": "Doja Cat ft. SZA",
+      "youtubeId": "ui7M7j7caHA",
+      "albumArt": "https://img.youtube.com/vi/ui7M7j7caHA/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "good 4 u",
+      "artist": "Olivia Rodrigo",
+      "youtubeId": "Bc9ijogGmtU",
+      "albumArt": "https://img.youtube.com/vi/Bc9ijogGmtU/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Without You",
+      "artist": "The Kid LAROI",
+      "youtubeId": "B6JapuSKjUI",
+      "albumArt": "https://img.youtube.com/vi/B6JapuSKjUI/hqdefault.jpg"
+    }
   ]
 }
