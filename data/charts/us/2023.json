@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2023,
+  "context": "Country and Latin music surged into the pop mainstream as Morgan Wallen's 'Last Night' topped the year-end chart and Eslabon Armado and Peso Pluma's 'Ella Baila Sola' became the first regional Mexican song to crack the top five. SZA landed two entries from her critically acclaimed SOS, Taylor Swift's 'Anti-Hero' extended her Midnights era dominance, and Miley Cyrus reclaimed pop stardom with the empowerment anthem 'Flowers.'",
+  "tracks": [
+    { "rank": 1, "title": "Last Night", "artist": "Morgan Wallen" },
+    { "rank": 2, "title": "Flowers", "artist": "Miley Cyrus" },
+    { "rank": 3, "title": "Anti-Hero", "artist": "Taylor Swift" },
+    { "rank": 4, "title": "Kill Bill", "artist": "SZA" },
+    { "rank": 5, "title": "Ella Baila Sola", "artist": "Eslabon Armado & Peso Pluma" },
+    { "rank": 6, "title": "Vampire", "artist": "Olivia Rodrigo" },
+    { "rank": 7, "title": "Die for You (Remix)", "artist": "The Weeknd & Ariana Grande" },
+    { "rank": 8, "title": "Fast Car", "artist": "Luke Combs" },
+    { "rank": 9, "title": "Snooze", "artist": "SZA" },
+    { "rank": 10, "title": "I'm Good (Blue)", "artist": "David Guetta & Bebe Rexha" }
+  ]
+}

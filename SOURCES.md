@@ -6,7 +6,7 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 
 | Source | Countries | URL | Notes |
 |--------|-----------|-----|-------|
-| Billboard Hot 100 | US | https://en.wikipedia.org/wiki/Billboard_Year-End | Year-end singles charts, via Wikipedia compilations |
+| Billboard Hot 100 | US | https://en.wikipedia.org/wiki/Billboard_Year-End | Year-end singles charts; 2010–2025 via Billboard Year-End Hot 100 Wikipedia pages (e.g. https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_2010) |
 | Official Charts Company (OCC) | UK | https://www.officialcharts.com/ | UK Singles Chart year-end data |
 | NME Chart | UK (1952) | https://en.wikipedia.org/wiki/NME_Chart | First UK singles chart, established Nov 14, 1952 |
 | Hit Parade Italia | IT | https://www.hitparadeitalia.it/hp_yends/ | Official Italian year-end singles charts (primary source for all Italian data) |
@@ -63,9 +63,9 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 
 | Country | Code | Charts | Years | Primary Source(s) |
 |---------|------|--------|-------|-------------------|
-| United States | us | 16 | 1940–2020 | Billboard Hot 100 |
+| United States | us | 29 | 1940–2025 | Billboard Hot 100 (Year-End Hot 100) |
 | United Kingdom | uk | 15 | 1952–2020 | NME (1952), OCC |
-| Italy | it | 12 | 1947–2020 | hitparadeitalia.it |
+| Italy | it | 17 | 1947–2025 | hitparadeitalia.it |
 | Germany | de | 11 | 1955–2020 | GfK/Musikmarkt, chartsurfer.de |
 | Spain | es | 8 | 1965–2015 | Los 40 Principales, PROMUSICAE |
 | India | in | 7 | 1955–2010 | Binaca Geetmala, hindigeetmala.net |
@@ -83,7 +83,7 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Nigeria | ng | 4 | 1975–2020 | Cultural significance (Afrobeat/Afrobeats documentation) |
 | South Africa | za | 4 | 1965–2020 | Springbok Radio, cultural significance |
 
-**Total: 133 charts across 19 countries (1940–2020)**
+**Total: 151 charts across 19 countries (1940–2025)**
 
 ## Notes
 

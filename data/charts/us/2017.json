@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2017,
+  "context": "Latin music detonated on the global stage as 'Despacito' became the most-streamed song in history and spent a record-tying 16 weeks at #1. Ed Sheeran's 'Shape of You' matched its commercial dominance, while Kendrick Lamar's 'HUMBLE.' and Cardi B's 'Bodak Yellow' brought hard-edged hip-hop to pop radio in a year that cemented streaming as the primary chart currency.",
+  "tracks": [
+    { "rank": 1, "title": "Shape of You", "artist": "Ed Sheeran" },
+    { "rank": 2, "title": "Despacito", "artist": "Luis Fonsi & Daddy Yankee ft. Justin Bieber" },
+    { "rank": 3, "title": "That's What I Like", "artist": "Bruno Mars" },
+    { "rank": 4, "title": "HUMBLE.", "artist": "Kendrick Lamar" },
+    { "rank": 5, "title": "Something Just Like This", "artist": "The Chainsmokers & Coldplay" },
+    { "rank": 6, "title": "Bad and Boujee", "artist": "Migos ft. Lil Uzi Vert" },
+    { "rank": 7, "title": "Body Like a Back Road", "artist": "Sam Hunt" },
+    { "rank": 8, "title": "Starboy", "artist": "The Weeknd ft. Daft Punk" },
+    { "rank": 9, "title": "Bodak Yellow", "artist": "Cardi B" },
+    { "rank": 10, "title": "Castle on the Hill", "artist": "Ed Sheeran" }
+  ]
+}

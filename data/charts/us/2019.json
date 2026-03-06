@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2019,
+  "context": "Lil Nas X's 'Old Town Road' shattered the record for longest-running #1 at 19 weeks, blurring genre lines between country and hip-hop while sparking a Billboard classification debate. Post Malone landed three songs in the top ten, Billie Eilish became Gen Z's first breakout superstar with 'bad guy,' and the Jonas Brothers staged a comeback that nobody saw coming.",
+  "tracks": [
+    { "rank": 1, "title": "Old Town Road", "artist": "Lil Nas X ft. Billy Ray Cyrus" },
+    { "rank": 2, "title": "Sunflower", "artist": "Post Malone ft. Swae Lee" },
+    { "rank": 3, "title": "bad guy", "artist": "Billie Eilish" },
+    { "rank": 4, "title": "Wow.", "artist": "Post Malone" },
+    { "rank": 5, "title": "I Don't Care", "artist": "Ed Sheeran & Justin Bieber" },
+    { "rank": 6, "title": "Someone You Loved", "artist": "Lewis Capaldi" },
+    { "rank": 7, "title": "Ransom", "artist": "Lil Tecca" },
+    { "rank": 8, "title": "Sucker", "artist": "Jonas Brothers" },
+    { "rank": 9, "title": "Señorita", "artist": "Shawn Mendes & Camila Cabello" },
+    { "rank": 10, "title": "Enemies", "artist": "Post Malone ft. Future" }
+  ]
+}

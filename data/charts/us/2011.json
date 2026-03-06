@@ -1,0 +1,67 @@
+{
+  "country": "us",
+  "year": 2011,
+  "context": "Adele's 21 rewrote the rules of the streaming age before streaming had even won, her voice-first approach dominating alongside EDM-pop from LMFAO and David Guetta. Katy Perry tied Michael Jackson's record with five #1 singles from a single album, while Nicki Minaj's 'Super Bass' signaled hip-hop's growing pop crossover power.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "youtubeId": "x9Qv47HpEqw"
+    },
+    {
+      "rank": 2,
+      "title": "Party Rock Anthem",
+      "artist": "LMFAO ft. Lauren Bennett & GoonRock",
+      "youtubeId": "KQ6zr6kCPj8"
+    },
+    {
+      "rank": 3,
+      "title": "Firework",
+      "artist": "Katy Perry",
+      "youtubeId": "D7dp3I4HZGY"
+    },
+    {
+      "rank": 4,
+      "title": "E.T.",
+      "artist": "Katy Perry ft. Kanye West",
+      "youtubeId": "7XI4B2ckhog"
+    },
+    {
+      "rank": 5,
+      "title": "Give Me Everything",
+      "artist": "Pitbull ft. Ne-Yo, Afrojack & Nayer",
+      "youtubeId": "E2lX1ZovtcA"
+    },
+    {
+      "rank": 6,
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "youtubeId": "SR6iYWJxHqs"
+    },
+    {
+      "rank": 7,
+      "title": "Forget You",
+      "artist": "CeeLo Green",
+      "youtubeId": "bKxodgpyGec"
+    },
+    {
+      "rank": 8,
+      "title": "Super Bass",
+      "artist": "Nicki Minaj",
+      "youtubeId": "zqZt6VNnEIA"
+    },
+    {
+      "rank": 9,
+      "title": "Moves Like Jagger",
+      "artist": "Maroon 5 ft. Christina Aguilera",
+      "youtubeId": "iEPTlhBmwRg"
+    },
+    {
+      "rank": 10,
+      "title": "Just Can't Get Enough",
+      "artist": "The Black Eyed Peas",
+      "youtubeId": "e6ztG5kjUZo"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2022,
+  "context": "Glass Animals' 'Heat Waves' completed an unprecedented slow-burn climb that took over two years from release to year-end #1, exemplifying TikTok's power to revive catalog tracks. Harry Styles dominated with two top-ten entries from Harry's House, Adele's 'Easy On Me' carried over from a blockbuster late-2021 album cycle, and Steve Lacy's 'Bad Habit' showed that lo-fi bedroom pop could scale to mainstream success.",
+  "tracks": [
+    { "rank": 1, "title": "Heat Waves", "artist": "Glass Animals" },
+    { "rank": 2, "title": "As It Was", "artist": "Harry Styles" },
+    { "rank": 3, "title": "Stay", "artist": "The Kid LAROI & Justin Bieber" },
+    { "rank": 4, "title": "Easy On Me", "artist": "Adele" },
+    { "rank": 5, "title": "Shivers", "artist": "Ed Sheeran" },
+    { "rank": 6, "title": "First Class", "artist": "Jack Harlow" },
+    { "rank": 7, "title": "Wait for U", "artist": "Future ft. Drake & Tems" },
+    { "rank": 8, "title": "Bad Habit", "artist": "Steve Lacy" },
+    { "rank": 9, "title": "Late Night Talking", "artist": "Harry Styles" },
+    { "rank": 10, "title": "Levitating", "artist": "Dua Lipa" }
+  ]
+}

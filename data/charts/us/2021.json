@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2021,
+  "context": "The post-pandemic rebound fueled a year of feel-good pop and nostalgic throwbacks. Dua Lipa's disco-revival 'Levitating' dominated through sheer streaming longevity, Olivia Rodrigo emerged as the year's breakout with two top-ten hits from her debut album, and Silk Sonic's 'Leave the Door Open' channeled 1970s soul into a Grammy-sweeping comeback.",
+  "tracks": [
+    { "rank": 1, "title": "Levitating", "artist": "Dua Lipa" },
+    { "rank": 2, "title": "Save Your Tears (Remix)", "artist": "The Weeknd & Ariana Grande" },
+    { "rank": 3, "title": "drivers license", "artist": "Olivia Rodrigo" },
+    { "rank": 4, "title": "Peaches", "artist": "Justin Bieber ft. Daniel Caesar & Giveon" },
+    { "rank": 5, "title": "Heat Waves", "artist": "Glass Animals" },
+    { "rank": 6, "title": "Leave the Door Open", "artist": "Silk Sonic" },
+    { "rank": 7, "title": "Bad Habits", "artist": "Ed Sheeran" },
+    { "rank": 8, "title": "Kiss Me More", "artist": "Doja Cat ft. SZA" },
+    { "rank": 9, "title": "good 4 u", "artist": "Olivia Rodrigo" },
+    { "rank": 10, "title": "Without You", "artist": "The Kid LAROI" }
+  ]
+}

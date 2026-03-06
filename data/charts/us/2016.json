@@ -1,0 +1,17 @@
+{
+  "country": "us",
+  "year": 2016,
+  "context": "Streaming fully reshaped the charts as Drake's 'One Dance' and Justin Bieber's 'Love Yourself' rode Spotify and Apple Music plays to year-end dominance. The Chainsmokers emerged as EDM-pop's biggest act with 'Closer,' Twenty One Pilots brought alternative to the mainstream, and Adele's 'Hello' proved that a blockbuster album launch could still cut through the algorithm-driven landscape.",
+  "tracks": [
+    { "rank": 1, "title": "Love Yourself", "artist": "Justin Bieber" },
+    { "rank": 2, "title": "One Dance", "artist": "Drake" },
+    { "rank": 3, "title": "Sorry", "artist": "Justin Bieber" },
+    { "rank": 4, "title": "Closer", "artist": "The Chainsmokers ft. Halsey" },
+    { "rank": 5, "title": "Stressed Out", "artist": "Twenty One Pilots" },
+    { "rank": 6, "title": "Work", "artist": "Rihanna ft. Drake" },
+    { "rank": 7, "title": "7 Years", "artist": "Lukas Graham" },
+    { "rank": 8, "title": "Hello", "artist": "Adele" },
+    { "rank": 9, "title": "Pillowtalk", "artist": "Zayn" },
+    { "rank": 10, "title": "I Took a Pill in Ibiza", "artist": "Mike Posner" }
+  ]
+}
