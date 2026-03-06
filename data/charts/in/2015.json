@@ -1,0 +1,17 @@
+{
+  "country": "in",
+  "year": 2015,
+  "context": "2015 was a strong year for Bollywood music led by Salman Khan's Prem Ratan Dhan Payo, whose title track topped nationwide charts. Arijit Singh consolidated his position as the decade's defining male voice. The year balanced big masala anthems with soulful ballads from Tamasha and Dum Laga Ke Haisha, demonstrating Bollywood's wide tonal range.",
+  "tracks": [
+    {"rank": 1, "title": "Prem Ratan Dhan Payo", "artist": "Palak Muchhal"},
+    {"rank": 2, "title": "Sooraj Dooba Hai Yaaron", "artist": "Arijit Singh & Aditi Singh Sharma (from Roy)"},
+    {"rank": 3, "title": "Moh Moh Ke Dhaage", "artist": "Monali Thakur & Papon (from Dum Laga Ke Haisha)"},
+    {"rank": 4, "title": "Jeena Jeena", "artist": "Atif Aslam (from Badlapur)"},
+    {"rank": 5, "title": "Chittiyaan Kalaiyaan", "artist": "Kanika Kapoor (from Roy)"},
+    {"rank": 6, "title": "Sun Saathiya", "artist": "Shraddha Kapoor (from ABCD 2)"},
+    {"rank": 7, "title": "Gallan Goodiyaan", "artist": "Sukhwinder Singh & Farhan Akhtar (from Dil Dhadakne Do)"},
+    {"rank": 8, "title": "Agar Tum Saath Ho", "artist": "Arijit Singh & Alka Yagnik (from Tamasha)"},
+    {"rank": 9, "title": "Main Hoon Hero Tera", "artist": "Salman Khan (from Hero)"},
+    {"rank": 10, "title": "Gulaabo", "artist": "Vishal Dadlani & Anusha Mani (from Shaandaar)"}
+  ]
+}

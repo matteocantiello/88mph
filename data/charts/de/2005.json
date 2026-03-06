@@ -1,0 +1,77 @@
+{
+  "country": "de",
+  "year": 2005,
+  "context": "German pop culture in 2005 was marked by the unexpected viral success of Schnappi, a children's novelty song that dominated the year-end chart, alongside the explosive domestic breakout of Tokio Hotel, whose debut single made them the biggest German rock act in years. The chart also reflected strong multicultural influences, with Spanish-language hits from Juanes and Lebanese-Canadian rapper K-Maro crossing over into the mainstream.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Schnappi, das kleine Krokodil",
+      "artist": "Schnappi",
+      "youtubeId": "mz7zeyhPXQA",
+      "albumArt": "https://img.youtube.com/vi/mz7zeyhPXQA/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Durch den Monsun",
+      "artist": "Tokio Hotel",
+      "youtubeId": "2fDpNTTXnuY",
+      "albumArt": "https://img.youtube.com/vi/2fDpNTTXnuY/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Lonely",
+      "artist": "Akon",
+      "youtubeId": "nN66uAbiJJw",
+      "albumArt": "https://img.youtube.com/vi/nN66uAbiJJw/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Femme Like U",
+      "artist": "K-Maro",
+      "youtubeId": "2VHjhYGWBP4",
+      "albumArt": "https://img.youtube.com/vi/2VHjhYGWBP4/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Und wenn ein Lied",
+      "artist": "Söhne Mannheims",
+      "youtubeId": "gThzgyY29xk",
+      "albumArt": "https://img.youtube.com/vi/gThzgyY29xk/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "La camisa negra",
+      "artist": "Juanes",
+      "youtubeId": "7fwUH0oRmkQ",
+      "albumArt": "https://img.youtube.com/vi/7fwUH0oRmkQ/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Candy Shop",
+      "artist": "50 Cent feat. Olivia",
+      "youtubeId": "c4Z2Ft-JIp8",
+      "albumArt": "https://img.youtube.com/vi/c4Z2Ft-JIp8/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Don't Cha",
+      "artist": "Pussycat Dolls feat. Busta Rhymes",
+      "youtubeId": "zYqPmnK_NWc",
+      "albumArt": "https://img.youtube.com/vi/zYqPmnK_NWc/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Die Eine 2005",
+      "artist": "Die Firma",
+      "youtubeId": "Ftv6nkLfvbg",
+      "albumArt": "https://img.youtube.com/vi/Ftv6nkLfvbg/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Chipz in Black",
+      "artist": "Chipz",
+      "youtubeId": "dV1br1AxyTQ",
+      "albumArt": "https://img.youtube.com/vi/dV1br1AxyTQ/hqdefault.jpg"
+    }
+  ]
+}

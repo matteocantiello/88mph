@@ -1,0 +1,17 @@
+{
+  "country": "jp",
+  "year": 2015,
+  "context": "By 2015, the AKB48 sister-group system had proliferated into a full idol industrial complex. Nogizaka46, created as an official 'rival' to AKB48, emerged as a major force with three top-10 singles. The AKB48 election single 'Bokutachi wa Tatakawanai' was the year's top seller with over 1.7 million copies, reflecting the unique Japanese market where physical CD sales still dominated charts.",
+  "tracks": [
+    {"rank": 1, "title": "Bokutachi wa Tatakawanai", "artist": "AKB48"},
+    {"rank": 2, "title": "Halloween Night", "artist": "AKB48"},
+    {"rank": 3, "title": "Green Flash", "artist": "AKB48"},
+    {"rank": 4, "title": "Kuchibiru ni Be My Baby", "artist": "AKB48"},
+    {"rank": 5, "title": "Coquettish Juutaichuu", "artist": "SKE48"},
+    {"rank": 6, "title": "Ima, Hanashitai Darekaga Iru", "artist": "Nogizaka46"},
+    {"rank": 7, "title": "Taiyou Knock", "artist": "Nogizaka46"},
+    {"rank": 8, "title": "Inochi wa Utsukushii", "artist": "Nogizaka46"},
+    {"rank": 9, "title": "Aozora no Shita, Kimi no Tonari", "artist": "Arashi"},
+    {"rank": 10, "title": "Don't Look Back!", "artist": "NMB48"}
+  ]
+}

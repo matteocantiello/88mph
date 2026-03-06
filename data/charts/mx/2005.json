@@ -1,0 +1,59 @@
+{
+  "country": "mx",
+  "year": 2005,
+  "context": "2005 was a landmark year for Latin music in Mexico, defined by Shakira's 'La Tortura' — a reggaeton-infused pop ballad that spent 25 weeks at number one on Hot Latin Songs. Juanes emerged as the dominant Latin market artist. Reggaeton began its serious infiltration of Mexican radio with Daddy Yankee's 'Gasolina', while telenovela group RBD launched a pop phenomenon with a massive teen audience.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "La Tortura",
+      "artist": "Shakira feat. Alejandro Sanz",
+      "youtubeId": "GdgiSOHcswI",
+      "albumArt": "https://img.youtube.com/vi/GdgiSOHcswI/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Gasolina",
+      "artist": "Daddy Yankee"
+    },
+    {
+      "rank": 3,
+      "title": "La Camisa Negra",
+      "artist": "Juanes"
+    },
+    {
+      "rank": 4,
+      "title": "Nada Valgo Sin Tu Amor",
+      "artist": "Juanes"
+    },
+    {
+      "rank": 5,
+      "title": "Rebelde",
+      "artist": "RBD"
+    },
+    {
+      "rank": 6,
+      "title": "Te Quise Tanto",
+      "artist": "Paulina Rubio"
+    },
+    {
+      "rank": 7,
+      "title": "Volverte a Ver",
+      "artist": "Juanes"
+    },
+    {
+      "rank": 8,
+      "title": "Atrévete-te-te",
+      "artist": "Calle 13"
+    },
+    {
+      "rank": 9,
+      "title": "Nuestro Amor Eterno",
+      "artist": "RBD"
+    },
+    {
+      "rank": 10,
+      "title": "Tu de Qué Vas",
+      "artist": "Franco de Vita"
+    }
+  ]
+}

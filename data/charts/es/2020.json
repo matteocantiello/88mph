@@ -1,0 +1,73 @@
+{
+  "country": "es",
+  "year": 2020,
+  "context": "Spain's 2020 chart was shaped by the pandemic lockdown and the unprecedented streaming dominance of Latin urban music. Karol G and Nicki Minaj's 'Tusa' held number one for 15 consecutive weeks and topped the year-end chart. The top 10 was a showcase of reggaeton, Latin trap, and global pop crossovers, with only The Weeknd and Tones and I representing English-language acts.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tusa",
+      "artist": "Karol G feat. Nicki Minaj",
+      "youtubeId": "SRkr9PyBBuU",
+      "albumArt": "https://img.youtube.com/vi/SRkr9PyBBuU/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Se iluminaba",
+      "artist": "Fred De Palma feat. Ana Mena",
+      "youtubeId": "lDTuQIcIO_M",
+      "albumArt": "https://img.youtube.com/vi/lDTuQIcIO_M/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "youtubeId": "H64a2ggVIWc",
+      "albumArt": "https://img.youtube.com/vi/H64a2ggVIWc/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Hawái",
+      "artist": "Maluma",
+      "youtubeId": "n_2ZYU72BYQ",
+      "albumArt": "https://img.youtube.com/vi/n_2ZYU72BYQ/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "youtubeId": "Hx4nWW9z0ig",
+      "albumArt": "https://img.youtube.com/vi/Hx4nWW9z0ig/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "La Jeepeta (Remix)",
+      "artist": "Nio Garcia feat. Anuel AA, Myke Towers & Brray",
+      "youtubeId": "gmr-gQm3wNU",
+      "albumArt": "https://img.youtube.com/vi/gmr-gQm3wNU/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Porfa",
+      "artist": "Feid feat. Justin Quiles",
+      "youtubeId": "DwpocSPGoQc",
+      "albumArt": "https://img.youtube.com/vi/DwpocSPGoQc/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Caramelo",
+      "artist": "Ozuna",
+      "youtubeId": "BFlG5sD540k",
+      "albumArt": "https://img.youtube.com/vi/BFlG5sD540k/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "La Curiosidad",
+      "artist": "Jay Wheeler feat. DJ Nelson & Myke Towers"
+    },
+    {
+      "rank": 10,
+      "title": "Tattoo (Remix)",
+      "artist": "Rauw Alejandro & Camilo"
+    }
+  ]
+}

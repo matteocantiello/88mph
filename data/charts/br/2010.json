@@ -1,0 +1,77 @@
+{
+  "country": "br",
+  "year": 2010,
+  "context": "2010 was the year sertanejo universitário fully consolidated its grip on Brazilian radio. Jorge & Mateus, Michel Teló, Luan Santana, and Fernando & Sorocaba led the annual airplay charts, while Charlie Brown Jr. represented the rock contingent. International pop crossed over on separate chart rankings, but the domestic audience remained overwhelmingly sertanejo-oriented.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Amo Noite e Dia",
+      "artist": "Jorge & Mateus",
+      "youtubeId": "BX_pwrh_A_8",
+      "albumArt": "https://img.youtube.com/vi/BX_pwrh_A_8/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Fugidinha",
+      "artist": "Michel Teló",
+      "youtubeId": "5bWRvhQVArk",
+      "albumArt": "https://img.youtube.com/vi/5bWRvhQVArk/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Madrid",
+      "artist": "Fernando & Sorocaba",
+      "youtubeId": "h8LAQWO2Q1I",
+      "albumArt": "https://img.youtube.com/vi/h8LAQWO2Q1I/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Você Não Sabe o Que É Amor",
+      "artist": "Luan Santana",
+      "youtubeId": "729HNZvpGmw",
+      "albumArt": "https://img.youtube.com/vi/729HNZvpGmw/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Tapa na Cara",
+      "artist": "Zezé Di Camargo & Luciano",
+      "youtubeId": "oK3w1hBXFIA",
+      "albumArt": "https://img.youtube.com/vi/oK3w1hBXFIA/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Tá Se Achando",
+      "artist": "Guilherme & Santiago",
+      "youtubeId": "cWAHL6Pu_BY",
+      "albumArt": "https://img.youtube.com/vi/cWAHL6Pu_BY/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Sem Esse Coração",
+      "artist": "João Bosco & Vinícius",
+      "youtubeId": "vlYlAvO_450",
+      "albumArt": "https://img.youtube.com/vi/vlYlAvO_450/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Famosa",
+      "artist": "Cláudia Leitte feat. Travie McCoy",
+      "youtubeId": "_AgzAGarVcE",
+      "albumArt": "https://img.youtube.com/vi/_AgzAGarVcE/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Ao Vivo e em Cores",
+      "artist": "Victor & Léo",
+      "youtubeId": "ZbXrPFWvRjE",
+      "albumArt": "https://img.youtube.com/vi/ZbXrPFWvRjE/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Só os Loucos Sabem",
+      "artist": "Charlie Brown Jr.",
+      "youtubeId": "xfyeyZ-u_dU",
+      "albumArt": "https://img.youtube.com/vi/xfyeyZ-u_dU/hqdefault.jpg"
+    }
+  ]
+}

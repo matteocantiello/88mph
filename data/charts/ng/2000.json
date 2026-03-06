@@ -1,0 +1,77 @@
+{
+  "country": "ng",
+  "year": 2000,
+  "context": "Nigeria's music industry was transformed at the turn of the millennium by President Obasanjo's local content policy mandating Nigerian music receive prominent airplay. This galvanized a new generation blending hip-hop, highlife, and Afrobeat into a distinctly Lagos street sound. Lagbaja's masked Afrojuju anthems, Sound Sultan's socially conscious rap, and the Plantashun Boiz's harmony-driven R&B dominated speakers across the country.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Konko Below",
+      "artist": "Lagbaja",
+      "youtubeId": "pLZxu7GvViM",
+      "albumArt": "https://img.youtube.com/vi/pLZxu7GvViM/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Mathematics (Jagbajantis)",
+      "artist": "Sound Sultan",
+      "youtubeId": "gM3aU2lotok",
+      "albumArt": "https://img.youtube.com/vi/gM3aU2lotok/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "You and I",
+      "artist": "Plantashun Boiz",
+      "youtubeId": "NCdx-vlx11I",
+      "albumArt": "https://img.youtube.com/vi/NCdx-vlx11I/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Plenty Nonsense",
+      "artist": "Trybesmen",
+      "youtubeId": "Am3VVx8HpvA",
+      "albumArt": "https://img.youtube.com/vi/Am3VVx8HpvA/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Player Meji",
+      "artist": "Eedris Abdulkareem",
+      "youtubeId": "nplDygxcOJU",
+      "albumArt": "https://img.youtube.com/vi/nplDygxcOJU/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Crisis",
+      "artist": "African China",
+      "youtubeId": "ED9VQI-l9E0",
+      "albumArt": "https://img.youtube.com/vi/ED9VQI-l9E0/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Far Away",
+      "artist": "Lagbaja",
+      "youtubeId": "FZsRhEg7B3o",
+      "albumArt": "https://img.youtube.com/vi/FZsRhEg7B3o/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Oya",
+      "artist": "Da Trybe",
+      "youtubeId": "kGTQ-hKsFP8",
+      "albumArt": "https://img.youtube.com/vi/kGTQ-hKsFP8/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "My Car",
+      "artist": "Tony Tetuila",
+      "youtubeId": "2lY1oZq-8N0",
+      "albumArt": "https://img.youtube.com/vi/2lY1oZq-8N0/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Side By Side",
+      "artist": "Lagbaja",
+      "youtubeId": "FZsRhEg7B3o",
+      "albumArt": "https://img.youtube.com/vi/FZsRhEg7B3o/hqdefault.jpg"
+    }
+  ]
+}

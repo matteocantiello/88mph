@@ -1,0 +1,17 @@
+{
+  "country": "ru",
+  "year": 2020,
+  "context": "Russia's 2020 music scene was electrified by TikTok-fueled hip-hop, with Morgenshtern becoming the defining name of the lockdown era. The collaborative track 'Cadillac' with Allj was the summer anthem, while Slava Marlow and Cream Soda dominated both streaming and social platforms. Youth culture shifted decisively toward rap and electronic pop.",
+  "tracks": [
+    {"rank": 1, "title": "Cadillac", "artist": "Morgenshtern & Allj"},
+    {"rank": 2, "title": "Snova Ya Napivayus", "artist": "Slava Marlow"},
+    {"rank": 3, "title": "Plachu na Tekno", "artist": "Cream Soda & Khleb"},
+    {"rank": 4, "title": "A Yesli Eto Lyubov", "artist": "HammAli & Navai"},
+    {"rank": 5, "title": "Ty Besposhchadna", "artist": "JONY"},
+    {"rank": 6, "title": "Begi", "artist": "DJ Smash feat. Poet"},
+    {"rank": 7, "title": "Neboley", "artist": "Basta & Zivert"},
+    {"rank": 8, "title": "Crush", "artist": "Clava Coca & NILETTO"},
+    {"rank": 9, "title": "Devochka Tantsuy", "artist": "Artik & Asti"},
+    {"rank": 10, "title": "Siay", "artist": "Ramil"}
+  ]
+}

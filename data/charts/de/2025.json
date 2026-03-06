@@ -1,0 +1,17 @@
+{
+  "country": "de",
+  "year": 2025,
+  "context": "The 2025 German chart year was defined by the viral dominance of Oimara's 'Wackelkontakt', a schlager-inflected pop track that accumulated over 180 million streams and spent seven weeks at number one, proving the enduring appeal of German-language pop. International stars ROSÉ, Bruno Mars, and Linkin Park also featured prominently, reflecting a diverse streaming landscape where German domestic acts and global pop coexisted.",
+  "tracks": [
+    {"rank": 1, "title": "Wackelkontakt", "artist": "Oimara"},
+    {"rank": 2, "title": "APT.", "artist": "ROSÉ & Bruno Mars"},
+    {"rank": 3, "title": "Tau mich auf", "artist": "Zartmann"},
+    {"rank": 4, "title": "Ordinary", "artist": "Alex Warren"},
+    {"rank": 5, "title": "The Emptiness Machine", "artist": "Linkin Park"},
+    {"rank": 6, "title": "That's So True", "artist": "Gracie Abrams"},
+    {"rank": 7, "title": "Akon", "artist": "Jazeek"},
+    {"rank": 8, "title": "Show Me Love", "artist": "WizTheMc x Bees & Honey"},
+    {"rank": 9, "title": "Messy", "artist": "Lola Young"},
+    {"rank": 10, "title": "Die With A Smile", "artist": "Lady Gaga & Bruno Mars"}
+  ]
+}

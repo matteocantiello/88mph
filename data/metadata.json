@@ -1,186 +1,1154 @@
 {
   "charts": [
-    { "country": "us", "year": 1940, "available": true },
-    { "country": "us", "year": 1950, "available": true },
-    { "country": "us", "year": 1955, "available": true },
-    { "country": "us", "year": 1960, "available": true },
-    { "country": "us", "year": 1965, "available": true },
-    { "country": "us", "year": 1970, "available": true },
-    { "country": "us", "year": 1975, "available": true },
-    { "country": "us", "year": 1980, "available": true },
-    { "country": "us", "year": 1985, "available": true },
-    { "country": "us", "year": 1990, "available": true },
-    { "country": "us", "year": 1995, "available": true },
-    { "country": "us", "year": 2000, "available": true },
-    { "country": "us", "year": 2005, "available": true },
-    { "country": "us", "year": 2010, "available": true },
-    { "country": "us", "year": 2011, "available": true },
-    { "country": "us", "year": 2012, "available": true },
-    { "country": "us", "year": 2013, "available": true },
-    { "country": "us", "year": 2014, "available": true },
-    { "country": "us", "year": 2015, "available": true },
-    { "country": "us", "year": 2016, "available": true },
-    { "country": "us", "year": 2017, "available": true },
-    { "country": "us", "year": 2018, "available": true },
-    { "country": "us", "year": 2019, "available": true },
-    { "country": "us", "year": 2020, "available": true },
-    { "country": "us", "year": 2021, "available": true },
-    { "country": "us", "year": 2022, "available": true },
-    { "country": "us", "year": 2023, "available": true },
-    { "country": "us", "year": 2024, "available": true },
-    { "country": "us", "year": 2025, "available": true },
-
-    { "country": "uk", "year": 1952, "available": true },
-    { "country": "uk", "year": 1955, "available": true },
-    { "country": "uk", "year": 1960, "available": true },
-    { "country": "uk", "year": 1965, "available": true },
-    { "country": "uk", "year": 1970, "available": true },
-    { "country": "uk", "year": 1975, "available": true },
-    { "country": "uk", "year": 1980, "available": true },
-    { "country": "uk", "year": 1985, "available": true },
-    { "country": "uk", "year": 1990, "available": true },
-    { "country": "uk", "year": 1995, "available": true },
-    { "country": "uk", "year": 2000, "available": true },
-    { "country": "uk", "year": 2005, "available": true },
-    { "country": "uk", "year": 2010, "available": true },
-    { "country": "uk", "year": 2015, "available": true },
-    { "country": "uk", "year": 2020, "available": true },
-
-    { "country": "fr", "year": 1955, "available": true },
-    { "country": "fr", "year": 1960, "available": true },
-    { "country": "fr", "year": 1965, "available": true },
-    { "country": "fr", "year": 1980, "available": true },
-    { "country": "fr", "year": 1995, "available": true },
-    { "country": "fr", "year": 2010, "available": true },
-
-    { "country": "de", "year": 1955, "available": true },
-    { "country": "de", "year": 1960, "available": true },
-    { "country": "de", "year": 1965, "available": true },
-    { "country": "de", "year": 1975, "available": true },
-    { "country": "de", "year": 1985, "available": true },
-    { "country": "de", "year": 1999, "available": true },
-    { "country": "de", "year": 2010, "available": true },
-
-    { "country": "br", "year": 1960, "available": true },
-    { "country": "br", "year": 1970, "available": true },
-    { "country": "br", "year": 1985, "available": true },
-    { "country": "br", "year": 2000, "available": true },
-    { "country": "br", "year": 2015, "available": true },
-
-    { "country": "jp", "year": 1968, "available": true },
-    { "country": "jp", "year": 1970, "available": true },
-    { "country": "jp", "year": 1975, "available": true },
-    { "country": "jp", "year": 1985, "available": true },
-    { "country": "jp", "year": 1995, "available": true },
-    { "country": "jp", "year": 2005, "available": true },
-
-    { "country": "au", "year": 1960, "available": true },
-    { "country": "au", "year": 1970, "available": true },
-    { "country": "au", "year": 1980, "available": true },
-    { "country": "au", "year": 1990, "available": true },
-    { "country": "au", "year": 2000, "available": true },
-    { "country": "au", "year": 2015, "available": true },
-
-    { "country": "it", "year": 1947, "available": true },
-    { "country": "it", "year": 1950, "available": true },
-    { "country": "it", "year": 1955, "available": true },
-    { "country": "it", "year": 1960, "available": true },
-    { "country": "it", "year": 1965, "available": true },
-    { "country": "it", "year": 1970, "available": true },
-    { "country": "it", "year": 1975, "available": true },
-    { "country": "it", "year": 1980, "available": true },
-    { "country": "it", "year": 1985, "available": true },
-    { "country": "it", "year": 1990, "available": true },
-    { "country": "it", "year": 1995, "available": true },
-    { "country": "it", "year": 2000, "available": true },
-    { "country": "it", "year": 2005, "available": true },
-    { "country": "it", "year": 2010, "available": true },
-    { "country": "it", "year": 2015, "available": true },
-    { "country": "it", "year": 2020, "available": true },
-    { "country": "it", "year": 2025, "available": true },
-
-    { "country": "in", "year": 1955, "available": true },
-    { "country": "in", "year": 1960, "available": true },
-    { "country": "in", "year": 1965, "available": true },
-    { "country": "in", "year": 1970, "available": true },
-    { "country": "in", "year": 1985, "available": true },
-    { "country": "in", "year": 1995, "available": true },
-    { "country": "in", "year": 2010, "available": true },
-
-    { "country": "kr", "year": 1980, "available": true },
-    { "country": "kr", "year": 1990, "available": true },
-    { "country": "kr", "year": 2000, "available": true },
-    { "country": "kr", "year": 2010, "available": true },
-    { "country": "kr", "year": 2020, "available": true },
-
-    { "country": "mx", "year": 1965, "available": true },
-    { "country": "mx", "year": 1970, "available": true },
-    { "country": "mx", "year": 1980, "available": true },
-    { "country": "mx", "year": 1995, "available": true },
-    { "country": "mx", "year": 2010, "available": true },
-
-    { "country": "es", "year": 1965, "available": true },
-    { "country": "es", "year": 1975, "available": true },
-    { "country": "es", "year": 1980, "available": true },
-    { "country": "es", "year": 1985, "available": true },
-    { "country": "es", "year": 1990, "available": true },
-    { "country": "es", "year": 2000, "available": true },
-    { "country": "es", "year": 2005, "available": true },
-    { "country": "es", "year": 2015, "available": true },
-
-    { "country": "de", "year": 1970, "available": true },
-    { "country": "de", "year": 1990, "available": true },
-    { "country": "de", "year": 2000, "available": true },
-    { "country": "de", "year": 2020, "available": true },
-
-    { "country": "se", "year": 1965, "available": true },
-    { "country": "se", "year": 1975, "available": true },
-    { "country": "se", "year": 1985, "available": true },
-    { "country": "se", "year": 1995, "available": true },
-    { "country": "se", "year": 2010, "available": true },
-
-    { "country": "no", "year": 1970, "available": true },
-    { "country": "no", "year": 1985, "available": true },
-    { "country": "no", "year": 2000, "available": true },
-    { "country": "no", "year": 2015, "available": true },
-
-    { "country": "nl", "year": 1965, "available": true },
-    { "country": "nl", "year": 1975, "available": true },
-    { "country": "nl", "year": 1990, "available": true },
-    { "country": "nl", "year": 2005, "available": true },
-    { "country": "nl", "year": 2020, "available": true },
-
-    { "country": "ru", "year": 1975, "available": true },
-    { "country": "ru", "year": 1985, "available": true },
-    { "country": "ru", "year": 1995, "available": true },
-    { "country": "ru", "year": 2005, "available": true },
-    { "country": "ru", "year": 2015, "available": true },
-
-    { "country": "cn", "year": 1985, "available": true },
-    { "country": "cn", "year": 1995, "available": true },
-    { "country": "cn", "year": 2005, "available": true },
-    { "country": "cn", "year": 2015, "available": true },
-
-    { "country": "ng", "year": 1975, "available": true },
-    { "country": "ng", "year": 1990, "available": true },
-    { "country": "ng", "year": 2010, "available": true },
-    { "country": "ng", "year": 2020, "available": true },
-
-    { "country": "za", "year": 1965, "available": true },
-    { "country": "za", "year": 1985, "available": true },
-    { "country": "za", "year": 2000, "available": true },
-    { "country": "za", "year": 2020, "available": true },
-
-    { "country": "ca", "year": 1970, "available": true },
-    { "country": "ca", "year": 1975, "available": true },
-    { "country": "ca", "year": 1980, "available": true },
-    { "country": "ca", "year": 1985, "available": true },
-    { "country": "ca", "year": 1990, "available": true },
-    { "country": "ca", "year": 1995, "available": true },
-    { "country": "ca", "year": 2000, "available": true },
-    { "country": "ca", "year": 2010, "available": true },
-    { "country": "ca", "year": 2015, "available": true },
-    { "country": "ca", "year": 2020, "available": true },
-    { "country": "ca", "year": 2025, "available": true }
+    {
+      "country": "au",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "country": "au",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "au",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "au",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "au",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "au",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "au",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "au",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "au",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "au",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "br",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "country": "br",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "br",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "br",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "br",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "br",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "br",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "br",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "br",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "ca",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "cn",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "cn",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "cn",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "cn",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "cn",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "cn",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "cn",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "cn",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 1955,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 1999,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "de",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "es",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 1955,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "fr",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 1955,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "in",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1947,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1950,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1955,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "it",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 1968,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "jp",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "kr",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "kr",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "kr",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "kr",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "kr",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "kr",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "kr",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "kr",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "mx",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "ng",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "ng",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "ng",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "ng",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "ng",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "ng",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "ng",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "ng",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "nl",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "nl",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "nl",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "nl",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "nl",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "nl",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "nl",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "nl",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "nl",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "no",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "no",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "no",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "no",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "no",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "no",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "no",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "no",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "ru",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "ru",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "ru",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "ru",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "ru",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "ru",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "ru",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "ru",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "ru",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "se",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1952,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1955,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "uk",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1940,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1950,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1955,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2011,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2012,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2013,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2014,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2016,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2017,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2018,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2019,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2021,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2022,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2023,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2024,
+      "available": true
+    },
+    {
+      "country": "us",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "za",
+      "year": 1965,
+      "available": true
+    },
+    {
+      "country": "za",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "za",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "za",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "za",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "za",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "za",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "za",
+      "year": 2025,
+      "available": true
+    }
   ]
 }

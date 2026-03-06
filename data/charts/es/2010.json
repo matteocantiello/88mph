@@ -1,0 +1,77 @@
+{
+  "country": "es",
+  "year": 2010,
+  "context": "Spain's 2010 chart was a rare case where a domestic act topped the year: Estopa's flamenco-pop hit 'El Run Run' beat out Shakira's global World Cup anthem 'Waka Waka'. David Guetta's rise as a superstar DJ was clear, and Lady Gaga's dual presence with 'Bad Romance' and 'Alejandro' confirmed her global supremacy across the Spanish market.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "El Run Run",
+      "artist": "Estopa",
+      "youtubeId": "PaS36QN6LOo",
+      "albumArt": "https://img.youtube.com/vi/PaS36QN6LOo/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Sexy Bitch",
+      "artist": "David Guetta feat. Akon",
+      "youtubeId": "dZIYHbiCqfs",
+      "albumArt": "https://img.youtube.com/vi/dZIYHbiCqfs/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Waka Waka (This Time for Africa)",
+      "artist": "Shakira feat. Freshlyground",
+      "youtubeId": "Z_slTWayFK0",
+      "albumArt": "https://img.youtube.com/vi/Z_slTWayFK0/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Stereo Love",
+      "artist": "Edward Maya feat. Vika Jigulina",
+      "youtubeId": "bfl76Sr-Rsk",
+      "albumArt": "https://img.youtube.com/vi/bfl76Sr-Rsk/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Sick Of Love",
+      "artist": "Robert Ramirez",
+      "youtubeId": "yheB-CRnH8c",
+      "albumArt": "https://img.youtube.com/vi/yheB-CRnH8c/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "We No Speak Americano",
+      "artist": "Yolanda Be Cool feat. DCup",
+      "youtubeId": "lj2gs8DuJXk",
+      "albumArt": "https://img.youtube.com/vi/lj2gs8DuJXk/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Gypsy",
+      "artist": "Shakira",
+      "youtubeId": "ISZDrJ8DAf8",
+      "albumArt": "https://img.youtube.com/vi/ISZDrJ8DAf8/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "youtubeId": "52QarK_LoHE",
+      "albumArt": "https://img.youtube.com/vi/52QarK_LoHE/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Alejandro",
+      "artist": "Lady Gaga",
+      "youtubeId": "e6NIlIMSVdg",
+      "albumArt": "https://img.youtube.com/vi/e6NIlIMSVdg/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Tik Tok",
+      "artist": "Ke$ha",
+      "youtubeId": "RxUZLmN5RsY",
+      "albumArt": "https://img.youtube.com/vi/RxUZLmN5RsY/hqdefault.jpg"
+    }
+  ]
+}

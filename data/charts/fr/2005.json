@@ -1,0 +1,71 @@
+{
+  "country": "fr",
+  "year": 2005,
+  "context": "2005 was the year of an extraordinary phenomenon: 11-year-old Ilona Mitrecey's 'Un Monde Parfait' spent 15 consecutive weeks at number one and became the best-selling physical single of the 21st century in France. The chart was dominated by novelty hits and the ringtone craze (Crazy Frog), French Caribbean sounds from Dezil', and emerging French R&B from Amel Bent, reflecting a pre-streaming era where physical singles still drove massive sales.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Un Monde Parfait",
+      "artist": "Ilona Mitrecey",
+      "youtubeId": "X-YRh07MHIE",
+      "albumArt": "https://img.youtube.com/vi/X-YRh07MHIE/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Axel F",
+      "artist": "Crazy Frog",
+      "youtubeId": "_M1iPYsHZvU",
+      "albumArt": "https://img.youtube.com/vi/_M1iPYsHZvU/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Ma Philosophie",
+      "artist": "Amel Bent",
+      "youtubeId": "MaQN8b2FIcM",
+      "albumArt": "https://img.youtube.com/vi/MaQN8b2FIcM/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "San Ou (La Rivière)",
+      "artist": "Dezil'",
+      "youtubeId": "zd6z3acOQvI",
+      "albumArt": "https://img.youtube.com/vi/zd6z3acOQvI/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Tout Le Bonheur Du Monde",
+      "artist": "Sinsemilia",
+      "youtubeId": "dC16yw3omQU",
+      "albumArt": "https://img.youtube.com/vi/dC16yw3omQU/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Popcorn",
+      "artist": "Crazy Frog",
+      "youtubeId": "AVR4GEuJ6ow",
+      "albumArt": "https://img.youtube.com/vi/AVR4GEuJ6ow/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "C'est Les Vacances",
+      "artist": "Ilona Mitrecey",
+      "youtubeId": "BHu56s_hmng",
+      "albumArt": "https://img.youtube.com/vi/BHu56s_hmng/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Je Viens Du Sud",
+      "artist": "Chimène Badi"
+    },
+    {
+      "rank": 9,
+      "title": "Hung Up",
+      "artist": "Madonna"
+    },
+    {
+      "rank": 10,
+      "title": "La camisa negra",
+      "artist": "Juanes"
+    }
+  ]
+}

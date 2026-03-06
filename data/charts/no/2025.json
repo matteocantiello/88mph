@@ -1,0 +1,17 @@
+{
+  "country": "no",
+  "year": 2025,
+  "context": "Norway's 2025 chart was dominated by domestic breakouts: Tobias Sten placed multiple songs in the top 15, reflecting the powerful grip of local-language streaming on VG-lista. Norwegian acts Ari Bajgora and Emma Steinbakken showed strong appeal alongside Kjartan Lauritzen's Astrid S collaboration. International crossovers from ROSÉ, Bruno Mars, and Lady Gaga still claimed top-10 slots.",
+  "tracks": [
+    {"rank": 1, "title": "Ordinary", "artist": "Alex Warren"},
+    {"rank": 2, "title": "Eli", "artist": "Tobias Sten"},
+    {"rank": 3, "title": "Falle Og Slå Seg", "artist": "Ari Bajgora"},
+    {"rank": 4, "title": "Friskis", "artist": "Kjartan Lauritzen feat. Astrid S"},
+    {"rank": 5, "title": "APT.", "artist": "ROSÉ & Bruno Mars"},
+    {"rank": 6, "title": "Fy Faen Du E Deili", "artist": "Tobias Sten"},
+    {"rank": 7, "title": "Die With A Smile", "artist": "Lady Gaga & Bruno Mars"},
+    {"rank": 8, "title": "Alle Vil Til Himmelen", "artist": "Emma Steinbakken feat. Synne Vo"},
+    {"rank": 9, "title": "Messy", "artist": "Lola Young"},
+    {"rank": 10, "title": "That's So True", "artist": "Gracie Abrams"}
+  ]
+}

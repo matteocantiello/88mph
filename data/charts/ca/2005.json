@@ -1,0 +1,77 @@
+{
+  "country": "ca",
+  "year": 2005,
+  "context": "In 2005 Canada lacked a combined sales-and-airplay chart (the Billboard Canadian Hot 100 launched only in 2007), so the best record of popular music comes from Nielsen SoundScan and MuchMusic's weekly airplay countdown. The market closely mirrored US tastes, with Mariah Carey's comeback dominating the year, while Canadian acts Nickelback and Simple Plan remained staples of rock radio alongside Canadian Idol winner Melissa O'Neil.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "We Belong Together",
+      "artist": "Mariah Carey",
+      "youtubeId": "BpcORYC6jPE",
+      "albumArt": "https://img.youtube.com/vi/BpcORYC6jPE/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Hollaback Girl",
+      "artist": "Gwen Stefani",
+      "youtubeId": "7YQESUr8Cxc",
+      "albumArt": "https://img.youtube.com/vi/7YQESUr8Cxc/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Since U Been Gone",
+      "artist": "Kelly Clarkson",
+      "youtubeId": "p0BiGek2bKA",
+      "albumArt": "https://img.youtube.com/vi/p0BiGek2bKA/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Gold Digger",
+      "artist": "Kanye West feat. Jamie Foxx",
+      "youtubeId": "LFFcyWGWz14",
+      "albumArt": "https://img.youtube.com/vi/LFFcyWGWz14/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Don't Phunk with My Heart",
+      "artist": "The Black Eyed Peas",
+      "youtubeId": "UvgOT91-3Po",
+      "albumArt": "https://img.youtube.com/vi/UvgOT91-3Po/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Boulevard of Broken Dreams",
+      "artist": "Green Day",
+      "youtubeId": "FPrHuDvXEBw",
+      "albumArt": "https://img.youtube.com/vi/FPrHuDvXEBw/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Photograph",
+      "artist": "Nickelback",
+      "youtubeId": "ULwIM6Za0QA",
+      "albumArt": "https://img.youtube.com/vi/ULwIM6Za0QA/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Alive",
+      "artist": "Melissa O'Neil",
+      "youtubeId": "JYzKiahvIDA",
+      "albumArt": "https://img.youtube.com/vi/JYzKiahvIDA/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "1, 2 Step",
+      "artist": "Ciara feat. Missy Elliott",
+      "youtubeId": "4p4a6_06AEI",
+      "albumArt": "https://img.youtube.com/vi/4p4a6_06AEI/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Welcome to My Life",
+      "artist": "Simple Plan",
+      "youtubeId": "o7tE24k5bZk",
+      "albumArt": "https://img.youtube.com/vi/o7tE24k5bZk/hqdefault.jpg"
+    }
+  ]
+}

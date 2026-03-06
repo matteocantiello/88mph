@@ -1,0 +1,17 @@
+{
+  "country": "cn",
+  "year": 2025,
+  "context": "China's 2025 streaming charts were dominated by nostalgia for early-2000s Mandopop — Jay Chou's back catalog topped Apple Music's year-end chart for mainland China. Faye Wong's 'Wo De Li Wu' was named Mandarin song of 2025 by NetEase, and Zhou Shen remained a dominant force on Billboard's China TME UNI Chart. Douyin viral hits and independent artists rounded out a diverse landscape.",
+  "tracks": [
+    {"rank": 1, "title": "Wo De Li Wu", "artist": "Faye Wong"},
+    {"rank": 2, "title": "Jing Shi Guang", "artist": "Zhou Shen"},
+    {"rank": 3, "title": "Qing Tian", "artist": "Jay Chou"},
+    {"rank": 4, "title": "Bing Ling Hua", "artist": "Zhou Shen"},
+    {"rank": 5, "title": "Xian Shuo Ai de Ren Wei Shen Me Xian Li Kai", "artist": "Tian Yuan"},
+    {"rank": 6, "title": "Tiao Lou Ji", "artist": "LBI Li Bi"},
+    {"rank": 7, "title": "Tu Po Shang De Gou Wei Cao", "artist": "Lu Run Ze"},
+    {"rank": 8, "title": "Yi Dian", "artist": "Muyoi feat. Pezzi"},
+    {"rank": 9, "title": "Da Zhan Hong Tu", "artist": "Skai isyourgod & AR"},
+    {"rank": 10, "title": "Chan Fu", "artist": "Ma Jiantao"}
+  ]
+}

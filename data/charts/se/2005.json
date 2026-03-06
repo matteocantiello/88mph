@@ -1,0 +1,17 @@
+{
+  "country": "se",
+  "year": 2005,
+  "context": "The Swedish Hitlistan in 2005 saw international novelty acts dominate the first half — Crazy Frog's 'Axel F' held number one for eleven weeks followed by Schnappi's eight-week reign — before James Blunt and Swedish Idol winner Agnes took over. The domestic scene was galvanized by Darin's pop breakthroughs and Kent's continued dominance of Swedish-language rock.",
+  "tracks": [
+    {"rank": 1, "title": "Axel F", "artist": "Crazy Frog"},
+    {"rank": 2, "title": "Schnappi, das kleine Krokodil", "artist": "Schnappi"},
+    {"rank": 3, "title": "Right Here Right Now", "artist": "Agnes"},
+    {"rank": 4, "title": "You're Beautiful", "artist": "James Blunt"},
+    {"rank": 5, "title": "Step Up", "artist": "Darin"},
+    {"rank": 6, "title": "The hjärta & smärta EP", "artist": "Kent"},
+    {"rank": 7, "title": "Who's That Girl", "artist": "Darin"},
+    {"rank": 8, "title": "Satellites", "artist": "September"},
+    {"rank": 9, "title": "Bad Day", "artist": "Daniel Powter"},
+    {"rank": 10, "title": "Lonely", "artist": "Akon"}
+  ]
+}

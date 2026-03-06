@@ -1,0 +1,17 @@
+{
+  "country": "mx",
+  "year": 2020,
+  "context": "The COVID-19 pandemic reshaped music consumption in Mexico, accelerating the dominance of streaming platforms. Bad Bunny became the world's most-streamed artist of 2020 with his albums YHLQMDLG and El Último Tour del Mundo commanding massive Mexican audiences. Karol G's 'Tusa' swept Latin America, Maluma's 'Hawái' ruled mid-year, and Bad Bunny & Jhay Cortez's 'Dakiti' closed the year as the biggest Latin streaming hit.",
+  "tracks": [
+    {"rank": 1, "title": "Tusa", "artist": "Karol G & Nicki Minaj"},
+    {"rank": 2, "title": "LA CANCIÓN", "artist": "J Balvin & Bad Bunny"},
+    {"rank": 3, "title": "Hawái", "artist": "Maluma"},
+    {"rank": 4, "title": "Dakiti", "artist": "Bad Bunny & Jhay Cortez"},
+    {"rank": 5, "title": "Si Veo a Tu Mamá", "artist": "Bad Bunny"},
+    {"rank": 6, "title": "UN DIA (ONE DAY)", "artist": "J Balvin, Dua Lipa, Bad Bunny & Tainy"},
+    {"rank": 7, "title": "Safaera", "artist": "Bad Bunny, Jowell & Randy & Ñengo Flow"},
+    {"rank": 8, "title": "Yo Perreo Sola", "artist": "Bad Bunny"},
+    {"rank": 9, "title": "Caramelo", "artist": "Ozuna"},
+    {"rank": 10, "title": "RITMO (Bad Boys For Life)", "artist": "Black Eyed Peas & J Balvin"}
+  ]
+}

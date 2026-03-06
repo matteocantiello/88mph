@@ -1,0 +1,17 @@
+{
+  "country": "br",
+  "year": 2020,
+  "context": "Brazil's 2020 was almost entirely sertanejo, reflecting pandemic-era listening habits. Henrique & Juliano's 'Liberdade Provisória' topped the year, followed by Gusttavo Lima and Marília Mendonça. The nation turned to familiar, emotional sertanejo comfort music during lockdowns, with only Dua Lipa and Pedro Sampaio's funk breaking the genre's near-total dominance.",
+  "tracks": [
+    {"rank": 1, "title": "Liberdade Provisória", "artist": "Henrique & Juliano"},
+    {"rank": 2, "title": "A Gente Fez Amor", "artist": "Gusttavo Lima"},
+    {"rank": 3, "title": "Graveto", "artist": "Marília Mendonça"},
+    {"rank": 4, "title": "Volta por Baixo", "artist": "Henrique & Juliano"},
+    {"rank": 5, "title": "S de Saudade", "artist": "Luíza & Maurílio feat. Zé Neto & Cristiano"},
+    {"rank": 6, "title": "Litrão", "artist": "Matheus & Kauan"},
+    {"rank": 7, "title": "Barzinho Aleatório", "artist": "Zé Neto & Cristiano"},
+    {"rank": 8, "title": "Don't Start Now", "artist": "Dua Lipa"},
+    {"rank": 9, "title": "Cheirosa", "artist": "Jorge & Mateus"},
+    {"rank": 10, "title": "Sentadão", "artist": "Pedro Sampaio feat. Felipe Original & JS"}
+  ]
+}

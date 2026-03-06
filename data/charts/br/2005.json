@@ -1,0 +1,77 @@
+{
+  "country": "br",
+  "year": 2005,
+  "context": "Sertanejo universitário and pagode dominated Brazilian radio in 2005, with Zezé Di Camargo & Luciano leading the airplay charts. International pop and Brazilian rock also crossed over, with Skank and Roberto Carlos anchoring domestic playlists. Banda Calypso drove forró and tecnobrega into mainstream consciousness while actress Marjorie Estiano's soap opera theme became an unlikely chart-topper.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Você Sempre Será",
+      "artist": "Marjorie Estiano",
+      "youtubeId": "FTu3cygjOxA",
+      "albumArt": "https://img.youtube.com/vi/FTu3cygjOxA/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Fui Eu",
+      "artist": "Zezé Di Camargo & Luciano",
+      "youtubeId": "s97tByOukzE",
+      "albumArt": "https://img.youtube.com/vi/s97tByOukzE/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Festa no Apê",
+      "artist": "Latino",
+      "youtubeId": "zjnxBbGILY0",
+      "albumArt": "https://img.youtube.com/vi/zjnxBbGILY0/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "A Volta",
+      "artist": "Roberto Carlos",
+      "youtubeId": "TXxFKb5z_NQ",
+      "albumArt": "https://img.youtube.com/vi/TXxFKb5z_NQ/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "É Amor Demais",
+      "artist": "Edson & Hudson",
+      "youtubeId": "y98NBN3hrxM",
+      "albumArt": "https://img.youtube.com/vi/y98NBN3hrxM/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Vamos Fugir",
+      "artist": "Skank",
+      "youtubeId": "p48AHCVaL80",
+      "albumArt": "https://img.youtube.com/vi/p48AHCVaL80/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Cadê Meu Amor",
+      "artist": "Zeca Pagodinho",
+      "youtubeId": "C7fGL0w4Dlg",
+      "albumArt": "https://img.youtube.com/vi/C7fGL0w4Dlg/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Os Amantes",
+      "artist": "Daniel",
+      "youtubeId": "53D8DdgForU",
+      "albumArt": "https://img.youtube.com/vi/53D8DdgForU/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Quer Casar Comigo?",
+      "artist": "Bruno & Marrone",
+      "youtubeId": "GMmdZ6SQrR0",
+      "albumArt": "https://img.youtube.com/vi/GMmdZ6SQrR0/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Coração",
+      "artist": "Rapazolla",
+      "youtubeId": "au86MIFlTYs",
+      "albumArt": "https://img.youtube.com/vi/au86MIFlTYs/hqdefault.jpg"
+    }
+  ]
+}

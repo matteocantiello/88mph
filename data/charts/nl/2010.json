@@ -1,0 +1,61 @@
+{
+  "country": "nl",
+  "year": 2010,
+  "context": "2010 was a landmark year for the Netherlands, dominated by global dance crossovers and local acts. The Australian duo Yolanda Be Cool & DCup topped the year-end chart with 'We No Speak Americano', while Belgian electro-pop star Stromae's 'Alors on danse' was the second biggest song. Dutch singer Caro Emerald's jazz-pop debut became a long-lasting fan favorite, and the FIFA World Cup — where the Netherlands reached the final — brought Shakira's 'Waka Waka' to prominence.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "We No Speak Americano",
+      "artist": "Yolanda Be Cool & DCup",
+      "youtubeId": "lj2gs8DuJXk",
+      "albumArt": "https://img.youtube.com/vi/lj2gs8DuJXk/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Alors on danse",
+      "artist": "Stromae",
+      "youtubeId": "VHoT4N43jK8",
+      "albumArt": "https://img.youtube.com/vi/VHoT4N43jK8/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "A Night Like This",
+      "artist": "Caro Emerald"
+    },
+    {
+      "rank": 4,
+      "title": "Waka Waka (This Time for Africa)",
+      "artist": "Shakira feat. Freshlyground"
+    },
+    {
+      "rank": 5,
+      "title": "Schouder aan schouder",
+      "artist": "Marco Borsato & Guus Meeuwis"
+    },
+    {
+      "rank": 6,
+      "title": "You Raise Me Up",
+      "artist": "Wesley"
+    },
+    {
+      "rank": 7,
+      "title": "I Gotta Feeling",
+      "artist": "The Black Eyed Peas"
+    },
+    {
+      "rank": 8,
+      "title": "No Surrender",
+      "artist": "Kane"
+    },
+    {
+      "rank": 9,
+      "title": "Hey, Soul Sister",
+      "artist": "Train"
+    },
+    {
+      "rank": 10,
+      "title": "Memories",
+      "artist": "David Guetta feat. Kid Cudi"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "ng",
+  "year": 2025,
+  "context": "The TurnTable Top 100 Nigeria year-end chart for 2025 showed a maturing ecosystem where street-hop, Afropop, and DIY artists competed. Davido's emotional 'With You' featuring Omah Lay topped editorial charts, while Fido's 'Joy Is Coming' was TurnTable's data-backed No. 1. Rema continued his commercial evolution, and fresh voices like Poco Lee and Chella signaled a diversified new chapter for Nigerian pop.",
+  "tracks": [
+    {"rank": 1, "title": "With You", "artist": "Davido feat. Omah Lay"},
+    {"rank": 2, "title": "Joy Is Coming", "artist": "Fido"},
+    {"rank": 3, "title": "Laho", "artist": "Shallipopi feat. Burna Boy"},
+    {"rank": 4, "title": "Hey Jago", "artist": "Poco Lee feat. Shoday & Rahman Jago"},
+    {"rank": 5, "title": "My Darling", "artist": "Chella"},
+    {"rank": 6, "title": "Arike", "artist": "Kunmie"},
+    {"rank": 7, "title": "Fun", "artist": "Rema"},
+    {"rank": 8, "title": "Ewo", "artist": "Famous Pluto feat. Shallipopi & ZerryDL"},
+    {"rank": 9, "title": "Escaladizzy", "artist": "Mavo feat. Wave$tar"},
+    {"rank": 10, "title": "No Turning Back", "artist": "Gaise Baba feat. Lawrence Oyor"}
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "country": "ru",
+  "year": 2000,
+  "context": "The year 2000 was a landmark for post-Soviet Russian pop: Alsou finished second at Eurovision with 'Solo', one of Russia's best-selling singles ever, while Vitas burst onto the scene with the falsetto spectacle 'Opera No. 2'. Zemfira dominated as a rock-pop figure, and Russian pop was finding its commercial footing after the economic turbulence of the 1990s.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Solo",
+      "artist": "Alsou",
+      "youtubeId": "wlcmN8Sk1T4",
+      "albumArt": "https://img.youtube.com/vi/wlcmN8Sk1T4/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Opera No. 2",
+      "artist": "Vitas",
+      "youtubeId": "szpefyTGNH8",
+      "albumArt": "https://img.youtube.com/vi/szpefyTGNH8/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Hochesh",
+      "artist": "Zemfira",
+      "youtubeId": "iz6S2a94Gy4",
+      "albumArt": "https://img.youtube.com/vi/iz6S2a94Gy4/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Prostish mne lyubov",
+      "artist": "Zemfira",
+      "youtubeId": "BFNqBHUSzus",
+      "albumArt": "https://img.youtube.com/vi/BFNqBHUSzus/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Oblaka",
+      "artist": "Ruki Vverh!",
+      "youtubeId": "CSklrjJOs2Q",
+      "albumArt": "https://img.youtube.com/vi/CSklrjJOs2Q/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Vesna",
+      "artist": "Bi-2",
+      "youtubeId": "TNnd4RZgp1s",
+      "albumArt": "https://img.youtube.com/vi/TNnd4RZgp1s/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Ne Spi",
+      "artist": "Blestyaschie",
+      "youtubeId": "54UspYYEaVs",
+      "albumArt": "https://img.youtube.com/vi/54UspYYEaVs/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Ty Zhdyosh",
+      "artist": "Ivanushki International",
+      "youtubeId": "wqStaRlArSM",
+      "albumArt": "https://img.youtube.com/vi/wqStaRlArSM/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Ya Tebya Ne Broshu",
+      "artist": "Na-Na",
+      "youtubeId": "jJG7WiDsiiw",
+      "albumArt": "https://img.youtube.com/vi/jJG7WiDsiiw/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Ya Soshla S Uma",
+      "artist": "t.A.T.u.",
+      "youtubeId": "wxol1xzendY",
+      "albumArt": "https://img.youtube.com/vi/wxol1xzendY/hqdefault.jpg"
+    }
+  ]
+}

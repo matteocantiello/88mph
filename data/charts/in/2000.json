@@ -1,0 +1,77 @@
+{
+  "country": "in",
+  "year": 2000,
+  "context": "The year 2000 was a landmark for Bollywood music, driven by blockbuster soundtracks on cassette and CD. Kaho Naa Pyaar Hai launched Hrithik Roshan as a superstar with a soundtrack selling an estimated 7-10 million units. Dhadkan, Mohabbatein, and Mission Kashmir also produced major hits, with sweeping romantic ballads dominating music channels and All India Radio.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ek Pal Ka Jeena",
+      "artist": "Lucky Ali (from Kaho Naa Pyaar Hai)",
+      "youtubeId": "hLaZVAeQh38",
+      "albumArt": "https://img.youtube.com/vi/hLaZVAeQh38/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Kaho Naa Pyaar Hai",
+      "artist": "Udit Narayan & Alka Yagnik",
+      "youtubeId": "rbP95NoHhvU",
+      "albumArt": "https://img.youtube.com/vi/rbP95NoHhvU/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Dil Ne Yeh Kaha Hai Dil Se",
+      "artist": "Udit Narayan (from Dhadkan)",
+      "youtubeId": "bkWpCme6JCo",
+      "albumArt": "https://img.youtube.com/vi/bkWpCme6JCo/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Na Na Karte Pyar",
+      "artist": "Kumar Sanu & Alka Yagnik (from Dhadkan)",
+      "youtubeId": "yVAn340CGy8",
+      "albumArt": "https://img.youtube.com/vi/yVAn340CGy8/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Humko Humise Chura Lo",
+      "artist": "Lata Mangeshkar & Udit Narayan (from Mohabbatein)",
+      "youtubeId": "tYTmGrUCjJ8",
+      "albumArt": "https://img.youtube.com/vi/tYTmGrUCjJ8/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Pairon Mein Bandhan Hai",
+      "artist": "Kavita Krishnamurthy & Udit Narayan (from Mohabbatein)",
+      "youtubeId": "FJYZomWxOpc",
+      "albumArt": "https://img.youtube.com/vi/FJYZomWxOpc/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Raat Ki Hatheli Par",
+      "artist": "Udit Narayan (from Refugee)",
+      "youtubeId": "V2264ESu1j0",
+      "albumArt": "https://img.youtube.com/vi/V2264ESu1j0/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Aashiqui Mein Teri",
+      "artist": "Hariharan (from Mission Kashmir)",
+      "youtubeId": "B9EKumdY4EQ",
+      "albumArt": "https://img.youtube.com/vi/B9EKumdY4EQ/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Pyaar Tune Kya Kiya",
+      "artist": "Udit Narayan & Kavita Krishnamurthy",
+      "youtubeId": "mj3_f3tHIeg",
+      "albumArt": "https://img.youtube.com/vi/mj3_f3tHIeg/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Har Dil Jo Pyar Karega",
+      "artist": "Udit Narayan & Lata Mangeshkar",
+      "youtubeId": "lNnqVNJ6sh4",
+      "albumArt": "https://img.youtube.com/vi/lNnqVNJ6sh4/hqdefault.jpg"
+    }
+  ]
+}

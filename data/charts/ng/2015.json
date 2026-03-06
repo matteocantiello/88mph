@@ -1,0 +1,17 @@
+{
+  "country": "ng",
+  "year": 2015,
+  "context": "2015 was the year Afrobeats announced itself globally: Wizkid's 'Ojuelegba' earned an unsolicited remix from Drake and Skepta, catapulting Nigerian music onto international playlists. The Mavin Records collective dominated domestic charts, while street-rap veterans Olamide and Lil Kesh sparked dance crazes. It was also the breakthrough year for Kiss Daniel, Tekno, and Adekunle Gold.",
+  "tracks": [
+    {"rank": 1, "title": "Godwin", "artist": "Korede Bello feat. Don Jazzy"},
+    {"rank": 2, "title": "Bobo", "artist": "Olamide"},
+    {"rank": 3, "title": "Ojuelegba (Remix)", "artist": "Wizkid feat. Drake & Skepta"},
+    {"rank": 4, "title": "My Woman, My Everything", "artist": "Patoranking feat. Wande Coal"},
+    {"rank": 5, "title": "Woju (Remix)", "artist": "Kiss Daniel feat. Tiwa Savage & Davido"},
+    {"rank": 6, "title": "Reggae Blues", "artist": "Harrysong feat. Olamide, Kcee, Orezi & Iyanya"},
+    {"rank": 7, "title": "Duro", "artist": "Tekno"},
+    {"rank": 8, "title": "Orente", "artist": "Adekunle Gold"},
+    {"rank": 9, "title": "Soke", "artist": "Burna Boy"},
+    {"rank": 10, "title": "Laye", "artist": "Kiss Daniel"}
+  ]
+}

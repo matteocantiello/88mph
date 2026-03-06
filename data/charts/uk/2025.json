@@ -1,0 +1,77 @@
+{
+  "country": "uk",
+  "year": 2025,
+  "context": "The UK singles chart in 2025 was defined by emotional pop and global crossover hits, with American newcomer Alex Warren's anthemic ballad 'Ordinary' dominating the year. British artists had a strong showing — Lola Young's 'Messy' became the biggest homegrown single of the year — while K-pop and TikTok-driven viral moments continued to reshape chart dynamics.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "youtubeId": "byxFUKxhT3s",
+      "albumArt": "https://img.youtube.com/vi/byxFUKxhT3s/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Messy",
+      "artist": "Lola Young",
+      "youtubeId": "Y03n19YRXD4",
+      "albumArt": "https://img.youtube.com/vi/Y03n19YRXD4/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "youtubeId": "R_iTpfSCIVk",
+      "albumArt": "https://img.youtube.com/vi/R_iTpfSCIVk/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "DiTd771WumE",
+      "albumArt": "https://img.youtube.com/vi/DiTd771WumE/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "DlFXDl_ROAM",
+      "albumArt": "https://img.youtube.com/vi/DlFXDl_ROAM/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "youtubeId": "W_YOJWZIjxo",
+      "albumArt": "https://img.youtube.com/vi/W_YOJWZIjxo/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "youtubeId": "Oa_RSwwpPaA",
+      "albumArt": "https://img.youtube.com/vi/Oa_RSwwpPaA/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "youtubeId": "WKZO-CWeOVA",
+      "albumArt": "https://img.youtube.com/vi/WKZO-CWeOVA/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "youtubeId": "VZ-oGLluGAc",
+      "albumArt": "https://img.youtube.com/vi/VZ-oGLluGAc/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "youtubeId": "DPaqlPFznBI",
+      "albumArt": "https://img.youtube.com/vi/DPaqlPFznBI/hqdefault.jpg"
+    }
+  ]
+}

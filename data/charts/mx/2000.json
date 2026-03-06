@@ -1,0 +1,77 @@
+{
+  "country": "mx",
+  "year": 2000,
+  "context": "The year 2000 marked the peak of the Latin pop explosion in Mexico, riding the wave of the late-1990s 'Latin Invasion'. Pop ballads and tropical anthems dominated radio, with Son By Four's 'A Puro Dolor' spending a record-breaking 20 weeks at number one on Hot Latin Songs. Mexican and pan-Latin stars like Thalía, Enrique Iglesias, and Ricky Martin dominated mainstream radio alongside regional Mexican banda and norteño artists.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "A Puro Dolor",
+      "artist": "Son By Four",
+      "youtubeId": "MAr4uwe2rsA",
+      "albumArt": "https://img.youtube.com/vi/MAr4uwe2rsA/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "She Bangs",
+      "artist": "Ricky Martin",
+      "youtubeId": "FvH-VvsAo3g",
+      "albumArt": "https://img.youtube.com/vi/FvH-VvsAo3g/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Rhythm Divine",
+      "artist": "Enrique Iglesias",
+      "youtubeId": "UZrzOZaI7UE",
+      "albumArt": "https://img.youtube.com/vi/UZrzOZaI7UE/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Entre el Mar y una Estrella",
+      "artist": "Thalía",
+      "youtubeId": "UEdaNjDm2G4",
+      "albumArt": "https://img.youtube.com/vi/UEdaNjDm2G4/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "You Sang to Me",
+      "artist": "Marc Anthony",
+      "youtubeId": "MY4YJxn-9Og",
+      "albumArt": "https://img.youtube.com/vi/MY4YJxn-9Og/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Fruta Fresca",
+      "artist": "Carlos Vives",
+      "youtubeId": "in8rFQZsagQ",
+      "albumArt": "https://img.youtube.com/vi/in8rFQZsagQ/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "El Alma en Pie",
+      "artist": "Chayanne",
+      "youtubeId": "FD_Iz3VpN4Y",
+      "albumArt": "https://img.youtube.com/vi/FD_Iz3VpN4Y/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Cuando Seas Mía",
+      "artist": "Son By Four",
+      "youtubeId": "WjQO2d9jACo",
+      "albumArt": "https://img.youtube.com/vi/WjQO2d9jACo/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Quiero Más",
+      "artist": "Thalía",
+      "youtubeId": "sLNS_RbEg_4",
+      "albumArt": "https://img.youtube.com/vi/sLNS_RbEg_4/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "I Need to Know",
+      "artist": "Marc Anthony",
+      "youtubeId": "fLVzw9wVd9o",
+      "albumArt": "https://img.youtube.com/vi/fLVzw9wVd9o/hqdefault.jpg"
+    }
+  ]
+}

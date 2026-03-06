@@ -1,0 +1,17 @@
+{
+  "country": "no",
+  "year": 2020,
+  "context": "Norway's 2020 chart captured the lockdown-era streaming boom, with Swedish singer Victor Leksell's melancholy 'Svag' claiming the top spot — a sign of Nordic pop's outsized domestic streaming reach. The Weeknd's 'Blinding Lights' and global viral hits sat alongside Norwegian acts Dagny and the TikTok-driven 'Savage Love', showing a healthy balance between local and global pop.",
+  "tracks": [
+    {"rank": 1, "title": "Svag", "artist": "Victor Leksell"},
+    {"rank": 2, "title": "Blinding Lights", "artist": "The Weeknd"},
+    {"rank": 3, "title": "Roses (Imanbek Remix)", "artist": "SAINt JHN"},
+    {"rank": 4, "title": "Somebody", "artist": "Dagny"},
+    {"rank": 5, "title": "Dance Monkey", "artist": "Tones and I"},
+    {"rank": 6, "title": "Rockstar", "artist": "DaBaby feat. Roddy Ricch"},
+    {"rank": 7, "title": "Someone You Loved", "artist": "Lewis Capaldi"},
+    {"rank": 8, "title": "Savage Love (Laxed - Siren Beat)", "artist": "Jawsh 685 feat. Jason Derulo"},
+    {"rank": 9, "title": "Mood", "artist": "24kGoldn feat. iann dior"},
+    {"rank": 10, "title": "Salt", "artist": "Ava Max"}
+  ]
+}

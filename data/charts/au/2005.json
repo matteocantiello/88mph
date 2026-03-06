@@ -1,0 +1,77 @@
+{
+  "country": "au",
+  "year": 2005,
+  "context": "In 2005, Australian Idol had a massive cultural footprint — Anthony Callea's coronation ballad 'The Prayer' became the fastest-selling Australian single ever and topped the year-end chart. Pop, R&B, and novelty hits dominated, with international acts filling most of the top 10 alongside the Idol-fuelled local surge. The mid-2000s marked peak mainstream radio dominance before digital downloads reshaped the market.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "The Prayer",
+      "artist": "Anthony Callea",
+      "youtubeId": "uux69fhLAvE",
+      "albumArt": "https://img.youtube.com/vi/uux69fhLAvE/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Don't Cha",
+      "artist": "The Pussycat Dolls",
+      "youtubeId": "rDBck1REfBc",
+      "albumArt": "https://img.youtube.com/vi/rDBck1REfBc/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Lonely",
+      "artist": "Akon",
+      "youtubeId": "nN66uAbiJJw",
+      "albumArt": "https://img.youtube.com/vi/nN66uAbiJJw/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Axel F",
+      "artist": "Crazy Frog",
+      "youtubeId": "_M1iPYsHZvU",
+      "albumArt": "https://img.youtube.com/vi/_M1iPYsHZvU/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Over And Over",
+      "artist": "Nelly feat. Tim McGraw",
+      "youtubeId": "hbD03jJyQQE",
+      "albumArt": "https://img.youtube.com/vi/hbD03jJyQQE/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Switch",
+      "artist": "Will Smith",
+      "youtubeId": "ePF9_m0DJSs",
+      "albumArt": "https://img.youtube.com/vi/ePF9_m0DJSs/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Let Me Love You",
+      "artist": "Mario",
+      "youtubeId": "D6vCMxmkMKI",
+      "albumArt": "https://img.youtube.com/vi/D6vCMxmkMKI/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Nasty Girl",
+      "artist": "Nitty",
+      "youtubeId": "L5sjFi-QNSY",
+      "albumArt": "https://img.youtube.com/vi/L5sjFi-QNSY/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "youtubeId": "NxxjLD2pmlk",
+      "albumArt": "https://img.youtube.com/vi/NxxjLD2pmlk/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Don't Phunk With My Heart",
+      "artist": "Black Eyed Peas",
+      "youtubeId": "UvgOT91-3Po",
+      "albumArt": "https://img.youtube.com/vi/UvgOT91-3Po/hqdefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "country": "no",
+  "year": 2005,
+  "context": "Norwegian charts in 2005 were dominated by novelty and bubblegum pop, with German children's novelty hit 'Schnappi' topping the year-end chart. Wig Wam represented Norway at Eurovision with 'In My Dreams', becoming a surprise domestic hit, while local Norwegian acts Sandra and Philip & Sandra showed strong appeal alongside the international wave.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Schnappi, das kleine Krokodil",
+      "artist": "Schnappi",
+      "youtubeId": "mz7zeyhPXQA",
+      "albumArt": "https://img.youtube.com/vi/mz7zeyhPXQA/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "What's In It For Me?",
+      "artist": "Amy Diamond",
+      "youtubeId": "MMzdahiaYQ4",
+      "albumArt": "https://img.youtube.com/vi/MMzdahiaYQ4/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Axel F",
+      "artist": "Crazy Frog",
+      "youtubeId": "_M1iPYsHZvU",
+      "albumArt": "https://img.youtube.com/vi/_M1iPYsHZvU/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "In My Dreams",
+      "artist": "Wig Wam",
+      "youtubeId": "K8ziaNy9XV0",
+      "albumArt": "https://img.youtube.com/vi/K8ziaNy9XV0/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Don't Cha",
+      "artist": "The Pussycat Dolls feat. Busta Rhymes",
+      "youtubeId": "zYqPmnK_NWc",
+      "albumArt": "https://img.youtube.com/vi/zYqPmnK_NWc/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Pon De Replay",
+      "artist": "Rihanna",
+      "youtubeId": "9fT1CEf7Wzg",
+      "albumArt": "https://img.youtube.com/vi/9fT1CEf7Wzg/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Bad Day",
+      "artist": "Daniel Powter",
+      "youtubeId": "-reIEyYxgxA",
+      "albumArt": "https://img.youtube.com/vi/-reIEyYxgxA/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "I Morgen",
+      "artist": "Sandra",
+      "youtubeId": "aT0MeVWhF0o",
+      "albumArt": "https://img.youtube.com/vi/aT0MeVWhF0o/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Sommerflørt",
+      "artist": "Philip og Sandra",
+      "youtubeId": "4ZcLo-97lr4",
+      "albumArt": "https://img.youtube.com/vi/4ZcLo-97lr4/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "This Is The Night",
+      "artist": "Jorun Stiansen",
+      "youtubeId": "vz4Hk4uCM5M",
+      "albumArt": "https://img.youtube.com/vi/vz4Hk4uCM5M/hqdefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "in",
+  "year": 2025,
+  "context": "Spotify's 2025 Wrapped for India marked a turning point with I-Pop — independent Indian music released outside film soundtracks — accounting for five of the top 10 most-streamed songs. 'Raanjhan' by Sachet-Parampara topped the chart with 246 million streams. Newcomers like Aditya Rikhari and Anuv Jain brought a singer-songwriter wave into the mainstream alongside Arijit Singh's enduring dominance.",
+  "tracks": [
+    {"rank": 1, "title": "Raanjhan", "artist": "Sachet-Parampara (from Do Patti)"},
+    {"rank": 2, "title": "Finding Her", "artist": "Kushagra feat. Bharath & Saaheal"},
+    {"rank": 3, "title": "Saiyaara", "artist": "Tanishk Bagchi & Faheem Abdullah"},
+    {"rank": 4, "title": "Sahiba", "artist": "Aditya Rikhari"},
+    {"rank": 5, "title": "Ishq", "artist": "Faheem Abdullah & Rauhan Malik"},
+    {"rank": 6, "title": "Jo Tum Mere Ho", "artist": "Anuv Jain"},
+    {"rank": 7, "title": "Ishq Hai", "artist": "Anurag Saikia & Romy (from Mismatched 3)"},
+    {"rank": 8, "title": "Apna Bana Le", "artist": "Arijit Singh (from Bhediya)"},
+    {"rank": 9, "title": "Sahiba", "artist": "Jasleen Royal & Stebin Ben"},
+    {"rank": 10, "title": "Tere Bina", "artist": "A.R. Rahman & Chinmayi (from Guru)"}
+  ]
+}

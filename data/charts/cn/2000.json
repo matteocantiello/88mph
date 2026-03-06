@@ -1,0 +1,77 @@
+{
+  "country": "cn",
+  "year": 2000,
+  "context": "The year 2000 marked a pivotal turning point in Mandopop: Faye Wong was named best-selling Cantopop female by Guinness World Records, Stefanie Sun debuted and swept 15 newcomer awards across Asia, and Jay Chou signed his debut album. The Four Heavenly Kings remained dominant from their 1990s peak while mainland and Taiwanese pop began to converge.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tian Kong",
+      "artist": "Faye Wong",
+      "youtubeId": "xLv8UeDTMqc",
+      "albumArt": "https://img.youtube.com/vi/xLv8UeDTMqc/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Tian Hei Hei",
+      "artist": "Stefanie Sun",
+      "youtubeId": "lngbs_0j8QM",
+      "albumArt": "https://img.youtube.com/vi/lngbs_0j8QM/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Tong Hua",
+      "artist": "Andy Lau",
+      "youtubeId": "AQF8Gt-_vWo",
+      "albumArt": "https://img.youtube.com/vi/AQF8Gt-_vWo/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Wan Mei De Yi Tian",
+      "artist": "Jacky Cheung",
+      "youtubeId": "iBcqh9uEjxU",
+      "albumArt": "https://img.youtube.com/vi/iBcqh9uEjxU/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Ai Ni",
+      "artist": "Aaron Kwok",
+      "youtubeId": "jFeIe-KfoKE",
+      "albumArt": "https://img.youtube.com/vi/jFeIe-KfoKE/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Tian Di",
+      "artist": "Jay Chou",
+      "youtubeId": "IDX8OG01Hw8",
+      "albumArt": "https://img.youtube.com/vi/IDX8OG01Hw8/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Liao Jie Ni",
+      "artist": "Leon Lai",
+      "youtubeId": "mYqC1sFP-LQ",
+      "albumArt": "https://img.youtube.com/vi/mYqC1sFP-LQ/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Yan Zi",
+      "artist": "Stefanie Sun",
+      "youtubeId": "ZFukosP6LOw",
+      "albumArt": "https://img.youtube.com/vi/ZFukosP6LOw/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Ni Hai Ai Wo Ma",
+      "artist": "Na Ying",
+      "youtubeId": "B4U_RjNBpLY",
+      "albumArt": "https://img.youtube.com/vi/B4U_RjNBpLY/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Jue Dui",
+      "artist": "Wang Leehom",
+      "youtubeId": "ziwKHypu4EA",
+      "albumArt": "https://img.youtube.com/vi/ziwKHypu4EA/hqdefault.jpg"
+    }
+  ]
+}

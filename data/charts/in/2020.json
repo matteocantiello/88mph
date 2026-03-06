@@ -1,0 +1,17 @@
+{
+  "country": "in",
+  "year": 2020,
+  "context": "Spotify's 2020 Wrapped for India showed Bollywood soundtracks remaining dominant as COVID-19 lockdowns drove unprecedented streaming growth. Arijit Singh appeared on multiple top 10 tracks, cementing his decade-long reign. Only two international tracks — Trevor Daniel's 'Falling' and The Weeknd's 'Blinding Lights' — broke into the Bollywood-dominated top 10.",
+  "tracks": [
+    {"rank": 1, "title": "Shayad", "artist": "Arijit Singh (from Love Aaj Kal)"},
+    {"rank": 2, "title": "Falling", "artist": "Trevor Daniel"},
+    {"rank": 3, "title": "Ghungroo", "artist": "Arijit Singh & Shilpa Rao (from War)"},
+    {"rank": 4, "title": "Tujhe Kitna Chahne Lage", "artist": "Arijit Singh (from Kabir Singh)"},
+    {"rank": 5, "title": "Makhna", "artist": "Asees Kaur & Yasser Desai (from Drive)"},
+    {"rank": 6, "title": "Illegal Weapon 2.0", "artist": "Garry Sandhu & Jasmine Sandlas (from Street Dancer 3D)"},
+    {"rank": 7, "title": "Blinding Lights", "artist": "The Weeknd"},
+    {"rank": 8, "title": "Garmi", "artist": "Badshah & Neha Kakkar (from Street Dancer 3D)"},
+    {"rank": 9, "title": "Tu Hi Yaar Mera", "artist": "Arijit Singh & Neha Kakkar (from Pati Patni Aur Woh)"},
+    {"rank": 10, "title": "Malang", "artist": "Ved Sharma & Kunaal Vermaa (from Malang)"}
+  ]
+}

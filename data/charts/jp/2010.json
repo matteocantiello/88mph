@@ -1,0 +1,73 @@
+{
+  "country": "jp",
+  "year": 2010,
+  "context": "2010 marked the full takeover of the Oricon annual chart by idol groups. AKB48 and the Johnny's group Arashi collectively owned all ten spots on the year-end chart. The voting-mechanic tie-in sales strategy pioneered by AKB48 fundamentally changed how singles were sold in Japan, driving massive physical CD purchases even as digital music grew worldwide.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Beginner",
+      "artist": "AKB48",
+      "youtubeId": "VpMjTbjjdbM",
+      "albumArt": "https://img.youtube.com/vi/VpMjTbjjdbM/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Heavy Rotation",
+      "artist": "AKB48",
+      "youtubeId": "hxLXdCvLHfs",
+      "albumArt": "https://img.youtube.com/vi/hxLXdCvLHfs/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Troublemaker",
+      "artist": "Arashi",
+      "youtubeId": "xEn-jFMbLWc",
+      "albumArt": "https://img.youtube.com/vi/xEn-jFMbLWc/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Monster",
+      "artist": "Arashi",
+      "youtubeId": "ShdCk_YPU3w",
+      "albumArt": "https://img.youtube.com/vi/ShdCk_YPU3w/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Ponytail to Shushu",
+      "artist": "AKB48",
+      "youtubeId": "EzFJ3GPwHRA",
+      "albumArt": "https://img.youtube.com/vi/EzFJ3GPwHRA/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Hatenai Sora",
+      "artist": "Arashi",
+      "youtubeId": "2ubNmMYb1pg",
+      "albumArt": "https://img.youtube.com/vi/2ubNmMYb1pg/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Love Rainbow",
+      "artist": "Arashi",
+      "youtubeId": "WzWpYUTDHvQ",
+      "albumArt": "https://img.youtube.com/vi/WzWpYUTDHvQ/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Chance no Junban",
+      "artist": "AKB48",
+      "youtubeId": "jBDD1I9bZiM",
+      "albumArt": "https://img.youtube.com/vi/jBDD1I9bZiM/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Dear Snow",
+      "artist": "Arashi"
+    },
+    {
+      "rank": 10,
+      "title": "To Be Free",
+      "artist": "Arashi"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "kr",
+  "year": 2025,
+  "context": "The 2025 Circle Chart year-end was topped by WOODZ's 'Drowning' with 687 million weighted points. The chart reflected K-pop's global momentum alongside a strong domestic ballad tradition, with G-Dragon's long-awaited comeback featuring Big Bang members and Rosé's collaboration 'APT.' with Bruno Mars both charting prominently.",
+  "tracks": [
+    {"rank": 1, "title": "Drowning", "artist": "WOODZ"},
+    {"rank": 2, "title": "Whiplash", "artist": "aespa"},
+    {"rank": 3, "title": "Golden", "artist": "HUNTR/X"},
+    {"rank": 4, "title": "I'm Firefly", "artist": "Hwang Karam"},
+    {"rank": 5, "title": "HOME SWEET HOME", "artist": "G-Dragon feat. Taeyang & Daesung"},
+    {"rank": 6, "title": "Don't You Know", "artist": "ZO ZAZZ"},
+    {"rank": 7, "title": "APT.", "artist": "Rosé & Bruno Mars"},
+    {"rank": 8, "title": "REBEL HEART", "artist": "IVE"},
+    {"rank": 9, "title": "To Reach You", "artist": "10CM"},
+    {"rank": 10, "title": "IF I SAY, I LOVE YOU", "artist": "BOYNEXTDOOR"}
+  ]
+}

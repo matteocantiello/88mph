@@ -1,0 +1,59 @@
+{
+  "country": "ru",
+  "year": 2010,
+  "context": "Russia's 2010 airplay chart, tracked by TopHit across 400+ stations, showed international dance-pop alongside domestic acts. Dan Balan's 'Chica Bomb' was the most-played song on Russian radio with over 511,000 spins, while Nyusha became the breakout domestic star. Lady Gaga, Eminem, and Stromae all performed strongly, reflecting Russia's integration into global pop.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tik Tok",
+      "artist": "Kesha",
+      "youtubeId": "RxUZLmN5RsY",
+      "albumArt": "https://img.youtube.com/vi/RxUZLmN5RsY/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Chica Bomb",
+      "artist": "Dan Balan"
+    },
+    {
+      "rank": 3,
+      "title": "Vybirat Chudo",
+      "artist": "Nyusha"
+    },
+    {
+      "rank": 4,
+      "title": "Alejandro",
+      "artist": "Lady Gaga"
+    },
+    {
+      "rank": 5,
+      "title": "Wonderful Life",
+      "artist": "Hurts"
+    },
+    {
+      "rank": 6,
+      "title": "Alors on danse",
+      "artist": "Stromae"
+    },
+    {
+      "rank": 7,
+      "title": "River Flows in You",
+      "artist": "Jasper Forks"
+    },
+    {
+      "rank": 8,
+      "title": "Love The Way You Lie",
+      "artist": "Eminem feat. Rihanna"
+    },
+    {
+      "rank": 9,
+      "title": "Ne Perebivay",
+      "artist": "Nyusha"
+    },
+    {
+      "rank": 10,
+      "title": "I Like",
+      "artist": "Keri Hilson"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "country": "za",
+  "year": 2010,
+  "context": "South Africa hosted the FIFA World Cup in 2010, and the global spotlight supercharged its music scene. Shakira and Freshlyground's 'Waka Waka' became one of the best-selling World Cup anthems in history, while Die Antwoord's zef-culture provocation went internationally viral. Professor dominated local kwaito dancefloors, and Jack Parow's Afrikaans rap carried Cape Town's DIY energy into the mainstream.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Waka Waka (This Time for Africa)",
+      "artist": "Shakira feat. Freshlyground",
+      "youtubeId": "Z_slTWayFK0",
+      "albumArt": "https://img.youtube.com/vi/Z_slTWayFK0/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Sun in My Pocket",
+      "artist": "Locnville",
+      "youtubeId": "NPfUzhvDIaM",
+      "albumArt": "https://img.youtube.com/vi/NPfUzhvDIaM/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Jezebel",
+      "artist": "Professor",
+      "youtubeId": "LRZDAyExmw4",
+      "albumArt": "https://img.youtube.com/vi/LRZDAyExmw4/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Cooler as Ekke",
+      "artist": "Jack Parow",
+      "youtubeId": "DO3y7Reodho",
+      "albumArt": "https://img.youtube.com/vi/DO3y7Reodho/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Enter the Ninja",
+      "artist": "Die Antwoord",
+      "youtubeId": "vdam0RRXmU4",
+      "albumArt": "https://img.youtube.com/vi/vdam0RRXmU4/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Lento",
+      "artist": "Professor feat. Speedy",
+      "youtubeId": "zsUNRzYjCuc",
+      "albumArt": "https://img.youtube.com/vi/zsUNRzYjCuc/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Ndim Iqhawe",
+      "artist": "Simphiwe Dana",
+      "youtubeId": "gsYgAZhrrM8",
+      "albumArt": "https://img.youtube.com/vi/gsYgAZhrrM8/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "IIETYS",
+      "artist": "BLK JKS",
+      "youtubeId": "2i0rT_zu23E",
+      "albumArt": "https://img.youtube.com/vi/2i0rT_zu23E/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Loliwe",
+      "artist": "Zahara",
+      "youtubeId": "BaAPA6XAXrw",
+      "albumArt": "https://img.youtube.com/vi/BaAPA6XAXrw/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Army of One",
+      "artist": "Freshlyground feat. Jack Parow"
+    }
+  ]
+}

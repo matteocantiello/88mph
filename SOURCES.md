@@ -66,27 +66,27 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Country | Code | Charts | Years | Primary Source(s) |
 |---------|------|--------|-------|-------------------|
 | United States | us | 29 | 1940–2025 | Billboard Hot 100 (Year-End Hot 100) |
-| United Kingdom | uk | 15 | 1952–2020 | NME (1952), OCC |
+| United Kingdom | uk | 16 | 1952–2025 | NME (1952), OCC |
 | Italy | it | 17 | 1947–2025 | hitparadeitalia.it |
-| Germany | de | 11 | 1955–2020 | GfK/Musikmarkt, chartsurfer.de |
-| Spain | es | 8 | 1965–2015 | Los 40 Principales, PROMUSICAE |
-| India | in | 7 | 1955–2010 | Binaca Geetmala, hindigeetmala.net |
-| France | fr | 6 | 1955–2010 | SNEP/IFOP |
-| Japan | jp | 6 | 1968–2005 | Oricon |
-| Australia | au | 6 | 1960–2015 | Kent Music Report, ARIA |
-| South Korea | kr | 5 | 1980–2020 | KBS Awards, Gaon/Circle Chart |
-| Brazil | br | 5 | 1960–2015 | Wikipedia |
-| Mexico | mx | 5 | 1965–2010 | Notitas Musicales, Monitor Latino |
-| Sweden | se | 5 | 1965–2010 | Kvällstoppen, Sverigetopplistan |
-| Russia | ru | 5 | 1975–2015 | Pesnya Goda, TopHit |
-| Netherlands | nl | 5 | 1965–2020 | Dutch Top 40 |
-| China | cn | 4 | 1985–2015 | Cultural significance, QQ Music |
-| Norway | no | 4 | 1970–2015 | VG-lista |
-| Nigeria | ng | 4 | 1975–2020 | Cultural significance (Afrobeat/Afrobeats documentation) |
-| South Africa | za | 4 | 1965–2020 | Springbok Radio, cultural significance |
-| Canada | ca | 11 | 1970–2025 | RPM Magazine (1970–2000), Billboard Canadian Hot 100 (2010–2025) |
+| Germany | de | 14 | 1955–2025 | GfK/Musikmarkt, chartsurfer.de, Offizielle Deutsche Charts |
+| Spain | es | 11 | 1965–2025 | Los 40 Principales, PROMUSICAE |
+| India | in | 12 | 1955–2025 | Binaca Geetmala, hindigeetmala.net |
+| France | fr | 11 | 1955–2025 | SNEP/IFOP |
+| Japan | jp | 11 | 1968–2025 | Oricon, Billboard Japan |
+| Australia | au | 10 | 1960–2025 | Kent Music Report, ARIA |
+| South Korea | kr | 8 | 1980–2025 | KBS Awards, Gaon/Circle Chart |
+| Brazil | br | 9 | 1960–2025 | Wikipedia, Brazilian music charts |
+| Mexico | mx | 10 | 1965–2025 | Notitas Musicales, Monitor Latino, Billboard Mexico |
+| Sweden | se | 10 | 1965–2025 | Kvällstoppen, Sverigetopplistan |
+| Russia | ru | 9 | 1975–2025 | Pesnya Goda, TopHit, Zolotoy Grammofon |
+| Netherlands | nl | 9 | 1965–2025 | Dutch Top 40 |
+| China | cn | 8 | 1985–2025 | Cultural significance, QQ Music |
+| Norway | no | 8 | 1970–2025 | VG-lista |
+| Nigeria | ng | 8 | 1975–2025 | TurnTable, cultural significance (Afrobeat/Afrobeats documentation) |
+| South Africa | za | 8 | 1965–2025 | Springbok Radio, cultural significance |
+| Canada | ca | 12 | 1970–2025 | RPM Magazine (1970–2000), Billboard Canadian Hot 100 (2005–2025) |
 
-**Total: 162 charts across 20 countries (1940–2025)**
+**Total: 230 charts across 20 countries (1940–2025)**
 
 ## Notes
 

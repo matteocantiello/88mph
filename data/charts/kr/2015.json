@@ -1,0 +1,73 @@
+{
+  "country": "kr",
+  "year": 2015,
+  "context": "Big Bang dominated the Gaon year-end digital chart with an unprecedented three songs in the top four, powered by their MADE album series. The year also saw a breakthrough for indie rock with Hyukoh's 'Wi Ing Wi Ing' reaching the top 10 alongside mainstream K-pop, reflecting growing diversity in Korean digital streaming habits.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Bang Bang Bang",
+      "artist": "BIGBANG",
+      "youtubeId": "1bD_2ITkGwU",
+      "albumArt": "https://img.youtube.com/vi/1bD_2ITkGwU/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "LOSER",
+      "artist": "BIGBANG",
+      "youtubeId": "0l_NZphW4dU",
+      "albumArt": "https://img.youtube.com/vi/0l_NZphW4dU/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Gateun Sigan Sogeui Neo",
+      "artist": "Naul"
+    },
+    {
+      "rank": 4,
+      "title": "BAE BAE",
+      "artist": "BIGBANG",
+      "youtubeId": "PYEUtMFrRFY",
+      "albumArt": "https://img.youtube.com/vi/PYEUtMFrRFY/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Eat",
+      "artist": "Zion.T",
+      "youtubeId": "Sp_Z2tBVniI",
+      "albumArt": "https://img.youtube.com/vi/Sp_Z2tBVniI/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Ireolgeomyeon Geureojimaiji",
+      "artist": "Baek Ah Yeon feat. Young K"
+    },
+    {
+      "rank": 7,
+      "title": "Call Me Baby",
+      "artist": "EXO",
+      "youtubeId": "Wu8halh9DXs",
+      "albumArt": "https://img.youtube.com/vi/Wu8halh9DXs/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Wi Ing Wi Ing",
+      "artist": "Hyukoh",
+      "youtubeId": "bVrW1eDMtL8",
+      "albumArt": "https://img.youtube.com/vi/bVrW1eDMtL8/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "youtubeId": "iPcX6EpJI3o",
+      "albumArt": "https://img.youtube.com/vi/iPcX6EpJI3o/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Leon",
+      "artist": "IU feat. Park Myung Soo",
+      "youtubeId": "jxyVnTjUDTQ",
+      "albumArt": "https://img.youtube.com/vi/jxyVnTjUDTQ/hqdefault.jpg"
+    }
+  ]
+}

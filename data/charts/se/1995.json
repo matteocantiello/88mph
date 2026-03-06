@@ -10,7 +10,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e02a4e509950320df67cc8684b0",
       "previewUrl": null,
       "spotifyUri": "spotify:track:1pgPH8vxnGW3lueCl55QxP",
-      "spotifyUrl": "https://open.spotify.com/track/1pgPH8vxnGW3lueCl55QxP"
+      "spotifyUrl": "https://open.spotify.com/track/1pgPH8vxnGW3lueCl55QxP",
+      "youtubeId": "7DXlY8LhWnI"
     },
     {
       "rank": 2,
@@ -19,7 +20,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e028cc00aa59493a8177bc40f34",
       "previewUrl": null,
       "spotifyUri": "spotify:track:5Lk8REt9BXCCtz0rboHIQg",
-      "spotifyUrl": "https://open.spotify.com/track/5Lk8REt9BXCCtz0rboHIQg"
+      "spotifyUrl": "https://open.spotify.com/track/5Lk8REt9BXCCtz0rboHIQg",
+      "youtubeId": "s31BYTs7YpE"
     },
     {
       "rank": 3,
@@ -28,7 +30,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e0283a5788dc556a84290aedf0a",
       "previewUrl": null,
       "spotifyUri": "spotify:track:22WZEVFJDUzwbbGQA5RfGe",
-      "spotifyUrl": "https://open.spotify.com/track/22WZEVFJDUzwbbGQA5RfGe"
+      "spotifyUrl": "https://open.spotify.com/track/22WZEVFJDUzwbbGQA5RfGe",
+      "youtubeId": "9EHg07V48TA"
     },
     {
       "rank": 4,
@@ -37,17 +40,22 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e024a93484ad2d9bc2120c542f7",
       "previewUrl": null,
       "spotifyUri": "spotify:track:4wYCe9tSmUolNU4WmJKbZy",
-      "spotifyUrl": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy"
+      "spotifyUrl": "https://open.spotify.com/track/4wYCe9tSmUolNU4WmJKbZy",
+      "youtubeId": "xCelc-x0CoY"
     },
     {
       "rank": 5,
       "title": "Think Twice",
-      "artist": "Céline Dion"
+      "artist": "Céline Dion",
+      "youtubeId": "YjvB0vXT2vE",
+      "albumArt": "https://img.youtube.com/vi/YjvB0vXT2vE/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Self Esteem",
-      "artist": "The Offspring"
+      "artist": "The Offspring",
+      "youtubeId": "EtNZnhxWLHo",
+      "albumArt": "https://img.youtube.com/vi/EtNZnhxWLHo/hqdefault.jpg"
     },
     {
       "rank": 7,

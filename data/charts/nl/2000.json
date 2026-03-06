@@ -1,0 +1,77 @@
+{
+  "country": "nl",
+  "year": 2000,
+  "context": "The year 2000 in the Netherlands saw a blend of Dutch-language pop, Frisian folk, and international dance hits. Local acts dominated the year-end chart, with Jody Bernal's Latin-flavored 'Que sí, que no' topping the list as one of the biggest Dutch pop hits of the era, and indie rock duo Krezip scoring a breakthrough with 'I Would Stay'. European dance and Dutch folk rounded out a diverse top 10.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Que sí, que no",
+      "artist": "Jody Bernal",
+      "youtubeId": "KPC9gfdOpZA",
+      "albumArt": "https://img.youtube.com/vi/KPC9gfdOpZA/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "I Would Stay",
+      "artist": "Krezip",
+      "youtubeId": "kyYGs_sMSEE",
+      "albumArt": "https://img.youtube.com/vi/kyYGs_sMSEE/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Freestyler",
+      "artist": "Bomfunk MCs",
+      "youtubeId": "ymNFyxvIdaM",
+      "albumArt": "https://img.youtube.com/vi/ymNFyxvIdaM/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Onderweg",
+      "artist": "Abel",
+      "youtubeId": "0KYJDwlLquA",
+      "albumArt": "https://img.youtube.com/vi/0KYJDwlLquA/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Wêr bisto",
+      "artist": "Twarres",
+      "youtubeId": "8sWihbmPYd8",
+      "albumArt": "https://img.youtube.com/vi/8sWihbmPYd8/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Jij bent de zon",
+      "artist": "Jop",
+      "youtubeId": "p_YGpCaCzCg",
+      "albumArt": "https://img.youtube.com/vi/p_YGpCaCzCg/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "You Sang to Me",
+      "artist": "Marc Anthony",
+      "youtubeId": "MY4YJxn-9Og",
+      "albumArt": "https://img.youtube.com/vi/MY4YJxn-9Og/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Drop It",
+      "artist": "Scoop",
+      "youtubeId": "zZE9oACMhZ0",
+      "albumArt": "https://img.youtube.com/vi/zZE9oACMhZ0/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Never Be the Same Again",
+      "artist": "Melanie C feat. Lisa 'Left Eye' Lopes",
+      "youtubeId": "U-cjzFRj7v0",
+      "albumArt": "https://img.youtube.com/vi/U-cjzFRj7v0/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Maria Maria",
+      "artist": "Santana feat. The Product G&B",
+      "youtubeId": "Y9XXeznskQ4",
+      "albumArt": "https://img.youtube.com/vi/Y9XXeznskQ4/hqdefault.jpg"
+    }
+  ]
+}

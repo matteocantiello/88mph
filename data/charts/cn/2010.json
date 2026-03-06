@@ -1,0 +1,73 @@
+{
+  "country": "cn",
+  "year": 2010,
+  "context": "By 2010, Jay Chou had cemented his dominance with his tenth anniversary in the industry and launched the Era World Tour. Jolin Tsai performed the Shanghai Expo 2010 theme. The chart scene was driven by romantic Mandopop ballads from Taiwan alongside growing mainland idol acts, with cross-strait artists dominating QQ Music's early digital charts.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ai Qing Mi Yao",
+      "artist": "Jolin Tsai",
+      "youtubeId": "eaThjr61HcM",
+      "albumArt": "https://img.youtube.com/vi/eaThjr61HcM/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Chai Mu You Yan Jiang Cu Cha",
+      "artist": "Wang Leehom",
+      "youtubeId": "isqWY7r8T10",
+      "albumArt": "https://img.youtube.com/vi/isqWY7r8T10/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Xiao Ai",
+      "artist": "Hebe Tian",
+      "youtubeId": "YD9r_tTtlaA",
+      "albumArt": "https://img.youtube.com/vi/YD9r_tTtlaA/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Bao Bao",
+      "artist": "Jason Zhang",
+      "youtubeId": "BKz7MsQWEDw",
+      "albumArt": "https://img.youtube.com/vi/BKz7MsQWEDw/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Wo Xin You Zhu",
+      "artist": "Rene Liu",
+      "youtubeId": "rSM8a1UQJpA",
+      "albumArt": "https://img.youtube.com/vi/rSM8a1UQJpA/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Give a Reason to Forget",
+      "artist": "A-Lin",
+      "youtubeId": "H3O4rREOZt8",
+      "albumArt": "https://img.youtube.com/vi/H3O4rREOZt8/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Sorry That I Loved You",
+      "artist": "Anthony Neely",
+      "youtubeId": "hYCZAJuXL9M",
+      "albumArt": "https://img.youtube.com/vi/hYCZAJuXL9M/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "I'm a Small Small Bird",
+      "artist": "Ding Dang",
+      "youtubeId": "JYUDfIFIeAo",
+      "albumArt": "https://img.youtube.com/vi/JYUDfIFIeAo/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Ai Mei",
+      "artist": "Elva Hsiao"
+    },
+    {
+      "rank": 10,
+      "title": "Bi Wo Sheng Ri Kuai Le",
+      "artist": "Penny Tai"
+    }
+  ]
+}

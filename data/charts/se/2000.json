@@ -1,0 +1,17 @@
+{
+  "country": "se",
+  "year": 2000,
+  "context": "Sweden's Hitlistan in 2000 was defined by a surge of eurodance and international pop: Robbie Williams held number one for five weeks with 'Rock DJ', Britney Spears dominated spring, and Finnish act Bomfunk MCs became a summer phenomenon with 'Freestyler'. Domestic Swedish acts like Markoolio, E-Type, and Eurovision entrant Roger Pontare also charted strongly.",
+  "tracks": [
+    {"rank": 1, "title": "Rock DJ", "artist": "Robbie Williams"},
+    {"rank": 2, "title": "Oops!... I Did It Again", "artist": "Britney Spears"},
+    {"rank": 3, "title": "Freestyler", "artist": "Bomfunk MCs"},
+    {"rank": 4, "title": "The Real Slim Shady", "artist": "Eminem"},
+    {"rank": 5, "title": "Mera mål!", "artist": "Markoolio feat. Arne Hegerfors"},
+    {"rank": 6, "title": "Campione 2000", "artist": "E-Type"},
+    {"rank": 7, "title": "Stan", "artist": "Eminem feat. Dido"},
+    {"rank": 8, "title": "I Turn To You", "artist": "Melanie C"},
+    {"rank": 9, "title": "När vindarna viskar mitt namn", "artist": "Roger Pontare"},
+    {"rank": 10, "title": "It's My Life", "artist": "Bon Jovi"}
+  ]
+}

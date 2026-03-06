@@ -1,0 +1,17 @@
+{
+  "country": "au",
+  "year": 2020,
+  "context": "The COVID-19 pandemic defined Australia's 2020 music landscape — stay-at-home orders drove record streaming numbers, and The Weeknd's 'Blinding Lights' spent 11 weeks at number one, becoming the year's dominant single. Tones And I, whose 'Dance Monkey' had broken records in 2019, remained a top-five fixture on the year-end chart. International pop, R&B, and indie pop swept the top 10 as live music was entirely shut down.",
+  "tracks": [
+    {"rank": 1, "title": "Blinding Lights", "artist": "The Weeknd"},
+    {"rank": 2, "title": "Roses", "artist": "SAINt JHN"},
+    {"rank": 3, "title": "Don't Start Now", "artist": "Dua Lipa"},
+    {"rank": 4, "title": "Dance Monkey", "artist": "Tones and I"},
+    {"rank": 5, "title": "Rockstar", "artist": "DaBaby feat. Roddy Ricch"},
+    {"rank": 6, "title": "Watermelon Sugar", "artist": "Harry Styles"},
+    {"rank": 7, "title": "Circles", "artist": "Post Malone"},
+    {"rank": 8, "title": "Before You Go", "artist": "Lewis Capaldi"},
+    {"rank": 9, "title": "Intentions", "artist": "Justin Bieber feat. Quavo"},
+    {"rank": 10, "title": "Say So", "artist": "Doja Cat"}
+  ]
+}

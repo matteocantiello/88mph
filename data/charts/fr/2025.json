@@ -1,0 +1,17 @@
+{
+  "country": "fr",
+  "year": 2025,
+  "context": "2025 was the year of Gims's total dominance of the French charts, with the Congolese-French rapper-singer placing multiple tracks in the year-end top 10. French rap and urban pop remained the backbone of chart activity, while SDM's street-rap collaborations with Booba signaled the continued commercial power of the Parisian rap scene. Global crossovers from Alex Warren and Lola Young also penetrated the French market.",
+  "tracks": [
+    {"rank": 1, "title": "Ciel", "artist": "Gims"},
+    {"rank": 2, "title": "Feel Good", "artist": "Charlotte Cardin"},
+    {"rank": 3, "title": "Cartier Santos", "artist": "SDM"},
+    {"rank": 4, "title": "Sois Pas Timide", "artist": "Gims"},
+    {"rank": 5, "title": "Dolce Camara", "artist": "Booba & SDM"},
+    {"rank": 6, "title": "Ninao", "artist": "Gims"},
+    {"rank": 7, "title": "Spider", "artist": "Gims & Dystinct"},
+    {"rank": 8, "title": "Ordinary", "artist": "Alex Warren"},
+    {"rank": 9, "title": "Messy", "artist": "Lola Young"},
+    {"rank": 10, "title": "Melrose Place", "artist": "Keblack & Guy2Bezbar"}
+  ]
+}

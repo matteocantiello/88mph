@@ -1,0 +1,17 @@
+{
+  "country": "fr",
+  "year": 2020,
+  "context": "2020 was defined by the pandemic and the total dominance of French rap and urban music. Jul's Marseille collective anthem 'Bande Organisée' became a cultural phenomenon, featuring eight rappers and embodying the collaborative, street-rooted style of southern French rap. The chart reflected streaming's full takeover of French music consumption, with Afro-influenced trap alongside global crossover hits like The Weeknd's 'Blinding Lights'.",
+  "tracks": [
+    {"rank": 1, "title": "Bande Organisée", "artist": "Jul feat. SCH, Naps, Kofs, Elams, Solda, Houari & Soso Maness"},
+    {"rank": 2, "title": "Blinding Lights", "artist": "The Weeknd"},
+    {"rank": 3, "title": "Angela", "artist": "Hatik"},
+    {"rank": 4, "title": "Dance Monkey", "artist": "Tones and I"},
+    {"rank": 5, "title": "Lettre à Une Femme", "artist": "Ninho"},
+    {"rank": 6, "title": "Ne Reviens Pas", "artist": "Gradur feat. Heuss L'Enfoiré"},
+    {"rank": 7, "title": "Djomb", "artist": "Bosh"},
+    {"rank": 8, "title": "Roses", "artist": "SAINt JHN"},
+    {"rank": 9, "title": "Blanche", "artist": "Maes feat. Booba"},
+    {"rank": 10, "title": "Distant", "artist": "Maes feat. Ninho"}
+  ]
+}

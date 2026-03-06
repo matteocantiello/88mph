@@ -1,0 +1,65 @@
+{
+  "country": "se",
+  "year": 2015,
+  "context": "Sweden's Sverigetopplistan in 2015 reflected the streaming era taking hold: 'Lean On' by Major Lazer was the biggest song of the year, with tropical house and EDM dominating alongside global ballads. Zara Larsson made a strong international showing, while Alan Walker's 'Faded' — produced by a Norwegian artist but embraced as a Nordic cultural moment — exploded late in the year.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Lean On",
+      "artist": "Major Lazer feat. MØ & DJ Snake"
+    },
+    {
+      "rank": 2,
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding"
+    },
+    {
+      "rank": 3,
+      "title": "Stole The Show",
+      "artist": "Kygo feat. Parson James"
+    },
+    {
+      "rank": 4,
+      "title": "Cheerleader (Felix Jaehn Remix)",
+      "artist": "OMI"
+    },
+    {
+      "rank": 5,
+      "title": "Hello",
+      "artist": "Adele"
+    },
+    {
+      "rank": 6,
+      "title": "Sorry",
+      "artist": "Justin Bieber"
+    },
+    {
+      "rank": 7,
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "youtubeId": "oyEuk8j8imI",
+      "albumArt": "https://img.youtube.com/vi/oyEuk8j8imI/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "youtubeId": "pIWaVJPl0-c",
+      "albumArt": "https://img.youtube.com/vi/pIWaVJPl0-c/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Never Forget You",
+      "artist": "Zara Larsson & MNEK",
+      "youtubeId": "ogKU5EQ0Wn0",
+      "albumArt": "https://img.youtube.com/vi/ogKU5EQ0Wn0/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Hotline Bling",
+      "artist": "Drake",
+      "youtubeId": "uxpDa-c-4Mc",
+      "albumArt": "https://img.youtube.com/vi/uxpDa-c-4Mc/hqdefault.jpg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "country": "jp",
+  "year": 2025,
+  "context": "The 2025 Oricon chart reflected continued dominance of Johnny's successor acts and Sakamichi-series idol groups. Snow Man topped the year with 'SERIOUS', while Nogizaka46 placed three singles in the top 10. K-pop groups ENHYPEN and &TEAM, releasing Japanese-language singles, cracked the top 10, reflecting the sustained strength of Korean acts in the Japanese market.",
+  "tracks": [
+    {"rank": 1, "title": "SERIOUS", "artist": "Snow Man"},
+    {"rank": 2, "title": "THE WINTER MAGIC", "artist": "INI"},
+    {"rank": 3, "title": "Same Numbers", "artist": "Nogizaka46"},
+    {"rank": 4, "title": "Handz In My Pocket", "artist": "JO1"},
+    {"rank": 5, "title": "Biryani", "artist": "Nogizaka46"},
+    {"rank": 6, "title": "Unhappy Birthday Koubun", "artist": "Sakurazaka46"},
+    {"rank": 7, "title": "Navel Orange", "artist": "Nogizaka46"},
+    {"rank": 8, "title": "YOI", "artist": "ENHYPEN"},
+    {"rank": 9, "title": "Go in Blind", "artist": "&TEAM"},
+    {"rank": 10, "title": "Steal The Show / Recipe", "artist": "timelesz"}
+  ]
+}

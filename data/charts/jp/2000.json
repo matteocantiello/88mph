@@ -1,0 +1,77 @@
+{
+  "country": "jp",
+  "year": 2000,
+  "context": "The year 2000 marked the peak of Japan's CD singles boom, with sales routinely exceeding one million copies. Southern All Stars returned after a three-year hiatus with 'Tsunami', which became the best-selling single in Japanese chart history. The era featured a diverse mix of veteran rock acts, idol groups like Morning Musume, and solo J-pop artists such as Utada Hikaru and Hamasaki Ayumi defining a new sound for the decade.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tsunami",
+      "artist": "Southern All Stars",
+      "youtubeId": "xRyL5BPOWfE",
+      "albumArt": "https://img.youtube.com/vi/xRyL5BPOWfE/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Sakurazaka",
+      "artist": "Fukuyama Masaharu",
+      "youtubeId": "X3eU7FUhsd0",
+      "albumArt": "https://img.youtube.com/vi/X3eU7FUhsd0/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Wait & See ~Risk~",
+      "artist": "Utada Hikaru",
+      "youtubeId": "aCnXBbiDSrg",
+      "albumArt": "https://img.youtube.com/vi/aCnXBbiDSrg/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Love, Day After Tomorrow",
+      "artist": "Kuraki Mai",
+      "youtubeId": "iGTxcqrO5wg",
+      "albumArt": "https://img.youtube.com/vi/iGTxcqrO5wg/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Seasons",
+      "artist": "Hamasaki Ayumi",
+      "youtubeId": "wfVStsF-y48",
+      "albumArt": "https://img.youtube.com/vi/wfVStsF-y48/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Lion Heart",
+      "artist": "SMAP",
+      "youtubeId": "IbwJYgGWLWg",
+      "albumArt": "https://img.youtube.com/vi/IbwJYgGWLWg/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Koi no Dance Site",
+      "artist": "Morning Musume",
+      "youtubeId": "gnGvR_fjCj4",
+      "albumArt": "https://img.youtube.com/vi/gnGvR_fjCj4/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Kon'ya Tsuki no Mieru Oka ni",
+      "artist": "B'z",
+      "youtubeId": "j-6VFFOtR3w",
+      "albumArt": "https://img.youtube.com/vi/j-6VFFOtR3w/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Chokotto Love",
+      "artist": "Petitmoni",
+      "youtubeId": "qcqj4k7v-J8",
+      "albumArt": "https://img.youtube.com/vi/qcqj4k7v-J8/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Neo Universe / Finale",
+      "artist": "L'Arc~en~Ciel",
+      "youtubeId": "0eQUIvMmRt4",
+      "albumArt": "https://img.youtube.com/vi/0eQUIvMmRt4/hqdefault.jpg"
+    }
+  ]
+}

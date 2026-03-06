@@ -1,0 +1,75 @@
+{
+  "country": "de",
+  "year": 2015,
+  "context": "2015 was dominated in Germany by tropical house and deep house remixes, with Felix Jaehn's remix of Omi's 'Cheerleader' spending weeks at the top and defining the summer sound. German-language hits began reclaiming ground, with Philipp Dittberner's 'Wolke 4' and Sido's 'Astronaut' showing that domestic artists could compete with international streaming giants.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Cheerleader (Felix Jaehn Remix)",
+      "artist": "Omi",
+      "youtubeId": "jcd0Pca6pIM",
+      "albumArt": "https://img.youtube.com/vi/jcd0Pca6pIM/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Are You With Me",
+      "artist": "Lost Frequencies",
+      "youtubeId": "SmVGZdLVVhc",
+      "albumArt": "https://img.youtube.com/vi/SmVGZdLVVhc/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Ain't Nobody (Loves Me Better)",
+      "artist": "Felix Jaehn feat. Jasmine Thompson",
+      "youtubeId": "Q5fq_4wUL0U",
+      "albumArt": "https://img.youtube.com/vi/Q5fq_4wUL0U/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "youtubeId": "6eW99oNNRvI",
+      "albumArt": "https://img.youtube.com/vi/6eW99oNNRvI/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Lean On",
+      "artist": "Major Lazer & DJ Snake feat. MØ",
+      "youtubeId": "5vOid-7uBdQ",
+      "albumArt": "https://img.youtube.com/vi/5vOid-7uBdQ/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Astronaut",
+      "artist": "Sido feat. Andreas Bourani",
+      "youtubeId": "-Ona-Dsu3-E",
+      "albumArt": "https://img.youtube.com/vi/-Ona-Dsu3-E/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "See You Again",
+      "artist": "Wiz Khalifa feat. Charlie Puth",
+      "youtubeId": "xl8thVrlvjI",
+      "albumArt": "https://img.youtube.com/vi/xl8thVrlvjI/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Firestone",
+      "artist": "Kygo feat. Conrad Sewell",
+      "youtubeId": "BKHklv6-hJI",
+      "albumArt": "https://img.youtube.com/vi/BKHklv6-hJI/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Wolke 4",
+      "artist": "Philipp Dittberner & Marv",
+      "youtubeId": "1OIPBt7dFYE",
+      "albumArt": "https://img.youtube.com/vi/1OIPBt7dFYE/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson feat. Bruno Mars"
+    }
+  ]
+}

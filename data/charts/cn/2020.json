@@ -1,0 +1,17 @@
+{
+  "country": "cn",
+  "year": 2020,
+  "context": "China's 2020 streaming landscape was defined by QQ Music, NetEase Cloud Music, and viral short-video platform Douyin. COVID-19 lockdowns fueled massive online music consumption. Jay Chou's 'Mojito' became the summer anthem, while newer voices like Fu Ruqiao and Xue Zhiqian dominated platform charts with emotionally resonant pop. Nostalgic ballads from idol shows also trended heavily.",
+  "tracks": [
+    {"rank": 1, "title": "Fei Niao He Chan", "artist": "Ren Ran"},
+    {"rank": 2, "title": "Mojito", "artist": "Jay Chou"},
+    {"rank": 3, "title": "Tian Wai Lai Wu", "artist": "Xue Zhiqian"},
+    {"rank": 4, "title": "Qing Ren", "artist": "Cai Xukun"},
+    {"rank": 5, "title": "Wei Wei", "artist": "Fu Ruqiao"},
+    {"rank": 6, "title": "Ma Que", "artist": "Li Ronghao"},
+    {"rank": 7, "title": "Qi Feng Le", "artist": "Zhou Shen"},
+    {"rank": 8, "title": "Shao Nian", "artist": "Mengran"},
+    {"rank": 9, "title": "Hou Lai Yu Jian Ta", "artist": "Hu 66"},
+    {"rank": 10, "title": "Fen Wu Hai", "artist": "Yi Yang Qianxi"}
+  ]
+}

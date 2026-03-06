@@ -1,0 +1,77 @@
+{
+  "country": "se",
+  "year": 2020,
+  "context": "Sweden's 2020 chart was shaped by the pandemic and streaming dominance. The Weeknd's 'Blinding Lights' topped the year, while Victor Leksell's 'Svag' — a brokenhearted Swedish-language ballad that spent 14 weeks at number one — became the defining domestic hit, demonstrating the enduring strength of Swedish-language pop tradition even in a global streaming era.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "youtubeId": "H64a2ggVIWc",
+      "albumArt": "https://img.youtube.com/vi/H64a2ggVIWc/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "youtubeId": "Hx4nWW9z0ig",
+      "albumArt": "https://img.youtube.com/vi/Hx4nWW9z0ig/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Svag",
+      "artist": "Victor Leksell",
+      "youtubeId": "ZIrIVwghyR8",
+      "albumArt": "https://img.youtube.com/vi/ZIrIVwghyR8/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "youtubeId": "htg8v0g_4e4",
+      "albumArt": "https://img.youtube.com/vi/htg8v0g_4e4/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Lev nu dö sen",
+      "artist": "Miss Li",
+      "youtubeId": "3pFFTAGYVhM",
+      "albumArt": "https://img.youtube.com/vi/3pFFTAGYVhM/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "everything i wanted",
+      "artist": "Billie Eilish",
+      "youtubeId": "iuINiqxtjhI",
+      "albumArt": "https://img.youtube.com/vi/iuINiqxtjhI/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "youtubeId": "AyCrypt1pdI",
+      "albumArt": "https://img.youtube.com/vi/AyCrypt1pdI/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Roses (Imanbek Remix)",
+      "artist": "SAINt JHN",
+      "youtubeId": "t0aXItJPodE",
+      "albumArt": "https://img.youtube.com/vi/t0aXItJPodE/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "PIPPI",
+      "artist": "Einar",
+      "youtubeId": "hwpaFnnUibo",
+      "albumArt": "https://img.youtube.com/vi/hwpaFnnUibo/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "youtubeId": "ZD6rXLXZOEI",
+      "albumArt": "https://img.youtube.com/vi/ZD6rXLXZOEI/hqdefault.jpg"
+    }
+  ]
+}

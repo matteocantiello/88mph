@@ -1,0 +1,17 @@
+{
+  "country": "nl",
+  "year": 2015,
+  "context": "2015 in the Netherlands was dominated by tropical house and feel-good remixes, with Felix Jaehn's remix of Omi's 'Cheerleader' topping the year-end chart. Dutch act Kenny B crossed over nationally with his Portuguese-influenced ballad 'Parijs', while Lost Frequencies and Kygo represented the melodic EDM wave sweeping Europe. Mark Ronson and Bruno Mars' funk revival 'Uptown Funk!' was a year-round staple.",
+  "tracks": [
+    {"rank": 1, "title": "Cheerleader (Felix Jaehn Remix)", "artist": "Omi"},
+    {"rank": 2, "title": "Lean On", "artist": "Major Lazer & DJ Snake feat. MØ"},
+    {"rank": 3, "title": "Parijs", "artist": "Kenny B"},
+    {"rank": 4, "title": "Ain't Nobody (Loves Me Better)", "artist": "Felix Jaehn feat. Jasmine Thompson"},
+    {"rank": 5, "title": "Are You with Me", "artist": "Lost Frequencies"},
+    {"rank": 6, "title": "Thinking Out Loud", "artist": "Ed Sheeran"},
+    {"rank": 7, "title": "Firestone", "artist": "Kygo feat. Conrad Sewell"},
+    {"rank": 8, "title": "Uptown Funk!", "artist": "Mark Ronson feat. Bruno Mars"},
+    {"rank": 9, "title": "Stole the Show", "artist": "Kygo feat. Parson James"},
+    {"rank": 10, "title": "What Do You Mean?", "artist": "Justin Bieber"}
+  ]
+}

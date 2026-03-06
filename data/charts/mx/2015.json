@@ -1,0 +1,17 @@
+{
+  "country": "mx",
+  "year": 2015,
+  "context": "Mexico's 2015 chart was split between international reggaeton dominance and a thriving regional Mexican scene anchored by Banda MS and the late Ariel Camacho's sierreño revolution. 'El Perdón' by Nicky Jam and Enrique Iglesias ruled the year with 30 weeks at number one on Hot Latin Songs. Romeo Santos consolidated his bachata dominance while J Balvin began his ascent to global Latin urban stardom.",
+  "tracks": [
+    {"rank": 1, "title": "El Perdón", "artist": "Nicky Jam & Enrique Iglesias"},
+    {"rank": 2, "title": "Propuesta Indecente", "artist": "Romeo Santos"},
+    {"rank": 3, "title": "Hilito", "artist": "Romeo Santos"},
+    {"rank": 4, "title": "Ay Vamos", "artist": "J Balvin"},
+    {"rank": 5, "title": "Ginza", "artist": "J Balvin"},
+    {"rank": 6, "title": "Lean On", "artist": "Major Lazer & DJ Snake feat. MØ"},
+    {"rank": 7, "title": "Amor Secreto", "artist": "Banda MS de Sergio Lizárraga"},
+    {"rank": 8, "title": "Quiero Más", "artist": "Calibre 50"},
+    {"rank": 9, "title": "Volveré a Amarte", "artist": "Ariel Camacho y Los Plebes del Rancho"},
+    {"rank": 10, "title": "Want to Want Me", "artist": "Jason Derulo"}
+  ]
+}

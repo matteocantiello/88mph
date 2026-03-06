@@ -1,0 +1,17 @@
+{
+  "country": "ru",
+  "year": 2025,
+  "context": "Russia's 2025 music year was defined by a paradox: anti-war artists were silenced or exiled, yet the biggest hits came from apolitical acts. Bond s Knopkoy's indie-folk 'Kukhni' spent 85 days atop Yandex Music. VK Music's Track of the Year was 'Khudi' by Dzhigan, Artik & Asti, and NILETTO. Miyagi & Andy Panda accumulated 590 million streams, and Anna Asti was Artist of the Year for the second consecutive year.",
+  "tracks": [
+    {"rank": 1, "title": "Khudi", "artist": "Dzhigan feat. Artik & Asti & NILETTO"},
+    {"rank": 2, "title": "Kukhni", "artist": "Bond s Knopkoy"},
+    {"rank": 3, "title": "Poyezda", "artist": "Zhenya Trofimov & Komnata Kultury"},
+    {"rank": 4, "title": "Ogni", "artist": "Xolidayboy"},
+    {"rank": 5, "title": "Odna", "artist": "Tatyana Kurtukova"},
+    {"rank": 6, "title": "Yesenin", "artist": "Navai & Mona"},
+    {"rank": 7, "title": "Valkyriya", "artist": "Bearwolf"},
+    {"rank": 8, "title": "I Got Love", "artist": "Miyagi & Andy Panda feat. Rem Digga"},
+    {"rank": 9, "title": "Silhouette", "artist": "Vanya Dmitriyenko & Anna Peresild"},
+    {"rank": 10, "title": "Schastye Byt", "artist": "Artik & Asti"}
+  ]
+}

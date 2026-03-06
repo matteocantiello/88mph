@@ -1,0 +1,17 @@
+{
+  "country": "es",
+  "year": 2025,
+  "context": "Spain's 2025 year-end chart confirmed the total domination of Latin urbano and reggaeton, with Colombian trio W Sound, Beéle, and Ovy On The Drums scoring the year's biggest single with 'La Plena'. Bad Bunny placed four songs in the top 10, cementing his status as Spain's biggest artist of the era, while Karol G's late 2024 hit maintained its chart presence deep into 2025.",
+  "tracks": [
+    {"rank": 1, "title": "La Plena", "artist": "W Sound feat. Beéle & Ovy On The Drums"},
+    {"rank": 2, "title": "Capaz (Merengueton)", "artist": "Yorghaki feat. Alleh"},
+    {"rank": 3, "title": "BAILE INoLVIDABLE", "artist": "Bad Bunny"},
+    {"rank": 4, "title": "Mi Refe", "artist": "Beéle feat. Ovy On The Drums"},
+    {"rank": 5, "title": "No Tiene Sentido", "artist": "Beéle"},
+    {"rank": 6, "title": "NUEVAYoL", "artist": "Bad Bunny"},
+    {"rank": 7, "title": "Veldá", "artist": "Bad Bunny feat. Omar Courtz & Dei V"},
+    {"rank": 8, "title": "Si Antes Te Hubiera Conocido", "artist": "Karol G"},
+    {"rank": 9, "title": "DTMF", "artist": "Bad Bunny"},
+    {"rank": 10, "title": "Yo y Tú", "artist": "Ovy On The Drums feat. Quevedo & Beéle"}
+  ]
+}

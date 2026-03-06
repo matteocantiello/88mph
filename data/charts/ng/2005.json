@@ -1,0 +1,71 @@
+{
+  "country": "ng",
+  "year": 2005,
+  "context": "The mid-2000s marked the birth of what would become global Afrobeats: 2face Idibia's 'African Queen' redefined romance in Nigerian pop, while D'banj and Don Jazzy's Mo' Hits imprint became the coolest brand in Lagos. P-Square's love anthems ruled radio, and Timaya introduced his gritty dancehall-influenced voice with 'Dem Mama', a scathing commentary on state violence.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "African Queen",
+      "artist": "2Baba (2face Idibia)",
+      "youtubeId": "4CQ6gMbsNDM",
+      "albumArt": "https://img.youtube.com/vi/4CQ6gMbsNDM/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Tongolo",
+      "artist": "D'banj",
+      "youtubeId": "KFq8nRiu2ss",
+      "albumArt": "https://img.youtube.com/vi/KFq8nRiu2ss/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Olufunmi",
+      "artist": "Styl-Plus",
+      "youtubeId": "fMHpDqNi4kg",
+      "albumArt": "https://img.youtube.com/vi/fMHpDqNi4kg/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Do Me",
+      "artist": "P-Square",
+      "youtubeId": "eT5_JEp1E2s",
+      "albumArt": "https://img.youtube.com/vi/eT5_JEp1E2s/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "True Love",
+      "artist": "2Baba (2face Idibia)",
+      "youtubeId": "CkNEi3v_-iA",
+      "albumArt": "https://img.youtube.com/vi/CkNEi3v_-iA/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Dem Mama",
+      "artist": "Timaya",
+      "youtubeId": "j1LcRAi0Nbg",
+      "albumArt": "https://img.youtube.com/vi/j1LcRAi0Nbg/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "I Go Yarn",
+      "artist": "eLDee",
+      "youtubeId": "6uOPi5ajbxw",
+      "albumArt": "https://img.youtube.com/vi/6uOPi5ajbxw/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Far Away",
+      "artist": "Lagbaja"
+    },
+    {
+      "rank": 9,
+      "title": "Delicious Remix",
+      "artist": "2Shotz & Big Lo"
+    },
+    {
+      "rank": 10,
+      "title": "Hard Life",
+      "artist": "Blackface feat. Alabai"
+    }
+  ]
+}

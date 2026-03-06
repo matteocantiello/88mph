@@ -1,0 +1,77 @@
+{
+  "country": "za",
+  "year": 2005,
+  "context": "South African music in 2005 was a cross-generational celebration: Malaika's '2bhobho' was named song of the year, while Freshlyground's 'Doo Be Doo' became the most-played song on local radio, blending Southern African folk with pop warmth. Mafikizolo's neo-marabi revival deepened, and the Durban kwaito scene flexed through Mzekezeke's masked anthems.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "2bhobho",
+      "artist": "Malaika",
+      "youtubeId": "S5k9dh7ANDY",
+      "albumArt": "https://img.youtube.com/vi/S5k9dh7ANDY/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Doo Be Doo",
+      "artist": "Freshlyground",
+      "youtubeId": "C2jtdRtfhXM",
+      "albumArt": "https://img.youtube.com/vi/C2jtdRtfhXM/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Mas'Thokoze",
+      "artist": "Mafikizolo",
+      "youtubeId": "J_mW3gtKVzU",
+      "albumArt": "https://img.youtube.com/vi/J_mW3gtKVzU/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Akekh' uGogo",
+      "artist": "Mzekezeke",
+      "youtubeId": "1qLXAbHsp_w",
+      "albumArt": "https://img.youtube.com/vi/1qLXAbHsp_w/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Sika Lekhekhe",
+      "artist": "Arthur Mafokate",
+      "youtubeId": "kYelNWCT0ws",
+      "albumArt": "https://img.youtube.com/vi/kYelNWCT0ws/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Remember When It Rains",
+      "artist": "DJ Sbu",
+      "youtubeId": "t3d6v_TC6CM",
+      "albumArt": "https://img.youtube.com/vi/t3d6v_TC6CM/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Nisixoshelani",
+      "artist": "Mafikizolo",
+      "youtubeId": "oBlN-nMFe7o",
+      "albumArt": "https://img.youtube.com/vi/oBlN-nMFe7o/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Destiny",
+      "artist": "Malaika",
+      "youtubeId": "q1oB9CdV5T0",
+      "albumArt": "https://img.youtube.com/vi/q1oB9CdV5T0/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "I Hope You Understand",
+      "artist": "Mafikizolo",
+      "youtubeId": "K4BfOs5n9Mo",
+      "albumArt": "https://img.youtube.com/vi/K4BfOs5n9Mo/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Nomvula",
+      "artist": "Freshlyground",
+      "youtubeId": "C3D0iWLTBm0",
+      "albumArt": "https://img.youtube.com/vi/C3D0iWLTBm0/hqdefault.jpg"
+    }
+  ]
+}

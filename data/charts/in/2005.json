@@ -1,0 +1,65 @@
+{
+  "country": "in",
+  "year": 2005,
+  "context": "2005 in Bollywood was defined by the rise of Himesh Reshammiya's distinctive nasal pop style, with 'Aashiq Banaya Aapne' becoming a massive ringtone-era earworm. Atif Aslam crossed over from Pakistan with 'Woh Lamhe', while Bunty Aur Babli's 'Kajra Re' became one of the decade's most memorable dance numbers on MTV India and Channel V.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Aashiq Banaya Aapne",
+      "artist": "Himesh Reshammiya & Shreya Ghoshal",
+      "youtubeId": "gAhTcWevZ3M",
+      "albumArt": "https://img.youtube.com/vi/gAhTcWevZ3M/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Kajra Re",
+      "artist": "Alisha Chinai, Shankar Mahadevan & Javed Ali (from Bunty Aur Babli)",
+      "youtubeId": "9HzMR9abGAI",
+      "albumArt": "https://img.youtube.com/vi/9HzMR9abGAI/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Woh Lamhe",
+      "artist": "Atif Aslam (from Zeher)",
+      "youtubeId": "y12BRDS1CHI",
+      "albumArt": "https://img.youtube.com/vi/y12BRDS1CHI/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Dus Bahaane",
+      "artist": "Shaan & KK (from Dus)",
+      "youtubeId": "S-TphdFfZG8",
+      "albumArt": "https://img.youtube.com/vi/S-TphdFfZG8/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "My Dil Goes Mmm",
+      "artist": "Shaan & Shreya Ghoshal (from Salaam Namaste)"
+    },
+    {
+      "rank": 6,
+      "title": "Agar Tum Mil Jaao",
+      "artist": "Udit Narayan & Shreya Ghoshal (from Zeher)"
+    },
+    {
+      "rank": 7,
+      "title": "Kaisi Paheli Zindagaani",
+      "artist": "Shreya Ghoshal (from Parineeta)"
+    },
+    {
+      "rank": 8,
+      "title": "Dhadak Dhadak",
+      "artist": "Udit Narayan & Mahalakshmi Iyer (from Bunty Aur Babli)"
+    },
+    {
+      "rank": 9,
+      "title": "Chup Chup Ke",
+      "artist": "Sonu Nigam & Mahalakshmi Iyer"
+    },
+    {
+      "rank": 10,
+      "title": "Nach Baliye",
+      "artist": "Shankar Mahadevan & Sunidhi Chauhan (from Bunty Aur Babli)"
+    }
+  ]
+}

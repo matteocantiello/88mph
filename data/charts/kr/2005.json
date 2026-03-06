@@ -1,0 +1,63 @@
+{
+  "country": "kr",
+  "year": 2005,
+  "context": "Before the Gaon Chart launched in 2010, Korean music popularity was tracked through TV music show wins and Melon digital downloads. 2005 was dominated by male ballad singers, with Kim Jong Kook sweeping all three broadcaster grand prizes. Epik High's 'Fly' signaled hip-hop's growing mainstream crossover appeal in a market still dominated by emotional ballads.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Sarang Seureo Weo",
+      "artist": "Yoon Do Hyun"
+    },
+    {
+      "rank": 2,
+      "title": "Bicheop (Coward)",
+      "artist": "Buzz"
+    },
+    {
+      "rank": 3,
+      "title": "Fly",
+      "artist": "Epik High",
+      "youtubeId": "sHqLlyBlmQI",
+      "albumArt": "https://img.youtube.com/vi/sHqLlyBlmQI/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Loveable",
+      "artist": "Kim Jong Kook",
+      "youtubeId": "USFIA0qvIak",
+      "albumArt": "https://img.youtube.com/vi/USFIA0qvIak/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Bosal Pyo",
+      "artist": "Sung Si Kyung"
+    },
+    {
+      "rank": 6,
+      "title": "Saranghae Gosamawo",
+      "artist": "MC Mong feat. Kim Tae Woo"
+    },
+    {
+      "rank": 7,
+      "title": "Jijiannun Taeyang",
+      "artist": "Jang Woo Hyuk"
+    },
+    {
+      "rank": 8,
+      "title": "An Uneowo",
+      "artist": "LeeSSang"
+    },
+    {
+      "rank": 9,
+      "title": "Superstar",
+      "artist": "Jewelry",
+      "youtubeId": "l9Ih9zqtWJY",
+      "albumArt": "https://img.youtube.com/vi/l9Ih9zqtWJY/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Haengbok Hajima",
+      "artist": "MC The Max"
+    }
+  ]
+}

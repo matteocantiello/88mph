@@ -1,0 +1,77 @@
+{
+  "country": "se",
+  "year": 2025,
+  "context": "Sweden's 2025 chart year was dominated by domestic cultural phenomena: KAJ's sauna comedy anthem 'Bara bada bastu' broke Spotify streaming records after winning Melodifestivalen and representing Sweden at Eurovision. Alongside international crossovers like Bruno Mars collaborations, Swedish-language acts Tjuvjakt, Ida-Lova, and Dolly Style secured top-10 placements, reflecting the chart's confident domestic identity.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Bara bada bastu",
+      "artist": "KAJ",
+      "youtubeId": "QOehBj0nCMU",
+      "albumArt": "https://img.youtube.com/vi/QOehBj0nCMU/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "youtubeId": "byxFUKxhT3s",
+      "albumArt": "https://img.youtube.com/vi/byxFUKxhT3s/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Tusen spänn",
+      "artist": "Tjuvjakt & Fanny Avonne",
+      "youtubeId": "xwJ4BGeplQw",
+      "albumArt": "https://img.youtube.com/vi/xwJ4BGeplQw/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Svagare än jag",
+      "artist": "Ida-Lova",
+      "youtubeId": "w41voyQ9CIk",
+      "albumArt": "https://img.youtube.com/vi/w41voyQ9CIk/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "DiTd771WumE",
+      "albumArt": "https://img.youtube.com/vi/DiTd771WumE/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "DlFXDl_ROAM",
+      "albumArt": "https://img.youtube.com/vi/DlFXDl_ROAM/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Yihaa",
+      "artist": "Dolly Style",
+      "youtubeId": "USx4d076ylQ",
+      "albumArt": "https://img.youtube.com/vi/USx4d076ylQ/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Lost and Found",
+      "artist": "Molly Sandén & Victor Leksell",
+      "youtubeId": "doshwENYeHk",
+      "albumArt": "https://img.youtube.com/vi/doshwENYeHk/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "youtubeId": "W_YOJWZIjxo",
+      "albumArt": "https://img.youtube.com/vi/W_YOJWZIjxo/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "back to friends",
+      "artist": "sombr",
+      "youtubeId": "c8zq4kAn_O0",
+      "albumArt": "https://img.youtube.com/vi/c8zq4kAn_O0/hqdefault.jpg"
+    }
+  ]
+}

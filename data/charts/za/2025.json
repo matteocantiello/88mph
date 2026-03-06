@@ -1,0 +1,17 @@
+{
+  "country": "za",
+  "year": 2025,
+  "context": "Amapiano completed its transformation from underground township sound to South Africa's dominant mainstream export in 2025. DJ Maphorisa's 'Abantwana Bakho' topped Apple Music Replay as the year's most-streamed local track, while CIZA's 'Isaka (6am)' led Spotify Wrapped. New voices like MaWhoo, JAZZWRLD, and Oscar Mbo proved the genre's vocal depth, and Tyla continued carrying South African music to global audiences.",
+  "tracks": [
+    {"rank": 1, "title": "Abantwana Bakho", "artist": "DJ Maphorisa, Xduppy & Kabza De Small feat. Young Stunna & Nkosazana Daughter"},
+    {"rank": 2, "title": "Isaka (6am)", "artist": "CIZA"},
+    {"rank": 3, "title": "Bo Gogo", "artist": "Kelvin Momo & Da Muziqal Chef feat. Tracy & Thatohatsi"},
+    {"rank": 4, "title": "Uzizwa Kanjan", "artist": "JAZZWRLD, MaWhoo & Thukuthela"},
+    {"rank": 5, "title": "Bengicela", "artist": "MaWhoo feat. JAZZWRLD"},
+    {"rank": 6, "title": "Vuma Dlozi Lami", "artist": "Issa sisdoh feat. Ancestral Rituals"},
+    {"rank": 7, "title": "Ngisakuthanda", "artist": "Zee Nxumalo feat. DJ Tearz & Dr Thulz"},
+    {"rank": 8, "title": "Vuka", "artist": "Oscar Mbo feat. Thukuthela"},
+    {"rank": 9, "title": "Mali", "artist": "Dlala Thukzin"},
+    {"rank": 10, "title": "Sdudla or Slender", "artist": "Shandesh"}
+  ]
+}

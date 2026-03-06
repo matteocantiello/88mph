@@ -1,0 +1,77 @@
+{
+  "country": "fr",
+  "year": 2000,
+  "context": "The year 2000 marked a vibrant crossroads in French pop culture, with Caribbean-influenced pop dominating alongside theatrical musical soundtracks. The mega-hit musicals 'Les Dix Commandements' and 'Roméo & Juliette' placed multiple cast recordings in the year-end top 10, reflecting France's enduring love of comédie musicale. Hip-hop was also rising fast, fueled by a 1994 law requiring French radio stations to dedicate at least 40% of airtime to French-language music.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ces Soirées-Là",
+      "artist": "Yannick",
+      "youtubeId": "jP-o83kX1q0",
+      "albumArt": "https://img.youtube.com/vi/jP-o83kX1q0/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Les Rois du Monde",
+      "artist": "Roméo & Juliette (Baquet, Sargué & D'Avilla)",
+      "youtubeId": "uOYhFo5N3S4",
+      "albumArt": "https://img.youtube.com/vi/uOYhFo5N3S4/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Moi... Lolita",
+      "artist": "Alizée",
+      "youtubeId": "TYcGedAkXio",
+      "albumArt": "https://img.youtube.com/vi/TYcGedAkXio/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "L'Envie d'Aimer",
+      "artist": "Daniel Lévi",
+      "youtubeId": "bzBexHc9hWw",
+      "albumArt": "https://img.youtube.com/vi/bzBexHc9hWw/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Aimer",
+      "artist": "Damien Sargué & Cécilia Cara",
+      "youtubeId": "V_BFU_2WbeM",
+      "albumArt": "https://img.youtube.com/vi/V_BFU_2WbeM/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "I'm Outta Love",
+      "artist": "Anastacia",
+      "youtubeId": "DjzHNmY-7wo",
+      "albumArt": "https://img.youtube.com/vi/DjzHNmY-7wo/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Angela",
+      "artist": "Saian Supa Crew",
+      "youtubeId": "AKrfT3NcZXQ",
+      "albumArt": "https://img.youtube.com/vi/AKrfT3NcZXQ/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Maria Maria",
+      "artist": "Santana",
+      "youtubeId": "Y9XXeznskQ4",
+      "albumArt": "https://img.youtube.com/vi/Y9XXeznskQ4/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Elle Est à Toi",
+      "artist": "Assia",
+      "youtubeId": "ZaMDu32rJns",
+      "albumArt": "https://img.youtube.com/vi/ZaMDu32rJns/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Sex Bomb",
+      "artist": "Tom Jones & Mousse T",
+      "youtubeId": "KfGHjjovIe8",
+      "albumArt": "https://img.youtube.com/vi/KfGHjjovIe8/hqdefault.jpg"
+    }
+  ]
+}
