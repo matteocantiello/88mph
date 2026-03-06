@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, Outfit, Share_Tech_Mono } from "next/font/google";
 import { PlayerProvider } from "@/contexts/PlayerContext";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import Script from "next/script";
 import MiniPlayer from "@/components/MiniPlayer";
 import VideoPanel from "@/components/VideoPanel";
@@ -65,6 +66,7 @@ export default function RootLayout({
           <VideoPanel />
           <MiniPlayer />
         </PlayerProvider>
+        <SpeedInsights />
         <Script src="/_vercel/insights/script.js" strategy="afterInteractive" />
       </body>
     </html>
