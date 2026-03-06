@@ -1,0 +1,77 @@
+{
+  "country": "it",
+  "year": 1980,
+  "context": "The dawn of the 1980s in Italy saw new wave and synth-pop collide with Italian pop tradition. The Buggles' prophetic 'Video Killed the Radio Star' topped the charts alongside Diana Ross and Stevie Wonder. Italian artists like Gianni Togni, Renato Zero, and Adriano Celentano held their own against the Anglo-American tide, while Miguel Bosé bridged the Latin and Italian pop worlds.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Video Killed the Radio Star",
+      "artist": "The Buggles",
+      "youtubeId": "qGBohd0V2Mo",
+      "albumArt": "https://img.youtube.com/vi/qGBohd0V2Mo/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Upside Down",
+      "artist": "Diana Ross",
+      "youtubeId": "hDHW5wXBvLw",
+      "albumArt": "https://img.youtube.com/vi/hDHW5wXBvLw/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Luna",
+      "artist": "Gianni Togni",
+      "youtubeId": "0-K3bL9iJIg",
+      "albumArt": "https://img.youtube.com/vi/0-K3bL9iJIg/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Olympic Games",
+      "artist": "Miguel Bosé",
+      "youtubeId": "fBscva5CVzQ",
+      "albumArt": "https://img.youtube.com/vi/fBscva5CVzQ/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Amico",
+      "artist": "Renato Zero",
+      "youtubeId": "0sa-R5vkDZg",
+      "albumArt": "https://img.youtube.com/vi/0sa-R5vkDZg/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Master Blaster (Jammin')",
+      "artist": "Stevie Wonder",
+      "youtubeId": "0bEa3jERELA",
+      "albumArt": "https://img.youtube.com/vi/0bEa3jERELA/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Non so che darei",
+      "artist": "Alan Sorrenti",
+      "youtubeId": "a_0pukZdiPs",
+      "albumArt": "https://img.youtube.com/vi/a_0pukZdiPs/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "You and Me",
+      "artist": "Spargo",
+      "youtubeId": "GEvo7p4QXZI",
+      "albumArt": "https://img.youtube.com/vi/GEvo7p4QXZI/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "My Sharona",
+      "artist": "The Knack",
+      "youtubeId": "bbr60I0u2Ng",
+      "albumArt": "https://img.youtube.com/vi/bbr60I0u2Ng/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Il Tempo se ne va",
+      "artist": "Adriano Celentano",
+      "youtubeId": "-rkOJfHMmsY",
+      "albumArt": "https://img.youtube.com/vi/-rkOJfHMmsY/hqdefault.jpg"
+    }
+  ]
+}

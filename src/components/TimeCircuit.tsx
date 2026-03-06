@@ -55,9 +55,9 @@ export default function TimeCircuit({
   const canGo = selectedCountry && destinationYear;
 
   return (
-    <div className="time-circuit-panel rounded-xl p-4 md:p-6">
+    <div className="time-circuit-panel rounded-xl p-3 md:p-4">
       {/* Title */}
-      <div className="flex items-center gap-2 mb-5">
+      <div className="flex items-center gap-2 mb-3">
         <div className="w-1.5 h-1.5 rounded-full bg-accent/60" />
         <span className="font-body text-[10px] uppercase tracking-[0.3em] text-foreground/25 font-medium">
           Time Circuits
@@ -106,7 +106,7 @@ export default function TimeCircuit({
       <button
         onClick={handleGo}
         disabled={!canGo}
-        className={`w-full mt-5 py-3 rounded-lg font-body text-sm font-bold uppercase tracking-[0.2em] transition-all duration-300 ${
+        className={`w-full mt-3 py-2.5 rounded-lg font-body text-sm font-bold uppercase tracking-[0.2em] transition-all duration-300 ${
           canGo
             ? "bg-accent text-background hover:bg-accent/90 cursor-pointer"
             : "bg-white/[0.04] text-foreground/15 cursor-not-allowed"
@@ -149,7 +149,7 @@ function CircuitRow({
   onNext,
 }: CircuitRowProps) {
   return (
-    <div className="mb-3 last:mb-0">
+    <div className="mb-2 last:mb-0">
       {/* Row label */}
       <div className="flex items-center gap-2 mb-1.5">
         <div className={`w-2 h-2 rounded-full ${indicatorClass}`} />
@@ -159,20 +159,20 @@ function CircuitRow({
       </div>
 
       {/* Display */}
-      <div className="flex items-center gap-0 bg-black/40 rounded-lg px-3 py-2.5 border border-white/[0.03]">
+      <div className="flex items-center gap-0 bg-black/40 rounded-lg px-2.5 py-2 border border-white/[0.03]">
         {/* Month */}
-        <span className={`led-digit text-lg md:text-xl ${colorClass} ${dimMonth ? "led-dim" : ""}`}>
+        <span className={`led-digit text-base md:text-lg ${colorClass} ${dimMonth ? "led-dim" : ""}`}>
           {month}
         </span>
 
-        <span className={`led-digit text-lg md:text-xl mx-1 ${colorClass} opacity-30`}>/</span>
+        <span className={`led-digit text-base md:text-lg mx-1 ${colorClass} opacity-30`}>/</span>
 
         {/* Day */}
-        <span className={`led-digit text-lg md:text-xl ${colorClass} ${dimDay ? "led-dim" : ""}`}>
+        <span className={`led-digit text-base md:text-lg ${colorClass} ${dimDay ? "led-dim" : ""}`}>
           {day}
         </span>
 
-        <span className={`led-digit text-lg md:text-xl mx-1 ${colorClass} opacity-30`}>/</span>
+        <span className={`led-digit text-base md:text-lg mx-1 ${colorClass} opacity-30`}>/</span>
 
         {/* Year - with optional arrows */}
         <div className="flex items-center gap-1 ml-auto">
@@ -185,13 +185,13 @@ function CircuitRow({
               }`}
               aria-label="Previous year"
             >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                 <path d="M15 18l-6-6 6-6" />
               </svg>
             </button>
           )}
 
-          <span className={`led-digit text-lg md:text-xl ${colorClass} ${dimYear ? "led-dim" : ""}`}>
+          <span className={`led-digit text-base md:text-lg ${colorClass} ${dimYear ? "led-dim" : ""}`}>
             {year}
           </span>
 
@@ -204,7 +204,7 @@ function CircuitRow({
               }`}
               aria-label="Next year"
             >
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+              <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                 <path d="M9 18l6-6-6-6" />
               </svg>
             </button>

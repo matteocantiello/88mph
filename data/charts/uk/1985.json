@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "The Power of Love",
-      "artist": "Jennifer Rush"
+      "artist": "Jennifer Rush",
+      "youtubeId": "GIJCY1ZhRFo",
+      "albumArt": "https://img.youtube.com/vi/GIJCY1ZhRFo/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "I Know Him So Well",
-      "artist": "Elaine Paige & Barbara Dickson"
+      "artist": "Elaine Paige & Barbara Dickson",
+      "youtubeId": "-KInJtUd0zg",
+      "albumArt": "https://img.youtube.com/vi/-KInJtUd0zg/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Frankie",
-      "artist": "Sister Sledge"
+      "artist": "Sister Sledge",
+      "youtubeId": "3bbIYFxpkhg",
+      "albumArt": "https://img.youtube.com/vi/3bbIYFxpkhg/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "19",
-      "artist": "Paul Hardcastle"
+      "artist": "Paul Hardcastle",
+      "youtubeId": "oho9KaoxI-4",
+      "albumArt": "https://img.youtube.com/vi/oho9KaoxI-4/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "I Want to Know What Love Is",
-      "artist": "Foreigner"
+      "artist": "Foreigner",
+      "youtubeId": "qVOd3umzelg",
+      "albumArt": "https://img.youtube.com/vi/qVOd3umzelg/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Move Closer",
-      "artist": "Phyllis Nelson"
+      "artist": "Phyllis Nelson",
+      "youtubeId": "LsIy56cVYMg",
+      "albumArt": "https://img.youtube.com/vi/LsIy56cVYMg/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Everybody Wants to Rule the World",
-      "artist": "Tears for Fears"
+      "artist": "Tears for Fears",
+      "youtubeId": "U4zA0xnBEJU",
+      "albumArt": "https://img.youtube.com/vi/U4zA0xnBEJU/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Easy Lover",
-      "artist": "Philip Bailey & Phil Collins"
+      "artist": "Philip Bailey & Phil Collins",
+      "youtubeId": "E1ukApWcG7w",
+      "albumArt": "https://img.youtube.com/vi/E1ukApWcG7w/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "A Good Heart",
-      "artist": "Feargal Sharkey"
+      "artist": "Feargal Sharkey",
+      "youtubeId": "0nxsbNXhd5w",
+      "albumArt": "https://img.youtube.com/vi/0nxsbNXhd5w/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Running Up That Hill",
-      "artist": "Kate Bush"
+      "artist": "Kate Bush",
+      "youtubeId": "HYwNM1t9ltI",
+      "albumArt": "https://img.youtube.com/vi/HYwNM1t9ltI/hqdefault.jpg"
     }
   ]
 }

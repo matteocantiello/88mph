@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Think Twice",
-      "artist": "Celine Dion"
+      "artist": "Celine Dion",
+      "youtubeId": "YjvB0vXT2vE",
+      "albumArt": "https://img.youtube.com/vi/YjvB0vXT2vE/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Unchained Melody / White Cliffs of Dover",
-      "artist": "Robson & Jerome"
+      "artist": "Robson & Jerome",
+      "youtubeId": "iPheQgeHMAU",
+      "albumArt": "https://img.youtube.com/vi/iPheQgeHMAU/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Boom Boom Boom",
-      "artist": "The Outhere Brothers"
+      "artist": "The Outhere Brothers",
+      "youtubeId": "u6qMxuFaq0I",
+      "albumArt": "https://img.youtube.com/vi/u6qMxuFaq0I/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Don't Stop (Wiggle Wiggle)",
-      "artist": "The Outhere Brothers"
+      "artist": "The Outhere Brothers",
+      "youtubeId": "FqJePwh71o8",
+      "albumArt": "https://img.youtube.com/vi/FqJePwh71o8/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Gangsta's Paradise",
-      "artist": "Coolio feat. L.V."
+      "artist": "Coolio feat. L.V.",
+      "youtubeId": "7DXlY8LhWnI",
+      "albumArt": "https://img.youtube.com/vi/7DXlY8LhWnI/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Cotton Eye Joe",
-      "artist": "Rednex"
+      "artist": "Rednex",
+      "youtubeId": "cuf5LNp1nbc",
+      "albumArt": "https://img.youtube.com/vi/cuf5LNp1nbc/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "You Are Not Alone",
-      "artist": "Michael Jackson"
+      "artist": "Michael Jackson",
+      "youtubeId": "02dMNQxwy48",
+      "albumArt": "https://img.youtube.com/vi/02dMNQxwy48/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Back for Good",
-      "artist": "Take That"
+      "artist": "Take That",
+      "youtubeId": "wdOwlQZmLCk",
+      "albumArt": "https://img.youtube.com/vi/wdOwlQZmLCk/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Fairground",
-      "artist": "Simply Red"
+      "artist": "Simply Red",
+      "youtubeId": "yrxn2ruEUgw",
+      "albumArt": "https://img.youtube.com/vi/yrxn2ruEUgw/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "I Believe / Up on the Roof",
-      "artist": "Robson & Jerome"
+      "artist": "Robson & Jerome",
+      "youtubeId": "MxN9fNng4q4",
+      "albumArt": "https://img.youtube.com/vi/MxN9fNng4q4/hqdefault.jpg"
     }
   ]
 }

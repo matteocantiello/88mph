@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Tears",
-      "artist": "Ken Dodd"
+      "artist": "Ken Dodd",
+      "youtubeId": "FQz_eyJiz4U",
+      "albumArt": "https://img.youtube.com/vi/FQz_eyJiz4U/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Get Off of My Cloud",
-      "artist": "The Rolling Stones"
+      "artist": "The Rolling Stones",
+      "youtubeId": "1sWqmMAvmdU",
+      "albumArt": "https://img.youtube.com/vi/1sWqmMAvmdU/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Day Tripper / We Can Work It Out",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "youtubeId": "xedn8vp6W20",
+      "albumArt": "https://img.youtube.com/vi/xedn8vp6W20/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Help!",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "youtubeId": "MKUex3fci5c",
+      "albumArt": "https://img.youtube.com/vi/MKUex3fci5c/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Ticket to Ride",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "youtubeId": "UHsN9d4FTVI",
+      "albumArt": "https://img.youtube.com/vi/UHsN9d4FTVI/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "I'll Never Find Another You",
-      "artist": "The Seekers"
+      "artist": "The Seekers",
+      "youtubeId": "LstbyXXHups",
+      "albumArt": "https://img.youtube.com/vi/LstbyXXHups/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "It's Not Unusual",
-      "artist": "Tom Jones"
+      "artist": "Tom Jones",
+      "youtubeId": "k-HdGnzYdFQ",
+      "albumArt": "https://img.youtube.com/vi/k-HdGnzYdFQ/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Tired of Waiting for You",
-      "artist": "The Kinks"
+      "artist": "The Kinks",
+      "youtubeId": "UbVEdAaC7L4",
+      "albumArt": "https://img.youtube.com/vi/UbVEdAaC7L4/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Mr. Tambourine Man",
-      "artist": "The Byrds"
+      "artist": "The Byrds",
+      "youtubeId": "ncSl9ljLsYs",
+      "albumArt": "https://img.youtube.com/vi/ncSl9ljLsYs/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "I Got You Babe",
-      "artist": "Sonny & Cher"
+      "artist": "Sonny & Cher",
+      "youtubeId": "V_PZCOmVzyU",
+      "albumArt": "https://img.youtube.com/vi/V_PZCOmVzyU/hqdefault.jpg"
     }
   ]
 }

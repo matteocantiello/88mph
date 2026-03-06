@@ -1,0 +1,77 @@
+{
+  "country": "it",
+  "year": 1970,
+  "context": "Italy in 1970 balanced homegrown cantautore talent with Anglo-American rock invasion. Mina reigned supreme while Lucio Battisti was emerging as the voice of a new generation. International hits like Mungo Jerry's 'In the Summertime' and The Beatles' 'Let It Be' crossed over massively, and Aphrodite's Child brought Mediterranean psychedelia to the charts.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Insieme",
+      "artist": "Mina",
+      "youtubeId": "a2lbp36GE-E",
+      "albumArt": "https://img.youtube.com/vi/a2lbp36GE-E/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "La Lontananza",
+      "artist": "Domenico Modugno",
+      "youtubeId": "_wGn7dlJYmY",
+      "albumArt": "https://img.youtube.com/vi/_wGn7dlJYmY/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "In the Summertime",
+      "artist": "Mungo Jerry",
+      "youtubeId": "0yKvBG7Z4po",
+      "albumArt": "https://img.youtube.com/vi/0yKvBG7Z4po/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Anna",
+      "artist": "Lucio Battisti",
+      "youtubeId": "rr019b3aujc",
+      "albumArt": "https://img.youtube.com/vi/rr019b3aujc/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Venus",
+      "artist": "The Shocking Blue",
+      "youtubeId": "8LhkyyCvUHk",
+      "albumArt": "https://img.youtube.com/vi/8LhkyyCvUHk/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "La Prima cosa bella",
+      "artist": "Nicola Di Bari",
+      "youtubeId": "jMIowHNXyLw",
+      "albumArt": "https://img.youtube.com/vi/jMIowHNXyLw/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Let It Be",
+      "artist": "The Beatles",
+      "youtubeId": "HzvDofigTKQ",
+      "albumArt": "https://img.youtube.com/vi/HzvDofigTKQ/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Spring Summer Winter and Fall",
+      "artist": "Aphrodite's Child",
+      "youtubeId": "5l3GZJ5gMGs",
+      "albumArt": "https://img.youtube.com/vi/5l3GZJ5gMGs/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "L'Appuntamento",
+      "artist": "Ornella Vanoni",
+      "youtubeId": "Y3qTqJnI88s",
+      "albumArt": "https://img.youtube.com/vi/Y3qTqJnI88s/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "L'Isola di Wight",
+      "artist": "Michel Delpech",
+      "youtubeId": "NZRaoCCT5a4",
+      "albumArt": "https://img.youtube.com/vi/NZRaoCCT5a4/hqdefault.jpg"
+    }
+  ]
+}

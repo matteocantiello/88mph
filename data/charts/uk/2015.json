@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Uptown Funk",
-      "artist": "Mark Ronson feat. Bruno Mars"
+      "artist": "Mark Ronson feat. Bruno Mars",
+      "youtubeId": "OPf0YbXqDm0",
+      "albumArt": "https://img.youtube.com/vi/OPf0YbXqDm0/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Cheerleader (Felix Jaehn Remix)",
-      "artist": "OMI"
+      "artist": "OMI",
+      "youtubeId": "jGflUbPQfW8",
+      "albumArt": "https://img.youtube.com/vi/jGflUbPQfW8/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Take Me to Church",
-      "artist": "Hozier"
+      "artist": "Hozier",
+      "youtubeId": "MYSVMgRr6pw",
+      "albumArt": "https://img.youtube.com/vi/MYSVMgRr6pw/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Love Me Like You Do",
-      "artist": "Ellie Goulding"
+      "artist": "Ellie Goulding",
+      "youtubeId": "6eW99oNNRvI",
+      "albumArt": "https://img.youtube.com/vi/6eW99oNNRvI/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "See You Again",
-      "artist": "Wiz Khalifa feat. Charlie Puth"
+      "artist": "Wiz Khalifa feat. Charlie Puth",
+      "youtubeId": "xl8thVrlvjI",
+      "albumArt": "https://img.youtube.com/vi/xl8thVrlvjI/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Hello",
-      "artist": "Adele"
+      "artist": "Adele",
+      "youtubeId": "yjo_aXygRDI",
+      "albumArt": "https://img.youtube.com/vi/yjo_aXygRDI/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Lean On",
-      "artist": "Major Lazer feat. MO & DJ Snake"
+      "artist": "Major Lazer feat. MO & DJ Snake",
+      "youtubeId": "5vOid-7uBdQ",
+      "albumArt": "https://img.youtube.com/vi/5vOid-7uBdQ/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Hold Back the River",
-      "artist": "James Bay"
+      "artist": "James Bay",
+      "youtubeId": "yIWD8fVF8DI",
+      "albumArt": "https://img.youtube.com/vi/yIWD8fVF8DI/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "What Do You Mean?",
-      "artist": "Justin Bieber"
+      "artist": "Justin Bieber",
+      "youtubeId": "DcDbKDAb7go",
+      "albumArt": "https://img.youtube.com/vi/DcDbKDAb7go/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Sorry",
-      "artist": "Justin Bieber"
+      "artist": "Justin Bieber",
+      "youtubeId": "yqBE1Y-8-JA",
+      "albumArt": "https://img.youtube.com/vi/yqBE1Y-8-JA/hqdefault.jpg"
     }
   ]
 }

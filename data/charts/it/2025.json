@@ -1,0 +1,77 @@
+{
+  "country": "it",
+  "year": 2025,
+  "context": "Italy's 2025 chart reflected the dominance of homegrown talent in the streaming era. Sanremo remained the launchpad — Olly's 'Balorda nostalgia' led the year. Alfa collaborated with Manu Chao for a surprise cross-generational hit, while Giorgia and Cesare Cremonini proved veteran staying power. Sfera Ebbasta and Achille Lauro represented Italian rap and art-pop's mainstream grip.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Balorda nostalgia",
+      "artist": "Olly",
+      "youtubeId": "KnDGCa4Os34",
+      "albumArt": "https://img.youtube.com/vi/KnDGCa4Os34/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "A me mi piace",
+      "artist": "Alfa & Manu Chao",
+      "youtubeId": "R7RLQaIFqTw",
+      "albumArt": "https://img.youtube.com/vi/R7RLQaIFqTw/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "La cura per me",
+      "artist": "Giorgia",
+      "youtubeId": "-ixB0yDkLO4",
+      "albumArt": "https://img.youtube.com/vi/-ixB0yDkLO4/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Amor",
+      "artist": "Achille Lauro",
+      "youtubeId": "d4Or4IQUqc0",
+      "albumArt": "https://img.youtube.com/vi/d4Or4IQUqc0/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Ora che non ho più te",
+      "artist": "Cesare Cremonini",
+      "youtubeId": "NK4fl6h0MBI",
+      "albumArt": "https://img.youtube.com/vi/NK4fl6h0MBI/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Bottiglie vuote",
+      "artist": "Pinguini Tattici Nucleari",
+      "youtubeId": "vIcXci9lTg8",
+      "albumArt": "https://img.youtube.com/vi/vIcXci9lTg8/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Neon",
+      "artist": "Sfera Ebbasta & Shiva",
+      "youtubeId": "o1lpNrC8BzI",
+      "albumArt": "https://img.youtube.com/vi/o1lpNrC8BzI/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Il filo rosso",
+      "artist": "Alfa",
+      "youtubeId": "A4meMwNQlUA",
+      "albumArt": "https://img.youtube.com/vi/A4meMwNQlUA/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "youtubeId": "byxFUKxhT3s",
+      "albumArt": "https://img.youtube.com/vi/byxFUKxhT3s/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Incoscienti giovani",
+      "artist": "Achille Lauro",
+      "youtubeId": "qU-KFzHN1wM",
+      "albumArt": "https://img.youtube.com/vi/qU-KFzHN1wM/hqdefault.jpg"
+    }
+  ]
+}

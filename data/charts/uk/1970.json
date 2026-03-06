@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "The Wonder of You",
-      "artist": "Elvis Presley"
+      "artist": "Elvis Presley",
+      "youtubeId": "njoBMZD_jP0",
+      "albumArt": "https://img.youtube.com/vi/njoBMZD_jP0/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "In the Summertime",
-      "artist": "Mungo Jerry"
+      "artist": "Mungo Jerry",
+      "youtubeId": "0yKvBG7Z4po",
+      "albumArt": "https://img.youtube.com/vi/0yKvBG7Z4po/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Band of Gold",
-      "artist": "Freda Payne"
+      "artist": "Freda Payne",
+      "youtubeId": "70_YD31vSbc",
+      "albumArt": "https://img.youtube.com/vi/70_YD31vSbc/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Bridge over Troubled Water",
-      "artist": "Simon & Garfunkel"
+      "artist": "Simon & Garfunkel",
+      "youtubeId": "nvF5imxSaLI",
+      "albumArt": "https://img.youtube.com/vi/nvF5imxSaLI/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Two Little Boys",
-      "artist": "Rolf Harris"
+      "artist": "Rolf Harris",
+      "youtubeId": "KdWP80DAJsA",
+      "albumArt": "https://img.youtube.com/vi/KdWP80DAJsA/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Wand'rin' Star",
-      "artist": "Lee Marvin"
+      "artist": "Lee Marvin",
+      "youtubeId": "_45hjRhdu4k",
+      "albumArt": "https://img.youtube.com/vi/_45hjRhdu4k/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Spirit in the Sky",
-      "artist": "Norman Greenbaum"
+      "artist": "Norman Greenbaum",
+      "youtubeId": "xi_3GtQN2IA",
+      "albumArt": "https://img.youtube.com/vi/xi_3GtQN2IA/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Back Home",
-      "artist": "England World Cup Squad"
+      "artist": "England World Cup Squad",
+      "youtubeId": "oXbadFOxubU",
+      "albumArt": "https://img.youtube.com/vi/oXbadFOxubU/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "All Right Now",
-      "artist": "Free"
+      "artist": "Free",
+      "youtubeId": "7cQ4jNDRTOo",
+      "albumArt": "https://img.youtube.com/vi/7cQ4jNDRTOo/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Yellow River",
-      "artist": "Christie"
+      "artist": "Christie",
+      "youtubeId": "KueMOCJFX9A",
+      "albumArt": "https://img.youtube.com/vi/KueMOCJFX9A/hqdefault.jpg"
     }
   ]
 }

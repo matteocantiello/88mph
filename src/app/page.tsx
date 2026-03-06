@@ -43,9 +43,9 @@ export default async function HomePage() {
         </div>
         <div className="absolute inset-0 hero-gradient" />
 
-        <div className="relative max-w-7xl mx-auto px-6 pt-12 md:pt-20 pb-6 md:pb-10">
+        <div className="relative max-w-7xl mx-auto px-6 pt-10 md:pt-16 pb-6 md:pb-10">
           {/* Title + tagline */}
-          <div className="anim-slide-up text-center max-w-3xl mx-auto mb-8 md:mb-10">
+          <div className="anim-slide-up text-center max-w-3xl mx-auto mb-6 md:mb-8">
             <p className="font-body text-[10px] uppercase tracking-[0.35em] text-accent/50 mb-5 flex items-center justify-center gap-2">
               <span className="w-8 h-px bg-accent/30" />
               The past, on shuffle.
@@ -55,34 +55,14 @@ export default async function HomePage() {
               8<span className="-ml-[0.08em]">8</span>mph
             </h1>
             <p className="font-body text-foreground/40 text-base md:text-lg max-w-lg mx-auto leading-relaxed mb-8">
-              No algorithm. No &lsquo;you might also like.&rsquo; Just what the world was
-              actually listening to — whether you were there or not.
+              What was the world listening to?
             </p>
 
             {/* CTA */}
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
+            <div className="flex items-center justify-center mb-6">
               <RandomButton metadata={metadata} />
-              <span className="text-foreground/20 text-sm font-body hidden sm:inline">or</span>
-              <span className="text-foreground/30 text-sm font-body">
-                Pick a destination below ↓
-              </span>
             </div>
 
-            {/* Stats row */}
-            <div className="flex items-center justify-center gap-8 md:gap-12 pt-6 border-t border-white/[0.06]">
-              <div className="text-center">
-                <span className="font-display text-2xl md:text-3xl text-accent/80">{totalCharts}</span>
-                <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/25 mt-1">Charts</p>
-              </div>
-              <div className="text-center">
-                <span className="font-display text-2xl md:text-3xl text-accent/80">19</span>
-                <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/25 mt-1">Countries</p>
-              </div>
-              <div className="text-center">
-                <span className="font-display text-2xl md:text-3xl text-accent/80">1940</span>
-                <p className="font-body text-[10px] uppercase tracking-[0.2em] text-foreground/25 mt-1">Earliest</p>
-              </div>
-            </div>
           </div>
 
           {/* Full-width Map + Time Circuit */}

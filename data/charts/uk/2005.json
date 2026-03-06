@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "(Is This the Way to) Amarillo",
-      "artist": "Tony Christie feat. Peter Kay"
+      "artist": "Tony Christie feat. Peter Kay",
+      "youtubeId": "kyohWo3aZvw",
+      "albumArt": "https://img.youtube.com/vi/kyohWo3aZvw/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "That's My Goal",
-      "artist": "Shayne Ward"
+      "artist": "Shayne Ward",
+      "youtubeId": "hq98tCkNIfs",
+      "albumArt": "https://img.youtube.com/vi/hq98tCkNIfs/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Axel F",
-      "artist": "Crazy Frog"
+      "artist": "Crazy Frog",
+      "youtubeId": "_M1iPYsHZvU",
+      "albumArt": "https://img.youtube.com/vi/_M1iPYsHZvU/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "You're Beautiful",
-      "artist": "James Blunt"
+      "artist": "James Blunt",
+      "youtubeId": "J3SD2-XDGoQ",
+      "albumArt": "https://img.youtube.com/vi/J3SD2-XDGoQ/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Don't Cha",
-      "artist": "The Pussycat Dolls feat. Busta Rhymes"
+      "artist": "The Pussycat Dolls feat. Busta Rhymes",
+      "youtubeId": "0IGdk5Xr4vc",
+      "albumArt": "https://img.youtube.com/vi/0IGdk5Xr4vc/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "All About You / You've Got a Friend",
-      "artist": "McFly"
+      "artist": "McFly",
+      "youtubeId": "gRjO2JJT3qk",
+      "albumArt": "https://img.youtube.com/vi/gRjO2JJT3qk/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Lonely",
-      "artist": "Akon"
+      "artist": "Akon",
+      "youtubeId": "nN66uAbiJJw",
+      "albumArt": "https://img.youtube.com/vi/nN66uAbiJJw/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Hung Up",
-      "artist": "Madonna"
+      "artist": "Madonna",
+      "youtubeId": "20OGm_-RebE",
+      "albumArt": "https://img.youtube.com/vi/20OGm_-RebE/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "You Raise Me Up",
-      "artist": "Westlife"
+      "artist": "Westlife",
+      "youtubeId": "BKRcN2JxQME",
+      "albumArt": "https://img.youtube.com/vi/BKRcN2JxQME/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Push the Button",
-      "artist": "Sugababes"
+      "artist": "Sugababes",
+      "youtubeId": "wx0xJ0F0o6o",
+      "albumArt": "https://img.youtube.com/vi/wx0xJ0F0o6o/hqdefault.jpg"
     }
   ]
 }

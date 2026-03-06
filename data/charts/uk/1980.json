@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Crying",
-      "artist": "Don McLean"
+      "artist": "Don McLean",
+      "youtubeId": "InRp0dfJdK8",
+      "albumArt": "https://img.youtube.com/vi/InRp0dfJdK8/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Woman in Love",
-      "artist": "Barbra Streisand"
+      "artist": "Barbra Streisand",
+      "youtubeId": "zJy2fHZiDXY",
+      "albumArt": "https://img.youtube.com/vi/zJy2fHZiDXY/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Super Trouper",
-      "artist": "ABBA"
+      "artist": "ABBA",
+      "youtubeId": "cBjAZvpJDQs",
+      "albumArt": "https://img.youtube.com/vi/cBjAZvpJDQs/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Theme from M*A*S*H (Suicide Is Painless)",
-      "artist": "MASH"
+      "artist": "MASH",
+      "youtubeId": "QOS6kfR9u4s",
+      "albumArt": "https://img.youtube.com/vi/QOS6kfR9u4s/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Geno",
-      "artist": "Dexy's Midnight Runners"
+      "artist": "Dexy's Midnight Runners",
+      "youtubeId": "tmv6qhDsnb0",
+      "albumArt": "https://img.youtube.com/vi/tmv6qhDsnb0/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Don't Stand So Close to Me",
-      "artist": "The Police"
+      "artist": "The Police",
+      "youtubeId": "EuuX_t3c_2A",
+      "albumArt": "https://img.youtube.com/vi/EuuX_t3c_2A/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Feels Like I'm in Love",
-      "artist": "Kelly Marie"
+      "artist": "Kelly Marie",
+      "youtubeId": "L-iLZj0C0MU",
+      "albumArt": "https://img.youtube.com/vi/L-iLZj0C0MU/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Use It Up and Wear It Out",
-      "artist": "Odyssey"
+      "artist": "Odyssey",
+      "youtubeId": "I-POglnZD44",
+      "albumArt": "https://img.youtube.com/vi/I-POglnZD44/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Working My Way Back to You",
-      "artist": "The Detroit Spinners"
+      "artist": "The Detroit Spinners",
+      "youtubeId": "gfn2YNU-ybA",
+      "albumArt": "https://img.youtube.com/vi/gfn2YNU-ybA/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Coward of the County",
-      "artist": "Kenny Rogers"
+      "artist": "Kenny Rogers",
+      "youtubeId": "aVtOLfGT3_8",
+      "albumArt": "https://img.youtube.com/vi/aVtOLfGT3_8/hqdefault.jpg"
     }
   ]
 }

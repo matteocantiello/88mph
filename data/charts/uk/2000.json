@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Can We Fix It?",
-      "artist": "Bob the Builder"
+      "artist": "Bob the Builder",
+      "youtubeId": "JcQAke8mcIE",
+      "albumArt": "https://img.youtube.com/vi/JcQAke8mcIE/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Pure Shores",
-      "artist": "All Saints"
+      "artist": "All Saints",
+      "youtubeId": "exIgCPtZLnk",
+      "albumArt": "https://img.youtube.com/vi/exIgCPtZLnk/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Rock DJ",
-      "artist": "Robbie Williams"
+      "artist": "Robbie Williams",
+      "youtubeId": "ZLyyT9yW9kA",
+      "albumArt": "https://img.youtube.com/vi/ZLyyT9yW9kA/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Fill Me In",
-      "artist": "Craig David"
+      "artist": "Craig David",
+      "youtubeId": "3imO7PFU5cI",
+      "albumArt": "https://img.youtube.com/vi/3imO7PFU5cI/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "7 Days",
-      "artist": "Craig David"
+      "artist": "Craig David",
+      "youtubeId": "0E6WRja6qwM",
+      "albumArt": "https://img.youtube.com/vi/0E6WRja6qwM/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Groovejet (If This Ain't Love)",
-      "artist": "Spiller feat. Sophie Ellis-Bextor"
+      "artist": "Spiller feat. Sophie Ellis-Bextor",
+      "youtubeId": "Cc_nUcKYlAs",
+      "albumArt": "https://img.youtube.com/vi/Cc_nUcKYlAs/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Rise",
-      "artist": "Gabrielle"
+      "artist": "Gabrielle",
+      "youtubeId": "rjUkVorzkho",
+      "albumArt": "https://img.youtube.com/vi/rjUkVorzkho/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Breathless",
-      "artist": "The Corrs"
+      "artist": "The Corrs",
+      "youtubeId": "TPlFBRt8xX0",
+      "albumArt": "https://img.youtube.com/vi/TPlFBRt8xX0/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "It Feels So Good",
-      "artist": "Sonique"
+      "artist": "Sonique",
+      "youtubeId": "G28dz7JOjQM",
+      "albumArt": "https://img.youtube.com/vi/G28dz7JOjQM/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Bag It Up",
-      "artist": "Geri Halliwell"
+      "artist": "Geri Halliwell",
+      "youtubeId": "NHLC7yECau0",
+      "albumArt": "https://img.youtube.com/vi/NHLC7yECau0/hqdefault.jpg"
     }
   ]
 }

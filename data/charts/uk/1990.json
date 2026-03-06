@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Unchained Melody",
-      "artist": "The Righteous Brothers"
+      "artist": "The Righteous Brothers",
+      "youtubeId": "Zv8czIoAw5w",
+      "albumArt": "https://img.youtube.com/vi/Zv8czIoAw5w/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Nothing Compares 2 U",
-      "artist": "Sinead O'Connor"
+      "artist": "Sinead O'Connor",
+      "youtubeId": "Ouf9-bOqJVk",
+      "albumArt": "https://img.youtube.com/vi/Ouf9-bOqJVk/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Sacrifice / Healing Hands",
-      "artist": "Elton John"
+      "artist": "Elton John",
+      "youtubeId": "IcaQCHAlifs",
+      "albumArt": "https://img.youtube.com/vi/IcaQCHAlifs/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Ice Ice Baby",
-      "artist": "Vanilla Ice"
+      "artist": "Vanilla Ice",
+      "youtubeId": "jewmMjnbfzE",
+      "albumArt": "https://img.youtube.com/vi/jewmMjnbfzE/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Killer",
-      "artist": "Adamski"
+      "artist": "Adamski",
+      "youtubeId": "GS220Pu2C_c",
+      "albumArt": "https://img.youtube.com/vi/GS220Pu2C_c/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Show Me Heaven",
-      "artist": "Maria McKee"
+      "artist": "Maria McKee",
+      "youtubeId": "Yl15v_xu0vI",
+      "albumArt": "https://img.youtube.com/vi/Yl15v_xu0vI/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Dub Be Good to Me",
-      "artist": "Beats International"
+      "artist": "Beats International",
+      "youtubeId": "nyJCHwg3wF4",
+      "albumArt": "https://img.youtube.com/vi/nyJCHwg3wF4/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Vogue",
-      "artist": "Madonna"
+      "artist": "Madonna",
+      "youtubeId": "QJ1LOC_4n0g",
+      "albumArt": "https://img.youtube.com/vi/QJ1LOC_4n0g/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "World in Motion",
-      "artist": "New Order"
+      "artist": "New Order",
+      "youtubeId": "T8T1a45HX4o",
+      "albumArt": "https://img.youtube.com/vi/T8T1a45HX4o/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "The Power",
-      "artist": "Snap!"
+      "artist": "Snap!",
+      "youtubeId": "fUwf21uaVvw",
+      "albumArt": "https://img.youtube.com/vi/fUwf21uaVvw/hqdefault.jpg"
     }
   ]
 }

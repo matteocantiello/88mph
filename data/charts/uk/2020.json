@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Blinding Lights",
-      "artist": "The Weeknd"
+      "artist": "The Weeknd",
+      "youtubeId": "H64a2ggVIWc",
+      "albumArt": "https://img.youtube.com/vi/H64a2ggVIWc/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Dance Monkey",
-      "artist": "Tones and I"
+      "artist": "Tones and I",
+      "youtubeId": "Hx4nWW9z0ig",
+      "albumArt": "https://img.youtube.com/vi/Hx4nWW9z0ig/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Roses",
-      "artist": "Saint Jhn"
+      "artist": "Saint Jhn",
+      "youtubeId": "A2T_M2FGVNk",
+      "albumArt": "https://img.youtube.com/vi/A2T_M2FGVNk/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Someone You Loved",
-      "artist": "Lewis Capaldi"
+      "artist": "Lewis Capaldi",
+      "youtubeId": "AyCrypt1pdI",
+      "albumArt": "https://img.youtube.com/vi/AyCrypt1pdI/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Don't Start Now",
-      "artist": "Dua Lipa"
+      "artist": "Dua Lipa",
+      "youtubeId": "htg8v0g_4e4",
+      "albumArt": "https://img.youtube.com/vi/htg8v0g_4e4/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Before You Go",
-      "artist": "Lewis Capaldi"
+      "artist": "Lewis Capaldi",
+      "youtubeId": "QQVa4xCf8JY",
+      "albumArt": "https://img.youtube.com/vi/QQVa4xCf8JY/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Watermelon Sugar",
-      "artist": "Harry Styles"
+      "artist": "Harry Styles",
+      "youtubeId": "KPM_BYl-EaQ",
+      "albumArt": "https://img.youtube.com/vi/KPM_BYl-EaQ/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Rockstar",
-      "artist": "DaBaby feat. Roddy Ricch"
+      "artist": "DaBaby feat. Roddy Ricch",
+      "youtubeId": "dmcUUgBsITU",
+      "albumArt": "https://img.youtube.com/vi/dmcUUgBsITU/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Say So",
-      "artist": "Doja Cat"
+      "artist": "Doja Cat",
+      "youtubeId": "LmnCBjj-YyI",
+      "albumArt": "https://img.youtube.com/vi/LmnCBjj-YyI/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Adore You",
-      "artist": "Harry Styles"
+      "artist": "Harry Styles",
+      "youtubeId": "vum2bUJwfkI",
+      "albumArt": "https://img.youtube.com/vi/vum2bUJwfkI/hqdefault.jpg"
     }
   ]
 }

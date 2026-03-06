@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Give Me Your Word",
-      "artist": "Tennessee Ernie Ford"
+      "artist": "Tennessee Ernie Ford",
+      "youtubeId": "GC90rfbyTA4",
+      "albumArt": "https://img.youtube.com/vi/GC90rfbyTA4/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Rose Marie",
-      "artist": "Slim Whitman"
+      "artist": "Slim Whitman",
+      "youtubeId": "9KxeMJThj9A",
+      "albumArt": "https://img.youtube.com/vi/9KxeMJThj9A/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Softly Softly",
-      "artist": "Ruby Murray"
+      "artist": "Ruby Murray",
+      "youtubeId": "iUnjL4QtdoU",
+      "albumArt": "https://img.youtube.com/vi/iUnjL4QtdoU/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Cherry Pink and Apple Blossom White",
-      "artist": "Eddie Calvert"
+      "artist": "Eddie Calvert",
+      "youtubeId": "zvrQbsQWD7o",
+      "albumArt": "https://img.youtube.com/vi/zvrQbsQWD7o/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Cool Water",
-      "artist": "Frankie Laine"
+      "artist": "Frankie Laine",
+      "youtubeId": "eSjfdi0qz4o",
+      "albumArt": "https://img.youtube.com/vi/eSjfdi0qz4o/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Cherry Pink and Apple Blossom White",
-      "artist": "Perez Prado"
+      "artist": "Perez Prado",
+      "youtubeId": "pqk3F1pPjyA",
+      "albumArt": "https://img.youtube.com/vi/pqk3F1pPjyA/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Unchained Melody",
-      "artist": "Jimmy Young"
+      "artist": "Jimmy Young",
+      "youtubeId": "w0M4iZQl27k",
+      "albumArt": "https://img.youtube.com/vi/w0M4iZQl27k/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Mambo Italiano",
-      "artist": "Rosemary Clooney"
+      "artist": "Rosemary Clooney",
+      "youtubeId": "c7hAbb00UgY",
+      "albumArt": "https://img.youtube.com/vi/c7hAbb00UgY/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Stranger in Paradise",
-      "artist": "Tony Bennett"
+      "artist": "Tony Bennett",
+      "youtubeId": "BqecjMVNZKY",
+      "albumArt": "https://img.youtube.com/vi/BqecjMVNZKY/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Dreamboat",
-      "artist": "Alma Cogan"
+      "artist": "Alma Cogan",
+      "youtubeId": "lUZ7grdMUI8",
+      "albumArt": "https://img.youtube.com/vi/lUZ7grdMUI8/hqdefault.jpg"
     }
   ]
 }

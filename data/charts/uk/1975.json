@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Bye Bye Baby",
-      "artist": "Bay City Rollers"
+      "artist": "Bay City Rollers",
+      "youtubeId": "vo-DP65hKcs",
+      "albumArt": "https://img.youtube.com/vi/vo-DP65hKcs/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Sailing",
-      "artist": "Rod Stewart"
+      "artist": "Rod Stewart",
+      "youtubeId": "RFgn9-8KL4s",
+      "albumArt": "https://img.youtube.com/vi/RFgn9-8KL4s/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Whispering Grass",
-      "artist": "Windsor Davies & Don Estelle"
+      "artist": "Windsor Davies & Don Estelle",
+      "youtubeId": "qoUYSCnFChk",
+      "albumArt": "https://img.youtube.com/vi/qoUYSCnFChk/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Bohemian Rhapsody",
-      "artist": "Queen"
+      "artist": "Queen",
+      "youtubeId": "utwMHfDZ6SA",
+      "albumArt": "https://img.youtube.com/vi/utwMHfDZ6SA/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Stand by Your Man",
-      "artist": "Tammy Wynette"
+      "artist": "Tammy Wynette",
+      "youtubeId": "wXaAsbggsN0",
+      "albumArt": "https://img.youtube.com/vi/wXaAsbggsN0/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "I Can't Give You Anything (But My Love)",
-      "artist": "The Stylistics"
+      "artist": "The Stylistics",
+      "youtubeId": "mzoWi4QQ77M",
+      "albumArt": "https://img.youtube.com/vi/mzoWi4QQ77M/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Hold Me Close",
-      "artist": "David Essex"
+      "artist": "David Essex",
+      "youtubeId": "Pv_wzqoa-RE",
+      "albumArt": "https://img.youtube.com/vi/Pv_wzqoa-RE/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "I Only Have Eyes for You",
-      "artist": "Art Garfunkel"
+      "artist": "Art Garfunkel",
+      "youtubeId": "8TWItZOD9ww",
+      "albumArt": "https://img.youtube.com/vi/8TWItZOD9ww/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Barbados",
-      "artist": "Typically Tropical"
+      "artist": "Typically Tropical",
+      "youtubeId": "G5ZQpt_GZ4E",
+      "albumArt": "https://img.youtube.com/vi/G5ZQpt_GZ4E/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Tears on My Pillow",
-      "artist": "Johnny Nash"
+      "artist": "Johnny Nash",
+      "youtubeId": "hivgFTzh9ao",
+      "albumArt": "https://img.youtube.com/vi/hivgFTzh9ao/hqdefault.jpg"
     }
   ]
 }

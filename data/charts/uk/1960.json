@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "It's Now or Never",
-      "artist": "Elvis Presley"
+      "artist": "Elvis Presley",
+      "youtubeId": "BJ7Vdj46hlc",
+      "albumArt": "https://img.youtube.com/vi/BJ7Vdj46hlc/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Cathy's Clown",
-      "artist": "The Everly Brothers"
+      "artist": "The Everly Brothers",
+      "youtubeId": "0BDpV_eiXpY",
+      "albumArt": "https://img.youtube.com/vi/0BDpV_eiXpY/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Please Don't Tease",
-      "artist": "Cliff Richard"
+      "artist": "Cliff Richard",
+      "youtubeId": "LdjPRXvkc7Q",
+      "albumArt": "https://img.youtube.com/vi/LdjPRXvkc7Q/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "Running Bear",
-      "artist": "Johnny Preston"
+      "artist": "Johnny Preston",
+      "youtubeId": "jy23KxMJBS4",
+      "albumArt": "https://img.youtube.com/vi/jy23KxMJBS4/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Why",
-      "artist": "Anthony Newley"
+      "artist": "Anthony Newley",
+      "youtubeId": "6MKoPRlALp4",
+      "albumArt": "https://img.youtube.com/vi/6MKoPRlALp4/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Apache",
-      "artist": "The Shadows"
+      "artist": "The Shadows",
+      "youtubeId": "dOY1L2jKSQk",
+      "albumArt": "https://img.youtube.com/vi/dOY1L2jKSQk/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Three Steps to Heaven",
-      "artist": "Eddie Cochran"
+      "artist": "Eddie Cochran",
+      "youtubeId": "zEueb1kSo9w",
+      "albumArt": "https://img.youtube.com/vi/zEueb1kSo9w/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "My Old Man's a Dustman",
-      "artist": "Lonnie Donegan"
+      "artist": "Lonnie Donegan",
+      "youtubeId": "Y7GeZ3YmONw",
+      "albumArt": "https://img.youtube.com/vi/Y7GeZ3YmONw/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Good Timin'",
-      "artist": "Jimmy Jones"
+      "artist": "Jimmy Jones",
+      "youtubeId": "LYtCTAe5gbQ",
+      "albumArt": "https://img.youtube.com/vi/LYtCTAe5gbQ/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Shakin' All Over",
-      "artist": "Johnny Kidd & The Pirates"
+      "artist": "Johnny Kidd & The Pirates",
+      "youtubeId": "vZTjKYDscJE",
+      "albumArt": "https://img.youtube.com/vi/vZTjKYDscJE/hqdefault.jpg"
     }
   ]
 }

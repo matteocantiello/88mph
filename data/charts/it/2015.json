@@ -1,0 +1,77 @@
+{
+  "country": "it",
+  "year": 2015,
+  "context": "2015 marked Italy's full embrace of streaming-era pop. Hozier's 'Take Me to Church' crossed over from indie darling to chart domination, while Baby K and Giusy Ferreri's 'Roma-Bangkok' became the Italian summer anthem. Latin-inflected pop from Nicky Jam and Alvaro Soler mixed with global superstars Adele and Bieber. Marco Mengoni and J-Ax represented Italian artists thriving in the new landscape.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Take Me to Church",
+      "artist": "Hozier",
+      "youtubeId": "MYSVMgRr6pw",
+      "albumArt": "https://img.youtube.com/vi/MYSVMgRr6pw/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Roma-Bangkok",
+      "artist": "Baby K feat. Giusy Ferreri",
+      "youtubeId": "tUOpXeagVcg",
+      "albumArt": "https://img.youtube.com/vi/tUOpXeagVcg/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "El Perdón",
+      "artist": "Nicky Jam & Enrique Iglesias",
+      "youtubeId": "zs6aDvOTlMo",
+      "albumArt": "https://img.youtube.com/vi/zs6aDvOTlMo/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Cheerleader (Felix Jaehn Remix)",
+      "artist": "Omi",
+      "youtubeId": "jGflUbPQfW8",
+      "albumArt": "https://img.youtube.com/vi/jGflUbPQfW8/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Hello",
+      "artist": "Adele",
+      "youtubeId": "yjo_aXygRDI",
+      "albumArt": "https://img.youtube.com/vi/yjo_aXygRDI/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "youtubeId": "DcDbKDAb7go",
+      "albumArt": "https://img.youtube.com/vi/DcDbKDAb7go/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "El Mismo Sol",
+      "artist": "Alvaro Soler",
+      "youtubeId": "jvLj5oX_zyA",
+      "albumArt": "https://img.youtube.com/vi/jvLj5oX_zyA/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Guerriero",
+      "artist": "Marco Mengoni",
+      "youtubeId": "umpSYAV-p6g",
+      "albumArt": "https://img.youtube.com/vi/umpSYAV-p6g/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Maria Salvador",
+      "artist": "J-Ax feat. Il Cile",
+      "youtubeId": "vUBxK6Luupg",
+      "albumArt": "https://img.youtube.com/vi/vUBxK6Luupg/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Lean On",
+      "artist": "Major Lazer & DJ Snake feat. MØ",
+      "youtubeId": "5vOid-7uBdQ",
+      "albumArt": "https://img.youtube.com/vi/5vOid-7uBdQ/hqdefault.jpg"
+    }
+  ]
+}

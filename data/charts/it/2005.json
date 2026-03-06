@@ -1,0 +1,77 @@
+{
+  "country": "it",
+  "year": 2005,
+  "context": "Italian pop in 2005 was a mix of Sanremo-bred singer-songwriters and international crossover. Povia's Sanremo-winning novelty hit topped the year, while Madonna's 'Hung Up' and Mattafix's 'Big City Life' showed the global pop reach. Homegrown acts like Elisa, Zero Assoluto, and Nek represented the melodic Italian tradition that continued to thrive alongside the international chart invaders.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I Bambini fanno 'Oh'",
+      "artist": "Povia",
+      "youtubeId": "75Rxlp1gNjA",
+      "albumArt": "https://img.youtube.com/vi/75Rxlp1gNjA/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Hung Up",
+      "artist": "Madonna",
+      "youtubeId": "20OGm_-RebE",
+      "albumArt": "https://img.youtube.com/vi/20OGm_-RebE/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Big City Life",
+      "artist": "Mattafix",
+      "youtubeId": "Ve8dON8D2AY",
+      "albumArt": "https://img.youtube.com/vi/Ve8dON8D2AY/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Stai con me (Forever)",
+      "artist": "Vasco Rossi",
+      "youtubeId": "xnCyjdhYcyU",
+      "albumArt": "https://img.youtube.com/vi/xnCyjdhYcyU/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Cleptomania",
+      "artist": "Sugarfree",
+      "youtubeId": "AlPG_N6Umuc",
+      "albumArt": "https://img.youtube.com/vi/AlPG_N6Umuc/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Una Poesia anche per te",
+      "artist": "Elisa",
+      "youtubeId": "jkeRe7Q7TUU",
+      "albumArt": "https://img.youtube.com/vi/jkeRe7Q7TUU/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Semplicemente",
+      "artist": "Zero Assoluto",
+      "youtubeId": "0KGetYIjnYc",
+      "albumArt": "https://img.youtube.com/vi/0KGetYIjnYc/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Incomplete",
+      "artist": "Backstreet Boys",
+      "youtubeId": "WVe80iZtlYU",
+      "albumArt": "https://img.youtube.com/vi/WVe80iZtlYU/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Lascia che io sia",
+      "artist": "Nek",
+      "youtubeId": "KbRsE_vN6BI",
+      "albumArt": "https://img.youtube.com/vi/KbRsE_vN6BI/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Tripping",
+      "artist": "Robbie Williams",
+      "youtubeId": "Ai554KeuvNI",
+      "albumArt": "https://img.youtube.com/vi/Ai554KeuvNI/hqdefault.jpg"
+    }
+  ]
+}

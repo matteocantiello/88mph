@@ -103,6 +103,9 @@ export default function TimeTravelBrowser({
       {stacked ? (
         <div className="space-y-4">
           <div className="anim-slide-up">
+            <p className="font-body text-xs uppercase tracking-[0.3em] text-accent/50 mb-3 font-medium">
+              Where?
+            </p>
             <WorldMap
               selectedCountry={selectedCountry}
               onSelectCountry={setSelectedCountry}
@@ -110,6 +113,9 @@ export default function TimeTravelBrowser({
             />
           </div>
           <div className="anim-slide-up" style={{ animationDelay: "0.1s" }}>
+            <p className="font-body text-xs uppercase tracking-[0.3em] text-accent/50 mb-3 font-medium">
+              When?
+            </p>
             <TimeCircuit
               selectedCountry={selectedCountry}
               destinationYear={destinationYear}
@@ -121,8 +127,11 @@ export default function TimeTravelBrowser({
           </div>
         </div>
       ) : (
-        <div className="grid grid-cols-1 lg:grid-cols-[1.2fr,1fr] gap-6 lg:gap-8 items-start">
+        <div className="grid grid-cols-1 lg:grid-cols-[2fr,1fr] gap-6 lg:gap-8 items-start">
           <div className="anim-slide-up">
+            <p className="font-body text-xs uppercase tracking-[0.3em] text-accent/50 mb-3 font-medium">
+              Where?
+            </p>
             <WorldMap
               selectedCountry={selectedCountry}
               onSelectCountry={setSelectedCountry}
@@ -130,6 +139,9 @@ export default function TimeTravelBrowser({
             />
           </div>
           <div className="anim-slide-up" style={{ animationDelay: "0.1s" }}>
+            <p className="font-body text-xs uppercase tracking-[0.3em] text-accent/50 mb-3 font-medium">
+              When?
+            </p>
             <TimeCircuit
               selectedCountry={selectedCountry}
               destinationYear={destinationYear}

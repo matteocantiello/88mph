@@ -170,12 +170,6 @@ function WorldMap({
         </Geographies>
       </ComposableMap>
 
-      {/* Empty state guidance */}
-      {!selectedCountry && (
-        <p className="text-center font-body text-sm text-foreground/25 mt-2">
-          Click a highlighted country to begin
-        </p>
-      )}
 
       {/* Selected country label below map */}
       {selectedCountry && COUNTRIES[selectedCountry] && (
