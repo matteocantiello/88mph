@@ -1,7 +1,13 @@
 {
-  "name": "timbre",
+  "name": "88mph",
   "version": "0.1.0",
   "private": true,
+  "description": "A musical time machine — year-end top 10 charts from 20 countries, 1940 to 2025",
+  "homepage": "https://88mph.fm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matteocantiello/88mph"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
