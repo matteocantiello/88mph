@@ -3,15 +3,65 @@
   "year": 2013,
   "context": "Macklemore and Ryan Lewis proved independent artists could dominate Billboard without a major label, scoring two top-five hits including the year's #1. Baauer's 'Harlem Shake' became the first track to reach #1 primarily through YouTube meme virality, permanently changing how charts measured consumption. Robin Thicke's controversial 'Blurred Lines' and Imagine Dragons' rock crossover 'Radioactive' rounded out a year of genre-blurring hits.",
   "tracks": [
-    { "rank": 1, "title": "Thrift Shop", "artist": "Macklemore & Ryan Lewis ft. Wanz" },
-    { "rank": 2, "title": "Blurred Lines", "artist": "Robin Thicke ft. T.I. & Pharrell" },
-    { "rank": 3, "title": "Harlem Shake", "artist": "Baauer" },
-    { "rank": 4, "title": "Locked Out of Heaven", "artist": "Bruno Mars" },
-    { "rank": 5, "title": "Can't Hold Us", "artist": "Macklemore & Ryan Lewis ft. Ray Dalton" },
-    { "rank": 6, "title": "Mirrors", "artist": "Justin Timberlake" },
-    { "rank": 7, "title": "Just Give Me a Reason", "artist": "Pink ft. Nate Ruess" },
-    { "rank": 8, "title": "I Knew You Were Trouble", "artist": "Taylor Swift" },
-    { "rank": 9, "title": "Radioactive", "artist": "Imagine Dragons" },
-    { "rank": 10, "title": "We Are Young", "artist": "Fun. ft. Janelle Monáe" }
+    {
+      "rank": 1,
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis ft. Wanz",
+      "youtubeId": "QK8mJJJvaes"
+    },
+    {
+      "rank": 2,
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke ft. T.I. & Pharrell",
+      "youtubeId": "UJHEK0GIdYE"
+    },
+    {
+      "rank": 3,
+      "title": "Harlem Shake",
+      "artist": "Baauer",
+      "youtubeId": "78PjJ1soEZk"
+    },
+    {
+      "rank": 4,
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "youtubeId": "GKsR3A1zyjo"
+    },
+    {
+      "rank": 5,
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis ft. Ray Dalton",
+      "youtubeId": "96L5sV7rqX0"
+    },
+    {
+      "rank": 6,
+      "title": "Mirrors",
+      "artist": "Justin Timberlake",
+      "youtubeId": "59nAgJZ5IoE"
+    },
+    {
+      "rank": 7,
+      "title": "Just Give Me a Reason",
+      "artist": "Pink ft. Nate Ruess",
+      "youtubeId": "OpQFFLBMEPI"
+    },
+    {
+      "rank": 8,
+      "title": "I Knew You Were Trouble",
+      "artist": "Taylor Swift",
+      "youtubeId": "VmBoTeLsKfs"
+    },
+    {
+      "rank": 9,
+      "title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "youtubeId": "3Yb2-CWjrME"
+    },
+    {
+      "rank": 10,
+      "title": "We Are Young",
+      "artist": "Fun. ft. Janelle Monáe",
+      "youtubeId": "f_K_0SNaRk0"
+    }
   ]
 }

@@ -43,26 +43,27 @@ export default async function HomePage() {
         </div>
         <div className="absolute inset-0 hero-gradient" />
 
-        <div className="relative max-w-7xl mx-auto px-6 pt-10 md:pt-16 pb-6 md:pb-10">
-          {/* Title + tagline */}
-          <div className="anim-slide-up text-center max-w-3xl mx-auto mb-6 md:mb-8">
+        <div className="relative max-w-7xl mx-auto px-6 pt-6 md:pt-8 pb-6 md:pb-10">
+          {/* Top bar: logo */}
+          <div className="anim-fade mb-8 md:mb-12">
+            <span className="led-hero text-3xl md:text-4xl leading-none">
+              8<span className="-ml-[0.04em]">8</span>mph
+            </span>
+          </div>
+
+          {/* Hero headline + CTA */}
+          <div className="anim-slide-up text-center max-w-3xl mx-auto mb-8 md:mb-10">
             <p className="font-body text-[10px] uppercase tracking-[0.35em] text-accent/50 mb-5 flex items-center justify-center gap-2">
               <span className="w-8 h-px bg-accent/30" />
-              The past, on shuffle.
+              The past. On shuffle.
               <span className="w-8 h-px bg-accent/30" />
             </p>
-            <h1 className="led-hero text-5xl sm:text-7xl md:text-[7rem] lg:text-[8.5rem] leading-[0.82] mb-5">
-              8<span className="-ml-[0.08em]">8</span>mph
-            </h1>
-            <p className="font-display text-foreground/50 text-xl md:text-2xl lg:text-3xl max-w-lg mx-auto leading-relaxed mb-8">
+            <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-[1.05] tracking-tight text-foreground/90 mb-8">
               What was the world listening to?
-            </p>
-
-            {/* CTA */}
-            <div className="flex items-center justify-center mb-6">
+            </h1>
+            <div className="flex items-center justify-center">
               <RandomButton metadata={metadata} />
             </div>
-
           </div>
 
           {/* Full-width Map + Time Circuit */}
