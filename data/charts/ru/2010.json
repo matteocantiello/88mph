@@ -8,52 +8,91 @@
       "title": "Tik Tok",
       "artist": "Kesha",
       "youtubeId": "RxUZLmN5RsY",
-      "albumArt": "https://img.youtube.com/vi/RxUZLmN5RsY/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0297c7b770b28ffeed164f4d0e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
+      "spotifyUrl": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "rank": 2,
       "title": "Chica Bomb",
-      "artist": "Dan Balan"
+      "artist": "Dan Balan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c9315fd062b84a711ea894f1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7bpr7CRwfKnWztHh3mRhuF",
+      "spotifyUrl": "https://open.spotify.com/track/7bpr7CRwfKnWztHh3mRhuF"
     },
     {
       "rank": 3,
       "title": "Vybirat Chudo",
-      "artist": "Nyusha"
+      "artist": "Nyusha",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b6afda36f5a5b336c64cc55d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2BiGhyy3xZlghMOP6QfYo1",
+      "spotifyUrl": "https://open.spotify.com/track/2BiGhyy3xZlghMOP6QfYo1"
     },
     {
       "rank": 4,
       "title": "Alejandro",
-      "artist": "Lady Gaga"
+      "artist": "Lady Gaga",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1HHeOs6zRdF8Ck58easiAY",
+      "spotifyUrl": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
     },
     {
       "rank": 5,
       "title": "Wonderful Life",
-      "artist": "Hurts"
+      "artist": "Hurts",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029739add1a83ca7e258c22966",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3HiwSiBqwXHy20VUVv44We",
+      "spotifyUrl": "https://open.spotify.com/track/3HiwSiBqwXHy20VUVv44We"
     },
     {
       "rank": 6,
       "title": "Alors on danse",
-      "artist": "Stromae"
+      "artist": "Stromae",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae373174b14e3eac81554402",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2GYHyAoLWpkxLVa4oYTVko",
+      "spotifyUrl": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "rank": 7,
       "title": "River Flows in You",
-      "artist": "Jasper Forks"
+      "artist": "Jasper Forks",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028bfea05ae249cf148f7fddd2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3WHYi4RllFnCYGrMSJpuX3",
+      "spotifyUrl": "https://open.spotify.com/track/3WHYi4RllFnCYGrMSJpuX3"
     },
     {
       "rank": 8,
       "title": "Love The Way You Lie",
-      "artist": "Eminem feat. Rihanna"
+      "artist": "Eminem feat. Rihanna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c08d5fa5c0f1a834acef5100",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "spotifyUrl": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
     },
     {
       "rank": 9,
       "title": "Ne Perebivay",
-      "artist": "Nyusha"
+      "artist": "Nyusha",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b6afda36f5a5b336c64cc55d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7jSW2LefhcrHbQBSv354ZA",
+      "spotifyUrl": "https://open.spotify.com/track/7jSW2LefhcrHbQBSv354ZA"
     },
     {
       "rank": 10,
       "title": "I Like",
-      "artist": "Keri Hilson"
+      "artist": "Keri Hilson",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02574fe8a0b4aafdecd1b38e7a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:02BLUoGn2VX3L33afIfFDi",
+      "spotifyUrl": "https://open.spotify.com/track/02BLUoGn2VX3L33afIfFDi"
     }
   ]
 }

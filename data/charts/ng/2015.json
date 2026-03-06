@@ -3,15 +3,75 @@
   "year": 2015,
   "context": "2015 was the year Afrobeats announced itself globally: Wizkid's 'Ojuelegba' earned an unsolicited remix from Drake and Skepta, catapulting Nigerian music onto international playlists. The Mavin Records collective dominated domestic charts, while street-rap veterans Olamide and Lil Kesh sparked dance crazes. It was also the breakthrough year for Kiss Daniel, Tekno, and Adekunle Gold.",
   "tracks": [
-    {"rank": 1, "title": "Godwin", "artist": "Korede Bello feat. Don Jazzy"},
-    {"rank": 2, "title": "Bobo", "artist": "Olamide"},
-    {"rank": 3, "title": "Ojuelegba (Remix)", "artist": "Wizkid feat. Drake & Skepta"},
-    {"rank": 4, "title": "My Woman, My Everything", "artist": "Patoranking feat. Wande Coal"},
-    {"rank": 5, "title": "Woju (Remix)", "artist": "Kiss Daniel feat. Tiwa Savage & Davido"},
-    {"rank": 6, "title": "Reggae Blues", "artist": "Harrysong feat. Olamide, Kcee, Orezi & Iyanya"},
-    {"rank": 7, "title": "Duro", "artist": "Tekno"},
-    {"rank": 8, "title": "Orente", "artist": "Adekunle Gold"},
-    {"rank": 9, "title": "Soke", "artist": "Burna Boy"},
-    {"rank": 10, "title": "Laye", "artist": "Kiss Daniel"}
+    {
+      "rank": 1,
+      "title": "Godwin",
+      "artist": "Korede Bello feat. Don Jazzy",
+      "youtubeId": "gAegI_hH1bc",
+      "albumArt": "https://img.youtube.com/vi/gAegI_hH1bc/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Bobo",
+      "artist": "Olamide",
+      "youtubeId": "SFmZKO35SfQ",
+      "albumArt": "https://img.youtube.com/vi/SFmZKO35SfQ/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Ojuelegba (Remix)",
+      "artist": "Wizkid feat. Drake & Skepta",
+      "youtubeId": "a2YHUTPk6Hc",
+      "albumArt": "https://img.youtube.com/vi/a2YHUTPk6Hc/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "My Woman, My Everything",
+      "artist": "Patoranking feat. Wande Coal",
+      "youtubeId": "eYI7J3dWto8",
+      "albumArt": "https://img.youtube.com/vi/eYI7J3dWto8/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Woju (Remix)",
+      "artist": "Kiss Daniel feat. Tiwa Savage & Davido",
+      "youtubeId": "9feU3jRWx98",
+      "albumArt": "https://img.youtube.com/vi/9feU3jRWx98/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Reggae Blues",
+      "artist": "Harrysong feat. Olamide, Kcee, Orezi & Iyanya",
+      "youtubeId": "mmMraN47MXQ",
+      "albumArt": "https://img.youtube.com/vi/mmMraN47MXQ/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Duro",
+      "artist": "Tekno",
+      "youtubeId": "ZId7mGRSvmA",
+      "albumArt": "https://img.youtube.com/vi/ZId7mGRSvmA/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Orente",
+      "artist": "Adekunle Gold",
+      "youtubeId": "Q3ZE3b0ZR0c",
+      "albumArt": "https://img.youtube.com/vi/Q3ZE3b0ZR0c/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Soke",
+      "artist": "Burna Boy",
+      "youtubeId": "i63DTvmJyFk",
+      "albumArt": "https://img.youtube.com/vi/i63DTvmJyFk/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Laye",
+      "artist": "Kiss Daniel",
+      "youtubeId": "v_sMYUVyw4I",
+      "albumArt": "https://img.youtube.com/vi/v_sMYUVyw4I/hqdefault.jpg"
+    }
   ]
 }

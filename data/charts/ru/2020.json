@@ -3,15 +3,91 @@
   "year": 2020,
   "context": "Russia's 2020 music scene was electrified by TikTok-fueled hip-hop, with Morgenshtern becoming the defining name of the lockdown era. The collaborative track 'Cadillac' with Allj was the summer anthem, while Slava Marlow and Cream Soda dominated both streaming and social platforms. Youth culture shifted decisively toward rap and electronic pop.",
   "tracks": [
-    {"rank": 1, "title": "Cadillac", "artist": "Morgenshtern & Allj"},
-    {"rank": 2, "title": "Snova Ya Napivayus", "artist": "Slava Marlow"},
-    {"rank": 3, "title": "Plachu na Tekno", "artist": "Cream Soda & Khleb"},
-    {"rank": 4, "title": "A Yesli Eto Lyubov", "artist": "HammAli & Navai"},
-    {"rank": 5, "title": "Ty Besposhchadna", "artist": "JONY"},
-    {"rank": 6, "title": "Begi", "artist": "DJ Smash feat. Poet"},
-    {"rank": 7, "title": "Neboley", "artist": "Basta & Zivert"},
-    {"rank": 8, "title": "Crush", "artist": "Clava Coca & NILETTO"},
-    {"rank": 9, "title": "Devochka Tantsuy", "artist": "Artik & Asti"},
-    {"rank": 10, "title": "Siay", "artist": "Ramil"}
+    {
+      "rank": 1,
+      "title": "Cadillac",
+      "artist": "Morgenshtern & Allj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b19565a46d15bff07d399fbf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3aVNCtmLR9BSgFALSySejF",
+      "spotifyUrl": "https://open.spotify.com/track/3aVNCtmLR9BSgFALSySejF"
+    },
+    {
+      "rank": 2,
+      "title": "Snova Ya Napivayus",
+      "artist": "Slava Marlow",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0228059516a8477d0169237a8c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6JbZYUhyqil0sCYiqEyTKm",
+      "spotifyUrl": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
+    },
+    {
+      "rank": 3,
+      "title": "Plachu na Tekno",
+      "artist": "Cream Soda & Khleb",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a8b5320066e33ed1e3b4afee",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5jKFnadawzHXGWiLBeboas",
+      "spotifyUrl": "https://open.spotify.com/track/5jKFnadawzHXGWiLBeboas"
+    },
+    {
+      "rank": 4,
+      "title": "A Yesli Eto Lyubov",
+      "artist": "HammAli & Navai",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0230e4b25fec89f3b82d3c0e12",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Un71eDlbiGDEzZJzACuNp",
+      "spotifyUrl": "https://open.spotify.com/track/5Un71eDlbiGDEzZJzACuNp"
+    },
+    {
+      "rank": 5,
+      "title": "Ty Besposhchadna",
+      "artist": "JONY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0220e35b4ce0eb166d451be4f0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6jTp9NnhGbKxwqnTfX3GJm",
+      "spotifyUrl": "https://open.spotify.com/track/6jTp9NnhGbKxwqnTfX3GJm"
+    },
+    {
+      "rank": 6,
+      "title": "Begi",
+      "artist": "DJ Smash feat. Poet",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0236e61dd1ed0604637c4ec9e2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1m7eeeWZi4kQOcHfUMtVpw",
+      "spotifyUrl": "https://open.spotify.com/track/1m7eeeWZi4kQOcHfUMtVpw"
+    },
+    {
+      "rank": 7,
+      "title": "Neboley",
+      "artist": "Basta & Zivert",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a1f4048d337f301712fc74f0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6xBifM893zgSssatuI6YAf",
+      "spotifyUrl": "https://open.spotify.com/track/6xBifM893zgSssatuI6YAf"
+    },
+    {
+      "rank": 8,
+      "title": "Crush",
+      "artist": "Clava Coca & NILETTO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020d1bf076e679842f63fed971",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5GKsUqnQ90T5kkvG6u30wZ",
+      "spotifyUrl": "https://open.spotify.com/track/5GKsUqnQ90T5kkvG6u30wZ"
+    },
+    {
+      "rank": 9,
+      "title": "Devochka Tantsuy",
+      "artist": "Artik & Asti",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0238898009d002b12da70ea103",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6C15kOv6n392vzpGmez0sR",
+      "spotifyUrl": "https://open.spotify.com/track/6C15kOv6n392vzpGmez0sR"
+    },
+    {
+      "rank": 10,
+      "title": "Siay",
+      "artist": "Ramil"
+    }
   ]
 }

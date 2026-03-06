@@ -3,15 +3,95 @@
   "year": 2015,
   "context": "By 2015, the AKB48 sister-group system had proliferated into a full idol industrial complex. Nogizaka46, created as an official 'rival' to AKB48, emerged as a major force with three top-10 singles. The AKB48 election single 'Bokutachi wa Tatakawanai' was the year's top seller with over 1.7 million copies, reflecting the unique Japanese market where physical CD sales still dominated charts.",
   "tracks": [
-    {"rank": 1, "title": "Bokutachi wa Tatakawanai", "artist": "AKB48"},
-    {"rank": 2, "title": "Halloween Night", "artist": "AKB48"},
-    {"rank": 3, "title": "Green Flash", "artist": "AKB48"},
-    {"rank": 4, "title": "Kuchibiru ni Be My Baby", "artist": "AKB48"},
-    {"rank": 5, "title": "Coquettish Juutaichuu", "artist": "SKE48"},
-    {"rank": 6, "title": "Ima, Hanashitai Darekaga Iru", "artist": "Nogizaka46"},
-    {"rank": 7, "title": "Taiyou Knock", "artist": "Nogizaka46"},
-    {"rank": 8, "title": "Inochi wa Utsukushii", "artist": "Nogizaka46"},
-    {"rank": 9, "title": "Aozora no Shita, Kimi no Tonari", "artist": "Arashi"},
-    {"rank": 10, "title": "Don't Look Back!", "artist": "NMB48"}
+    {
+      "rank": 1,
+      "title": "Bokutachi wa Tatakawanai",
+      "artist": "AKB48",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02278586afe3824ec15dac6ce9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Fl6ogf1DZjFejXajVVhbe",
+      "spotifyUrl": "https://open.spotify.com/track/5Fl6ogf1DZjFejXajVVhbe"
+    },
+    {
+      "rank": 2,
+      "title": "Halloween Night",
+      "artist": "AKB48",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025ad9dc345cf13530d2e1e10f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2oWYapsrOBVU1Mnyo9efUv",
+      "spotifyUrl": "https://open.spotify.com/track/2oWYapsrOBVU1Mnyo9efUv"
+    },
+    {
+      "rank": 3,
+      "title": "Green Flash",
+      "artist": "AKB48",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c3c48a551319f9064ce7ba95",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1fqE1DRD5SlQGr2GrNRwQE",
+      "spotifyUrl": "https://open.spotify.com/track/1fqE1DRD5SlQGr2GrNRwQE"
+    },
+    {
+      "rank": 4,
+      "title": "Kuchibiru ni Be My Baby",
+      "artist": "AKB48",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023b3e99a1f067bb46a00af373",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Rz8KASPAOOnJJrZnnkeaY",
+      "spotifyUrl": "https://open.spotify.com/track/2Rz8KASPAOOnJJrZnnkeaY"
+    },
+    {
+      "rank": 5,
+      "title": "Coquettish Juutaichuu",
+      "artist": "SKE48",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0285cab5718d4dd5b3fac40b8a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5vPvg2Nl4tefLkqI9LU0uF",
+      "spotifyUrl": "https://open.spotify.com/track/5vPvg2Nl4tefLkqI9LU0uF"
+    },
+    {
+      "rank": 6,
+      "title": "Ima, Hanashitai Darekaga Iru",
+      "artist": "Nogizaka46",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5d3da533d774bbd2ba8b24f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5EBqfqnUU0aGtmPL7vGlrz",
+      "spotifyUrl": "https://open.spotify.com/track/5EBqfqnUU0aGtmPL7vGlrz"
+    },
+    {
+      "rank": 7,
+      "title": "Taiyou Knock",
+      "artist": "Nogizaka46",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021e95bc105b7d4109f059c36c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4bY2oZGA5Br3pTE1Jd1IfY",
+      "spotifyUrl": "https://open.spotify.com/track/4bY2oZGA5Br3pTE1Jd1IfY"
+    },
+    {
+      "rank": 8,
+      "title": "Inochi wa Utsukushii",
+      "artist": "Nogizaka46",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5d3da533d774bbd2ba8b24f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:51afGVYj9AmRm9fKTxeS8h",
+      "spotifyUrl": "https://open.spotify.com/track/51afGVYj9AmRm9fKTxeS8h"
+    },
+    {
+      "rank": 9,
+      "title": "Aozora no Shita, Kimi no Tonari",
+      "artist": "Arashi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021c4dcca755821ec227e907d8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7keyH84kNCdYq6LVRMni3Z",
+      "spotifyUrl": "https://open.spotify.com/track/7keyH84kNCdYq6LVRMni3Z"
+    },
+    {
+      "rank": 10,
+      "title": "Don't Look Back!",
+      "artist": "NMB48",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0205ebda7cc21dd5f27cc6021f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1uC3UcIyvrBKkvxKmIjRz5",
+      "spotifyUrl": "https://open.spotify.com/track/1uC3UcIyvrBKkvxKmIjRz5"
+    }
   ]
 }

@@ -3,15 +3,95 @@
   "year": 2020,
   "context": "Spotify's 2020 Wrapped for India showed Bollywood soundtracks remaining dominant as COVID-19 lockdowns drove unprecedented streaming growth. Arijit Singh appeared on multiple top 10 tracks, cementing his decade-long reign. Only two international tracks — Trevor Daniel's 'Falling' and The Weeknd's 'Blinding Lights' — broke into the Bollywood-dominated top 10.",
   "tracks": [
-    {"rank": 1, "title": "Shayad", "artist": "Arijit Singh (from Love Aaj Kal)"},
-    {"rank": 2, "title": "Falling", "artist": "Trevor Daniel"},
-    {"rank": 3, "title": "Ghungroo", "artist": "Arijit Singh & Shilpa Rao (from War)"},
-    {"rank": 4, "title": "Tujhe Kitna Chahne Lage", "artist": "Arijit Singh (from Kabir Singh)"},
-    {"rank": 5, "title": "Makhna", "artist": "Asees Kaur & Yasser Desai (from Drive)"},
-    {"rank": 6, "title": "Illegal Weapon 2.0", "artist": "Garry Sandhu & Jasmine Sandlas (from Street Dancer 3D)"},
-    {"rank": 7, "title": "Blinding Lights", "artist": "The Weeknd"},
-    {"rank": 8, "title": "Garmi", "artist": "Badshah & Neha Kakkar (from Street Dancer 3D)"},
-    {"rank": 9, "title": "Tu Hi Yaar Mera", "artist": "Arijit Singh & Neha Kakkar (from Pati Patni Aur Woh)"},
-    {"rank": 10, "title": "Malang", "artist": "Ved Sharma & Kunaal Vermaa (from Malang)"}
+    {
+      "rank": 1,
+      "title": "Shayad",
+      "artist": "Arijit Singh (from Love Aaj Kal)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025d1ef5cbac1312ae631e9c29",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:018eOid2aGaPdxon7T6GsC",
+      "spotifyUrl": "https://open.spotify.com/track/018eOid2aGaPdxon7T6GsC"
+    },
+    {
+      "rank": 2,
+      "title": "Falling",
+      "artist": "Trevor Daniel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024dbf782532ca5d09012dc2d5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Aqi7ArnBrGblW5T6p2jmD",
+      "spotifyUrl": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
+    },
+    {
+      "rank": 3,
+      "title": "Ghungroo",
+      "artist": "Arijit Singh & Shilpa Rao (from War)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02281650a8e8c5d04658d31ac1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0WdbnNKO0Jt4BZACSDQh44",
+      "spotifyUrl": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
+    },
+    {
+      "rank": 4,
+      "title": "Tujhe Kitna Chahne Lage",
+      "artist": "Arijit Singh (from Kabir Singh)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ba03ff79dad25f7c3542382f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Fv2injs4qAm8mJBGaxVKU",
+      "spotifyUrl": "https://open.spotify.com/track/2Fv2injs4qAm8mJBGaxVKU"
+    },
+    {
+      "rank": 5,
+      "title": "Makhna",
+      "artist": "Asees Kaur & Yasser Desai (from Drive)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026517397a260f3713685c6b3a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7BjQqiOJio4RdPL33yALKE",
+      "spotifyUrl": "https://open.spotify.com/track/7BjQqiOJio4RdPL33yALKE"
+    },
+    {
+      "rank": 6,
+      "title": "Illegal Weapon 2.0",
+      "artist": "Garry Sandhu & Jasmine Sandlas (from Street Dancer 3D)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b9c46d2b8d5604c33cc578b7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5fXslGZPI5Cco6PKHzlSL3",
+      "spotifyUrl": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
+    },
+    {
+      "rank": 7,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "rank": 8,
+      "title": "Garmi",
+      "artist": "Badshah & Neha Kakkar (from Street Dancer 3D)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02366d5bd2f22edaa6504721ee",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6q9XTgfWilsnyiFofvYrIF",
+      "spotifyUrl": "https://open.spotify.com/track/6q9XTgfWilsnyiFofvYrIF"
+    },
+    {
+      "rank": 9,
+      "title": "Tu Hi Yaar Mera",
+      "artist": "Arijit Singh & Neha Kakkar (from Pati Patni Aur Woh)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029c48ffd6b1a9a43b9a74c66c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:57jOEZtoLQK4zF2x55bdkp",
+      "spotifyUrl": "https://open.spotify.com/track/57jOEZtoLQK4zF2x55bdkp"
+    },
+    {
+      "rank": 10,
+      "title": "Malang",
+      "artist": "Ved Sharma & Kunaal Vermaa (from Malang)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0299655481a2151203ed89351d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:25MPTnqXQB1H6OkwSYUXWx",
+      "spotifyUrl": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
+    }
   ]
 }

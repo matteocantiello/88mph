@@ -8,52 +8,91 @@
       "title": "La Tortura",
       "artist": "Shakira feat. Alejandro Sanz",
       "youtubeId": "GdgiSOHcswI",
-      "albumArt": "https://img.youtube.com/vi/GdgiSOHcswI/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02afccde0243b5c750c07f6825",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:53AafWSzYsiJKnAtJTUB5f",
+      "spotifyUrl": "https://open.spotify.com/track/53AafWSzYsiJKnAtJTUB5f"
     },
     {
       "rank": 2,
       "title": "Gasolina",
-      "artist": "Daddy Yankee"
+      "artist": "Daddy Yankee",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5YoITs1m0q8UOQ4AW7N5ga",
+      "spotifyUrl": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga"
     },
     {
       "rank": 3,
       "title": "La Camisa Negra",
-      "artist": "Juanes"
+      "artist": "Juanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c091c40987e92a9256d2f210",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2EM9zpAc7PVeoAydmbfVIL",
+      "spotifyUrl": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL"
     },
     {
       "rank": 4,
       "title": "Nada Valgo Sin Tu Amor",
-      "artist": "Juanes"
+      "artist": "Juanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c091c40987e92a9256d2f210",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6QdwofpqDvvNxX88C9A0iQ",
+      "spotifyUrl": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ"
     },
     {
       "rank": 5,
       "title": "Rebelde",
-      "artist": "RBD"
+      "artist": "RBD",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026784cf9227f41a10b0146021",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:56tOMi4N980gmsdUoyaLb3",
+      "spotifyUrl": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
     },
     {
       "rank": 6,
       "title": "Te Quise Tanto",
-      "artist": "Paulina Rubio"
+      "artist": "Paulina Rubio",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021d692461cf969737cd3d1b0f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0wtkAe5DuWCzggw6AKSuVH",
+      "spotifyUrl": "https://open.spotify.com/track/0wtkAe5DuWCzggw6AKSuVH"
     },
     {
       "rank": 7,
       "title": "Volverte a Ver",
-      "artist": "Juanes"
+      "artist": "Juanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c091c40987e92a9256d2f210",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2ZqFfDwNjKvPu3USx3onhO",
+      "spotifyUrl": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "rank": 8,
       "title": "Atrévete-te-te",
-      "artist": "Calle 13"
+      "artist": "Calle 13",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bf3d37f1fd6a7e2cb5fd1487",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1q8NdCAQ9QUjpYiqzdd3mv",
+      "spotifyUrl": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "rank": 9,
       "title": "Nuestro Amor Eterno",
-      "artist": "RBD"
+      "artist": "RBD",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020bfe0ab73a052daddb29fa9b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2wga58e6AZmO3kfIZ0fSBw",
+      "spotifyUrl": "https://open.spotify.com/track/2wga58e6AZmO3kfIZ0fSBw"
     },
     {
       "rank": 10,
       "title": "Tu de Qué Vas",
-      "artist": "Franco de Vita"
+      "artist": "Franco de Vita",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e61c36e2c29c574079b7c5b9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:66iygyOSvvoQQsKJ1vEXfT",
+      "spotifyUrl": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     }
   ]
 }

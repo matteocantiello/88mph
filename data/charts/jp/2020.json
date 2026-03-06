@@ -3,15 +3,95 @@
   "year": 2020,
   "context": "2020 saw a generational shift as newly debuted Johnny's groups SixTONES and Snow Man released a historic split single that sold over 1.5 million copies. Arashi announced their indefinite hiatus at year's end, closing one era of Japanese pop dominance. The COVID-19 pandemic disrupted live entertainment but reinforced fan-club purchasing culture for physical singles.",
   "tracks": [
-    {"rank": 1, "title": "Imitation Rain / D.D.", "artist": "SixTONES vs Snow Man"},
-    {"rank": 2, "title": "Shitsuren, Arigatou", "artist": "AKB48"},
-    {"rank": 3, "title": "Kite", "artist": "Arashi"},
-    {"rank": 4, "title": "Shiawase no Hogoshoku", "artist": "Nogizaka46"},
-    {"rank": 5, "title": "KISSIN' MY LIPS / Stories", "artist": "Snow Man"},
-    {"rank": 6, "title": "NAVIGATOR", "artist": "SixTONES"},
-    {"rank": 7, "title": "Sonna Koto Nai yo", "artist": "Hinatazaka46"},
-    {"rank": 8, "title": "Mazy Night", "artist": "King & Prince"},
-    {"rank": 9, "title": "smile", "artist": "Twenty★Twenty"},
-    {"rank": 10, "title": "NEW ERA", "artist": "SixTONES"}
+    {
+      "rank": 1,
+      "title": "Imitation Rain / D.D.",
+      "artist": "SixTONES vs Snow Man",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f17b37bc5a123b6fd9f2c84",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:52tcrSD3Eafok43bb24MSP",
+      "spotifyUrl": "https://open.spotify.com/track/52tcrSD3Eafok43bb24MSP"
+    },
+    {
+      "rank": 2,
+      "title": "Shitsuren, Arigatou",
+      "artist": "AKB48",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d33433c495d45aa8042a13f6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2pBuPWvBIn432G5QF80NNl",
+      "spotifyUrl": "https://open.spotify.com/track/2pBuPWvBIn432G5QF80NNl"
+    },
+    {
+      "rank": 3,
+      "title": "Kite",
+      "artist": "Arashi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027d2195ec44f271a879397e40",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1BGxzKEro4oYDkERGF9tbz",
+      "spotifyUrl": "https://open.spotify.com/track/1BGxzKEro4oYDkERGF9tbz"
+    },
+    {
+      "rank": 4,
+      "title": "Shiawase no Hogoshoku",
+      "artist": "Nogizaka46",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fbb01477cfcdd06a4edeb339",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:52SybEH2oGMMrvnoLBFCCf",
+      "spotifyUrl": "https://open.spotify.com/track/52SybEH2oGMMrvnoLBFCCf"
+    },
+    {
+      "rank": 5,
+      "title": "KISSIN' MY LIPS / Stories",
+      "artist": "Snow Man",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a682813ff50108b914dfd0f1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3SpQ2zIFzpKr9ajbzTWUkg",
+      "spotifyUrl": "https://open.spotify.com/track/3SpQ2zIFzpKr9ajbzTWUkg"
+    },
+    {
+      "rank": 6,
+      "title": "NAVIGATOR",
+      "artist": "SixTONES",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023cc8542bed1f1f82c65d9bd4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:135KwWixLI8EdEcxJDijdH",
+      "spotifyUrl": "https://open.spotify.com/track/135KwWixLI8EdEcxJDijdH"
+    },
+    {
+      "rank": 7,
+      "title": "Sonna Koto Nai yo",
+      "artist": "Hinatazaka46",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b0137b1c7e9b857f7da32a33",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:62xck0T7n47mSm9Ui00Cgn",
+      "spotifyUrl": "https://open.spotify.com/track/62xck0T7n47mSm9Ui00Cgn"
+    },
+    {
+      "rank": 8,
+      "title": "Mazy Night",
+      "artist": "King & Prince",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ab3bc5e095c7bace661ee229",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0JnEG4W71tcLwVaaU1LRZN",
+      "spotifyUrl": "https://open.spotify.com/track/0JnEG4W71tcLwVaaU1LRZN"
+    },
+    {
+      "rank": 9,
+      "title": "smile",
+      "artist": "Twenty★Twenty",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0203d4a33d03332e44d0dd7fe9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:10HK7xIaO3BtlaNU1azgoP",
+      "spotifyUrl": "https://open.spotify.com/track/10HK7xIaO3BtlaNU1azgoP"
+    },
+    {
+      "rank": 10,
+      "title": "NEW ERA",
+      "artist": "SixTONES",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fc55a7e85a6811f761caf02f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7eOnx8tXd6HfqgbTMNSiV4",
+      "spotifyUrl": "https://open.spotify.com/track/7eOnx8tXd6HfqgbTMNSiV4"
+    }
   ]
 }

@@ -3,15 +3,95 @@
   "year": 2020,
   "context": "Brazil's 2020 was almost entirely sertanejo, reflecting pandemic-era listening habits. Henrique & Juliano's 'Liberdade Provisória' topped the year, followed by Gusttavo Lima and Marília Mendonça. The nation turned to familiar, emotional sertanejo comfort music during lockdowns, with only Dua Lipa and Pedro Sampaio's funk breaking the genre's near-total dominance.",
   "tracks": [
-    {"rank": 1, "title": "Liberdade Provisória", "artist": "Henrique & Juliano"},
-    {"rank": 2, "title": "A Gente Fez Amor", "artist": "Gusttavo Lima"},
-    {"rank": 3, "title": "Graveto", "artist": "Marília Mendonça"},
-    {"rank": 4, "title": "Volta por Baixo", "artist": "Henrique & Juliano"},
-    {"rank": 5, "title": "S de Saudade", "artist": "Luíza & Maurílio feat. Zé Neto & Cristiano"},
-    {"rank": 6, "title": "Litrão", "artist": "Matheus & Kauan"},
-    {"rank": 7, "title": "Barzinho Aleatório", "artist": "Zé Neto & Cristiano"},
-    {"rank": 8, "title": "Don't Start Now", "artist": "Dua Lipa"},
-    {"rank": 9, "title": "Cheirosa", "artist": "Jorge & Mateus"},
-    {"rank": 10, "title": "Sentadão", "artist": "Pedro Sampaio feat. Felipe Original & JS"}
+    {
+      "rank": 1,
+      "title": "Liberdade Provisória",
+      "artist": "Henrique & Juliano",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0250eb8b741c09b9159338fa9f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7Cf2Hsy3cPlA4e115tElXv",
+      "spotifyUrl": "https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv"
+    },
+    {
+      "rank": 2,
+      "title": "A Gente Fez Amor",
+      "artist": "Gusttavo Lima",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0204a3f1f173aa0e3d73978ab8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3tv697PZNnaQN0Mn2zGhS5",
+      "spotifyUrl": "https://open.spotify.com/track/3tv697PZNnaQN0Mn2zGhS5"
+    },
+    {
+      "rank": 3,
+      "title": "Graveto",
+      "artist": "Marília Mendonça",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b398842d516b65eb6f77fcb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3tc8Z4lGzOIwmIVftsxO6o",
+      "spotifyUrl": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o"
+    },
+    {
+      "rank": 4,
+      "title": "Volta por Baixo",
+      "artist": "Henrique & Juliano",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0250eb8b741c09b9159338fa9f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1MparvKC8QIDwu06iO3qVr",
+      "spotifyUrl": "https://open.spotify.com/track/1MparvKC8QIDwu06iO3qVr"
+    },
+    {
+      "rank": 5,
+      "title": "S de Saudade",
+      "artist": "Luíza & Maurílio feat. Zé Neto & Cristiano",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020795161a4e6bea37b786db29",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3J5Pu25BODMex4Jpy4l6FL",
+      "spotifyUrl": "https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL"
+    },
+    {
+      "rank": 6,
+      "title": "Litrão",
+      "artist": "Matheus & Kauan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02288b62c549b9bd7305e81be1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4DngRKOpRPrkbzImUB0zgh",
+      "spotifyUrl": "https://open.spotify.com/track/4DngRKOpRPrkbzImUB0zgh"
+    },
+    {
+      "rank": 7,
+      "title": "Barzinho Aleatório",
+      "artist": "Zé Neto & Cristiano",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02693c7e781c383b1c80e2217a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3WjSkl7VDWY1prwJw7dSG0",
+      "spotifyUrl": "https://open.spotify.com/track/3WjSkl7VDWY1prwJw7dSG0"
+    },
+    {
+      "rank": 8,
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c88bae7846e62a8ba59ee0bd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3PfIrDoz19wz7qK7tYeu62",
+      "spotifyUrl": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "rank": 9,
+      "title": "Cheirosa",
+      "artist": "Jorge & Mateus",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021c4ecb8f53cb6e35979a241e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2PWjKmjyTZeDpmOUa3a5da",
+      "spotifyUrl": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+    },
+    {
+      "rank": 10,
+      "title": "Sentadão",
+      "artist": "Pedro Sampaio feat. Felipe Original & JS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a3c35c329e3715fb29618044",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4lKuzrdZrJuCAedbIslF3A",
+      "spotifyUrl": "https://open.spotify.com/track/4lKuzrdZrJuCAedbIslF3A"
+    }
   ]
 }

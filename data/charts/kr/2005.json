@@ -6,58 +6,95 @@
     {
       "rank": 1,
       "title": "Sarang Seureo Weo",
-      "artist": "Yoon Do Hyun"
+      "artist": "Yoon Do Hyun",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0261b007b6ea8b0de8d92ea8f4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:21qygSJtTusafqmBb9e26C",
+      "spotifyUrl": "https://open.spotify.com/track/21qygSJtTusafqmBb9e26C"
     },
     {
       "rank": 2,
       "title": "Bicheop (Coward)",
-      "artist": "Buzz"
+      "artist": "Buzz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02430b035526c0adfff6e1607f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1dgueNPJ5SCuhSDxSjS5ps",
+      "spotifyUrl": "https://open.spotify.com/track/1dgueNPJ5SCuhSDxSjS5ps"
     },
     {
       "rank": 3,
       "title": "Fly",
       "artist": "Epik High",
       "youtubeId": "sHqLlyBlmQI",
-      "albumArt": "https://img.youtube.com/vi/sHqLlyBlmQI/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b83210f27915c9b2fbc16266",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3N17JQ2yJjQTUOt706Uj6h",
+      "spotifyUrl": "https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h"
     },
     {
       "rank": 4,
       "title": "Loveable",
       "artist": "Kim Jong Kook",
       "youtubeId": "USFIA0qvIak",
-      "albumArt": "https://img.youtube.com/vi/USFIA0qvIak/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b4e4fffc6766811abcb95300",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2IF9VDaj1i9SCDPqsTEVE3",
+      "spotifyUrl": "https://open.spotify.com/track/2IF9VDaj1i9SCDPqsTEVE3"
     },
     {
       "rank": 5,
       "title": "Bosal Pyo",
-      "artist": "Sung Si Kyung"
+      "artist": "Sung Si Kyung",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b015469045067ebb45b9681f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5VmfjaGvt56uiBeMYKoNAq",
+      "spotifyUrl": "https://open.spotify.com/track/5VmfjaGvt56uiBeMYKoNAq"
     },
     {
       "rank": 6,
       "title": "Saranghae Gosamawo",
-      "artist": "MC Mong feat. Kim Tae Woo"
+      "artist": "MC Mong feat. Kim Tae Woo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02736d860c9fe2aef9688dbbb7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1KGiNVIzzD0vUZUIErKZTr",
+      "spotifyUrl": "https://open.spotify.com/track/1KGiNVIzzD0vUZUIErKZTr"
     },
     {
       "rank": 7,
       "title": "Jijiannun Taeyang",
-      "artist": "Jang Woo Hyuk"
+      "artist": "Jang Woo Hyuk",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0223c67e6900c300d3d8fd66ad",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7qzS3sR1xg5gs5mUvIEhIQ",
+      "spotifyUrl": "https://open.spotify.com/track/7qzS3sR1xg5gs5mUvIEhIQ"
     },
     {
       "rank": 8,
       "title": "An Uneowo",
-      "artist": "LeeSSang"
+      "artist": "LeeSSang",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dc7284b710f1e8612d6dc71f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Gpdzw72aBVJSrm5J1leVK",
+      "spotifyUrl": "https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK"
     },
     {
       "rank": 9,
       "title": "Superstar",
       "artist": "Jewelry",
       "youtubeId": "l9Ih9zqtWJY",
-      "albumArt": "https://img.youtube.com/vi/l9Ih9zqtWJY/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0252e6b91ac8ec732ae8ad899a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7CqInaShfwl5FlvkfaFiQF",
+      "spotifyUrl": "https://open.spotify.com/track/7CqInaShfwl5FlvkfaFiQF"
     },
     {
       "rank": 10,
       "title": "Haengbok Hajima",
-      "artist": "MC The Max"
+      "artist": "MC The Max",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0297d6f31ca7b35e7325007474",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2QjFPBIRReOy41tyjhG3oV",
+      "spotifyUrl": "https://open.spotify.com/track/2QjFPBIRReOy41tyjhG3oV"
     }
   ]
 }

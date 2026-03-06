@@ -3,15 +3,95 @@
   "year": 2015,
   "context": "2015 was a strong year for Bollywood music led by Salman Khan's Prem Ratan Dhan Payo, whose title track topped nationwide charts. Arijit Singh consolidated his position as the decade's defining male voice. The year balanced big masala anthems with soulful ballads from Tamasha and Dum Laga Ke Haisha, demonstrating Bollywood's wide tonal range.",
   "tracks": [
-    {"rank": 1, "title": "Prem Ratan Dhan Payo", "artist": "Palak Muchhal"},
-    {"rank": 2, "title": "Sooraj Dooba Hai Yaaron", "artist": "Arijit Singh & Aditi Singh Sharma (from Roy)"},
-    {"rank": 3, "title": "Moh Moh Ke Dhaage", "artist": "Monali Thakur & Papon (from Dum Laga Ke Haisha)"},
-    {"rank": 4, "title": "Jeena Jeena", "artist": "Atif Aslam (from Badlapur)"},
-    {"rank": 5, "title": "Chittiyaan Kalaiyaan", "artist": "Kanika Kapoor (from Roy)"},
-    {"rank": 6, "title": "Sun Saathiya", "artist": "Shraddha Kapoor (from ABCD 2)"},
-    {"rank": 7, "title": "Gallan Goodiyaan", "artist": "Sukhwinder Singh & Farhan Akhtar (from Dil Dhadakne Do)"},
-    {"rank": 8, "title": "Agar Tum Saath Ho", "artist": "Arijit Singh & Alka Yagnik (from Tamasha)"},
-    {"rank": 9, "title": "Main Hoon Hero Tera", "artist": "Salman Khan (from Hero)"},
-    {"rank": 10, "title": "Gulaabo", "artist": "Vishal Dadlani & Anusha Mani (from Shaandaar)"}
+    {
+      "rank": 1,
+      "title": "Prem Ratan Dhan Payo",
+      "artist": "Palak Muchhal",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c67d681d2653981fb4257232",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5HGXuAy0YA1GBRkAny0cvV",
+      "spotifyUrl": "https://open.spotify.com/track/5HGXuAy0YA1GBRkAny0cvV"
+    },
+    {
+      "rank": 2,
+      "title": "Sooraj Dooba Hai Yaaron",
+      "artist": "Arijit Singh & Aditi Singh Sharma (from Roy)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f6371011af4c82fb31d54820",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:48pyUxg9RYuwie5M9R7qRn",
+      "spotifyUrl": "https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn"
+    },
+    {
+      "rank": 3,
+      "title": "Moh Moh Ke Dhaage",
+      "artist": "Monali Thakur & Papon (from Dum Laga Ke Haisha)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028505999314c197a269c4d9bc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:189DQylImZ1hGZaIpAQUzx",
+      "spotifyUrl": "https://open.spotify.com/track/189DQylImZ1hGZaIpAQUzx"
+    },
+    {
+      "rank": 4,
+      "title": "Jeena Jeena",
+      "artist": "Atif Aslam (from Badlapur)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5b973356aac31d9b3c09416",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5lKE040hUfDAKOR8HLG92p",
+      "spotifyUrl": "https://open.spotify.com/track/5lKE040hUfDAKOR8HLG92p"
+    },
+    {
+      "rank": 5,
+      "title": "Chittiyaan Kalaiyaan",
+      "artist": "Kanika Kapoor (from Roy)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026a75bb57bff90e992fa10701",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2GOWHc1lCFrTuta4c5iKB7",
+      "spotifyUrl": "https://open.spotify.com/track/2GOWHc1lCFrTuta4c5iKB7"
+    },
+    {
+      "rank": 6,
+      "title": "Sun Saathiya",
+      "artist": "Shraddha Kapoor (from ABCD 2)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024634da1d297644a35619f4fc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5a2Hoi1wuhCA6Ob7pbOlpW",
+      "spotifyUrl": "https://open.spotify.com/track/5a2Hoi1wuhCA6Ob7pbOlpW"
+    },
+    {
+      "rank": 7,
+      "title": "Gallan Goodiyaan",
+      "artist": "Sukhwinder Singh & Farhan Akhtar (from Dil Dhadakne Do)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0250f72d1ba1186929d216246b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Vmnug3lx5jfyjgEpmO9z8",
+      "spotifyUrl": "https://open.spotify.com/track/3Vmnug3lx5jfyjgEpmO9z8"
+    },
+    {
+      "rank": 8,
+      "title": "Agar Tum Saath Ho",
+      "artist": "Arijit Singh & Alka Yagnik (from Tamasha)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0225f7621c3c70dd1f868b61bc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6kYoY0PhBelP64UMnhsEZx",
+      "spotifyUrl": "https://open.spotify.com/track/6kYoY0PhBelP64UMnhsEZx"
+    },
+    {
+      "rank": 9,
+      "title": "Main Hoon Hero Tera",
+      "artist": "Salman Khan (from Hero)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c89f554d65d0f5f8a48430d7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7c2rHAT9l5gWbda29IBU0W",
+      "spotifyUrl": "https://open.spotify.com/track/7c2rHAT9l5gWbda29IBU0W"
+    },
+    {
+      "rank": 10,
+      "title": "Gulaabo",
+      "artist": "Vishal Dadlani & Anusha Mani (from Shaandaar)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029179797a980b333e131d2e5e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7qaCgO4ftPETiaVCXYxujX",
+      "spotifyUrl": "https://open.spotify.com/track/7qaCgO4ftPETiaVCXYxujX"
+    }
   ]
 }

@@ -3,15 +3,95 @@
   "year": 2020,
   "context": "China's 2020 streaming landscape was defined by QQ Music, NetEase Cloud Music, and viral short-video platform Douyin. COVID-19 lockdowns fueled massive online music consumption. Jay Chou's 'Mojito' became the summer anthem, while newer voices like Fu Ruqiao and Xue Zhiqian dominated platform charts with emotionally resonant pop. Nostalgic ballads from idol shows also trended heavily.",
   "tracks": [
-    {"rank": 1, "title": "Fei Niao He Chan", "artist": "Ren Ran"},
-    {"rank": 2, "title": "Mojito", "artist": "Jay Chou"},
-    {"rank": 3, "title": "Tian Wai Lai Wu", "artist": "Xue Zhiqian"},
-    {"rank": 4, "title": "Qing Ren", "artist": "Cai Xukun"},
-    {"rank": 5, "title": "Wei Wei", "artist": "Fu Ruqiao"},
-    {"rank": 6, "title": "Ma Que", "artist": "Li Ronghao"},
-    {"rank": 7, "title": "Qi Feng Le", "artist": "Zhou Shen"},
-    {"rank": 8, "title": "Shao Nian", "artist": "Mengran"},
-    {"rank": 9, "title": "Hou Lai Yu Jian Ta", "artist": "Hu 66"},
-    {"rank": 10, "title": "Fen Wu Hai", "artist": "Yi Yang Qianxi"}
+    {
+      "rank": 1,
+      "title": "Fei Niao He Chan",
+      "artist": "Ren Ran",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026acb4401ee683e6869c2085e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4cDVX9pSt4UQEVbbXKodW6",
+      "spotifyUrl": "https://open.spotify.com/track/4cDVX9pSt4UQEVbbXKodW6"
+    },
+    {
+      "rank": 2,
+      "title": "Mojito",
+      "artist": "Jay Chou",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02283111b93a25fffd9d6f050d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2RvetPNMoaOJbBo7FtCV0J",
+      "spotifyUrl": "https://open.spotify.com/track/2RvetPNMoaOJbBo7FtCV0J"
+    },
+    {
+      "rank": 3,
+      "title": "Tian Wai Lai Wu",
+      "artist": "Xue Zhiqian",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c2f883fd162208cb0d76bb9f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7i6ppG0I21laLhKo1BJouo",
+      "spotifyUrl": "https://open.spotify.com/track/7i6ppG0I21laLhKo1BJouo"
+    },
+    {
+      "rank": 4,
+      "title": "Qing Ren",
+      "artist": "Cai Xukun",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ffa437f9ed89ea13f42ff013",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7wkeM0wFvEdFO2iBfyAfdZ",
+      "spotifyUrl": "https://open.spotify.com/track/7wkeM0wFvEdFO2iBfyAfdZ"
+    },
+    {
+      "rank": 5,
+      "title": "Wei Wei",
+      "artist": "Fu Ruqiao",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027fd99cca96d200f0fc7046fd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2h8bwBAmJzu2SkSPBpTajL",
+      "spotifyUrl": "https://open.spotify.com/track/2h8bwBAmJzu2SkSPBpTajL"
+    },
+    {
+      "rank": 6,
+      "title": "Ma Que",
+      "artist": "Li Ronghao",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a36330e3f5277b9f44286092",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:36W1V6ft4fX7HQVSdIYL0J",
+      "spotifyUrl": "https://open.spotify.com/track/36W1V6ft4fX7HQVSdIYL0J"
+    },
+    {
+      "rank": 7,
+      "title": "Qi Feng Le",
+      "artist": "Zhou Shen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b981d008cb0857ca7105dd12",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0XuDVZKdTpsOaBrWV1T7e4",
+      "spotifyUrl": "https://open.spotify.com/track/0XuDVZKdTpsOaBrWV1T7e4"
+    },
+    {
+      "rank": 8,
+      "title": "Shao Nian",
+      "artist": "Mengran",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02435d666a21161d840bb934ef",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7HKC83KITbe3FDb66yHIQQ",
+      "spotifyUrl": "https://open.spotify.com/track/7HKC83KITbe3FDb66yHIQQ"
+    },
+    {
+      "rank": 9,
+      "title": "Hou Lai Yu Jian Ta",
+      "artist": "Hu 66",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a3b3f86733e6be561a1f103",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5tmJwsRDPVa9QujKGuAtIf",
+      "spotifyUrl": "https://open.spotify.com/track/5tmJwsRDPVa9QujKGuAtIf"
+    },
+    {
+      "rank": 10,
+      "title": "Fen Wu Hai",
+      "artist": "Yi Yang Qianxi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02addd3cee7f5be9be53991954",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1G3KBDcbkfOp2MWKalQQyp",
+      "spotifyUrl": "https://open.spotify.com/track/1G3KBDcbkfOp2MWKalQQyp"
+    }
   ]
 }

@@ -6,31 +6,49 @@
     {
       "rank": 1,
       "title": "Khudi",
-      "artist": "Dzhigan feat. Artik & Asti & NILETTO"
+      "artist": "Dzhigan feat. Artik & Asti & NILETTO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d17b5dad2b7e2fb114d411d1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4xvAAdc3Al83plIDuaThdB",
+      "spotifyUrl": "https://open.spotify.com/track/4xvAAdc3Al83plIDuaThdB"
     },
     {
       "rank": 2,
       "title": "Kukhni",
       "artist": "Bond s Knopkoy",
       "youtubeId": "wQH0RE-AY60",
-      "albumArt": "https://img.youtube.com/vi/wQH0RE-AY60/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02336af0c286ea9130bf129fba",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:62v2vcCMmI65vkiQsgrE5p",
+      "spotifyUrl": "https://open.spotify.com/track/62v2vcCMmI65vkiQsgrE5p"
     },
     {
       "rank": 3,
       "title": "Poyezda",
-      "artist": "Zhenya Trofimov & Komnata Kultury"
+      "artist": "Zhenya Trofimov & Komnata Kultury",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f83b93d9037ad292fc30f1a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3DoKepDy2hXhtWizxMszJS",
+      "spotifyUrl": "https://open.spotify.com/track/3DoKepDy2hXhtWizxMszJS"
     },
     {
       "rank": 4,
       "title": "Ogni",
-      "artist": "Xolidayboy"
+      "artist": "Xolidayboy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026771a05f34d77e5fc2bde64c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6zFMeegAMYQo0mt8rXtrli",
+      "spotifyUrl": "https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli"
     },
     {
       "rank": 5,
       "title": "Odna",
       "artist": "Tatyana Kurtukova",
       "youtubeId": "YJpeJwHsvI8",
-      "albumArt": "https://img.youtube.com/vi/YJpeJwHsvI8/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028723845f9f4dcf2dc0b7e349",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4SeaNxK99KVpGfvNhi4F9S",
+      "spotifyUrl": "https://open.spotify.com/track/4SeaNxK99KVpGfvNhi4F9S"
     },
     {
       "rank": 6,
@@ -40,26 +58,40 @@
     {
       "rank": 7,
       "title": "Valkyriya",
-      "artist": "Bearwolf"
+      "artist": "Bearwolf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0295cee0cbfd697f89f4b624e1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1DWCfz6WAwoESRO1NYXlqr",
+      "spotifyUrl": "https://open.spotify.com/track/1DWCfz6WAwoESRO1NYXlqr"
     },
     {
       "rank": 8,
       "title": "I Got Love",
       "artist": "Miyagi & Andy Panda feat. Rem Digga",
       "youtubeId": "nidQCt_HEsY",
-      "albumArt": "https://img.youtube.com/vi/nidQCt_HEsY/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ead3418d92456c9f3778a947",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6pMqsqkTqjqRKeplc4DVVv",
+      "spotifyUrl": "https://open.spotify.com/track/6pMqsqkTqjqRKeplc4DVVv"
     },
     {
       "rank": 9,
       "title": "Silhouette",
-      "artist": "Vanya Dmitriyenko & Anna Peresild"
+      "artist": "Vanya Dmitriyenko & Anna Peresild",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e729e2f0cbc1424d0546a81c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Y9QxhTza3DxDDgCDZ4SKb",
+      "spotifyUrl": "https://open.spotify.com/track/6Y9QxhTza3DxDDgCDZ4SKb"
     },
     {
       "rank": 10,
       "title": "Schastye Byt",
       "artist": "Artik & Asti",
       "youtubeId": "Mc5z3mq-MKc",
-      "albumArt": "https://img.youtube.com/vi/Mc5z3mq-MKc/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cf2506131dc7425bf9922639",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0LYYnnXoORfx9ldA3vBPzg",
+      "spotifyUrl": "https://open.spotify.com/track/0LYYnnXoORfx9ldA3vBPzg"
     }
   ]
 }

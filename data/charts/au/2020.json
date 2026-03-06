@@ -3,15 +3,95 @@
   "year": 2020,
   "context": "The COVID-19 pandemic defined Australia's 2020 music landscape — stay-at-home orders drove record streaming numbers, and The Weeknd's 'Blinding Lights' spent 11 weeks at number one, becoming the year's dominant single. Tones And I, whose 'Dance Monkey' had broken records in 2019, remained a top-five fixture on the year-end chart. International pop, R&B, and indie pop swept the top 10 as live music was entirely shut down.",
   "tracks": [
-    {"rank": 1, "title": "Blinding Lights", "artist": "The Weeknd"},
-    {"rank": 2, "title": "Roses", "artist": "SAINt JHN"},
-    {"rank": 3, "title": "Don't Start Now", "artist": "Dua Lipa"},
-    {"rank": 4, "title": "Dance Monkey", "artist": "Tones and I"},
-    {"rank": 5, "title": "Rockstar", "artist": "DaBaby feat. Roddy Ricch"},
-    {"rank": 6, "title": "Watermelon Sugar", "artist": "Harry Styles"},
-    {"rank": 7, "title": "Circles", "artist": "Post Malone"},
-    {"rank": 8, "title": "Before You Go", "artist": "Lewis Capaldi"},
-    {"rank": 9, "title": "Intentions", "artist": "Justin Bieber feat. Quavo"},
-    {"rank": 10, "title": "Say So", "artist": "Doja Cat"}
+    {
+      "rank": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
+    {
+      "rank": 2,
+      "title": "Roses",
+      "artist": "SAINt JHN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028e51ad44471425be0ddcc6a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:72GVdRHK49beKrC1NqRCqj",
+      "spotifyUrl": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "rank": 3,
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c88bae7846e62a8ba59ee0bd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3PfIrDoz19wz7qK7tYeu62",
+      "spotifyUrl": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
+    },
+    {
+      "rank": 4,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02931a1c33d7850f20ee23a5e1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2N8m6CYs74qQO4mjVcXO30",
+      "spotifyUrl": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "rank": 5,
+      "title": "Rockstar",
+      "artist": "DaBaby feat. Roddy Ricch",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ytR5pFWmSjzHJIeQkgog4",
+      "spotifyUrl": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "rank": 6,
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0225180571abce9472f61bd722",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY",
+      "spotifyUrl": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "rank": 7,
+      "title": "Circles",
+      "artist": "Post Malone",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029478c87599550dd73bfa7e02",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:21jGcNKet2qwijlDFuPiPb",
+      "spotifyUrl": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
+    },
+    {
+      "rank": 8,
+      "title": "Before You Go",
+      "artist": "Lewis Capaldi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b9639babbe96e25071ec1d4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2gMXnyrvIjhVBUZwvLZDMP",
+      "spotifyUrl": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
+    },
+    {
+      "rank": 9,
+      "title": "Intentions",
+      "artist": "Justin Bieber feat. Quavo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027fe4a82a08c4f0decbeddbc6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4umIPjkehX1r7uhmGvXiSV",
+      "spotifyUrl": "https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV"
+    },
+    {
+      "rank": 10,
+      "title": "Say So",
+      "artist": "Doja Cat",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d0bbfea6226b5c3707de92ed",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Dv1eDb0MEgF93GpLXlucZ",
+      "spotifyUrl": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    }
   ]
 }

@@ -3,15 +3,83 @@
   "year": 2015,
   "context": "2015 in the Netherlands was dominated by tropical house and feel-good remixes, with Felix Jaehn's remix of Omi's 'Cheerleader' topping the year-end chart. Dutch act Kenny B crossed over nationally with his Portuguese-influenced ballad 'Parijs', while Lost Frequencies and Kygo represented the melodic EDM wave sweeping Europe. Mark Ronson and Bruno Mars' funk revival 'Uptown Funk!' was a year-round staple.",
   "tracks": [
-    {"rank": 1, "title": "Cheerleader (Felix Jaehn Remix)", "artist": "Omi"},
-    {"rank": 2, "title": "Lean On", "artist": "Major Lazer & DJ Snake feat. MØ"},
-    {"rank": 3, "title": "Parijs", "artist": "Kenny B"},
-    {"rank": 4, "title": "Ain't Nobody (Loves Me Better)", "artist": "Felix Jaehn feat. Jasmine Thompson"},
-    {"rank": 5, "title": "Are You with Me", "artist": "Lost Frequencies"},
-    {"rank": 6, "title": "Thinking Out Loud", "artist": "Ed Sheeran"},
-    {"rank": 7, "title": "Firestone", "artist": "Kygo feat. Conrad Sewell"},
-    {"rank": 8, "title": "Uptown Funk!", "artist": "Mark Ronson feat. Bruno Mars"},
-    {"rank": 9, "title": "Stole the Show", "artist": "Kygo feat. Parson James"},
-    {"rank": 10, "title": "What Do You Mean?", "artist": "Justin Bieber"}
+    {
+      "rank": 1,
+      "title": "Cheerleader (Felix Jaehn Remix)",
+      "artist": "Omi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021c61cec78c70409b783d1480",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:023OVLNzXhX0j7CxswUt6D",
+      "spotifyUrl": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
+    },
+    {
+      "rank": 2,
+      "title": "Lean On",
+      "artist": "Major Lazer & DJ Snake feat. MØ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ebfa624d999cf26524bfb90",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0gL7suKdyvMzjm752AQzMd",
+      "spotifyUrl": "https://open.spotify.com/track/0gL7suKdyvMzjm752AQzMd"
+    },
+    {
+      "rank": 3,
+      "title": "Parijs",
+      "artist": "Kenny B",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a8954f5defdc54035a23cfef",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3EK7adZKVgEB8NGT5zn4Ti",
+      "spotifyUrl": "https://open.spotify.com/track/3EK7adZKVgEB8NGT5zn4Ti"
+    },
+    {
+      "rank": 4,
+      "title": "Ain't Nobody (Loves Me Better)",
+      "artist": "Felix Jaehn feat. Jasmine Thompson",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029713f1939e377cf85a2a5b16",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3c8iiZGfEammKJuWTErE5x",
+      "spotifyUrl": "https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x"
+    },
+    {
+      "rank": 5,
+      "title": "Are You with Me",
+      "artist": "Lost Frequencies",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c01ab1c4b2dceb2cfc89e6fa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4255amV4enzl28KAn16rUO",
+      "spotifyUrl": "https://open.spotify.com/track/4255amV4enzl28KAn16rUO"
+    },
+    {
+      "rank": 6,
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d08209944468440145f01524",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
+      "spotifyUrl": "https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg"
+    },
+    {
+      "rank": 7,
+      "title": "Firestone",
+      "artist": "Kygo feat. Conrad Sewell",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d5008dd99ff388b652005ca1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7aDqInKM1R6WsR4valOGVd",
+      "spotifyUrl": "https://open.spotify.com/track/7aDqInKM1R6WsR4valOGVd"
+    },
+    {
+      "rank": 8,
+      "title": "Uptown Funk!",
+      "artist": "Mark Ronson feat. Bruno Mars"
+    },
+    {
+      "rank": 9,
+      "title": "Stole the Show",
+      "artist": "Kygo feat. Parson James"
+    },
+    {
+      "rank": 10,
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber"
+    }
   ]
 }

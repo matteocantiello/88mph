@@ -3,15 +3,95 @@
   "year": 2020,
   "context": "The COVID-19 pandemic reshaped music consumption in Mexico, accelerating the dominance of streaming platforms. Bad Bunny became the world's most-streamed artist of 2020 with his albums YHLQMDLG and El Último Tour del Mundo commanding massive Mexican audiences. Karol G's 'Tusa' swept Latin America, Maluma's 'Hawái' ruled mid-year, and Bad Bunny & Jhay Cortez's 'Dakiti' closed the year as the biggest Latin streaming hit.",
   "tracks": [
-    {"rank": 1, "title": "Tusa", "artist": "Karol G & Nicki Minaj"},
-    {"rank": 2, "title": "LA CANCIÓN", "artist": "J Balvin & Bad Bunny"},
-    {"rank": 3, "title": "Hawái", "artist": "Maluma"},
-    {"rank": 4, "title": "Dakiti", "artist": "Bad Bunny & Jhay Cortez"},
-    {"rank": 5, "title": "Si Veo a Tu Mamá", "artist": "Bad Bunny"},
-    {"rank": 6, "title": "UN DIA (ONE DAY)", "artist": "J Balvin, Dua Lipa, Bad Bunny & Tainy"},
-    {"rank": 7, "title": "Safaera", "artist": "Bad Bunny, Jowell & Randy & Ñengo Flow"},
-    {"rank": 8, "title": "Yo Perreo Sola", "artist": "Bad Bunny"},
-    {"rank": 9, "title": "Caramelo", "artist": "Ozuna"},
-    {"rank": 10, "title": "RITMO (Bad Boys For Life)", "artist": "Black Eyed Peas & J Balvin"}
+    {
+      "rank": 1,
+      "title": "Tusa",
+      "artist": "Karol G & Nicki Minaj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ddd3154c58e15a8bdb63bbcc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7k4t7uLgtOxPwTpFmtJNTY",
+      "spotifyUrl": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "rank": 2,
+      "title": "LA CANCIÓN",
+      "artist": "J Balvin & Bad Bunny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024891d9b25d8919448388f3bb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0fea68AdmYNygeTGI4RC18",
+      "spotifyUrl": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+    },
+    {
+      "rank": 3,
+      "title": "Hawái",
+      "artist": "Maluma",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02079fb6c5ba37dc11d66ce1e2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1yoMvmasuxZfqHEipJhRbp",
+      "spotifyUrl": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
+    },
+    {
+      "rank": 4,
+      "title": "Dakiti",
+      "artist": "Bad Bunny & Jhay Cortez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0234c8199b0b3b3fb42b8a98a8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:47EiUVwUp4C9fGccaPuUCS",
+      "spotifyUrl": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
+    },
+    {
+      "rank": 5,
+      "title": "Si Veo a Tu Mamá",
+      "artist": "Bad Bunny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:41wtwzCZkXwpnakmwJ239F",
+      "spotifyUrl": "https://open.spotify.com/track/41wtwzCZkXwpnakmwJ239F"
+    },
+    {
+      "rank": 6,
+      "title": "UN DIA (ONE DAY)",
+      "artist": "J Balvin, Dua Lipa, Bad Bunny & Tainy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02922a7339d969b5f0262580f5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:66x45Yh9x397PWpxMX0ZDT",
+      "spotifyUrl": "https://open.spotify.com/track/66x45Yh9x397PWpxMX0ZDT"
+    },
+    {
+      "rank": 7,
+      "title": "Safaera",
+      "artist": "Bad Bunny, Jowell & Randy & Ñengo Flow",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2DEZmgHKAvm41k4J3R2E9Y",
+      "spotifyUrl": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
+    },
+    {
+      "rank": 8,
+      "title": "Yo Perreo Sola",
+      "artist": "Bad Bunny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0SqqAgdovOE24BzxIClpjw",
+      "spotifyUrl": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+    },
+    {
+      "rank": 9,
+      "title": "Caramelo",
+      "artist": "Ozuna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b1717c201d31ad8e43dedc55",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:67jvGGbJmOmVonlyX3mNkV",
+      "spotifyUrl": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV"
+    },
+    {
+      "rank": 10,
+      "title": "RITMO (Bad Boys For Life)",
+      "artist": "Black Eyed Peas & J Balvin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a7bb3f6985052cd97c15279",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5NyS3oxTlos3Agl2YtZwrC",
+      "spotifyUrl": "https://open.spotify.com/track/5NyS3oxTlos3Agl2YtZwrC"
+    }
   ]
 }

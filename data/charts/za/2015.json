@@ -3,15 +3,95 @@
   "year": 2015,
   "context": "2015 was South African music's crossover moment: Black Coffee's 'We Dance Again' with Nakhane Touré became a dance-challenge phenomenon that earned him his first Coachella booking. AKA cemented mainstream rap dominance with 'Composure', Riky Rick's 'Boss Zonke' established cotton-candy trap as uniquely Johannesburg's own, and the emerging gqom sound from Durban began seeping into national consciousness.",
   "tracks": [
-    {"rank": 1, "title": "We Dance Again", "artist": "Black Coffee feat. Nakhane Touré"},
-    {"rank": 2, "title": "Composure", "artist": "AKA"},
-    {"rank": 3, "title": "Boss Zonke", "artist": "Riky Rick"},
-    {"rank": 4, "title": "Sweetie", "artist": "Heavy-K feat. Nokwazi"},
-    {"rank": 5, "title": "Jungle Fever", "artist": "Gigi Lamayne"},
-    {"rank": 6, "title": "Baddest", "artist": "AKA feat. Burna Boy, Khuli Chana & Yanga"},
-    {"rank": 7, "title": "PASOP", "artist": "DJ Vigilante feat. K.O, Maggz, Moozlie, MA-E & Kid X"},
-    {"rank": 8, "title": "Down", "artist": "Petite Noir"},
-    {"rank": 9, "title": "Imali", "artist": "Zahara"},
-    {"rank": 10, "title": "Shumaya", "artist": "Dbn Nyts feat. Zinhle Ngidi & TradeMark"}
+    {
+      "rank": 1,
+      "title": "We Dance Again",
+      "artist": "Black Coffee feat. Nakhane Touré",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c3a95215352965a448e18297",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2fQ53zRETz3be12oqe3qdj",
+      "spotifyUrl": "https://open.spotify.com/track/2fQ53zRETz3be12oqe3qdj"
+    },
+    {
+      "rank": 2,
+      "title": "Composure",
+      "artist": "AKA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c4e97839c0327c8114bbd76d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2f6o6ASrsDqFIeTznJyfIS",
+      "spotifyUrl": "https://open.spotify.com/track/2f6o6ASrsDqFIeTznJyfIS"
+    },
+    {
+      "rank": 3,
+      "title": "Boss Zonke",
+      "artist": "Riky Rick",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ed1564c4ebbc1588ccab89c4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:40k035nx9YwLSpfDhEyKwM",
+      "spotifyUrl": "https://open.spotify.com/track/40k035nx9YwLSpfDhEyKwM"
+    },
+    {
+      "rank": 4,
+      "title": "Sweetie",
+      "artist": "Heavy-K feat. Nokwazi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026751b8c5f501e56d03246118",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3BUXhJAPOM3DSzFenwcHc4",
+      "spotifyUrl": "https://open.spotify.com/track/3BUXhJAPOM3DSzFenwcHc4"
+    },
+    {
+      "rank": 5,
+      "title": "Jungle Fever",
+      "artist": "Gigi Lamayne",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a80fca9c9bb72c5192159da6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2rY7MlY0kPE2lBXAE5Fqhz",
+      "spotifyUrl": "https://open.spotify.com/track/2rY7MlY0kPE2lBXAE5Fqhz"
+    },
+    {
+      "rank": 6,
+      "title": "Baddest",
+      "artist": "AKA feat. Burna Boy, Khuli Chana & Yanga",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021e0baf7940e0caefce336b99",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:03ffaxt78GbqpZ0vfKrcyr",
+      "spotifyUrl": "https://open.spotify.com/track/03ffaxt78GbqpZ0vfKrcyr"
+    },
+    {
+      "rank": 7,
+      "title": "PASOP",
+      "artist": "DJ Vigilante feat. K.O, Maggz, Moozlie, MA-E & Kid X",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7142bf2948659119dd5c93d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4y7L8b3TZtU57fc8kERlKO",
+      "spotifyUrl": "https://open.spotify.com/track/4y7L8b3TZtU57fc8kERlKO"
+    },
+    {
+      "rank": 8,
+      "title": "Down",
+      "artist": "Petite Noir",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021b508ec417d198aa81c59180",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1rHol52dw6r5LIOOB7extq",
+      "spotifyUrl": "https://open.spotify.com/track/1rHol52dw6r5LIOOB7extq"
+    },
+    {
+      "rank": 9,
+      "title": "Imali",
+      "artist": "Zahara",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244e8d018bb4287f9df4c4d8a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1l46anSUCC1j5jx8z958lB",
+      "spotifyUrl": "https://open.spotify.com/track/1l46anSUCC1j5jx8z958lB"
+    },
+    {
+      "rank": 10,
+      "title": "Shumaya",
+      "artist": "Dbn Nyts feat. Zinhle Ngidi & TradeMark",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027f0cc91689584c9c91190528",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3II6UDDYIzOZepSLBxRBR7",
+      "spotifyUrl": "https://open.spotify.com/track/3II6UDDYIzOZepSLBxRBR7"
+    }
   ]
 }

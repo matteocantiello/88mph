@@ -55,17 +55,23 @@
     {
       "rank": 8,
       "title": "Far Away",
-      "artist": "Lagbaja"
+      "artist": "Lagbaja",
+      "youtubeId": "FZsRhEg7B3o",
+      "albumArt": "https://img.youtube.com/vi/FZsRhEg7B3o/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Delicious Remix",
-      "artist": "2Shotz & Big Lo"
+      "artist": "2Shotz & Big Lo",
+      "youtubeId": "HiYgqOrIcVs",
+      "albumArt": "https://img.youtube.com/vi/HiYgqOrIcVs/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Hard Life",
-      "artist": "Blackface feat. Alabai"
+      "artist": "Blackface feat. Alabai",
+      "youtubeId": "OtXzsj58dDk",
+      "albumArt": "https://img.youtube.com/vi/OtXzsj58dDk/hqdefault.jpg"
     }
   ]
 }

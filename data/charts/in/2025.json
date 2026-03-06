@@ -8,56 +8,93 @@
       "title": "Raanjhan",
       "artist": "Sachet-Parampara (from Do Patti)",
       "youtubeId": "lBvbNxiVmZA",
-      "albumArt": "https://img.youtube.com/vi/lBvbNxiVmZA/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02773c5f60bcb309ef8802e4ef",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4vHRQnzGcKEtqsLH70tAms",
+      "spotifyUrl": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
     },
     {
       "rank": 2,
       "title": "Finding Her",
-      "artist": "Kushagra feat. Bharath & Saaheal"
+      "artist": "Kushagra feat. Bharath & Saaheal",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02292341cd3e621d7f9171331f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5ThyDv6aRVU8AH4vXQNldF",
+      "spotifyUrl": "https://open.spotify.com/track/5ThyDv6aRVU8AH4vXQNldF"
     },
     {
       "rank": 3,
       "title": "Saiyaara",
-      "artist": "Tanishk Bagchi & Faheem Abdullah"
+      "artist": "Tanishk Bagchi & Faheem Abdullah",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022fc1f0e56f80b5e7cc388b3c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5SSZtFWdrmFV4MxtlRA13N",
+      "spotifyUrl": "https://open.spotify.com/track/5SSZtFWdrmFV4MxtlRA13N"
     },
     {
       "rank": 4,
       "title": "Sahiba",
       "artist": "Aditya Rikhari",
       "youtubeId": "n2dVFdqMYGA",
-      "albumArt": "https://img.youtube.com/vi/n2dVFdqMYGA/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020a47bbe7141fdfe0eb2cdba7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0eLtIxPRNJfsmehITZ1qaJ",
+      "spotifyUrl": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ"
     },
     {
       "rank": 5,
       "title": "Ishq",
-      "artist": "Faheem Abdullah & Rauhan Malik"
+      "artist": "Faheem Abdullah & Rauhan Malik",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020de04fd2c7c3bdc0a1d765f5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1hlbywc8Jhl1FFqJxAMabE",
+      "spotifyUrl": "https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE"
     },
     {
       "rank": 6,
       "title": "Jo Tum Mere Ho",
-      "artist": "Anuv Jain"
+      "artist": "Anuv Jain",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0272a77d038887cdc425f5ee55",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0eCajpR75pDW0r64U6hP2x",
+      "spotifyUrl": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
     },
     {
       "rank": 7,
       "title": "Ishq Hai",
-      "artist": "Anurag Saikia & Romy (from Mismatched 3)"
+      "artist": "Anurag Saikia & Romy (from Mismatched 3)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0279f4a87c23143f0abb14c279",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3vCzLB6kS2lGcIpm1OOUsy",
+      "spotifyUrl": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy"
     },
     {
       "rank": 8,
       "title": "Apna Bana Le",
       "artist": "Arijit Singh (from Bhediya)",
       "youtubeId": "ElZfdU54Cp8",
-      "albumArt": "https://img.youtube.com/vi/ElZfdU54Cp8/hqdefault.jpg"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028c2f9f18d110b1a104b092a1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4kLVbdUSLh3m2UcYRTt9CD",
+      "spotifyUrl": "https://open.spotify.com/track/4kLVbdUSLh3m2UcYRTt9CD"
     },
     {
       "rank": 9,
       "title": "Sahiba",
-      "artist": "Jasleen Royal & Stebin Ben"
+      "artist": "Jasleen Royal & Stebin Ben",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02eb2d8a0e6f6f4626af5f66f7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4ulroyDK6rN73nVkCkWhur",
+      "spotifyUrl": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
     },
     {
       "rank": 10,
       "title": "Tere Bina",
-      "artist": "A.R. Rahman & Chinmayi (from Guru)"
+      "artist": "A.R. Rahman & Chinmayi (from Guru)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0247d11254b10d20520db50afc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6ZXubLkSTVWmiJJuSl6Nbr",
+      "spotifyUrl": "https://open.spotify.com/track/6ZXubLkSTVWmiJJuSl6Nbr"
     }
   ]
 }
