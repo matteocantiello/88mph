@@ -1,0 +1,73 @@
+# 88mph — Year-End Music Charts Around the World
+
+> What was the world listening to?
+
+88mph is a curated collection of year-end top 10 music charts from 20 countries,
+spanning from 1952 to 2025. Each chart includes the top 10 songs with title, artist,
+and optional Spotify/YouTube links.
+
+Site: https://88mph.fm
+Repository: https://github.com/matteocantiello/88mph
+
+## Coverage
+
+Countries (ISO 3166-1 alpha-2):
+au, br, ca, cn, de, es, fr, in, it, jp, kr, mx, ng, nl, no, ru, se, uk, us, za
+
+Total charts: 230
+Years range: 1952–2025
+
+## Data format
+
+Chart data is stored as JSON in `data/charts/{country}/{year}.json`:
+
+```json
+{
+  "country": "us",
+  "year": 2000,
+  "context": "Cultural context blurb about the music scene that year.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "youtubeId": "dQw4w9WgXcQ",
+      "spotifyUrl": "https://open.spotify.com/track/..."
+    }
+  ]
+}
+```
+
+Available charts are listed in `data/metadata.json`.
+
+## How to suggest a chart
+
+Open a GitHub Issue using the structured template:
+https://github.com/matteocantiello/88mph/issues/new?template=suggest-chart.yml
+
+### Requirements
+
+- All chart data MUST come from verifiable, published sources (official chart
+  organizations, Wikipedia with citations, published year-end lists).
+- Do NOT submit AI-generated rankings, guesses, or personal playlists.
+- Include a source URL — submissions without sources will be closed.
+- For corrections, specify only the entries that need fixing.
+
+### What makes a good submission
+
+- Official year-end chart data from a national chart organization
+- Wikipedia articles with cited chart positions
+- Published media retrospectives with verifiable rankings
+- Corrections with a source showing the correct data
+
+### What will be rejected
+
+- Rankings generated from memory or AI without source verification
+- Personal "best of" lists or subjective rankings
+- Duplicate charts that already exist on the site
+- Submissions without any source URL
+
+## Sources
+
+Chart data sources are documented in SOURCES.md in the repository root.
+Each country's data is verified against official chart organizations where possible.

@@ -39,13 +39,13 @@ export const metadata: Metadata = {
     description: "What was the world listening to?",
     siteName: "88mph",
     type: "website",
-    images: [{ url: "https://88mph.vercel.app/og.webp", width: 1280, height: 736 }],
+    images: [{ url: "https://88mph.fm/og.webp", width: 1280, height: 736 }],
   },
   twitter: {
     card: "summary_large_image",
     title: "88mph",
     description: "What was the world listening to?",
-    images: ["https://88mph.vercel.app/og.webp"],
+    images: ["https://88mph.fm/og.webp"],
   },
 };
 

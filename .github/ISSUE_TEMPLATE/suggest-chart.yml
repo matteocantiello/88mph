@@ -1,0 +1,89 @@
+name: Suggest a Chart
+description: Suggest a new chart, new country, or report a correction
+title: "[Chart]: "
+labels: ["chart-suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to 88mph! Please provide verifiable chart data with sources.
+
+        **Important:** All chart data must come from official chart organizations, published year-end lists, or reliable secondary sources (e.g. Wikipedia with citations). Do not submit guesses, AI-generated rankings, or personal playlists. Submissions without a verifiable source will be closed.
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      description: What kind of suggestion is this?
+      options:
+        - New chart (add a year to an existing country)
+        - New country (add a country not yet covered)
+        - Correction (fix errors in an existing chart)
+    validations:
+      required: true
+
+  - type: input
+    id: country
+    attributes:
+      label: Country
+      description: Country name and ISO 3166-1 alpha-2 code
+      placeholder: "e.g. Italy (it)"
+    validations:
+      required: true
+
+  - type: input
+    id: year
+    attributes:
+      label: Year
+      description: Year-end chart year (1950–2025)
+      placeholder: "e.g. 1990"
+    validations:
+      required: true
+
+  - type: textarea
+    id: songs
+    attributes:
+      label: Top 10 Songs
+      description: |
+        List the top 10 songs with rank, title (in quotes), and artist. One per line.
+        For corrections, only list the entries that need fixing.
+      placeholder: |
+        1. "Song Title" - Artist Name
+        2. "Song Title" - Artist Name
+        3. "Song Title" - Artist Name
+        4. "Song Title" - Artist Name
+        5. "Song Title" - Artist Name
+        6. "Song Title" - Artist Name
+        7. "Song Title" - Artist Name
+        8. "Song Title" - Artist Name
+        9. "Song Title" - Artist Name
+        10. "Song Title" - Artist Name
+
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: |
+        Link to the official chart source, Wikipedia article, or published year-end list.
+        This field is required — we verify all data against sources before adding.
+      placeholder: "e.g. https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1990"
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Optional cultural context, notes on data quality, or alternative sources
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: verification
+    attributes:
+      label: Data quality
+      options:
+        - label: This data comes from a verifiable, published source (not generated or guessed)
+          required: true
+        - label: I have checked that this chart does not already exist on the site
+          required: true

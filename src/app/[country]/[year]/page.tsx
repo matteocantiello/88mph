@@ -17,7 +17,7 @@ interface PageProps {
   params: { country: string; year: string };
 }
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://88mph.vercel.app";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://88mph.fm";
 
 export async function generateStaticParams() {
   const metadata = await getMetadata();
@@ -219,6 +219,16 @@ export default async function ChartPage({ params }: PageProps) {
               initialYear={year}
               compact
             />
+            <div className="mt-6 text-right">
+              <a
+                href={`https://github.com/matteocantiello/88mph/issues/new?template=suggest-chart.yml&title=${encodeURIComponent(`[Chart]: ${getCountryName(country)} ${year}`)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="font-body text-[11px] text-foreground/20 hover:text-accent transition-colors"
+              >
+                Suggest a correction
+              </a>
+            </div>
           </div>
         </section>
       </main>

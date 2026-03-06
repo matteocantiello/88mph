@@ -107,9 +107,20 @@ export default async function HomePage() {
               </a>
             </p>
           </div>
-          <p className="font-body text-[11px] text-foreground/10">
-            {Object.keys(COUNTRIES).length} countries &middot; {totalCharts} charts
-          </p>
+          <div className="flex items-center gap-3">
+            <p className="font-body text-[11px] text-foreground/10">
+              {Object.keys(COUNTRIES).length} countries &middot; {totalCharts} charts
+            </p>
+            <span className="w-px h-3 bg-foreground/10" />
+            <a
+              href="https://github.com/matteocantiello/88mph/issues/new?template=suggest-chart.yml"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-body text-[11px] text-foreground/25 hover:text-accent transition-colors"
+            >
+              Suggest a chart
+            </a>
+          </div>
         </div>
       </footer>
     </main>
