@@ -52,6 +52,14 @@ Copy `.env.local.example` to `.env.local` and fill in as needed:
 - Film grain overlay, editorial typography (Instrument Serif + Outfit), staggered animations
 - Random "teleport" button that drops you into a surprise era
 
+<p align="center">
+  <a href="https://88mph.fm/it/1955">
+    <img src="public/readme-chart.png" alt="Italy 1955 — Year-End Top 10" width="600" />
+  </a>
+  <br>
+  <em>Italy, 1955 — AI-generated postcard, cultural context, album art, and the year-end top 10.</em>
+</p>
+
 ## Available Charts
 
 | Country | Code | # | Years |
