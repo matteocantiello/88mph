@@ -3,15 +3,65 @@
   "year": 2012,
   "context": "Indie-pop broke through to the mainstream as Gotye and Fun. topped the charts with emotionally raw anthems. Carly Rae Jepsen's 'Call Me Maybe' became the year's inescapable earworm, while PSY's 'Gangnam Style' proved a viral YouTube moment could conquer the Billboard charts from halfway around the world.",
   "tracks": [
-    { "rank": 1, "title": "Somebody That I Used to Know", "artist": "Gotye ft. Kimbra" },
-    { "rank": 2, "title": "Call Me Maybe", "artist": "Carly Rae Jepsen" },
-    { "rank": 3, "title": "We Are Young", "artist": "Fun. ft. Janelle Monáe" },
-    { "rank": 4, "title": "Payphone", "artist": "Maroon 5 ft. Wiz Khalifa" },
-    { "rank": 5, "title": "Wild Ones", "artist": "Flo Rida ft. Sia" },
-    { "rank": 6, "title": "We Found Love", "artist": "Rihanna ft. Calvin Harris" },
-    { "rank": 7, "title": "Gangnam Style", "artist": "PSY" },
-    { "rank": 8, "title": "Starships", "artist": "Nicki Minaj" },
-    { "rank": 9, "title": "One More Night", "artist": "Maroon 5" },
-    { "rank": 10, "title": "We Are Never Ever Getting Back Together", "artist": "Taylor Swift" }
+    {
+      "rank": 1,
+      "title": "Somebody That I Used to Know",
+      "artist": "Gotye ft. Kimbra",
+      "youtubeId": "jg51kFe7CWU"
+    },
+    {
+      "rank": 2,
+      "title": "Call Me Maybe",
+      "artist": "Carly Rae Jepsen",
+      "youtubeId": "HKVfpP7ZN8Y"
+    },
+    {
+      "rank": 3,
+      "title": "We Are Young",
+      "artist": "Fun. ft. Janelle Monáe",
+      "youtubeId": "f_K_0SNaRk0"
+    },
+    {
+      "rank": 4,
+      "title": "Payphone",
+      "artist": "Maroon 5 ft. Wiz Khalifa",
+      "youtubeId": "3ssXSY7f3s4"
+    },
+    {
+      "rank": 5,
+      "title": "Wild Ones",
+      "artist": "Flo Rida ft. Sia",
+      "youtubeId": "c2S1x2kTYJM"
+    },
+    {
+      "rank": 6,
+      "title": "We Found Love",
+      "artist": "Rihanna ft. Calvin Harris",
+      "youtubeId": "UUpuyzPJeWA"
+    },
+    {
+      "rank": 7,
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "youtubeId": "4AgDYTuZWOw"
+    },
+    {
+      "rank": 8,
+      "title": "Starships",
+      "artist": "Nicki Minaj",
+      "youtubeId": "1leBfFXHWp0"
+    },
+    {
+      "rank": 9,
+      "title": "One More Night",
+      "artist": "Maroon 5",
+      "youtubeId": "bZQhz98nfhU"
+    },
+    {
+      "rank": 10,
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "youtubeId": "65Q7EdWnjqM"
+    }
   ]
 }
