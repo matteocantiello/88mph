@@ -75,6 +75,7 @@ export default function TimeCircuit({
   const handleGo = () => {
     setFlashing(true);
     setTimeout(() => setFlashing(false), 500);
+    fetch("/api/trips", { method: "POST" }).catch(() => {});
     onGo();
   };
 

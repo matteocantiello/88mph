@@ -3,6 +3,7 @@ import { COUNTRIES } from "@/lib/utils";
 import Image from "next/image";
 import Link from "next/link";
 import HeroSection from "@/components/HeroSection";
+import TripCounter from "@/components/TripCounter";
 
 export default async function HomePage() {
   const metadata = await getMetadata();
@@ -96,6 +97,8 @@ export default async function HomePage() {
             </p>
           </div>
           <div className="flex items-center gap-3">
+            <TripCounter />
+            <span className="w-px h-3 bg-foreground/10" />
             <p className="font-body text-[11px] text-foreground/10">
               {Object.keys(COUNTRIES).length} countries &middot; {totalCharts} charts
             </p>
