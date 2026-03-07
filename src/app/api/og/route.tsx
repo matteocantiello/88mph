@@ -142,14 +142,32 @@ export async function GET(req: NextRequest) {
           <span style={{ fontSize: 36 }}>{flag}</span>
           <span
             style={{
-              fontSize: 24,
-              letterSpacing: "0.15em",
-              textTransform: "uppercase" as const,
-              color: theme.foreground,
-              opacity: 0.6,
+              display: "flex",
+              flexDirection: "column",
+              gap: "4px",
             }}
           >
-            {countryName}
+            <span
+              style={{
+                fontSize: 24,
+                letterSpacing: "0.15em",
+                textTransform: "uppercase" as const,
+                color: theme.foreground,
+                opacity: 0.6,
+              }}
+            >
+              {countryName}
+            </span>
+            <span
+              style={{
+                fontSize: 20,
+                letterSpacing: "0.08em",
+                color: theme.foreground,
+                opacity: 0.35,
+              }}
+            >
+              Year-End Top 10
+            </span>
           </span>
         </div>
 
@@ -169,7 +187,7 @@ export async function GET(req: NextRequest) {
           style={{
             display: "flex",
             flexDirection: "column",
-            gap: "24px",
+            gap: "30px",
           }}
         >
           {chart.tracks.slice(0, 10).map((track) => (
@@ -178,15 +196,15 @@ export async function GET(req: NextRequest) {
               style={{
                 display: "flex",
                 alignItems: "baseline",
-                gap: "20px",
+                gap: "24px",
               }}
             >
               <span
                 style={{
-                  fontSize: 28,
+                  fontSize: 34,
                   color: theme.accent,
                   opacity: 0.5,
-                  width: "48px",
+                  width: "56px",
                   textAlign: "right",
                   flexShrink: 0,
                   fontFamily: "Instrument Serif",
@@ -204,19 +222,19 @@ export async function GET(req: NextRequest) {
               >
                 <span
                   style={{
-                    fontSize: 30,
+                    fontSize: 36,
                     fontWeight: 600,
                     color: theme.foreground,
                     lineHeight: 1.2,
                   }}
                 >
-                  {track.title.length > 35
-                    ? track.title.slice(0, 35) + "..."
+                  {track.title.length > 32
+                    ? track.title.slice(0, 32) + "..."
                     : track.title}
                 </span>
                 <span
                   style={{
-                    fontSize: 22,
+                    fontSize: 26,
                     color: theme.foreground,
                     opacity: 0.45,
                     lineHeight: 1.2,
