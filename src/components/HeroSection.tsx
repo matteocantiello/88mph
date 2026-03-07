@@ -116,10 +116,11 @@ function Drum3D({
         verticalAlign: "bottom",
         marginBottom: "-0.18em",
         perspective: slotH > 0 ? `${slotH * 4}px` : "200px",
-        borderRadius: "4px",
-        background: "rgba(255,255,255,0.03)",
+        borderRadius: "6px",
+        background: "linear-gradient(180deg, rgba(30,28,26,0.9) 0%, rgba(18,16,14,0.95) 40%, rgba(18,16,14,0.95) 60%, rgba(30,28,26,0.9) 100%)",
         boxShadow:
-          "inset 0 8px 12px -4px rgba(0,0,0,0.5), inset 0 -8px 12px -4px rgba(0,0,0,0.5)",
+          "inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(255,255,255,0.04), inset 0 10px 16px -6px rgba(0,0,0,0.7), inset 0 -10px 16px -6px rgba(0,0,0,0.7), 0 1px 3px rgba(0,0,0,0.4)",
+        border: "1px solid rgba(255,255,255,0.06)",
       }}
     >
       <span
@@ -314,7 +315,7 @@ export default function HeroSection({
             spinning={spinning}
             pool={ALL_DRUM_LABELS}
             className="text-amber-400/90"
-            drumWidth="4.2em"
+            drumWidth="3.1em"
           />{" "}
           listening to in{" "}
           <Drum3D
@@ -322,7 +323,7 @@ export default function HeroSection({
             spinning={spinning}
             pool={yearPool}
             className="text-emerald-400/80"
-            drumWidth="2.2em"
+            drumWidth="1.8em"
           />
           ?
         </h1>
