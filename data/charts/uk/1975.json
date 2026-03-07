@@ -8,70 +8,91 @@
       "title": "Bye Bye Baby",
       "artist": "Bay City Rollers",
       "youtubeId": "vo-DP65hKcs",
-      "albumArt": "https://img.youtube.com/vi/vo-DP65hKcs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/vo-DP65hKcs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7wC5vOh3fQibFYWjCIotKw",
+      "spotifyUrl": "https://open.spotify.com/track/7wC5vOh3fQibFYWjCIotKw"
     },
     {
       "rank": 2,
       "title": "Sailing",
       "artist": "Rod Stewart",
       "youtubeId": "RFgn9-8KL4s",
-      "albumArt": "https://img.youtube.com/vi/RFgn9-8KL4s/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/RFgn9-8KL4s/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6OuRbvP4PgbuzBIapVzmFJ",
+      "spotifyUrl": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
     },
     {
       "rank": 3,
       "title": "Whispering Grass",
       "artist": "Windsor Davies & Don Estelle",
       "youtubeId": "qoUYSCnFChk",
-      "albumArt": "https://img.youtube.com/vi/qoUYSCnFChk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/qoUYSCnFChk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:25TwSzCQuyeBJsOzkEj0kd",
+      "spotifyUrl": "https://open.spotify.com/track/25TwSzCQuyeBJsOzkEj0kd"
     },
     {
       "rank": 4,
       "title": "Bohemian Rhapsody",
       "artist": "Queen",
       "youtubeId": "utwMHfDZ6SA",
-      "albumArt": "https://img.youtube.com/vi/utwMHfDZ6SA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/utwMHfDZ6SA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7tFiyTwD0nx5a1eklYtX2J",
+      "spotifyUrl": "https://open.spotify.com/track/7tFiyTwD0nx5a1eklYtX2J"
     },
     {
       "rank": 5,
       "title": "Stand by Your Man",
       "artist": "Tammy Wynette",
       "youtubeId": "wXaAsbggsN0",
-      "albumArt": "https://img.youtube.com/vi/wXaAsbggsN0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/wXaAsbggsN0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2Cb2l4UoXynCHCeCYHRZN8",
+      "spotifyUrl": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
     },
     {
       "rank": 6,
       "title": "I Can't Give You Anything (But My Love)",
       "artist": "The Stylistics",
       "youtubeId": "mzoWi4QQ77M",
-      "albumArt": "https://img.youtube.com/vi/mzoWi4QQ77M/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/mzoWi4QQ77M/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1Cn4coAnZgPYmvVshH8VoL",
+      "spotifyUrl": "https://open.spotify.com/track/1Cn4coAnZgPYmvVshH8VoL"
     },
     {
       "rank": 7,
       "title": "Hold Me Close",
       "artist": "David Essex",
       "youtubeId": "Pv_wzqoa-RE",
-      "albumArt": "https://img.youtube.com/vi/Pv_wzqoa-RE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Pv_wzqoa-RE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0p57RyGtnyrije5NAY1WHV",
+      "spotifyUrl": "https://open.spotify.com/track/0p57RyGtnyrije5NAY1WHV"
     },
     {
       "rank": 8,
       "title": "I Only Have Eyes for You",
       "artist": "Art Garfunkel",
       "youtubeId": "8TWItZOD9ww",
-      "albumArt": "https://img.youtube.com/vi/8TWItZOD9ww/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/8TWItZOD9ww/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6R9IbOTdjLU1za9B2tN5Jo",
+      "spotifyUrl": "https://open.spotify.com/track/6R9IbOTdjLU1za9B2tN5Jo"
     },
     {
       "rank": 9,
       "title": "Barbados",
       "artist": "Typically Tropical",
       "youtubeId": "G5ZQpt_GZ4E",
-      "albumArt": "https://img.youtube.com/vi/G5ZQpt_GZ4E/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/G5ZQpt_GZ4E/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7ku3r1lpoeJ9rttcZZkCad",
+      "spotifyUrl": "https://open.spotify.com/track/7ku3r1lpoeJ9rttcZZkCad"
     },
     {
       "rank": 10,
       "title": "Tears on My Pillow",
       "artist": "Johnny Nash",
       "youtubeId": "hivgFTzh9ao",
-      "albumArt": "https://img.youtube.com/vi/hivgFTzh9ao/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/hivgFTzh9ao/hqdefault.jpg",
+      "spotifyUri": "spotify:track:43UvRcDEV8kWHUwR5Y1tou",
+      "spotifyUrl": "https://open.spotify.com/track/43UvRcDEV8kWHUwR5Y1tou"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7K6KwPiqm4zfUpw83enbID"
 }

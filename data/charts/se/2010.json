@@ -8,70 +8,91 @@
       "title": "Mikrofonkåt",
       "artist": "September",
       "youtubeId": "gJ3c7lLm2ig",
-      "albumArt": "https://img.youtube.com/vi/gJ3c7lLm2ig/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/gJ3c7lLm2ig/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4oEozZqTuhEXIYmpgaiKMC",
+      "spotifyUrl": "https://open.spotify.com/track/4oEozZqTuhEXIYmpgaiKMC"
     },
     {
       "rank": 2,
       "title": "Love the Way You Lie",
       "artist": "Eminem feat. Rihanna",
       "youtubeId": "RnkShwdXfyc",
-      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "spotifyUrl": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
     },
     {
       "rank": 3,
       "title": "Gubben i lådan",
       "artist": "Daniel Adams-Ray",
       "youtubeId": "oeh6jYid6Mw",
-      "albumArt": "https://img.youtube.com/vi/oeh6jYid6Mw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/oeh6jYid6Mw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:08bjJuoHJwfTnjNcuENOFz",
+      "spotifyUrl": "https://open.spotify.com/track/08bjJuoHJwfTnjNcuENOFz"
     },
     {
       "rank": 4,
       "title": "This Is My Life",
       "artist": "Anna Bergendahl",
       "youtubeId": "vm0X000BAzQ",
-      "albumArt": "https://img.youtube.com/vi/vm0X000BAzQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/vm0X000BAzQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0nkzd3yNniB767zSDDdLZ3",
+      "spotifyUrl": "https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3"
     },
     {
       "rank": 5,
       "title": "Satellite",
       "artist": "Lena",
       "youtubeId": "93ugDwiBVzA",
-      "albumArt": "https://img.youtube.com/vi/93ugDwiBVzA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/93ugDwiBVzA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4IVtwWBNj9NEBNR7tkXDqb",
+      "spotifyUrl": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
       "rank": 6,
       "title": "Higher",
       "artist": "Erik Grönwall",
       "youtubeId": "HJAMuAGu4E8",
-      "albumArt": "https://img.youtube.com/vi/HJAMuAGu4E8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/HJAMuAGu4E8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5hVDznakebbR2mdmcbqoCI",
+      "spotifyUrl": "https://open.spotify.com/track/5hVDznakebbR2mdmcbqoCI"
     },
     {
       "rank": 7,
       "title": "Stereo Love",
       "artist": "Edward Maya & Vika Jigulina",
       "youtubeId": "bfl76Sr-Rsk",
-      "albumArt": "https://img.youtube.com/vi/bfl76Sr-Rsk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/bfl76Sr-Rsk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1aklRy3btsbucImSXvR2SY",
+      "spotifyUrl": "https://open.spotify.com/track/1aklRy3btsbucImSXvR2SY"
     },
     {
       "rank": 8,
       "title": "Manboy",
       "artist": "Eric Saade",
       "youtubeId": "zg1_k2iKruc",
-      "albumArt": "https://img.youtube.com/vi/zg1_k2iKruc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/zg1_k2iKruc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4ut7uc5pTPixey8zomS5Ah",
+      "spotifyUrl": "https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah"
     },
     {
       "rank": 9,
       "title": "Dancing on My Own",
       "artist": "Robyn",
       "youtubeId": "CcNo07Xp8aQ",
-      "albumArt": "https://img.youtube.com/vi/CcNo07Xp8aQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/CcNo07Xp8aQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7g13jf3zqlP5S68Voo5v9m",
+      "spotifyUrl": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
     },
     {
       "rank": 10,
       "title": "Waka Waka (This Time for Africa)",
       "artist": "Shakira",
       "youtubeId": "Z_slTWayFK0",
-      "albumArt": "https://img.youtube.com/vi/Z_slTWayFK0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Z_slTWayFK0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6bNB5gxFX6Q87DbQWb8OWZ",
+      "spotifyUrl": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2yDOf9Cro8ifJ7IGQmnx65"
 }

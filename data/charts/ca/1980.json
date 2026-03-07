@@ -8,70 +8,91 @@
       "title": "Another Brick in the Wall (Part II)",
       "artist": "Pink Floyd",
       "youtubeId": "Ey8gm1W-e1Y",
-      "albumArt": "https://img.youtube.com/vi/Ey8gm1W-e1Y/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Ey8gm1W-e1Y/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4gMgiXfqyzZLMhsksGmbQV",
+      "spotifyUrl": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV"
     },
     {
       "rank": 2,
       "title": "Crazy Little Thing Called Love",
       "artist": "Queen",
       "youtubeId": "zO6D_BAuYCI",
-      "albumArt": "https://img.youtube.com/vi/zO6D_BAuYCI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/zO6D_BAuYCI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:35ItUJlMtjOQW3SSiTCrrw",
+      "spotifyUrl": "https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw"
     },
     {
       "rank": 3,
       "title": "Call Me",
       "artist": "Blondie",
       "youtubeId": "tykf2xYPNdc",
-      "albumArt": "https://img.youtube.com/vi/tykf2xYPNdc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/tykf2xYPNdc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7HKxTNVlkHsfMLhigmhC0I",
+      "spotifyUrl": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
     },
     {
       "rank": 4,
       "title": "Coward of the County",
       "artist": "Kenny Rogers",
       "youtubeId": "aVtOLfGT3_8",
-      "albumArt": "https://img.youtube.com/vi/aVtOLfGT3_8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/aVtOLfGT3_8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0JkIre0YxNmKGMU5V7ZiDx",
+      "spotifyUrl": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
     },
     {
       "rank": 5,
       "title": "Cars",
       "artist": "Gary Numan",
       "youtubeId": "LrjM8Fi7J58",
-      "albumArt": "https://img.youtube.com/vi/LrjM8Fi7J58/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/LrjM8Fi7J58/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4QQEzkxcONBthDLfzqIh9S",
+      "spotifyUrl": "https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S"
     },
     {
       "rank": 6,
       "title": "It's Still Rock and Roll to Me",
       "artist": "Billy Joel",
       "youtubeId": "lvlPoBduEe4",
-      "albumArt": "https://img.youtube.com/vi/lvlPoBduEe4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/lvlPoBduEe4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:64UioB4Nmwgn2f4cbIpAkl",
+      "spotifyUrl": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "rank": 7,
       "title": "Misunderstanding",
       "artist": "Genesis",
       "youtubeId": "tVQHWKfzYEM",
-      "albumArt": "https://img.youtube.com/vi/tVQHWKfzYEM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/tVQHWKfzYEM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7zjSZQkMoGKylSq6s1rK9Y",
+      "spotifyUrl": "https://open.spotify.com/track/7zjSZQkMoGKylSq6s1rK9Y"
     },
     {
       "rank": 8,
       "title": "Please Don't Go",
       "artist": "KC and the Sunshine Band",
       "youtubeId": "-_hBXvvTjvM",
-      "albumArt": "https://img.youtube.com/vi/-_hBXvvTjvM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/-_hBXvvTjvM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6dw6BquK0Mv72p6HpusqKN",
+      "spotifyUrl": "https://open.spotify.com/track/6dw6BquK0Mv72p6HpusqKN"
     },
     {
       "rank": 9,
       "title": "The Rose",
       "artist": "Bette Midler",
       "youtubeId": "vBpDk7hS_co",
-      "albumArt": "https://img.youtube.com/vi/vBpDk7hS_co/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/vBpDk7hS_co/hqdefault.jpg",
+      "spotifyUri": "spotify:track:562JrM9b7jiu8LgzV62x3o",
+      "spotifyUrl": "https://open.spotify.com/track/562JrM9b7jiu8LgzV62x3o"
     },
     {
       "rank": 10,
       "title": "Magic",
       "artist": "Olivia Newton-John",
       "youtubeId": "sDmjEN-6ekE",
-      "albumArt": "https://img.youtube.com/vi/sDmjEN-6ekE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/sDmjEN-6ekE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:56BSwBKWHYldQOgYLHiehs",
+      "spotifyUrl": "https://open.spotify.com/track/56BSwBKWHYldQOgYLHiehs"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/40hi5ht6MSmBehKbmx2OVN"
 }

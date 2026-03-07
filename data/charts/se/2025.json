@@ -8,70 +8,91 @@
       "title": "Bara bada bastu",
       "artist": "KAJ",
       "youtubeId": "QOehBj0nCMU",
-      "albumArt": "https://img.youtube.com/vi/QOehBj0nCMU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/QOehBj0nCMU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2gThkoApt6B7ajBWZRLAVv",
+      "spotifyUrl": "https://open.spotify.com/track/2gThkoApt6B7ajBWZRLAVv"
     },
     {
       "rank": 2,
       "title": "Ordinary",
       "artist": "Alex Warren",
       "youtubeId": "byxFUKxhT3s",
-      "albumArt": "https://img.youtube.com/vi/byxFUKxhT3s/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/byxFUKxhT3s/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
+      "spotifyUrl": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
       "rank": 3,
       "title": "Tusen spänn",
       "artist": "Tjuvjakt & Fanny Avonne",
       "youtubeId": "xwJ4BGeplQw",
-      "albumArt": "https://img.youtube.com/vi/xwJ4BGeplQw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/xwJ4BGeplQw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:01RdEXps15f3VmQMV6OuTM",
+      "spotifyUrl": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
       "rank": 4,
       "title": "Svagare än jag",
       "artist": "Ida-Lova",
       "youtubeId": "w41voyQ9CIk",
-      "albumArt": "https://img.youtube.com/vi/w41voyQ9CIk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/w41voyQ9CIk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5xsHQu1SXYS6DYOJwIWhSC",
+      "spotifyUrl": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
     },
     {
       "rank": 5,
       "title": "APT.",
       "artist": "ROSÉ & Bruno Mars",
       "youtubeId": "DiTd771WumE",
-      "albumArt": "https://img.youtube.com/vi/DiTd771WumE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/DiTd771WumE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+      "spotifyUrl": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "rank": 6,
       "title": "Die With A Smile",
       "artist": "Lady Gaga & Bruno Mars",
       "youtubeId": "DlFXDl_ROAM",
-      "albumArt": "https://img.youtube.com/vi/DlFXDl_ROAM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/DlFXDl_ROAM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "rank": 7,
       "title": "Yihaa",
       "artist": "Dolly Style",
       "youtubeId": "USx4d076ylQ",
-      "albumArt": "https://img.youtube.com/vi/USx4d076ylQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/USx4d076ylQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2CMLgiwaTlemYqc7llxO6i",
+      "spotifyUrl": "https://open.spotify.com/track/2CMLgiwaTlemYqc7llxO6i"
     },
     {
       "rank": 8,
       "title": "Lost and Found",
       "artist": "Molly Sandén & Victor Leksell",
       "youtubeId": "doshwENYeHk",
-      "albumArt": "https://img.youtube.com/vi/doshwENYeHk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/doshwENYeHk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7AIr6shgnOlUrx3StZUkce",
+      "spotifyUrl": "https://open.spotify.com/track/7AIr6shgnOlUrx3StZUkce"
     },
     {
       "rank": 9,
       "title": "That's So True",
       "artist": "Gracie Abrams",
       "youtubeId": "W_YOJWZIjxo",
-      "albumArt": "https://img.youtube.com/vi/W_YOJWZIjxo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/W_YOJWZIjxo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "spotifyUrl": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "rank": 10,
       "title": "back to friends",
       "artist": "sombr",
       "youtubeId": "c8zq4kAn_O0",
-      "albumArt": "https://img.youtube.com/vi/c8zq4kAn_O0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/c8zq4kAn_O0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7qjZnBKE73H4Oxkopwulqe",
+      "spotifyUrl": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/33pBYfFHhBS9WhLJK1JXO1"
 }

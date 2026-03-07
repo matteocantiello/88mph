@@ -8,70 +8,91 @@
       "title": "Glow",
       "artist": "Madcon",
       "youtubeId": "mNE8pY9OppY",
-      "albumArt": "https://img.youtube.com/vi/mNE8pY9OppY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/mNE8pY9OppY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4icNLSquKZp6e0iEkBn9RP",
+      "spotifyUrl": "https://open.spotify.com/track/4icNLSquKZp6e0iEkBn9RP"
     },
     {
       "rank": 2,
       "title": "Waka Waka (This Time For Africa)",
       "artist": "Shakira feat. Freshlyground",
       "youtubeId": "Z_slTWayFK0",
-      "albumArt": "https://img.youtube.com/vi/Z_slTWayFK0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Z_slTWayFK0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6bNB5gxFX6Q87DbQWb8OWZ",
+      "spotifyUrl": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ"
     },
     {
       "rank": 3,
       "title": "Love The Way You Lie",
       "artist": "Eminem feat. Rihanna",
       "youtubeId": "RnkShwdXfyc",
-      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "spotifyUrl": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
     },
     {
       "rank": 4,
       "title": "Alejandro",
       "artist": "Lady Gaga",
       "youtubeId": "e6NIlIMSVdg",
-      "albumArt": "https://img.youtube.com/vi/e6NIlIMSVdg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/e6NIlIMSVdg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1HHeOs6zRdF8Ck58easiAY",
+      "spotifyUrl": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY"
     },
     {
       "rank": 5,
       "title": "Stereo Love",
       "artist": "Edward Maya feat. Vika Jigulina",
       "youtubeId": "bfl76Sr-Rsk",
-      "albumArt": "https://img.youtube.com/vi/bfl76Sr-Rsk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/bfl76Sr-Rsk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1aklRy3btsbucImSXvR2SY",
+      "spotifyUrl": "https://open.spotify.com/track/1aklRy3btsbucImSXvR2SY"
     },
     {
       "rank": 6,
       "title": "Not Afraid",
       "artist": "Eminem",
       "youtubeId": "NMj0NnKVMwo",
-      "albumArt": "https://img.youtube.com/vi/NMj0NnKVMwo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/NMj0NnKVMwo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7Ie9W94M7OjPoZVV216Xus",
+      "spotifyUrl": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
     },
     {
       "rank": 7,
       "title": "Yes Man",
       "artist": "Bjørn Johan Muri",
       "youtubeId": "O_AqyoKZgJU",
-      "albumArt": "https://img.youtube.com/vi/O_AqyoKZgJU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/O_AqyoKZgJU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7HWA9rSv4HJHmIqd7l8ZK3",
+      "spotifyUrl": "https://open.spotify.com/track/7HWA9rSv4HJHmIqd7l8ZK3"
     },
     {
       "rank": 8,
       "title": "Freaky Like Me",
       "artist": "Madcon feat. Ameerah",
       "youtubeId": "55e_Fm-5OGQ",
-      "albumArt": "https://img.youtube.com/vi/55e_Fm-5OGQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/55e_Fm-5OGQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0nOFRbiftNe7TTPtpobeXt",
+      "spotifyUrl": "https://open.spotify.com/track/0nOFRbiftNe7TTPtpobeXt"
     },
     {
       "rank": 9,
       "title": "California Gurls",
       "artist": "Katy Perry feat. Snoop Dogg",
       "youtubeId": "q7hK_liBVzk",
-      "albumArt": "https://img.youtube.com/vi/q7hK_liBVzk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/q7hK_liBVzk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6KOEK6SeCEZOQkLj5M1PxH",
+      "spotifyUrl": "https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"
     },
     {
       "rank": 10,
       "title": "Fireflies",
       "artist": "Owl City",
       "youtubeId": "duKDG5Wq6L4",
-      "albumArt": "https://img.youtube.com/vi/duKDG5Wq6L4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/duKDG5Wq6L4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3DamFFqW32WihKkTVlwTYQ",
+      "spotifyUrl": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6uNmb4zv4ruVOZ0jt1L2nh"
 }

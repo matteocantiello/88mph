@@ -8,70 +8,91 @@
       "title": "Can We Fix It?",
       "artist": "Bob the Builder",
       "youtubeId": "JcQAke8mcIE",
-      "albumArt": "https://img.youtube.com/vi/JcQAke8mcIE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/JcQAke8mcIE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1VGyBs8mOkuylWaaBgsYRS",
+      "spotifyUrl": "https://open.spotify.com/track/1VGyBs8mOkuylWaaBgsYRS"
     },
     {
       "rank": 2,
       "title": "Pure Shores",
       "artist": "All Saints",
       "youtubeId": "exIgCPtZLnk",
-      "albumArt": "https://img.youtube.com/vi/exIgCPtZLnk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/exIgCPtZLnk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:594P4Vej0r6OfiRme4kovX",
+      "spotifyUrl": "https://open.spotify.com/track/594P4Vej0r6OfiRme4kovX"
     },
     {
       "rank": 3,
       "title": "Rock DJ",
       "artist": "Robbie Williams",
       "youtubeId": "ZLyyT9yW9kA",
-      "albumArt": "https://img.youtube.com/vi/ZLyyT9yW9kA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/ZLyyT9yW9kA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7oQSevUCbYs4QawXTHQVV1",
+      "spotifyUrl": "https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1"
     },
     {
       "rank": 4,
       "title": "Fill Me In",
       "artist": "Craig David",
       "youtubeId": "3imO7PFU5cI",
-      "albumArt": "https://img.youtube.com/vi/3imO7PFU5cI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/3imO7PFU5cI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0UzsDmdpw0Q14KU4hieQss",
+      "spotifyUrl": "https://open.spotify.com/track/0UzsDmdpw0Q14KU4hieQss"
     },
     {
       "rank": 5,
       "title": "7 Days",
       "artist": "Craig David",
       "youtubeId": "0E6WRja6qwM",
-      "albumArt": "https://img.youtube.com/vi/0E6WRja6qwM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/0E6WRja6qwM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0gPQTLaqHDgdupKEok7J2x",
+      "spotifyUrl": "https://open.spotify.com/track/0gPQTLaqHDgdupKEok7J2x"
     },
     {
       "rank": 6,
       "title": "Groovejet (If This Ain't Love)",
       "artist": "Spiller feat. Sophie Ellis-Bextor",
       "youtubeId": "Cc_nUcKYlAs",
-      "albumArt": "https://img.youtube.com/vi/Cc_nUcKYlAs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Cc_nUcKYlAs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1o2QXBJvkXTgDDM6EvjU9I",
+      "spotifyUrl": "https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I"
     },
     {
       "rank": 7,
       "title": "Rise",
       "artist": "Gabrielle",
       "youtubeId": "rjUkVorzkho",
-      "albumArt": "https://img.youtube.com/vi/rjUkVorzkho/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/rjUkVorzkho/hqdefault.jpg",
+      "spotifyUri": "spotify:track:63nkNgHkmfgjElTEnCzKYU",
+      "spotifyUrl": "https://open.spotify.com/track/63nkNgHkmfgjElTEnCzKYU"
     },
     {
       "rank": 8,
       "title": "Breathless",
       "artist": "The Corrs",
       "youtubeId": "TPlFBRt8xX0",
-      "albumArt": "https://img.youtube.com/vi/TPlFBRt8xX0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/TPlFBRt8xX0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5OQGeJ1ceykovrykZsGhqL",
+      "spotifyUrl": "https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL"
     },
     {
       "rank": 9,
       "title": "It Feels So Good",
       "artist": "Sonique",
       "youtubeId": "G28dz7JOjQM",
-      "albumArt": "https://img.youtube.com/vi/G28dz7JOjQM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/G28dz7JOjQM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7xFy1kfgGWJWTpx1vSHBLi",
+      "spotifyUrl": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
     },
     {
       "rank": 10,
       "title": "Bag It Up",
       "artist": "Geri Halliwell",
       "youtubeId": "NHLC7yECau0",
-      "albumArt": "https://img.youtube.com/vi/NHLC7yECau0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/NHLC7yECau0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6tciQYmD0nQCdDE4IQCrdy",
+      "spotifyUrl": "https://open.spotify.com/track/6tciQYmD0nQCdDE4IQCrdy"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2fgOvlRwOqWy6CnkqwMXVd"
 }

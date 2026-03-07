@@ -8,70 +8,91 @@
       "title": "Insieme",
       "artist": "Mina",
       "youtubeId": "a2lbp36GE-E",
-      "albumArt": "https://img.youtube.com/vi/a2lbp36GE-E/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/a2lbp36GE-E/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1RRtwzGtcOhI8seqh8fV2u",
+      "spotifyUrl": "https://open.spotify.com/track/1RRtwzGtcOhI8seqh8fV2u"
     },
     {
       "rank": 2,
       "title": "La Lontananza",
       "artist": "Domenico Modugno",
       "youtubeId": "_wGn7dlJYmY",
-      "albumArt": "https://img.youtube.com/vi/_wGn7dlJYmY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/_wGn7dlJYmY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7g9IpLjBlCAdQfNkTPYdPR",
+      "spotifyUrl": "https://open.spotify.com/track/7g9IpLjBlCAdQfNkTPYdPR"
     },
     {
       "rank": 3,
       "title": "In the Summertime",
       "artist": "Mungo Jerry",
       "youtubeId": "0yKvBG7Z4po",
-      "albumArt": "https://img.youtube.com/vi/0yKvBG7Z4po/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/0yKvBG7Z4po/hqdefault.jpg",
+      "spotifyUri": "spotify:track:36xVTZU8HMpcgEdlJ4I3Kv",
+      "spotifyUrl": "https://open.spotify.com/track/36xVTZU8HMpcgEdlJ4I3Kv"
     },
     {
       "rank": 4,
       "title": "Anna",
       "artist": "Lucio Battisti",
       "youtubeId": "rr019b3aujc",
-      "albumArt": "https://img.youtube.com/vi/rr019b3aujc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/rr019b3aujc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6v4mhRCQD1krleRyiwVhxS",
+      "spotifyUrl": "https://open.spotify.com/track/6v4mhRCQD1krleRyiwVhxS"
     },
     {
       "rank": 5,
       "title": "Venus",
       "artist": "The Shocking Blue",
       "youtubeId": "8LhkyyCvUHk",
-      "albumArt": "https://img.youtube.com/vi/8LhkyyCvUHk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/8LhkyyCvUHk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0Z3xhSOhrawLV81YdiDiiJ",
+      "spotifyUrl": "https://open.spotify.com/track/0Z3xhSOhrawLV81YdiDiiJ"
     },
     {
       "rank": 6,
       "title": "La Prima cosa bella",
       "artist": "Nicola Di Bari",
       "youtubeId": "jMIowHNXyLw",
-      "albumArt": "https://img.youtube.com/vi/jMIowHNXyLw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/jMIowHNXyLw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:01PZlOQEde3bMY1ZAGhzQi",
+      "spotifyUrl": "https://open.spotify.com/track/01PZlOQEde3bMY1ZAGhzQi"
     },
     {
       "rank": 7,
       "title": "Let It Be",
       "artist": "The Beatles",
       "youtubeId": "HzvDofigTKQ",
-      "albumArt": "https://img.youtube.com/vi/HzvDofigTKQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/HzvDofigTKQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7iN1s7xHE4ifF5povM6A48",
+      "spotifyUrl": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "rank": 8,
       "title": "Spring Summer Winter and Fall",
       "artist": "Aphrodite's Child",
       "youtubeId": "5l3GZJ5gMGs",
-      "albumArt": "https://img.youtube.com/vi/5l3GZJ5gMGs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/5l3GZJ5gMGs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:618zsfLlNkwm3R6uADDC7x",
+      "spotifyUrl": "https://open.spotify.com/track/618zsfLlNkwm3R6uADDC7x"
     },
     {
       "rank": 9,
       "title": "L'Appuntamento",
       "artist": "Ornella Vanoni",
       "youtubeId": "Y3qTqJnI88s",
-      "albumArt": "https://img.youtube.com/vi/Y3qTqJnI88s/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Y3qTqJnI88s/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5PnEkOUOFnk0wMI71JwddQ",
+      "spotifyUrl": "https://open.spotify.com/track/5PnEkOUOFnk0wMI71JwddQ"
     },
     {
       "rank": 10,
       "title": "L'Isola di Wight",
       "artist": "Michel Delpech",
       "youtubeId": "NZRaoCCT5a4",
-      "albumArt": "https://img.youtube.com/vi/NZRaoCCT5a4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/NZRaoCCT5a4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5AJJ6JRmQYhGDgQx2sYj1n",
+      "spotifyUrl": "https://open.spotify.com/track/5AJJ6JRmQYhGDgQx2sYj1n"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/09hSAS13NIQoTLwqTtW4kZ"
 }

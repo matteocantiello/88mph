@@ -8,70 +8,91 @@
       "title": "Unchained Melody",
       "artist": "The Righteous Brothers",
       "youtubeId": "Zv8czIoAw5w",
-      "albumArt": "https://img.youtube.com/vi/Zv8czIoAw5w/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Zv8czIoAw5w/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2qhASBzpbFhPRtrnZ5lLnz",
+      "spotifyUrl": "https://open.spotify.com/track/2qhASBzpbFhPRtrnZ5lLnz"
     },
     {
       "rank": 2,
       "title": "Nothing Compares 2 U",
       "artist": "Sinead O'Connor",
       "youtubeId": "Ouf9-bOqJVk",
-      "albumArt": "https://img.youtube.com/vi/Ouf9-bOqJVk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Ouf9-bOqJVk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5GHY1DFWKz3Prg2V0Iodqo",
+      "spotifyUrl": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
     },
     {
       "rank": 3,
       "title": "Sacrifice / Healing Hands",
       "artist": "Elton John",
       "youtubeId": "IcaQCHAlifs",
-      "albumArt": "https://img.youtube.com/vi/IcaQCHAlifs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/IcaQCHAlifs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:43awRzMhW0Dfcg6MrBBnw0",
+      "spotifyUrl": "https://open.spotify.com/track/43awRzMhW0Dfcg6MrBBnw0"
     },
     {
       "rank": 4,
       "title": "Ice Ice Baby",
       "artist": "Vanilla Ice",
       "youtubeId": "jewmMjnbfzE",
-      "albumArt": "https://img.youtube.com/vi/jewmMjnbfzE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/jewmMjnbfzE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3XVozq1aeqsJwpXrEZrDJ9",
+      "spotifyUrl": "https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9"
     },
     {
       "rank": 5,
       "title": "Killer",
       "artist": "Adamski",
       "youtubeId": "GS220Pu2C_c",
-      "albumArt": "https://img.youtube.com/vi/GS220Pu2C_c/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/GS220Pu2C_c/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5jhDeobWatA1XAHWKOWPh2",
+      "spotifyUrl": "https://open.spotify.com/track/5jhDeobWatA1XAHWKOWPh2"
     },
     {
       "rank": 6,
       "title": "Show Me Heaven",
       "artist": "Maria McKee",
       "youtubeId": "Yl15v_xu0vI",
-      "albumArt": "https://img.youtube.com/vi/Yl15v_xu0vI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Yl15v_xu0vI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6kVyOOkIYOmOtPQrTLAawt",
+      "spotifyUrl": "https://open.spotify.com/track/6kVyOOkIYOmOtPQrTLAawt"
     },
     {
       "rank": 7,
       "title": "Dub Be Good to Me",
       "artist": "Beats International",
       "youtubeId": "nyJCHwg3wF4",
-      "albumArt": "https://img.youtube.com/vi/nyJCHwg3wF4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/nyJCHwg3wF4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0LatWThfKUOdIj3x6V6xKu",
+      "spotifyUrl": "https://open.spotify.com/track/0LatWThfKUOdIj3x6V6xKu"
     },
     {
       "rank": 8,
       "title": "Vogue",
       "artist": "Madonna",
       "youtubeId": "QJ1LOC_4n0g",
-      "albumArt": "https://img.youtube.com/vi/QJ1LOC_4n0g/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/QJ1LOC_4n0g/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7j5TIXPi0cCbSSqItmbyZy",
+      "spotifyUrl": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
     },
     {
       "rank": 9,
       "title": "World in Motion",
       "artist": "New Order",
       "youtubeId": "T8T1a45HX4o",
-      "albumArt": "https://img.youtube.com/vi/T8T1a45HX4o/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/T8T1a45HX4o/hqdefault.jpg",
+      "spotifyUri": "spotify:track:47x8g4l24IpCvlcRxv2Jb6",
+      "spotifyUrl": "https://open.spotify.com/track/47x8g4l24IpCvlcRxv2Jb6"
     },
     {
       "rank": 10,
       "title": "The Power",
       "artist": "Snap!",
       "youtubeId": "fUwf21uaVvw",
-      "albumArt": "https://img.youtube.com/vi/fUwf21uaVvw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/fUwf21uaVvw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0gRhXiFgrIz8OfSW4up1k1",
+      "spotifyUrl": "https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6wgsyFLWRLdKJnHpNvDXE1"
 }

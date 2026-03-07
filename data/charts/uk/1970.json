@@ -8,70 +8,91 @@
       "title": "The Wonder of You",
       "artist": "Elvis Presley",
       "youtubeId": "njoBMZD_jP0",
-      "albumArt": "https://img.youtube.com/vi/njoBMZD_jP0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/njoBMZD_jP0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0LfJkvPNCNEMLpZJgDQiV1",
+      "spotifyUrl": "https://open.spotify.com/track/0LfJkvPNCNEMLpZJgDQiV1"
     },
     {
       "rank": 2,
       "title": "In the Summertime",
       "artist": "Mungo Jerry",
       "youtubeId": "0yKvBG7Z4po",
-      "albumArt": "https://img.youtube.com/vi/0yKvBG7Z4po/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/0yKvBG7Z4po/hqdefault.jpg",
+      "spotifyUri": "spotify:track:36xVTZU8HMpcgEdlJ4I3Kv",
+      "spotifyUrl": "https://open.spotify.com/track/36xVTZU8HMpcgEdlJ4I3Kv"
     },
     {
       "rank": 3,
       "title": "Band of Gold",
       "artist": "Freda Payne",
       "youtubeId": "70_YD31vSbc",
-      "albumArt": "https://img.youtube.com/vi/70_YD31vSbc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/70_YD31vSbc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4o7pdbMDw6XwfXZFCZDoUH",
+      "spotifyUrl": "https://open.spotify.com/track/4o7pdbMDw6XwfXZFCZDoUH"
     },
     {
       "rank": 4,
       "title": "Bridge over Troubled Water",
       "artist": "Simon & Garfunkel",
       "youtubeId": "nvF5imxSaLI",
-      "albumArt": "https://img.youtube.com/vi/nvF5imxSaLI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/nvF5imxSaLI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6l8EbYRtQMgKOyc1gcDHF9",
+      "spotifyUrl": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
     },
     {
       "rank": 5,
       "title": "Two Little Boys",
       "artist": "Rolf Harris",
       "youtubeId": "KdWP80DAJsA",
-      "albumArt": "https://img.youtube.com/vi/KdWP80DAJsA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/KdWP80DAJsA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1st6DXIzDykpxGRcU0aO8a",
+      "spotifyUrl": "https://open.spotify.com/track/1st6DXIzDykpxGRcU0aO8a"
     },
     {
       "rank": 6,
       "title": "Wand'rin' Star",
       "artist": "Lee Marvin",
       "youtubeId": "_45hjRhdu4k",
-      "albumArt": "https://img.youtube.com/vi/_45hjRhdu4k/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/_45hjRhdu4k/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0YvkE6ZQ7Pe0BHZ2gCqlIn",
+      "spotifyUrl": "https://open.spotify.com/track/0YvkE6ZQ7Pe0BHZ2gCqlIn"
     },
     {
       "rank": 7,
       "title": "Spirit in the Sky",
       "artist": "Norman Greenbaum",
       "youtubeId": "xi_3GtQN2IA",
-      "albumArt": "https://img.youtube.com/vi/xi_3GtQN2IA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/xi_3GtQN2IA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0jvN7eQJJt4nxQzgQfZ1SP",
+      "spotifyUrl": "https://open.spotify.com/track/0jvN7eQJJt4nxQzgQfZ1SP"
     },
     {
       "rank": 8,
       "title": "Back Home",
       "artist": "England World Cup Squad",
       "youtubeId": "oXbadFOxubU",
-      "albumArt": "https://img.youtube.com/vi/oXbadFOxubU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/oXbadFOxubU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4OLKqfYUZ9Cb4EvuMH8fn1",
+      "spotifyUrl": "https://open.spotify.com/track/4OLKqfYUZ9Cb4EvuMH8fn1"
     },
     {
       "rank": 9,
       "title": "All Right Now",
       "artist": "Free",
       "youtubeId": "7cQ4jNDRTOo",
-      "albumArt": "https://img.youtube.com/vi/7cQ4jNDRTOo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/7cQ4jNDRTOo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1gcESexgftSuLuML57Y69q",
+      "spotifyUrl": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "rank": 10,
       "title": "Yellow River",
       "artist": "Christie",
       "youtubeId": "KueMOCJFX9A",
-      "albumArt": "https://img.youtube.com/vi/KueMOCJFX9A/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/KueMOCJFX9A/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4VnzKUBMB6cvog8Jvv1few",
+      "spotifyUrl": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5REogWvmR3E52VX3YR4KT1"
 }

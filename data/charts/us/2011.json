@@ -8,70 +8,91 @@
       "title": "Rolling in the Deep",
       "artist": "Adele",
       "youtubeId": "x9Qv47HpEqw",
-      "albumArt": "https://img.youtube.com/vi/x9Qv47HpEqw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/x9Qv47HpEqw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1c8gk2PeTE04A1pIDH9YMk",
+      "spotifyUrl": "https://open.spotify.com/track/1c8gk2PeTE04A1pIDH9YMk"
     },
     {
       "rank": 2,
       "title": "Party Rock Anthem",
       "artist": "LMFAO ft. Lauren Bennett & GoonRock",
       "youtubeId": "KQ6zr6kCPj8",
-      "albumArt": "https://img.youtube.com/vi/KQ6zr6kCPj8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/KQ6zr6kCPj8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0IkKz2J93C94Ei4BvDop7P",
+      "spotifyUrl": "https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P"
     },
     {
       "rank": 3,
       "title": "Firework",
       "artist": "Katy Perry",
       "youtubeId": "D7dp3I4HZGY",
-      "albumArt": "https://img.youtube.com/vi/D7dp3I4HZGY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/D7dp3I4HZGY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4r6eNCsrZnQWJzzvFh4nlg",
+      "spotifyUrl": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
     },
     {
       "rank": 4,
       "title": "E.T.",
       "artist": "Katy Perry ft. Kanye West",
       "youtubeId": "7XI4B2ckhog",
-      "albumArt": "https://img.youtube.com/vi/7XI4B2ckhog/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/7XI4B2ckhog/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1CUk09iecf4kLvLuhxerdS",
+      "spotifyUrl": "https://open.spotify.com/track/1CUk09iecf4kLvLuhxerdS"
     },
     {
       "rank": 5,
       "title": "Give Me Everything",
       "artist": "Pitbull ft. Ne-Yo, Afrojack & Nayer",
       "youtubeId": "E2lX1ZovtcA",
-      "albumArt": "https://img.youtube.com/vi/E2lX1ZovtcA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/E2lX1ZovtcA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4QNpBfC0zvjKqPJcyqBy9W",
+      "spotifyUrl": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
     },
     {
       "rank": 6,
       "title": "Grenade",
       "artist": "Bruno Mars",
       "youtubeId": "SR6iYWJxHqs",
-      "albumArt": "https://img.youtube.com/vi/SR6iYWJxHqs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/SR6iYWJxHqs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2tJulUYLDKOg9XrtVkMgcJ",
+      "spotifyUrl": "https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"
     },
     {
       "rank": 7,
       "title": "Forget You",
       "artist": "CeeLo Green",
       "youtubeId": "bKxodgpyGec",
-      "albumArt": "https://img.youtube.com/vi/bKxodgpyGec/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/bKxodgpyGec/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7AqISujIaWcY3h5zrOqt5v",
+      "spotifyUrl": "https://open.spotify.com/track/7AqISujIaWcY3h5zrOqt5v"
     },
     {
       "rank": 8,
       "title": "Super Bass",
       "artist": "Nicki Minaj",
       "youtubeId": "zqZt6VNnEIA",
-      "albumArt": "https://img.youtube.com/vi/zqZt6VNnEIA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/zqZt6VNnEIA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3hlksXnvbKogFdPbpO9vel",
+      "spotifyUrl": "https://open.spotify.com/track/3hlksXnvbKogFdPbpO9vel"
     },
     {
       "rank": 9,
       "title": "Moves Like Jagger",
       "artist": "Maroon 5 ft. Christina Aguilera",
       "youtubeId": "iEPTlhBmwRg",
-      "albumArt": "https://img.youtube.com/vi/iEPTlhBmwRg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/iEPTlhBmwRg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7LcfRTgAVTs5pQGEQgUEzN",
+      "spotifyUrl": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
     },
     {
       "rank": 10,
       "title": "Just Can't Get Enough",
       "artist": "The Black Eyed Peas",
       "youtubeId": "e6ztG5kjUZo",
-      "albumArt": "https://img.youtube.com/vi/e6ztG5kjUZo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/e6ztG5kjUZo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3JA9Jsuxr4xgHXEawAdCp4",
+      "spotifyUrl": "https://open.spotify.com/track/3JA9Jsuxr4xgHXEawAdCp4"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2fNiiKtuFV9iK44TFEa9q6"
 }

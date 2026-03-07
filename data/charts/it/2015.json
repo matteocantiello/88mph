@@ -8,70 +8,91 @@
       "title": "Take Me to Church",
       "artist": "Hozier",
       "youtubeId": "MYSVMgRr6pw",
-      "albumArt": "https://img.youtube.com/vi/MYSVMgRr6pw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/MYSVMgRr6pw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1CS7Sd1u5tWkstBhpssyjP",
+      "spotifyUrl": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
       "rank": 2,
       "title": "Roma-Bangkok",
       "artist": "Baby K feat. Giusy Ferreri",
       "youtubeId": "tUOpXeagVcg",
-      "albumArt": "https://img.youtube.com/vi/tUOpXeagVcg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/tUOpXeagVcg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3KoUTYSRCUgleIybRyoC8C",
+      "spotifyUrl": "https://open.spotify.com/track/3KoUTYSRCUgleIybRyoC8C"
     },
     {
       "rank": 3,
       "title": "El Perdón",
       "artist": "Nicky Jam & Enrique Iglesias",
       "youtubeId": "zs6aDvOTlMo",
-      "albumArt": "https://img.youtube.com/vi/zs6aDvOTlMo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/zs6aDvOTlMo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7qCAVkHWZkF44OzOUKf8Cr",
+      "spotifyUrl": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
     },
     {
       "rank": 4,
       "title": "Cheerleader (Felix Jaehn Remix)",
       "artist": "Omi",
       "youtubeId": "jGflUbPQfW8",
-      "albumArt": "https://img.youtube.com/vi/jGflUbPQfW8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/jGflUbPQfW8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:023OVLNzXhX0j7CxswUt6D",
+      "spotifyUrl": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
     },
     {
       "rank": 5,
       "title": "Hello",
       "artist": "Adele",
       "youtubeId": "yjo_aXygRDI",
-      "albumArt": "https://img.youtube.com/vi/yjo_aXygRDI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/yjo_aXygRDI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:62PaSfnXSMyLshYJrlTuL3",
+      "spotifyUrl": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
     },
     {
       "rank": 6,
       "title": "What Do You Mean?",
       "artist": "Justin Bieber",
       "youtubeId": "DcDbKDAb7go",
-      "albumArt": "https://img.youtube.com/vi/DcDbKDAb7go/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/DcDbKDAb7go/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4B0JvthVoAAuygILe3n4Bs",
+      "spotifyUrl": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs"
     },
     {
       "rank": 7,
       "title": "El Mismo Sol",
       "artist": "Alvaro Soler",
       "youtubeId": "jvLj5oX_zyA",
-      "albumArt": "https://img.youtube.com/vi/jvLj5oX_zyA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/jvLj5oX_zyA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:58WOkUl3O9LvLZjdhiQvIX",
+      "spotifyUrl": "https://open.spotify.com/track/58WOkUl3O9LvLZjdhiQvIX"
     },
     {
       "rank": 8,
       "title": "Guerriero",
       "artist": "Marco Mengoni",
       "youtubeId": "umpSYAV-p6g",
-      "albumArt": "https://img.youtube.com/vi/umpSYAV-p6g/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/umpSYAV-p6g/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6aPoZYg0xztgyErzcLoAyO",
+      "spotifyUrl": "https://open.spotify.com/track/6aPoZYg0xztgyErzcLoAyO"
     },
     {
       "rank": 9,
       "title": "Maria Salvador",
       "artist": "J-Ax feat. Il Cile",
       "youtubeId": "vUBxK6Luupg",
-      "albumArt": "https://img.youtube.com/vi/vUBxK6Luupg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/vUBxK6Luupg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2g4qZQiGxtSIpaTUcq95Qw",
+      "spotifyUrl": "https://open.spotify.com/track/2g4qZQiGxtSIpaTUcq95Qw"
     },
     {
       "rank": 10,
       "title": "Lean On",
       "artist": "Major Lazer & DJ Snake feat. MØ",
       "youtubeId": "5vOid-7uBdQ",
-      "albumArt": "https://img.youtube.com/vi/5vOid-7uBdQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/5vOid-7uBdQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:01aTsQoKoeXofSTvKuunzv",
+      "spotifyUrl": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0bZWxlnSgvPx2zsPPxhMMx"
 }

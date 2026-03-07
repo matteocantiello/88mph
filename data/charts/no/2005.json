@@ -8,70 +8,91 @@
       "title": "Schnappi, das kleine Krokodil",
       "artist": "Schnappi",
       "youtubeId": "mz7zeyhPXQA",
-      "albumArt": "https://img.youtube.com/vi/mz7zeyhPXQA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/mz7zeyhPXQA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:719dDsgco3fLDt10XFoo4d",
+      "spotifyUrl": "https://open.spotify.com/track/719dDsgco3fLDt10XFoo4d"
     },
     {
       "rank": 2,
       "title": "What's In It For Me?",
       "artist": "Amy Diamond",
       "youtubeId": "MMzdahiaYQ4",
-      "albumArt": "https://img.youtube.com/vi/MMzdahiaYQ4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/MMzdahiaYQ4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4yHm9Sn8W4Z6a2JZ1DBKL8",
+      "spotifyUrl": "https://open.spotify.com/track/4yHm9Sn8W4Z6a2JZ1DBKL8"
     },
     {
       "rank": 3,
       "title": "Axel F",
       "artist": "Crazy Frog",
       "youtubeId": "_M1iPYsHZvU",
-      "albumArt": "https://img.youtube.com/vi/_M1iPYsHZvU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/_M1iPYsHZvU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0Bo5fjMtTfCD8vHGebivqc",
+      "spotifyUrl": "https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc"
     },
     {
       "rank": 4,
       "title": "In My Dreams",
       "artist": "Wig Wam",
       "youtubeId": "K8ziaNy9XV0",
-      "albumArt": "https://img.youtube.com/vi/K8ziaNy9XV0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/K8ziaNy9XV0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1qFC3pztApxeFyERhza4hQ",
+      "spotifyUrl": "https://open.spotify.com/track/1qFC3pztApxeFyERhza4hQ"
     },
     {
       "rank": 5,
       "title": "Don't Cha",
       "artist": "The Pussycat Dolls feat. Busta Rhymes",
       "youtubeId": "zYqPmnK_NWc",
-      "albumArt": "https://img.youtube.com/vi/zYqPmnK_NWc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/zYqPmnK_NWc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1gZ7i4qxXkHZb1r6eioaAP",
+      "spotifyUrl": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
     },
     {
       "rank": 6,
       "title": "Pon De Replay",
       "artist": "Rihanna",
       "youtubeId": "9fT1CEf7Wzg",
-      "albumArt": "https://img.youtube.com/vi/9fT1CEf7Wzg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/9fT1CEf7Wzg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4TsmezEQVSZNNPv5RJ65Ov",
+      "spotifyUrl": "https://open.spotify.com/track/4TsmezEQVSZNNPv5RJ65Ov"
     },
     {
       "rank": 7,
       "title": "Bad Day",
       "artist": "Daniel Powter",
       "youtubeId": "-reIEyYxgxA",
-      "albumArt": "https://img.youtube.com/vi/-reIEyYxgxA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/-reIEyYxgxA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0mUyMawtxj1CJ76kn9gIZK",
+      "spotifyUrl": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     },
     {
       "rank": 8,
       "title": "I Morgen",
       "artist": "Sandra",
       "youtubeId": "aT0MeVWhF0o",
-      "albumArt": "https://img.youtube.com/vi/aT0MeVWhF0o/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/aT0MeVWhF0o/hqdefault.jpg",
+      "spotifyUri": "spotify:track:38vGvpOlL0hkUpRk8Sm6Xd",
+      "spotifyUrl": "https://open.spotify.com/track/38vGvpOlL0hkUpRk8Sm6Xd"
     },
     {
       "rank": 9,
       "title": "Sommerflørt",
       "artist": "Philip og Sandra",
       "youtubeId": "4ZcLo-97lr4",
-      "albumArt": "https://img.youtube.com/vi/4ZcLo-97lr4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/4ZcLo-97lr4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5Mx9Hf6G4nZoTp5Ll9AH73",
+      "spotifyUrl": "https://open.spotify.com/track/5Mx9Hf6G4nZoTp5Ll9AH73"
     },
     {
       "rank": 10,
       "title": "This Is The Night",
       "artist": "Jorun Stiansen",
       "youtubeId": "vz4Hk4uCM5M",
-      "albumArt": "https://img.youtube.com/vi/vz4Hk4uCM5M/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/vz4Hk4uCM5M/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0HV0FPHN1IqKOXNmbCUIkN",
+      "spotifyUrl": "https://open.spotify.com/track/0HV0FPHN1IqKOXNmbCUIkN"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2t5tAW519MX9ztbtDF0f5m"
 }

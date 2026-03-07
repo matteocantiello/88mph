@@ -8,70 +8,91 @@
       "title": "Love the Way You Lie",
       "artist": "Eminem feat. Rihanna",
       "youtubeId": "RnkShwdXfyc",
-      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "spotifyUrl": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
     },
     {
       "rank": 2,
       "title": "When We Collide",
       "artist": "Matt Cardle",
       "youtubeId": "YY3mljuZIrg",
-      "albumArt": "https://img.youtube.com/vi/YY3mljuZIrg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/YY3mljuZIrg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6FSxwdN08PvzimGApFjRnY",
+      "spotifyUrl": "https://open.spotify.com/track/6FSxwdN08PvzimGApFjRnY"
     },
     {
       "rank": 3,
       "title": "Just the Way You Are (Amazing)",
       "artist": "Bruno Mars",
       "youtubeId": "GnUW4AF1LZo",
-      "albumArt": "https://img.youtube.com/vi/GnUW4AF1LZo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/GnUW4AF1LZo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5tZxykfr7QDgByxuPcx6cN",
+      "spotifyUrl": "https://open.spotify.com/track/5tZxykfr7QDgByxuPcx6cN"
     },
     {
       "rank": 4,
       "title": "Only Girl (In the World)",
       "artist": "Rihanna",
       "youtubeId": "JhCA0y_ya6w",
-      "albumArt": "https://img.youtube.com/vi/JhCA0y_ya6w/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/JhCA0y_ya6w/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
+      "spotifyUrl": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
     },
     {
       "rank": 5,
       "title": "OMG",
       "artist": "Usher feat. will.i.am",
       "youtubeId": "LwRESsl132c",
-      "albumArt": "https://img.youtube.com/vi/LwRESsl132c/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/LwRESsl132c/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1bM50INir8voAkVoKuvEUI",
+      "spotifyUrl": "https://open.spotify.com/track/1bM50INir8voAkVoKuvEUI"
     },
     {
       "rank": 6,
       "title": "Fireflies",
       "artist": "Owl City",
       "youtubeId": "duKDG5Wq6L4",
-      "albumArt": "https://img.youtube.com/vi/duKDG5Wq6L4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/duKDG5Wq6L4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3DamFFqW32WihKkTVlwTYQ",
+      "spotifyUrl": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
     },
     {
       "rank": 7,
       "title": "Airplanes",
       "artist": "B.o.B feat. Hayley Williams",
       "youtubeId": "pfEZW-1eDl8",
-      "albumArt": "https://img.youtube.com/vi/pfEZW-1eDl8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/pfEZW-1eDl8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "spotifyUrl": "https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO"
     },
     {
       "rank": 8,
       "title": "California Gurls",
       "artist": "Katy Perry feat. Snoop Dogg",
       "youtubeId": "q7hK_liBVzk",
-      "albumArt": "https://img.youtube.com/vi/q7hK_liBVzk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/q7hK_liBVzk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6KOEK6SeCEZOQkLj5M1PxH",
+      "spotifyUrl": "https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"
     },
     {
       "rank": 9,
       "title": "We No Speak Americano",
       "artist": "Yolanda Be Cool & DCup",
       "youtubeId": "lj2gs8DuJXk",
-      "albumArt": "https://img.youtube.com/vi/lj2gs8DuJXk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/lj2gs8DuJXk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0CJ1quCQhVX9Ax2jYwwovA",
+      "spotifyUrl": "https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA"
     },
     {
       "rank": 10,
       "title": "Pass Out",
       "artist": "Tinie Tempah",
       "youtubeId": "RM-T-slUtek",
-      "albumArt": "https://img.youtube.com/vi/RM-T-slUtek/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/RM-T-slUtek/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4Q4K8fikwOmZYmz82Wco4w",
+      "spotifyUrl": "https://open.spotify.com/track/4Q4K8fikwOmZYmz82Wco4w"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2DF2GEDX2Ay5zOHvbAkzJD"
 }

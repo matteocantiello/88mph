@@ -8,70 +8,91 @@
       "title": "Ordinary",
       "artist": "Alex Warren",
       "youtubeId": "u2ah9tWTkmk",
-      "albumArt": "https://img.youtube.com/vi/u2ah9tWTkmk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/u2ah9tWTkmk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
+      "spotifyUrl": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
       "rank": 2,
       "title": "Echte liefde is te koop",
       "artist": "Samuel Welten",
       "youtubeId": "cw0AyFUHCfc",
-      "albumArt": "https://img.youtube.com/vi/cw0AyFUHCfc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/cw0AyFUHCfc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7tW2Md8xOwnKPIYhCqPiU4",
+      "spotifyUrl": "https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4"
     },
     {
       "rank": 3,
       "title": "Zaazaa",
       "artist": "Frenna feat. Shallipopi",
       "youtubeId": "J2ehMsHHtK0",
-      "albumArt": "https://img.youtube.com/vi/J2ehMsHHtK0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/J2ehMsHHtK0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0hVWE4YILwwpN4F1P9nxva",
+      "spotifyUrl": "https://open.spotify.com/track/0hVWE4YILwwpN4F1P9nxva"
     },
     {
       "rank": 4,
       "title": "Messy",
       "artist": "Lola Young",
       "youtubeId": "k-k2_Liofy8",
-      "albumArt": "https://img.youtube.com/vi/k-k2_Liofy8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/k-k2_Liofy8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:35ISBknsCeZQtq66xABI9g",
+      "spotifyUrl": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "rank": 5,
       "title": "Die With A Smile",
       "artist": "Lady Gaga & Bruno Mars",
       "youtubeId": "kPa7bsKwL-c",
-      "albumArt": "https://img.youtube.com/vi/kPa7bsKwL-c/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/kPa7bsKwL-c/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "rank": 6,
       "title": "Show Me Love",
       "artist": "WizTheMc x Bees & Honey",
       "youtubeId": "Z3aduh5fxCo",
-      "albumArt": "https://img.youtube.com/vi/Z3aduh5fxCo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Z3aduh5fxCo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0a4SMs889NwP8oWI7Vemle",
+      "spotifyUrl": "https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle"
     },
     {
       "rank": 7,
       "title": "APT.",
       "artist": "ROSÉ & Bruno Mars",
       "youtubeId": "ekr2nIex040",
-      "albumArt": "https://img.youtube.com/vi/ekr2nIex040/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/ekr2nIex040/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+      "spotifyUrl": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "rank": 8,
       "title": "Terug in de tijd",
       "artist": "Yves Berendse",
       "youtubeId": "DfUYjPUlxwg",
-      "albumArt": "https://img.youtube.com/vi/DfUYjPUlxwg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/DfUYjPUlxwg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6vl3Gxg0Vd5vIOFF3XJObT",
+      "spotifyUrl": "https://open.spotify.com/track/6vl3Gxg0Vd5vIOFF3XJObT"
     },
     {
       "rank": 9,
       "title": "Beetje van mij",
       "artist": "Antoon",
       "youtubeId": "F-txo-OplB4",
-      "albumArt": "https://img.youtube.com/vi/F-txo-OplB4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/F-txo-OplB4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2zqqu4TbRW3yOI5wqdrgDL",
+      "spotifyUrl": "https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL"
     },
     {
       "rank": 10,
       "title": "That's So True",
       "artist": "Gracie Abrams",
       "youtubeId": "BDHM8cyJQa8",
-      "albumArt": "https://img.youtube.com/vi/BDHM8cyJQa8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/BDHM8cyJQa8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "spotifyUrl": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3WUzZlcOaefu0zJdw8pEbA"
 }

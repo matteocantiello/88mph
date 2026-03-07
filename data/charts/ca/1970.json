@@ -8,70 +8,91 @@
       "title": "Bridge Over Troubled Water",
       "artist": "Simon & Garfunkel",
       "youtubeId": "nvF5imxSaLI",
-      "albumArt": "https://img.youtube.com/vi/nvF5imxSaLI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/nvF5imxSaLI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6l8EbYRtQMgKOyc1gcDHF9",
+      "spotifyUrl": "https://open.spotify.com/track/6l8EbYRtQMgKOyc1gcDHF9"
     },
     {
       "rank": 2,
       "title": "I Think I Love You",
       "artist": "The Partridge Family",
       "youtubeId": "A1T1W-948FE",
-      "albumArt": "https://img.youtube.com/vi/A1T1W-948FE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/A1T1W-948FE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:22vqiTM3mI3r4P1P2N4qUi",
+      "spotifyUrl": "https://open.spotify.com/track/22vqiTM3mI3r4P1P2N4qUi"
     },
     {
       "rank": 3,
       "title": "Let It Be",
       "artist": "The Beatles",
       "youtubeId": "HzvDofigTKQ",
-      "albumArt": "https://img.youtube.com/vi/HzvDofigTKQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/HzvDofigTKQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7iN1s7xHE4ifF5povM6A48",
+      "spotifyUrl": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
     },
     {
       "rank": 4,
       "title": "Lookin' Out My Back Door",
       "artist": "Creedence Clearwater Revival",
       "youtubeId": "YlbRvLmPRMk",
-      "albumArt": "https://img.youtube.com/vi/YlbRvLmPRMk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/YlbRvLmPRMk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1YqJSpIxdavjQ8BxAttU0r",
+      "spotifyUrl": "https://open.spotify.com/track/1YqJSpIxdavjQ8BxAttU0r"
     },
     {
       "rank": 5,
       "title": "American Woman",
       "artist": "The Guess Who",
       "youtubeId": "3r_qd2yxIsM",
-      "albumArt": "https://img.youtube.com/vi/3r_qd2yxIsM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/3r_qd2yxIsM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2FT4gakd3matx4vI6YCTD8",
+      "spotifyUrl": "https://open.spotify.com/track/2FT4gakd3matx4vI6YCTD8"
     },
     {
       "rank": 6,
       "title": "Raindrops Keep Fallin' on My Head",
       "artist": "B.J. Thomas",
       "youtubeId": "sySlY1XKlhM",
-      "albumArt": "https://img.youtube.com/vi/sySlY1XKlhM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/sySlY1XKlhM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2s1Yh0AywJhLsKKZ9vM0tm",
+      "spotifyUrl": "https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm"
     },
     {
       "rank": 7,
       "title": "In the Summertime",
       "artist": "Mungo Jerry",
       "youtubeId": "0yKvBG7Z4po",
-      "albumArt": "https://img.youtube.com/vi/0yKvBG7Z4po/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/0yKvBG7Z4po/hqdefault.jpg",
+      "spotifyUri": "spotify:track:36xVTZU8HMpcgEdlJ4I3Kv",
+      "spotifyUrl": "https://open.spotify.com/track/36xVTZU8HMpcgEdlJ4I3Kv"
     },
     {
       "rank": 8,
       "title": "Cracklin' Rosie",
       "artist": "Neil Diamond",
       "youtubeId": "lXrcuv3G_7A",
-      "albumArt": "https://img.youtube.com/vi/lXrcuv3G_7A/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/lXrcuv3G_7A/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5pkd9ib1RgbkAd1R9bIOCa",
+      "spotifyUrl": "https://open.spotify.com/track/5pkd9ib1RgbkAd1R9bIOCa"
     },
     {
       "rank": 9,
       "title": "(They Long to Be) Close to You",
       "artist": "The Carpenters",
       "youtubeId": "M268Csnue9I",
-      "albumArt": "https://img.youtube.com/vi/M268Csnue9I/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/M268Csnue9I/hqdefault.jpg",
+      "spotifyUri": "spotify:track:50q2aUjWoTn6CJIfSPRJQA",
+      "spotifyUrl": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
     },
     {
       "rank": 10,
       "title": "As the Years Go By",
       "artist": "Mashmakhan",
       "youtubeId": "dkeDPqzsA1g",
-      "albumArt": "https://img.youtube.com/vi/dkeDPqzsA1g/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/dkeDPqzsA1g/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2XHs6kSa7nngFi4srkvveA",
+      "spotifyUrl": "https://open.spotify.com/track/2XHs6kSa7nngFi4srkvveA"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7xskUnHGWePbOMLEjeG7PH"
 }

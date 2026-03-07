@@ -8,70 +8,91 @@
       "title": "Konko Below",
       "artist": "Lagbaja",
       "youtubeId": "pLZxu7GvViM",
-      "albumArt": "https://img.youtube.com/vi/pLZxu7GvViM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/pLZxu7GvViM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1wtCtl3kjARMZoOdXmVrOg",
+      "spotifyUrl": "https://open.spotify.com/track/1wtCtl3kjARMZoOdXmVrOg"
     },
     {
       "rank": 2,
       "title": "Mathematics (Jagbajantis)",
       "artist": "Sound Sultan",
       "youtubeId": "gM3aU2lotok",
-      "albumArt": "https://img.youtube.com/vi/gM3aU2lotok/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/gM3aU2lotok/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5meqfSqT4oRrbfhGVBBcZI",
+      "spotifyUrl": "https://open.spotify.com/track/5meqfSqT4oRrbfhGVBBcZI"
     },
     {
       "rank": 3,
       "title": "You and I",
       "artist": "Plantashun Boiz",
       "youtubeId": "NCdx-vlx11I",
-      "albumArt": "https://img.youtube.com/vi/NCdx-vlx11I/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/NCdx-vlx11I/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3cvKUfsql5ZkK02NK3hhLC",
+      "spotifyUrl": "https://open.spotify.com/track/3cvKUfsql5ZkK02NK3hhLC"
     },
     {
       "rank": 4,
       "title": "Plenty Nonsense",
       "artist": "Trybesmen",
       "youtubeId": "Am3VVx8HpvA",
-      "albumArt": "https://img.youtube.com/vi/Am3VVx8HpvA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Am3VVx8HpvA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6BdhR1gE0lAGdPbHi53sOp",
+      "spotifyUrl": "https://open.spotify.com/track/6BdhR1gE0lAGdPbHi53sOp"
     },
     {
       "rank": 5,
       "title": "Player Meji",
       "artist": "Eedris Abdulkareem",
       "youtubeId": "nplDygxcOJU",
-      "albumArt": "https://img.youtube.com/vi/nplDygxcOJU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/nplDygxcOJU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5QQCoaDFmIguQFdsJn6nEx",
+      "spotifyUrl": "https://open.spotify.com/track/5QQCoaDFmIguQFdsJn6nEx"
     },
     {
       "rank": 6,
       "title": "Crisis",
       "artist": "African China",
       "youtubeId": "ED9VQI-l9E0",
-      "albumArt": "https://img.youtube.com/vi/ED9VQI-l9E0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/ED9VQI-l9E0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7ATAfa6p8aMRGRkXv7iiN1",
+      "spotifyUrl": "https://open.spotify.com/track/7ATAfa6p8aMRGRkXv7iiN1"
     },
     {
       "rank": 7,
       "title": "Far Away",
       "artist": "Lagbaja",
       "youtubeId": "FZsRhEg7B3o",
-      "albumArt": "https://img.youtube.com/vi/FZsRhEg7B3o/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/FZsRhEg7B3o/hqdefault.jpg",
+      "spotifyUri": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
+      "spotifyUrl": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "rank": 8,
       "title": "Oya",
       "artist": "Da Trybe",
       "youtubeId": "kGTQ-hKsFP8",
-      "albumArt": "https://img.youtube.com/vi/kGTQ-hKsFP8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/kGTQ-hKsFP8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1zQ6sDyMTY0hkSY5U5vMZ6",
+      "spotifyUrl": "https://open.spotify.com/track/1zQ6sDyMTY0hkSY5U5vMZ6"
     },
     {
       "rank": 9,
       "title": "My Car",
       "artist": "Tony Tetuila",
       "youtubeId": "2lY1oZq-8N0",
-      "albumArt": "https://img.youtube.com/vi/2lY1oZq-8N0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/2lY1oZq-8N0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2eFJKElZ98vRvWChxh1niz",
+      "spotifyUrl": "https://open.spotify.com/track/2eFJKElZ98vRvWChxh1niz"
     },
     {
       "rank": 10,
       "title": "Side By Side",
       "artist": "Lagbaja",
       "youtubeId": "FZsRhEg7B3o",
-      "albumArt": "https://img.youtube.com/vi/FZsRhEg7B3o/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/FZsRhEg7B3o/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4DkDLo1U2srKIRPFFJRXx7",
+      "spotifyUrl": "https://open.spotify.com/track/4DkDLo1U2srKIRPFFJRXx7"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0TTIRYbveWVoxuhAKJfhUo"
 }

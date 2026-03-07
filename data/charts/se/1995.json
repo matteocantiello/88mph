@@ -48,42 +48,55 @@
       "title": "Think Twice",
       "artist": "Céline Dion",
       "youtubeId": "YjvB0vXT2vE",
-      "albumArt": "https://img.youtube.com/vi/YjvB0vXT2vE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/YjvB0vXT2vE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5T0VoskNbpJIqm2RSPU2Xt",
+      "spotifyUrl": "https://open.spotify.com/track/5T0VoskNbpJIqm2RSPU2Xt"
     },
     {
       "rank": 6,
       "title": "Self Esteem",
       "artist": "The Offspring",
       "youtubeId": "EtNZnhxWLHo",
-      "albumArt": "https://img.youtube.com/vi/EtNZnhxWLHo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/EtNZnhxWLHo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1FkoVC85Ds3mFoK0fVqEqP",
+      "spotifyUrl": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
     },
     {
       "rank": 7,
       "title": "Vill du bli min fru",
       "artist": "Drängarna",
       "youtubeId": "aaiueMIOaLA",
-      "albumArt": "https://img.youtube.com/vi/aaiueMIOaLA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/aaiueMIOaLA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7lSwzsGSqiVuidQ113ilqO",
+      "spotifyUrl": "https://open.spotify.com/track/7lSwzsGSqiVuidQ113ilqO"
     },
     {
       "rank": 8,
       "title": "Fiskarna i haven",
       "artist": "Idde Schultz",
       "youtubeId": "MGr6h3MEJyY",
-      "albumArt": "https://img.youtube.com/vi/MGr6h3MEJyY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/MGr6h3MEJyY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2MfK2beo97159GQzvJhstv",
+      "spotifyUrl": "https://open.spotify.com/track/2MfK2beo97159GQzvJhstv"
     },
     {
       "rank": 9,
       "title": "Tears Don't Lie",
       "artist": "Mark 'Oh",
       "youtubeId": "SZYeFdsDCD0",
-      "albumArt": "https://img.youtube.com/vi/SZYeFdsDCD0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/SZYeFdsDCD0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7jrGkYkif3OvdSUhPPbH0b",
+      "spotifyUrl": "https://open.spotify.com/track/7jrGkYkif3OvdSUhPPbH0b"
     },
     {
       "rank": 10,
       "title": "Lucky Love",
       "artist": "Ace of Base",
       "youtubeId": "C3RalZTbRBw",
-      "albumArt": "https://img.youtube.com/vi/C3RalZTbRBw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/C3RalZTbRBw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2O5MugeVVDlVs4ThMCy1Lm",
+      "spotifyUrl": "https://open.spotify.com/track/2O5MugeVVDlVs4ThMCy1Lm"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7JCktCTmJrVG0ZELc3T5Am"
 }

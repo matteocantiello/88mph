@@ -8,70 +8,91 @@
       "title": "Heat Waves",
       "artist": "Glass Animals",
       "youtubeId": "pzeefqfSMjY",
-      "albumArt": "https://img.youtube.com/vi/pzeefqfSMjY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/pzeefqfSMjY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3USxtqRwSYz57Ewm6wWRMp",
+      "spotifyUrl": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "rank": 2,
       "title": "As It Was",
       "artist": "Harry Styles",
       "youtubeId": "nujn6wbr-e8",
-      "albumArt": "https://img.youtube.com/vi/nujn6wbr-e8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/nujn6wbr-e8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4Dvkj6JhhA12EX05fT7y2e",
+      "spotifyUrl": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
       "rank": 3,
       "title": "Stay",
       "artist": "The Kid LAROI & Justin Bieber",
       "youtubeId": "XfEMj-z3TtA",
-      "albumArt": "https://img.youtube.com/vi/XfEMj-z3TtA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/XfEMj-z3TtA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:567e29TDzLwZwfDuEpGTwo",
+      "spotifyUrl": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
     },
     {
       "rank": 4,
       "title": "Easy On Me",
       "artist": "Adele",
       "youtubeId": "H9NJenpBV2I",
-      "albumArt": "https://img.youtube.com/vi/H9NJenpBV2I/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/H9NJenpBV2I/hqdefault.jpg",
+      "spotifyUri": "spotify:track:46IZ0fSY2mpAiktS3KOqds",
+      "spotifyUrl": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
     },
     {
       "rank": 5,
       "title": "Shivers",
       "artist": "Ed Sheeran",
       "youtubeId": "JQ8osGtqVD8",
-      "albumArt": "https://img.youtube.com/vi/JQ8osGtqVD8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/JQ8osGtqVD8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:50nfwKoDiSYg8zOCREWAm5",
+      "spotifyUrl": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
     },
     {
       "rank": 6,
       "title": "First Class",
       "artist": "Jack Harlow",
       "youtubeId": "pn8psTdqrY0",
-      "albumArt": "https://img.youtube.com/vi/pn8psTdqrY0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/pn8psTdqrY0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0wHFktze2PHC5jDt3B17DC",
+      "spotifyUrl": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "rank": 7,
       "title": "Wait for U",
       "artist": "Future ft. Drake & Tems",
       "youtubeId": "y9qO_xgE34Q",
-      "albumArt": "https://img.youtube.com/vi/y9qO_xgE34Q/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/y9qO_xgE34Q/hqdefault.jpg",
+      "spotifyUri": "spotify:track:59nOXPmaKlBfGMDeOVGrIK",
+      "spotifyUrl": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
       "rank": 8,
       "title": "Bad Habit",
       "artist": "Steve Lacy",
       "youtubeId": "1E2ihUl6ed4",
-      "albumArt": "https://img.youtube.com/vi/1E2ihUl6ed4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/1E2ihUl6ed4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4k6Uh1HXdhtusDW5y8Gbvy",
+      "spotifyUrl": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
       "rank": 9,
       "title": "Late Night Talking",
       "artist": "Harry Styles",
       "youtubeId": "ls6XtAmqERc",
-      "albumArt": "https://img.youtube.com/vi/ls6XtAmqERc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/ls6XtAmqERc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1qEmFfgcLObUfQm0j1W2CK",
+      "spotifyUrl": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "rank": 10,
       "title": "Levitating",
       "artist": "Dua Lipa",
       "youtubeId": "OsfAnsMY21M",
-      "albumArt": "https://img.youtube.com/vi/OsfAnsMY21M/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/OsfAnsMY21M/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5nujrmhLynf4yMoMtj8AQF",
+      "spotifyUrl": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4j2YaJLddu0b6qV2541R0h"
 }

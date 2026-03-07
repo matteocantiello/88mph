@@ -8,70 +8,91 @@
       "title": "Tears",
       "artist": "Ken Dodd",
       "youtubeId": "FQz_eyJiz4U",
-      "albumArt": "https://img.youtube.com/vi/FQz_eyJiz4U/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/FQz_eyJiz4U/hqdefault.jpg",
+      "spotifyUri": "spotify:track:205O1UuEjG0zX01YMElqkV",
+      "spotifyUrl": "https://open.spotify.com/track/205O1UuEjG0zX01YMElqkV"
     },
     {
       "rank": 2,
       "title": "Get Off of My Cloud",
       "artist": "The Rolling Stones",
       "youtubeId": "1sWqmMAvmdU",
-      "albumArt": "https://img.youtube.com/vi/1sWqmMAvmdU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/1sWqmMAvmdU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:263Iuyk08ks1v6FIudUIGD",
+      "spotifyUrl": "https://open.spotify.com/track/263Iuyk08ks1v6FIudUIGD"
     },
     {
       "rank": 3,
       "title": "Day Tripper / We Can Work It Out",
       "artist": "The Beatles",
       "youtubeId": "xedn8vp6W20",
-      "albumArt": "https://img.youtube.com/vi/xedn8vp6W20/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/xedn8vp6W20/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6yFD0TSZvxydqGxLNDjZUO",
+      "spotifyUrl": "https://open.spotify.com/track/6yFD0TSZvxydqGxLNDjZUO"
     },
     {
       "rank": 4,
       "title": "Help!",
       "artist": "The Beatles",
       "youtubeId": "MKUex3fci5c",
-      "albumArt": "https://img.youtube.com/vi/MKUex3fci5c/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/MKUex3fci5c/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7DD7eSuYSC5xk2ArU62esN",
+      "spotifyUrl": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
       "rank": 5,
       "title": "Ticket to Ride",
       "artist": "The Beatles",
       "youtubeId": "UHsN9d4FTVI",
-      "albumArt": "https://img.youtube.com/vi/UHsN9d4FTVI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/UHsN9d4FTVI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7CZiDzGVjUssMSOXrDNYHL",
+      "spotifyUrl": "https://open.spotify.com/track/7CZiDzGVjUssMSOXrDNYHL"
     },
     {
       "rank": 6,
       "title": "I'll Never Find Another You",
       "artist": "The Seekers",
       "youtubeId": "LstbyXXHups",
-      "albumArt": "https://img.youtube.com/vi/LstbyXXHups/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/LstbyXXHups/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1sQ5WUWw3JrsSEhdiQlfRt",
+      "spotifyUrl": "https://open.spotify.com/track/1sQ5WUWw3JrsSEhdiQlfRt"
     },
     {
       "rank": 7,
       "title": "It's Not Unusual",
       "artist": "Tom Jones",
       "youtubeId": "k-HdGnzYdFQ",
-      "albumArt": "https://img.youtube.com/vi/k-HdGnzYdFQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/k-HdGnzYdFQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3TlIt0ReIxPsVZcOEivT5U",
+      "spotifyUrl": "https://open.spotify.com/track/3TlIt0ReIxPsVZcOEivT5U"
     },
     {
       "rank": 8,
       "title": "Tired of Waiting for You",
       "artist": "The Kinks",
       "youtubeId": "UbVEdAaC7L4",
-      "albumArt": "https://img.youtube.com/vi/UbVEdAaC7L4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/UbVEdAaC7L4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7E6XQyE4fu7Qn5aodR5sBy",
+      "spotifyUrl": "https://open.spotify.com/track/7E6XQyE4fu7Qn5aodR5sBy"
     },
     {
       "rank": 9,
       "title": "Mr. Tambourine Man",
       "artist": "The Byrds",
       "youtubeId": "ncSl9ljLsYs",
-      "albumArt": "https://img.youtube.com/vi/ncSl9ljLsYs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/ncSl9ljLsYs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2HCaIYjkvWSZzaSKUoOh3d",
+      "spotifyUrl": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
     },
     {
       "rank": 10,
       "title": "I Got You Babe",
       "artist": "Sonny & Cher",
       "youtubeId": "V_PZCOmVzyU",
-      "albumArt": "https://img.youtube.com/vi/V_PZCOmVzyU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/V_PZCOmVzyU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4SGBuq37Ol4HJr7pQqFMKa",
+      "spotifyUrl": "https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2M5MhE11KgDwoHUQoQu70F"
 }

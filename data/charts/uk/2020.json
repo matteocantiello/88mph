@@ -8,70 +8,91 @@
       "title": "Blinding Lights",
       "artist": "The Weeknd",
       "youtubeId": "H64a2ggVIWc",
-      "albumArt": "https://img.youtube.com/vi/H64a2ggVIWc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/H64a2ggVIWc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "rank": 2,
       "title": "Dance Monkey",
       "artist": "Tones and I",
       "youtubeId": "Hx4nWW9z0ig",
-      "albumArt": "https://img.youtube.com/vi/Hx4nWW9z0ig/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Hx4nWW9z0ig/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2N8m6CYs74qQO4mjVcXO30",
+      "spotifyUrl": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
     },
     {
       "rank": 3,
       "title": "Roses",
       "artist": "Saint Jhn",
       "youtubeId": "A2T_M2FGVNk",
-      "albumArt": "https://img.youtube.com/vi/A2T_M2FGVNk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/A2T_M2FGVNk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:72GVdRHK49beKrC1NqRCqj",
+      "spotifyUrl": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
     },
     {
       "rank": 4,
       "title": "Someone You Loved",
       "artist": "Lewis Capaldi",
       "youtubeId": "AyCrypt1pdI",
-      "albumArt": "https://img.youtube.com/vi/AyCrypt1pdI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/AyCrypt1pdI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7qEHsqek33rTcFNT9PFqLf",
+      "spotifyUrl": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
     },
     {
       "rank": 5,
       "title": "Don't Start Now",
       "artist": "Dua Lipa",
       "youtubeId": "htg8v0g_4e4",
-      "albumArt": "https://img.youtube.com/vi/htg8v0g_4e4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/htg8v0g_4e4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3PfIrDoz19wz7qK7tYeu62",
+      "spotifyUrl": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "rank": 6,
       "title": "Before You Go",
       "artist": "Lewis Capaldi",
       "youtubeId": "QQVa4xCf8JY",
-      "albumArt": "https://img.youtube.com/vi/QQVa4xCf8JY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/QQVa4xCf8JY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2gMXnyrvIjhVBUZwvLZDMP",
+      "spotifyUrl": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
     },
     {
       "rank": 7,
       "title": "Watermelon Sugar",
       "artist": "Harry Styles",
       "youtubeId": "KPM_BYl-EaQ",
-      "albumArt": "https://img.youtube.com/vi/KPM_BYl-EaQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/KPM_BYl-EaQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6UelLqGlWMcVH1E5c4H7lY",
+      "spotifyUrl": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "rank": 8,
       "title": "Rockstar",
       "artist": "DaBaby feat. Roddy Ricch",
       "youtubeId": "dmcUUgBsITU",
-      "albumArt": "https://img.youtube.com/vi/dmcUUgBsITU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/dmcUUgBsITU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7ytR5pFWmSjzHJIeQkgog4",
+      "spotifyUrl": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
     },
     {
       "rank": 9,
       "title": "Say So",
       "artist": "Doja Cat",
       "youtubeId": "LmnCBjj-YyI",
-      "albumArt": "https://img.youtube.com/vi/LmnCBjj-YyI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/LmnCBjj-YyI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3Dv1eDb0MEgF93GpLXlucZ",
+      "spotifyUrl": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "rank": 10,
       "title": "Adore You",
       "artist": "Harry Styles",
       "youtubeId": "vum2bUJwfkI",
-      "albumArt": "https://img.youtube.com/vi/vum2bUJwfkI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/vum2bUJwfkI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3jjujdWJ72nww5eGnfs2E7",
+      "spotifyUrl": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/30ry2RcElmWBSIEz41npTF"
 }

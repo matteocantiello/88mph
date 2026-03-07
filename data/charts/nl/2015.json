@@ -70,19 +70,29 @@
       "rank": 8,
       "title": "Uptown Funk!",
       "artist": "Mark Ronson feat. Bruno Mars",
-      "youtubeId": "OPf0YbXqDm0"
+      "youtubeId": "OPf0YbXqDm0",
+      "spotifyUri": "spotify:track:32OlwWuMpZ6b0aN2RZOeMS",
+      "spotifyUrl": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029860171ddfee17f77a570cf6"
     },
     {
       "rank": 9,
       "title": "Stole the Show",
       "artist": "Kygo feat. Parson James",
-      "youtubeId": "BgfcToAjfdc"
+      "youtubeId": "BgfcToAjfdc",
+      "spotifyUri": "spotify:track:5masKPHeAOVNgxdLebIcK7",
+      "spotifyUrl": "https://open.spotify.com/track/5masKPHeAOVNgxdLebIcK7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027247979b8bc6027bf97043ef"
     },
     {
       "rank": 10,
       "title": "What Do You Mean?",
       "artist": "Justin Bieber",
-      "youtubeId": "DK_0jXPuIr0"
+      "youtubeId": "DK_0jXPuIr0",
+      "spotifyUri": "spotify:track:4B0JvthVoAAuygILe3n4Bs",
+      "spotifyUrl": "https://open.spotify.com/track/4B0JvthVoAAuygILe3n4Bs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f46b9d202509a8f7384b90de"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0oIgmUhTul0wneNkM3pLVZ"
 }

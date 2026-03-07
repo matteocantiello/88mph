@@ -8,70 +8,91 @@
       "title": "Lose Control",
       "artist": "Teddy Swims",
       "youtubeId": "mOAy_vCa33E",
-      "albumArt": "https://img.youtube.com/vi/mOAy_vCa33E/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/mOAy_vCa33E/hqdefault.jpg",
+      "spotifyUri": "spotify:track:17phhZDn6oGtzMe56NuWvj",
+      "spotifyUrl": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
       "rank": 2,
       "title": "A Bar Song (Tipsy)",
       "artist": "Shaboozey",
       "youtubeId": "DPaqlPFznBI",
-      "albumArt": "https://img.youtube.com/vi/DPaqlPFznBI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/DPaqlPFznBI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5fZJQrFKWQLb7FpJXZ1g7K",
+      "spotifyUrl": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
     },
     {
       "rank": 3,
       "title": "Beautiful Things",
       "artist": "Benson Boone",
       "youtubeId": "Oa_RSwwpPaA",
-      "albumArt": "https://img.youtube.com/vi/Oa_RSwwpPaA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Oa_RSwwpPaA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3xkHsmpQCBMytMJNiDf3Ii",
+      "spotifyUrl": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
       "rank": 4,
       "title": "I Had Some Help",
       "artist": "Post Malone ft. Morgan Wallen",
       "youtubeId": "B8VEqSBTjZQ",
-      "albumArt": "https://img.youtube.com/vi/B8VEqSBTjZQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/B8VEqSBTjZQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5IZXB5IKAD2qlvTPJYDCFB",
+      "spotifyUrl": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
     },
     {
       "rank": 5,
       "title": "Lovin on Me",
       "artist": "Jack Harlow",
       "youtubeId": "fvuTYadfBQA",
-      "albumArt": "https://img.youtube.com/vi/fvuTYadfBQA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/fvuTYadfBQA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4xhsWYTOGcal8zt0J161CU",
+      "spotifyUrl": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
       "rank": 6,
       "title": "Not Like Us",
       "artist": "Kendrick Lamar",
       "youtubeId": "H58vbez_m4E",
-      "albumArt": "https://img.youtube.com/vi/H58vbez_m4E/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/H58vbez_m4E/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6AI3ezQ4o3HUoP6Dhudph3",
+      "spotifyUrl": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
       "rank": 7,
       "title": "Espresso",
       "artist": "Sabrina Carpenter",
       "youtubeId": "kIft-LUHHVA",
-      "albumArt": "https://img.youtube.com/vi/kIft-LUHHVA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/kIft-LUHHVA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz",
+      "spotifyUrl": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
     },
     {
       "rank": 8,
       "title": "Million Dollar Baby",
       "artist": "Tommy Richman",
       "youtubeId": "LF2LGaCsMbc",
-      "albumArt": "https://img.youtube.com/vi/LF2LGaCsMbc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/LF2LGaCsMbc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5AJ9hqTS2wcFQCELCFRO7A",
+      "spotifyUrl": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
     },
     {
       "rank": 9,
       "title": "I Remember Everything",
       "artist": "Zach Bryan ft. Kacey Musgraves",
       "youtubeId": "Qdjw81ZVEe8",
-      "albumArt": "https://img.youtube.com/vi/Qdjw81ZVEe8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Qdjw81ZVEe8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4KULAymBBJcPRpk1yO4dOG",
+      "spotifyUrl": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
       "rank": 10,
       "title": "Too Sweet",
       "artist": "Hozier",
       "youtubeId": "mfha0a8IXKs",
-      "albumArt": "https://img.youtube.com/vi/mfha0a8IXKs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/mfha0a8IXKs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:76JKIsdKrAfWUMjaA0u7v5",
+      "spotifyUrl": "https://open.spotify.com/track/76JKIsdKrAfWUMjaA0u7v5"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7dUTDn7TCmolf14pvG0XvV"
 }

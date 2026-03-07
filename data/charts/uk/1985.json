@@ -8,70 +8,91 @@
       "title": "The Power of Love",
       "artist": "Jennifer Rush",
       "youtubeId": "GIJCY1ZhRFo",
-      "albumArt": "https://img.youtube.com/vi/GIJCY1ZhRFo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/GIJCY1ZhRFo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:18DfMhEx4ddoreHrvZDF6Q",
+      "spotifyUrl": "https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q"
     },
     {
       "rank": 2,
       "title": "I Know Him So Well",
       "artist": "Elaine Paige & Barbara Dickson",
       "youtubeId": "-KInJtUd0zg",
-      "albumArt": "https://img.youtube.com/vi/-KInJtUd0zg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/-KInJtUd0zg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6st8Sv6ghfnFlydv7Hs21e",
+      "spotifyUrl": "https://open.spotify.com/track/6st8Sv6ghfnFlydv7Hs21e"
     },
     {
       "rank": 3,
       "title": "Frankie",
       "artist": "Sister Sledge",
       "youtubeId": "3bbIYFxpkhg",
-      "albumArt": "https://img.youtube.com/vi/3bbIYFxpkhg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/3bbIYFxpkhg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6th7K3C0mmxk5AlT4x4oro",
+      "spotifyUrl": "https://open.spotify.com/track/6th7K3C0mmxk5AlT4x4oro"
     },
     {
       "rank": 4,
       "title": "19",
       "artist": "Paul Hardcastle",
       "youtubeId": "oho9KaoxI-4",
-      "albumArt": "https://img.youtube.com/vi/oho9KaoxI-4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/oho9KaoxI-4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4YNyU0vEEC5grHkHnO9lhF",
+      "spotifyUrl": "https://open.spotify.com/track/4YNyU0vEEC5grHkHnO9lhF"
     },
     {
       "rank": 5,
       "title": "I Want to Know What Love Is",
       "artist": "Foreigner",
       "youtubeId": "qVOd3umzelg",
-      "albumArt": "https://img.youtube.com/vi/qVOd3umzelg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/qVOd3umzelg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1JLn8RhQzHz3qDqsChcmBl",
+      "spotifyUrl": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl"
     },
     {
       "rank": 6,
       "title": "Move Closer",
       "artist": "Phyllis Nelson",
       "youtubeId": "LsIy56cVYMg",
-      "albumArt": "https://img.youtube.com/vi/LsIy56cVYMg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/LsIy56cVYMg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1vTAuecKkyVkiMyLuu9FkQ",
+      "spotifyUrl": "https://open.spotify.com/track/1vTAuecKkyVkiMyLuu9FkQ"
     },
     {
       "rank": 7,
       "title": "Everybody Wants to Rule the World",
       "artist": "Tears for Fears",
       "youtubeId": "U4zA0xnBEJU",
-      "albumArt": "https://img.youtube.com/vi/U4zA0xnBEJU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/U4zA0xnBEJU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4RvWPyQ5RL0ao9LPZeSouE",
+      "spotifyUrl": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
       "rank": 8,
       "title": "Easy Lover",
       "artist": "Philip Bailey & Phil Collins",
       "youtubeId": "E1ukApWcG7w",
-      "albumArt": "https://img.youtube.com/vi/E1ukApWcG7w/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/E1ukApWcG7w/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5LYJ631w9ps5h9tdvac7yP",
+      "spotifyUrl": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP"
     },
     {
       "rank": 9,
       "title": "A Good Heart",
       "artist": "Feargal Sharkey",
       "youtubeId": "0nxsbNXhd5w",
-      "albumArt": "https://img.youtube.com/vi/0nxsbNXhd5w/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/0nxsbNXhd5w/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4umQbcdBF3YVsNBvvnFLiX",
+      "spotifyUrl": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
     },
     {
       "rank": 10,
       "title": "Running Up That Hill",
       "artist": "Kate Bush",
       "youtubeId": "HYwNM1t9ltI",
-      "albumArt": "https://img.youtube.com/vi/HYwNM1t9ltI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/HYwNM1t9ltI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1PtQJZVZIdWIYdARpZRDFO",
+      "spotifyUrl": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/75WA1fGkngWm7GUBLPHw9T"
 }

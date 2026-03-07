@@ -8,70 +8,91 @@
       "title": "Love Yourself",
       "artist": "Justin Bieber",
       "youtubeId": "p-IXgwqhfmg",
-      "albumArt": "https://img.youtube.com/vi/p-IXgwqhfmg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/p-IXgwqhfmg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0",
+      "spotifyUrl": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
       "rank": 2,
       "title": "One Dance",
       "artist": "Drake",
       "youtubeId": "EG6xVbwwLiI",
-      "albumArt": "https://img.youtube.com/vi/EG6xVbwwLiI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/EG6xVbwwLiI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1zi7xx7UVEFkmKfv06H8x0",
+      "spotifyUrl": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
     },
     {
       "rank": 3,
       "title": "Sorry",
       "artist": "Justin Bieber",
       "youtubeId": "yqBE1Y-8-JA",
-      "albumArt": "https://img.youtube.com/vi/yqBE1Y-8-JA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/yqBE1Y-8-JA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:09CtPGIpYB4BrO8qb1RGsF",
+      "spotifyUrl": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
     },
     {
       "rank": 4,
       "title": "Closer",
       "artist": "The Chainsmokers ft. Halsey",
       "youtubeId": "0zGcUoRlhmw",
-      "albumArt": "https://img.youtube.com/vi/0zGcUoRlhmw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/0zGcUoRlhmw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+      "spotifyUrl": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
     },
     {
       "rank": 5,
       "title": "Stressed Out",
       "artist": "Twenty One Pilots",
       "youtubeId": "K1FlAphL2p8",
-      "albumArt": "https://img.youtube.com/vi/K1FlAphL2p8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/K1FlAphL2p8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn",
+      "spotifyUrl": "https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn"
     },
     {
       "rank": 6,
       "title": "Work",
       "artist": "Rihanna ft. Drake",
       "youtubeId": "2XgKktyhAQg",
-      "albumArt": "https://img.youtube.com/vi/2XgKktyhAQg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/2XgKktyhAQg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:72TFWvU3wUYdUuxejTTIzt",
+      "spotifyUrl": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
     },
     {
       "rank": 7,
       "title": "7 Years",
       "artist": "Lukas Graham",
       "youtubeId": "vTMAa6zZ7jY",
-      "albumArt": "https://img.youtube.com/vi/vTMAa6zZ7jY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/vTMAa6zZ7jY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5kqIPrATaCc2LqxVWzQGbk",
+      "spotifyUrl": "https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk"
     },
     {
       "rank": 8,
       "title": "Hello",
       "artist": "Adele",
       "youtubeId": "yjo_aXygRDI",
-      "albumArt": "https://img.youtube.com/vi/yjo_aXygRDI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/yjo_aXygRDI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:62PaSfnXSMyLshYJrlTuL3",
+      "spotifyUrl": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3"
     },
     {
       "rank": 9,
       "title": "Pillowtalk",
       "artist": "Zayn",
       "youtubeId": "Yo0JpyvcB00",
-      "albumArt": "https://img.youtube.com/vi/Yo0JpyvcB00/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Yo0JpyvcB00/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0PDUDa38GO8lMxLCRc4lL1",
+      "spotifyUrl": "https://open.spotify.com/track/0PDUDa38GO8lMxLCRc4lL1"
     },
     {
       "rank": 10,
       "title": "I Took a Pill in Ibiza",
       "artist": "Mike Posner",
       "youtubeId": "Og_tTWbZP9Q",
-      "albumArt": "https://img.youtube.com/vi/Og_tTWbZP9Q/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Og_tTWbZP9Q/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0vbtURX4qv1l7besfwmnD8",
+      "spotifyUrl": "https://open.spotify.com/track/0vbtURX4qv1l7besfwmnD8"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/16vYsRPvKBpBDT2q9FTlaw"
 }

@@ -8,70 +8,91 @@
       "title": "Happy",
       "artist": "Pharrell Williams",
       "youtubeId": "dJqxQzxLbHM",
-      "albumArt": "https://img.youtube.com/vi/dJqxQzxLbHM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/dJqxQzxLbHM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:60nZcImufyMA1MKQY3dcCH",
+      "spotifyUrl": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
       "rank": 2,
       "title": "Dark Horse",
       "artist": "Katy Perry ft. Juicy J",
       "youtubeId": "gxTRx4uurxs",
-      "albumArt": "https://img.youtube.com/vi/gxTRx4uurxs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/gxTRx4uurxs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4jbmgIyjGoXjY01XxatOx6",
+      "spotifyUrl": "https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6"
     },
     {
       "rank": 3,
       "title": "All of Me",
       "artist": "John Legend",
       "youtubeId": "V55djyxq-Pg",
-      "albumArt": "https://img.youtube.com/vi/V55djyxq-Pg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/V55djyxq-Pg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
+      "spotifyUrl": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
     },
     {
       "rank": 4,
       "title": "All About That Bass",
       "artist": "Meghan Trainor",
       "youtubeId": "Fccz4gz5erM",
-      "albumArt": "https://img.youtube.com/vi/Fccz4gz5erM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Fccz4gz5erM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5jE48hhRu8E6zBDPRSkEq7",
+      "spotifyUrl": "https://open.spotify.com/track/5jE48hhRu8E6zBDPRSkEq7"
     },
     {
       "rank": 5,
       "title": "Fancy",
       "artist": "Iggy Azalea ft. Charli XCX",
       "youtubeId": "OiQaqB_AVcA",
-      "albumArt": "https://img.youtube.com/vi/OiQaqB_AVcA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/OiQaqB_AVcA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3oiMJQAWVaxSubJ7b2VUtX",
+      "spotifyUrl": "https://open.spotify.com/track/3oiMJQAWVaxSubJ7b2VUtX"
     },
     {
       "rank": 6,
       "title": "Talk Dirty",
       "artist": "Jason Derulo ft. 2 Chainz",
       "youtubeId": "E-JuZ_p8o2Y",
-      "albumArt": "https://img.youtube.com/vi/E-JuZ_p8o2Y/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/E-JuZ_p8o2Y/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6g6A7qNhTfUgOSH7ROOxTD",
+      "spotifyUrl": "https://open.spotify.com/track/6g6A7qNhTfUgOSH7ROOxTD"
     },
     {
       "rank": 7,
       "title": "Royals",
       "artist": "Lorde",
       "youtubeId": "cVWOEx4Xdhs",
-      "albumArt": "https://img.youtube.com/vi/cVWOEx4Xdhs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/cVWOEx4Xdhs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2dLLR6qlu5UJ5gk0dKz0h3",
+      "spotifyUrl": "https://open.spotify.com/track/2dLLR6qlu5UJ5gk0dKz0h3"
     },
     {
       "rank": 8,
       "title": "Problem",
       "artist": "Ariana Grande ft. Iggy Azalea",
       "youtubeId": "JxqiCA-gcPI",
-      "albumArt": "https://img.youtube.com/vi/JxqiCA-gcPI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/JxqiCA-gcPI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7vS3Y0IKjde7Xg85LWIEdP",
+      "spotifyUrl": "https://open.spotify.com/track/7vS3Y0IKjde7Xg85LWIEdP"
     },
     {
       "rank": 9,
       "title": "Let It Go",
       "artist": "Idina Menzel",
       "youtubeId": "qSU560anReg",
-      "albumArt": "https://img.youtube.com/vi/qSU560anReg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/qSU560anReg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0qcr5FMsEO85NAQjrlDRKo",
+      "spotifyUrl": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
     },
     {
       "rank": 10,
       "title": "Stay With Me",
       "artist": "Sam Smith",
       "youtubeId": "cN5cEcXRUkM",
-      "albumArt": "https://img.youtube.com/vi/cN5cEcXRUkM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/cN5cEcXRUkM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5Nm9ERjJZ5oyfXZTECKmRt",
+      "spotifyUrl": "https://open.spotify.com/track/5Nm9ERjJZ5oyfXZTECKmRt"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3C4bT4s1VYtMLHpqWuE7g0"
 }

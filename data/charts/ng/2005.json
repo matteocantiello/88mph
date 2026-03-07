@@ -8,70 +8,91 @@
       "title": "African Queen",
       "artist": "2Baba (2face Idibia)",
       "youtubeId": "4CQ6gMbsNDM",
-      "albumArt": "https://img.youtube.com/vi/4CQ6gMbsNDM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/4CQ6gMbsNDM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4hM9jLSD1lgswviJTkHsPP",
+      "spotifyUrl": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
     },
     {
       "rank": 2,
       "title": "Tongolo",
       "artist": "D'banj",
       "youtubeId": "KFq8nRiu2ss",
-      "albumArt": "https://img.youtube.com/vi/KFq8nRiu2ss/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/KFq8nRiu2ss/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3fWaBerMbkNKI0IXIhI1sz",
+      "spotifyUrl": "https://open.spotify.com/track/3fWaBerMbkNKI0IXIhI1sz"
     },
     {
       "rank": 3,
       "title": "Olufunmi",
       "artist": "Styl-Plus",
       "youtubeId": "fMHpDqNi4kg",
-      "albumArt": "https://img.youtube.com/vi/fMHpDqNi4kg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/fMHpDqNi4kg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7dFvxW8AlUz5X4xqe6kqcY",
+      "spotifyUrl": "https://open.spotify.com/track/7dFvxW8AlUz5X4xqe6kqcY"
     },
     {
       "rank": 4,
       "title": "Do Me",
       "artist": "P-Square",
       "youtubeId": "eT5_JEp1E2s",
-      "albumArt": "https://img.youtube.com/vi/eT5_JEp1E2s/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/eT5_JEp1E2s/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0amjxUztXizZbRwGer8o34",
+      "spotifyUrl": "https://open.spotify.com/track/0amjxUztXizZbRwGer8o34"
     },
     {
       "rank": 5,
       "title": "True Love",
       "artist": "2Baba (2face Idibia)",
       "youtubeId": "CkNEi3v_-iA",
-      "albumArt": "https://img.youtube.com/vi/CkNEi3v_-iA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/CkNEi3v_-iA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:64Abyr4HpkCBbT0DqBp1dx",
+      "spotifyUrl": "https://open.spotify.com/track/64Abyr4HpkCBbT0DqBp1dx"
     },
     {
       "rank": 6,
       "title": "Dem Mama",
       "artist": "Timaya",
       "youtubeId": "j1LcRAi0Nbg",
-      "albumArt": "https://img.youtube.com/vi/j1LcRAi0Nbg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/j1LcRAi0Nbg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5dFakr97SUs0pcVMYY6a3c",
+      "spotifyUrl": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
     },
     {
       "rank": 7,
       "title": "I Go Yarn",
       "artist": "eLDee",
       "youtubeId": "6uOPi5ajbxw",
-      "albumArt": "https://img.youtube.com/vi/6uOPi5ajbxw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/6uOPi5ajbxw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1C7NINcxDqRtwtQCr3NfRh",
+      "spotifyUrl": "https://open.spotify.com/track/1C7NINcxDqRtwtQCr3NfRh"
     },
     {
       "rank": 8,
       "title": "Far Away",
       "artist": "Lagbaja",
       "youtubeId": "FZsRhEg7B3o",
-      "albumArt": "https://img.youtube.com/vi/FZsRhEg7B3o/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/FZsRhEg7B3o/hqdefault.jpg",
+      "spotifyUri": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
+      "spotifyUrl": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
       "rank": 9,
       "title": "Delicious Remix",
       "artist": "2Shotz & Big Lo",
       "youtubeId": "HiYgqOrIcVs",
-      "albumArt": "https://img.youtube.com/vi/HiYgqOrIcVs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/HiYgqOrIcVs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:79Cigv43KzCEh7FtsON66z",
+      "spotifyUrl": "https://open.spotify.com/track/79Cigv43KzCEh7FtsON66z"
     },
     {
       "rank": 10,
       "title": "Hard Life",
       "artist": "Blackface feat. Alabai",
       "youtubeId": "OtXzsj58dDk",
-      "albumArt": "https://img.youtube.com/vi/OtXzsj58dDk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/OtXzsj58dDk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5WErZPJiNm2Ij1o1rhB0lB",
+      "spotifyUrl": "https://open.spotify.com/track/5WErZPJiNm2Ij1o1rhB0lB"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6XeZ2n6CeOS2fG6akRe1er"
 }

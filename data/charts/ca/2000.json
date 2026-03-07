@@ -8,70 +8,91 @@
       "title": "Music",
       "artist": "Madonna",
       "youtubeId": "A9EvnyhUZrA",
-      "albumArt": "https://img.youtube.com/vi/A9EvnyhUZrA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/A9EvnyhUZrA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6WzRpISELf3YglGAh7TXcG",
+      "spotifyUrl": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
       "rank": 2,
       "title": "Oops!... I Did It Again",
       "artist": "Britney Spears",
       "youtubeId": "OO0aTOIU_3w",
-      "albumArt": "https://img.youtube.com/vi/OO0aTOIU_3w/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/OO0aTOIU_3w/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6naxalmIoLFWR0siv8dnQQ",
+      "spotifyUrl": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
     },
     {
       "rank": 3,
       "title": "It Feels So Good",
       "artist": "Sonique",
       "youtubeId": "G28dz7JOjQM",
-      "albumArt": "https://img.youtube.com/vi/G28dz7JOjQM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/G28dz7JOjQM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7xFy1kfgGWJWTpx1vSHBLi",
+      "spotifyUrl": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
     },
     {
       "rank": 4,
       "title": "Bent",
       "artist": "Matchbox Twenty",
       "youtubeId": "2QzqFImaLFw",
-      "albumArt": "https://img.youtube.com/vi/2QzqFImaLFw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/2QzqFImaLFw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6fA7akEuTUL3dW1V0GELaZ",
+      "spotifyUrl": "https://open.spotify.com/track/6fA7akEuTUL3dW1V0GELaZ"
     },
     {
       "rank": 5,
       "title": "I Knew I Loved You",
       "artist": "Savage Garden",
       "youtubeId": "Ufdd6l1OGXA",
-      "albumArt": "https://img.youtube.com/vi/Ufdd6l1OGXA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Ufdd6l1OGXA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6nozDLxeL0TE4MS9GqYU1v",
+      "spotifyUrl": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
     },
     {
       "rank": 6,
       "title": "It's Gonna Be Me",
       "artist": "*NSYNC",
       "youtubeId": "dyDBxOiR4dc",
-      "albumArt": "https://img.youtube.com/vi/dyDBxOiR4dc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/dyDBxOiR4dc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2AW37v0bDyuOzGP3XnmFuA",
+      "spotifyUrl": "https://open.spotify.com/track/2AW37v0bDyuOzGP3XnmFuA"
     },
     {
       "rank": 7,
       "title": "What a Girl Wants",
       "artist": "Christina Aguilera",
       "youtubeId": "_vLdHpLdwWo",
-      "albumArt": "https://img.youtube.com/vi/_vLdHpLdwWo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/_vLdHpLdwWo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5bGmuxShUba9maPswDnhCs",
+      "spotifyUrl": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
     },
     {
       "rank": 8,
       "title": "Show Me the Meaning of Being Lonely",
       "artist": "Backstreet Boys",
       "youtubeId": "Qgd_TRKSWa8",
-      "albumArt": "https://img.youtube.com/vi/Qgd_TRKSWa8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Qgd_TRKSWa8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3BsaRV5QIulYz2lV9WWa8T",
+      "spotifyUrl": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"
     },
     {
       "rank": 9,
       "title": "Never Let You Go",
       "artist": "Third Eye Blind",
       "youtubeId": "KajGqKJ3ePg",
-      "albumArt": "https://img.youtube.com/vi/KajGqKJ3ePg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/KajGqKJ3ePg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1sxUaLi0G2vB7dl4ogtCxH",
+      "spotifyUrl": "https://open.spotify.com/track/1sxUaLi0G2vB7dl4ogtCxH"
     },
     {
       "rank": 10,
       "title": "Faded",
       "artist": "soulDecision",
       "youtubeId": "Y7GlV3h9lsY",
-      "albumArt": "https://img.youtube.com/vi/Y7GlV3h9lsY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Y7GlV3h9lsY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4WP1XJnAUkZfTtMdZTaN9k",
+      "spotifyUrl": "https://open.spotify.com/track/4WP1XJnAUkZfTtMdZTaN9k"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1ee68KmO9XOwf4pJDaxMyd"
 }

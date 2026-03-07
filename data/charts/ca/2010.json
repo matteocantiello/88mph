@@ -8,70 +8,91 @@
       "title": "California Gurls",
       "artist": "Katy Perry feat. Snoop Dogg",
       "youtubeId": "q7hK_liBVzk",
-      "albumArt": "https://img.youtube.com/vi/q7hK_liBVzk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/q7hK_liBVzk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6KOEK6SeCEZOQkLj5M1PxH",
+      "spotifyUrl": "https://open.spotify.com/track/6KOEK6SeCEZOQkLj5M1PxH"
     },
     {
       "rank": 2,
       "title": "TiK ToK",
       "artist": "Ke$ha",
       "youtubeId": "RxUZLmN5RsY",
-      "albumArt": "https://img.youtube.com/vi/RxUZLmN5RsY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/RxUZLmN5RsY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
+      "spotifyUrl": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "rank": 3,
       "title": "Bad Romance",
       "artist": "Lady Gaga",
       "youtubeId": "52QarK_LoHE",
-      "albumArt": "https://img.youtube.com/vi/52QarK_LoHE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/52QarK_LoHE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0SiywuOBRcynK0uKGWdCnn",
+      "spotifyUrl": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "rank": 4,
       "title": "Dynamite",
       "artist": "Taio Cruz",
       "youtubeId": "EQ2T-Tw_drE",
-      "albumArt": "https://img.youtube.com/vi/EQ2T-Tw_drE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/EQ2T-Tw_drE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1DqdF42leyFIzqNDv9CjId",
+      "spotifyUrl": "https://open.spotify.com/track/1DqdF42leyFIzqNDv9CjId"
     },
     {
       "rank": 5,
       "title": "Break Your Heart",
       "artist": "Taio Cruz feat. Ludacris",
       "youtubeId": "P09-6KI2yqE",
-      "albumArt": "https://img.youtube.com/vi/P09-6KI2yqE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/P09-6KI2yqE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1CdqVF1ywD0ZO1zXtB9yWa",
+      "spotifyUrl": "https://open.spotify.com/track/1CdqVF1ywD0ZO1zXtB9yWa"
     },
     {
       "rank": 6,
       "title": "Hey, Soul Sister",
       "artist": "Train",
       "youtubeId": "_2qJy5r-WAY",
-      "albumArt": "https://img.youtube.com/vi/_2qJy5r-WAY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/_2qJy5r-WAY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4HlFJV71xXKIGcU3kRyttv",
+      "spotifyUrl": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv"
     },
     {
       "rank": 7,
       "title": "Love the Way You Lie",
       "artist": "Eminem feat. Rihanna",
       "youtubeId": "RnkShwdXfyc",
-      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "spotifyUrl": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
     },
     {
       "rank": 8,
       "title": "Airplanes",
       "artist": "B.o.B feat. Hayley Williams",
       "youtubeId": "pfEZW-1eDl8",
-      "albumArt": "https://img.youtube.com/vi/pfEZW-1eDl8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/pfEZW-1eDl8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "spotifyUrl": "https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO"
     },
     {
       "rank": 9,
       "title": "Need You Now",
       "artist": "Lady Antebellum",
       "youtubeId": "fbq7ZM0du-c",
-      "albumArt": "https://img.youtube.com/vi/fbq7ZM0du-c/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/fbq7ZM0du-c/hqdefault.jpg",
+      "spotifyUri": "spotify:track:11EX5yhxr9Ihl3IN1asrfK",
+      "spotifyUrl": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "rank": 10,
       "title": "I Gotta Feeling",
       "artist": "The Black Eyed Peas",
       "youtubeId": "OIPmhkzN2ug",
-      "albumArt": "https://img.youtube.com/vi/OIPmhkzN2ug/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/OIPmhkzN2ug/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2H1047e0oMSj10dgp7p2VG",
+      "spotifyUrl": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7rCgNd491nTrYdHUMfL9uE"
 }

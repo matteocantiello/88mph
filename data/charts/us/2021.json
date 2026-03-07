@@ -8,70 +8,91 @@
       "title": "Levitating",
       "artist": "Dua Lipa",
       "youtubeId": "OsfAnsMY21M",
-      "albumArt": "https://img.youtube.com/vi/OsfAnsMY21M/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/OsfAnsMY21M/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5nujrmhLynf4yMoMtj8AQF",
+      "spotifyUrl": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "rank": 2,
       "title": "Save Your Tears (Remix)",
       "artist": "The Weeknd & Ariana Grande",
       "youtubeId": "lS9Kgp6PsWY",
-      "albumArt": "https://img.youtube.com/vi/lS9Kgp6PsWY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/lS9Kgp6PsWY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1oFAF1hdPOickyHgbuRjyX",
+      "spotifyUrl": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"
     },
     {
       "rank": 3,
       "title": "drivers license",
       "artist": "Olivia Rodrigo",
       "youtubeId": "tNJhkrpLGT8",
-      "albumArt": "https://img.youtube.com/vi/tNJhkrpLGT8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/tNJhkrpLGT8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5wANPM4fQCJwkGd4rN57mH",
+      "spotifyUrl": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "rank": 4,
       "title": "Peaches",
       "artist": "Justin Bieber ft. Daniel Caesar & Giveon",
       "youtubeId": "5rnawnfK2sQ",
-      "albumArt": "https://img.youtube.com/vi/5rnawnfK2sQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/5rnawnfK2sQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4iJyoBOLtHqaGxP12qzhQI",
+      "spotifyUrl": "https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI"
     },
     {
       "rank": 5,
       "title": "Heat Waves",
       "artist": "Glass Animals",
       "youtubeId": "RVobOMjwEWA",
-      "albumArt": "https://img.youtube.com/vi/RVobOMjwEWA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/RVobOMjwEWA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3USxtqRwSYz57Ewm6wWRMp",
+      "spotifyUrl": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "rank": 6,
       "title": "Leave the Door Open",
       "artist": "Silk Sonic",
       "youtubeId": "e6iUdNkm9Lc",
-      "albumArt": "https://img.youtube.com/vi/e6iUdNkm9Lc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/e6iUdNkm9Lc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:02VBYrHfVwfEWXk5DXyf0T",
+      "spotifyUrl": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
     },
     {
       "rank": 7,
       "title": "Bad Habits",
       "artist": "Ed Sheeran",
       "youtubeId": "hJWSZDJb-W4",
-      "albumArt": "https://img.youtube.com/vi/hJWSZDJb-W4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/hJWSZDJb-W4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3rmo8F54jFF8OgYsqTxm5d",
+      "spotifyUrl": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
     },
     {
       "rank": 8,
       "title": "Kiss Me More",
       "artist": "Doja Cat ft. SZA",
       "youtubeId": "ui7M7j7caHA",
-      "albumArt": "https://img.youtube.com/vi/ui7M7j7caHA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/ui7M7j7caHA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3DarAbFujv6eYNliUTyqtz",
+      "spotifyUrl": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "rank": 9,
       "title": "good 4 u",
       "artist": "Olivia Rodrigo",
       "youtubeId": "Bc9ijogGmtU",
-      "albumArt": "https://img.youtube.com/vi/Bc9ijogGmtU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Bc9ijogGmtU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4ZtFanR9U6ndgddUvNcjcG",
+      "spotifyUrl": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
     },
     {
       "rank": 10,
       "title": "Without You",
       "artist": "The Kid LAROI",
       "youtubeId": "B6JapuSKjUI",
-      "albumArt": "https://img.youtube.com/vi/B6JapuSKjUI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/B6JapuSKjUI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1KMkcUvF7m3SDChDOa7i5L",
+      "spotifyUrl": "https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5r1h9muthXBABhmSGEUeRb"
 }

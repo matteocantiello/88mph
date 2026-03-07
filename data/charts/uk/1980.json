@@ -8,70 +8,91 @@
       "title": "Crying",
       "artist": "Don McLean",
       "youtubeId": "InRp0dfJdK8",
-      "albumArt": "https://img.youtube.com/vi/InRp0dfJdK8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/InRp0dfJdK8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2gjQdYRk5A17t5pNxQXmuN",
+      "spotifyUrl": "https://open.spotify.com/track/2gjQdYRk5A17t5pNxQXmuN"
     },
     {
       "rank": 2,
       "title": "Woman in Love",
       "artist": "Barbra Streisand",
       "youtubeId": "zJy2fHZiDXY",
-      "albumArt": "https://img.youtube.com/vi/zJy2fHZiDXY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/zJy2fHZiDXY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1pTGc8pwyo6xtgXBKCBcFn",
+      "spotifyUrl": "https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn"
     },
     {
       "rank": 3,
       "title": "Super Trouper",
       "artist": "ABBA",
       "youtubeId": "cBjAZvpJDQs",
-      "albumArt": "https://img.youtube.com/vi/cBjAZvpJDQs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/cBjAZvpJDQs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0J2p4KYdr6Mg4ET6JPlbe1",
+      "spotifyUrl": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
     },
     {
       "rank": 4,
       "title": "Theme from M*A*S*H (Suicide Is Painless)",
       "artist": "MASH",
       "youtubeId": "QOS6kfR9u4s",
-      "albumArt": "https://img.youtube.com/vi/QOS6kfR9u4s/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/QOS6kfR9u4s/hqdefault.jpg",
+      "spotifyUri": "spotify:track:24DqzDA1z7Dx2BpHFvcnDv",
+      "spotifyUrl": "https://open.spotify.com/track/24DqzDA1z7Dx2BpHFvcnDv"
     },
     {
       "rank": 5,
       "title": "Geno",
       "artist": "Dexy's Midnight Runners",
       "youtubeId": "tmv6qhDsnb0",
-      "albumArt": "https://img.youtube.com/vi/tmv6qhDsnb0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/tmv6qhDsnb0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7gb626DDDHoiuVAGZEnlJk",
+      "spotifyUrl": "https://open.spotify.com/track/7gb626DDDHoiuVAGZEnlJk"
     },
     {
       "rank": 6,
       "title": "Don't Stand So Close to Me",
       "artist": "The Police",
       "youtubeId": "EuuX_t3c_2A",
-      "albumArt": "https://img.youtube.com/vi/EuuX_t3c_2A/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/EuuX_t3c_2A/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5veJDT0MLsLbhYsx42GXUD",
+      "spotifyUrl": "https://open.spotify.com/track/5veJDT0MLsLbhYsx42GXUD"
     },
     {
       "rank": 7,
       "title": "Feels Like I'm in Love",
       "artist": "Kelly Marie",
       "youtubeId": "L-iLZj0C0MU",
-      "albumArt": "https://img.youtube.com/vi/L-iLZj0C0MU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/L-iLZj0C0MU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0zDxwumKmmwzNPYeEQMulS",
+      "spotifyUrl": "https://open.spotify.com/track/0zDxwumKmmwzNPYeEQMulS"
     },
     {
       "rank": 8,
       "title": "Use It Up and Wear It Out",
       "artist": "Odyssey",
       "youtubeId": "I-POglnZD44",
-      "albumArt": "https://img.youtube.com/vi/I-POglnZD44/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/I-POglnZD44/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0WZcHIhpljKrfqgxo7VYHu",
+      "spotifyUrl": "https://open.spotify.com/track/0WZcHIhpljKrfqgxo7VYHu"
     },
     {
       "rank": 9,
       "title": "Working My Way Back to You",
       "artist": "The Detroit Spinners",
       "youtubeId": "gfn2YNU-ybA",
-      "albumArt": "https://img.youtube.com/vi/gfn2YNU-ybA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/gfn2YNU-ybA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2BfQU2QWF3gFasnjKfpVFU",
+      "spotifyUrl": "https://open.spotify.com/track/2BfQU2QWF3gFasnjKfpVFU"
     },
     {
       "rank": 10,
       "title": "Coward of the County",
       "artist": "Kenny Rogers",
       "youtubeId": "aVtOLfGT3_8",
-      "albumArt": "https://img.youtube.com/vi/aVtOLfGT3_8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/aVtOLfGT3_8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0JkIre0YxNmKGMU5V7ZiDx",
+      "spotifyUrl": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1WPRcZUT1WnL5pyrYGyx9Q"
 }

@@ -15,6 +15,7 @@ export interface ChartData {
   year: number;
   tracks: Track[];
   context?: string;
+  spotifyPlaylistUrl?: string;
 }
 
 export interface MetadataEntry {

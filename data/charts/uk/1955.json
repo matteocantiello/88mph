@@ -8,70 +8,91 @@
       "title": "Give Me Your Word",
       "artist": "Tennessee Ernie Ford",
       "youtubeId": "GC90rfbyTA4",
-      "albumArt": "https://img.youtube.com/vi/GC90rfbyTA4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/GC90rfbyTA4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:11EHQqzZuS5Wp4xyH3onaJ",
+      "spotifyUrl": "https://open.spotify.com/track/11EHQqzZuS5Wp4xyH3onaJ"
     },
     {
       "rank": 2,
       "title": "Rose Marie",
       "artist": "Slim Whitman",
       "youtubeId": "9KxeMJThj9A",
-      "albumArt": "https://img.youtube.com/vi/9KxeMJThj9A/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/9KxeMJThj9A/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0DRw1YzAejMK8Qv2MAPzJl",
+      "spotifyUrl": "https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl"
     },
     {
       "rank": 3,
       "title": "Softly Softly",
       "artist": "Ruby Murray",
       "youtubeId": "iUnjL4QtdoU",
-      "albumArt": "https://img.youtube.com/vi/iUnjL4QtdoU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/iUnjL4QtdoU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2qLFfXmrhJJME5mfjCVuNG",
+      "spotifyUrl": "https://open.spotify.com/track/2qLFfXmrhJJME5mfjCVuNG"
     },
     {
       "rank": 4,
       "title": "Cherry Pink and Apple Blossom White",
       "artist": "Eddie Calvert",
       "youtubeId": "zvrQbsQWD7o",
-      "albumArt": "https://img.youtube.com/vi/zvrQbsQWD7o/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/zvrQbsQWD7o/hqdefault.jpg",
+      "spotifyUri": "spotify:track:48UHUXPCudPJ8zHj3VRESQ",
+      "spotifyUrl": "https://open.spotify.com/track/48UHUXPCudPJ8zHj3VRESQ"
     },
     {
       "rank": 5,
       "title": "Cool Water",
       "artist": "Frankie Laine",
       "youtubeId": "eSjfdi0qz4o",
-      "albumArt": "https://img.youtube.com/vi/eSjfdi0qz4o/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/eSjfdi0qz4o/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5JFjNCoa2VZfI0AQWC4VaY",
+      "spotifyUrl": "https://open.spotify.com/track/5JFjNCoa2VZfI0AQWC4VaY"
     },
     {
       "rank": 6,
       "title": "Cherry Pink and Apple Blossom White",
       "artist": "Perez Prado",
       "youtubeId": "pqk3F1pPjyA",
-      "albumArt": "https://img.youtube.com/vi/pqk3F1pPjyA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/pqk3F1pPjyA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5HisVcYPaIB4uHdrnW6HCt",
+      "spotifyUrl": "https://open.spotify.com/track/5HisVcYPaIB4uHdrnW6HCt"
     },
     {
       "rank": 7,
       "title": "Unchained Melody",
       "artist": "Jimmy Young",
       "youtubeId": "w0M4iZQl27k",
-      "albumArt": "https://img.youtube.com/vi/w0M4iZQl27k/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/w0M4iZQl27k/hqdefault.jpg",
+      "spotifyUri": "spotify:track:43rzJF13moSmF0PUeMkYh3",
+      "spotifyUrl": "https://open.spotify.com/track/43rzJF13moSmF0PUeMkYh3"
     },
     {
       "rank": 8,
       "title": "Mambo Italiano",
       "artist": "Rosemary Clooney",
       "youtubeId": "c7hAbb00UgY",
-      "albumArt": "https://img.youtube.com/vi/c7hAbb00UgY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/c7hAbb00UgY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0QoV9nLBwYEU1bA6m61h4F",
+      "spotifyUrl": "https://open.spotify.com/track/0QoV9nLBwYEU1bA6m61h4F"
     },
     {
       "rank": 9,
       "title": "Stranger in Paradise",
       "artist": "Tony Bennett",
       "youtubeId": "BqecjMVNZKY",
-      "albumArt": "https://img.youtube.com/vi/BqecjMVNZKY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/BqecjMVNZKY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1HUc5mDTIx8Ul2cxSiAkcj",
+      "spotifyUrl": "https://open.spotify.com/track/1HUc5mDTIx8Ul2cxSiAkcj"
     },
     {
       "rank": 10,
       "title": "Dreamboat",
       "artist": "Alma Cogan",
       "youtubeId": "lUZ7grdMUI8",
-      "albumArt": "https://img.youtube.com/vi/lUZ7grdMUI8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/lUZ7grdMUI8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5KpECOf7hoR234q8fJcphk",
+      "spotifyUrl": "https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5Od7u524xskFRcriawyvYI"
 }

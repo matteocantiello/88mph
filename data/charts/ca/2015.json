@@ -8,70 +8,91 @@
       "title": "Uptown Funk",
       "artist": "Mark Ronson feat. Bruno Mars",
       "youtubeId": "OPf0YbXqDm0",
-      "albumArt": "https://img.youtube.com/vi/OPf0YbXqDm0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/OPf0YbXqDm0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:32OlwWuMpZ6b0aN2RZOeMS",
+      "spotifyUrl": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
     },
     {
       "rank": 2,
       "title": "Thinking Out Loud",
       "artist": "Ed Sheeran",
       "youtubeId": "fdz_cabS9BU",
-      "albumArt": "https://img.youtube.com/vi/fdz_cabS9BU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/fdz_cabS9BU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
+      "spotifyUrl": "https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg"
     },
     {
       "rank": 3,
       "title": "Cheerleader",
       "artist": "OMI",
       "youtubeId": "jGflUbPQfW8",
-      "albumArt": "https://img.youtube.com/vi/jGflUbPQfW8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/jGflUbPQfW8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:023OVLNzXhX0j7CxswUt6D",
+      "spotifyUrl": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D"
     },
     {
       "rank": 4,
       "title": "See You Again",
       "artist": "Wiz Khalifa feat. Charlie Puth",
       "youtubeId": "xl8thVrlvjI",
-      "albumArt": "https://img.youtube.com/vi/xl8thVrlvjI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/xl8thVrlvjI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2JzZzZUQj3Qff7wapcbKjc",
+      "spotifyUrl": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
     },
     {
       "rank": 5,
       "title": "Sugar",
       "artist": "Maroon 5",
       "youtubeId": "iPcX6EpJI3o",
-      "albumArt": "https://img.youtube.com/vi/iPcX6EpJI3o/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/iPcX6EpJI3o/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2iuZJX9X9P0GKaE93xcPjk",
+      "spotifyUrl": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "rank": 6,
       "title": "Blank Space",
       "artist": "Taylor Swift",
       "youtubeId": "6hCqRb8Dtvo",
-      "albumArt": "https://img.youtube.com/vi/6hCqRb8Dtvo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/6hCqRb8Dtvo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+      "spotifyUrl": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky"
     },
     {
       "rank": 7,
       "title": "Take Me to Church",
       "artist": "Hozier",
       "youtubeId": "MYSVMgRr6pw",
-      "albumArt": "https://img.youtube.com/vi/MYSVMgRr6pw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/MYSVMgRr6pw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1CS7Sd1u5tWkstBhpssyjP",
+      "spotifyUrl": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP"
     },
     {
       "rank": 8,
       "title": "Can't Feel My Face",
       "artist": "The Weeknd",
       "youtubeId": "j6V7qfIRgNo",
-      "albumArt": "https://img.youtube.com/vi/j6V7qfIRgNo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/j6V7qfIRgNo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:22VdIZQfgXJea34mQxlt81",
+      "spotifyUrl": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "rank": 9,
       "title": "Lean On",
       "artist": "Major Lazer & DJ Snake feat. MØ",
       "youtubeId": "5vOid-7uBdQ",
-      "albumArt": "https://img.youtube.com/vi/5vOid-7uBdQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/5vOid-7uBdQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:01aTsQoKoeXofSTvKuunzv",
+      "spotifyUrl": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv"
     },
     {
       "rank": 10,
       "title": "Shut Up and Dance",
       "artist": "Walk the Moon",
       "youtubeId": "GGsuLVlLObc",
-      "albumArt": "https://img.youtube.com/vi/GGsuLVlLObc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/GGsuLVlLObc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4kbj5MwxO1bq9wjT5g9HaA",
+      "spotifyUrl": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6eQgPPqgR8foKbBd8kWLxP"
 }

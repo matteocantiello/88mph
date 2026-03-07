@@ -8,70 +8,91 @@
       "title": "Axel F",
       "artist": "Crazy Frog",
       "youtubeId": "_M1iPYsHZvU",
-      "albumArt": "https://img.youtube.com/vi/_M1iPYsHZvU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/_M1iPYsHZvU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0Bo5fjMtTfCD8vHGebivqc",
+      "spotifyUrl": "https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc"
     },
     {
       "rank": 2,
       "title": "Schnappi, das kleine Krokodil",
       "artist": "Schnappi",
       "youtubeId": "mz7zeyhPXQA",
-      "albumArt": "https://img.youtube.com/vi/mz7zeyhPXQA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/mz7zeyhPXQA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:719dDsgco3fLDt10XFoo4d",
+      "spotifyUrl": "https://open.spotify.com/track/719dDsgco3fLDt10XFoo4d"
     },
     {
       "rank": 3,
       "title": "Right Here Right Now",
       "artist": "Agnes",
       "youtubeId": "_zkDWJ6KP6o",
-      "albumArt": "https://img.youtube.com/vi/_zkDWJ6KP6o/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/_zkDWJ6KP6o/hqdefault.jpg",
+      "spotifyUri": "spotify:track:76QiLh03h0vsutJSMBJUA1",
+      "spotifyUrl": "https://open.spotify.com/track/76QiLh03h0vsutJSMBJUA1"
     },
     {
       "rank": 4,
       "title": "You're Beautiful",
       "artist": "James Blunt",
       "youtubeId": "J3SD2-XDGoQ",
-      "albumArt": "https://img.youtube.com/vi/J3SD2-XDGoQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/J3SD2-XDGoQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0vg4WnUWvze6pBOJDTq99k",
+      "spotifyUrl": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
       "rank": 5,
       "title": "Step Up",
       "artist": "Darin",
       "youtubeId": "ZiM4cFDaF2k",
-      "albumArt": "https://img.youtube.com/vi/ZiM4cFDaF2k/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/ZiM4cFDaF2k/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5BeBfnubllFy69omQHNavT",
+      "spotifyUrl": "https://open.spotify.com/track/5BeBfnubllFy69omQHNavT"
     },
     {
       "rank": 6,
       "title": "The hjärta & smärta EP",
       "artist": "Kent",
       "youtubeId": "b2I2pBIn9so",
-      "albumArt": "https://img.youtube.com/vi/b2I2pBIn9so/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/b2I2pBIn9so/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1QJx7n6AO45hO9aYqnRAKH",
+      "spotifyUrl": "https://open.spotify.com/track/1QJx7n6AO45hO9aYqnRAKH"
     },
     {
       "rank": 7,
       "title": "Who's That Girl",
       "artist": "Darin",
       "youtubeId": "A5lBQ677lAA",
-      "albumArt": "https://img.youtube.com/vi/A5lBQ677lAA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/A5lBQ677lAA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3wF2OXFm80jLv6FGuBAyia",
+      "spotifyUrl": "https://open.spotify.com/track/3wF2OXFm80jLv6FGuBAyia"
     },
     {
       "rank": 8,
       "title": "Satellites",
       "artist": "September",
       "youtubeId": "b3nC2dCZh6Y",
-      "albumArt": "https://img.youtube.com/vi/b3nC2dCZh6Y/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/b3nC2dCZh6Y/hqdefault.jpg",
+      "spotifyUri": "spotify:track:03N0ZpS5QaC9ga9i2xO9Vp",
+      "spotifyUrl": "https://open.spotify.com/track/03N0ZpS5QaC9ga9i2xO9Vp"
     },
     {
       "rank": 9,
       "title": "Bad Day",
       "artist": "Daniel Powter",
       "youtubeId": "-reIEyYxgxA",
-      "albumArt": "https://img.youtube.com/vi/-reIEyYxgxA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/-reIEyYxgxA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0mUyMawtxj1CJ76kn9gIZK",
+      "spotifyUrl": "https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK"
     },
     {
       "rank": 10,
       "title": "Lonely",
       "artist": "Akon",
       "youtubeId": "nN66uAbiJJw",
-      "albumArt": "https://img.youtube.com/vi/nN66uAbiJJw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/nN66uAbiJJw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4v7DCN09hgXkKazefkznDQ",
+      "spotifyUrl": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/67MxaKFcwb0KYSd2BF4WOr"
 }

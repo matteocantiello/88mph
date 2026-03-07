@@ -8,70 +8,91 @@
       "title": "Think Twice",
       "artist": "Celine Dion",
       "youtubeId": "YjvB0vXT2vE",
-      "albumArt": "https://img.youtube.com/vi/YjvB0vXT2vE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/YjvB0vXT2vE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5T0VoskNbpJIqm2RSPU2Xt",
+      "spotifyUrl": "https://open.spotify.com/track/5T0VoskNbpJIqm2RSPU2Xt"
     },
     {
       "rank": 2,
       "title": "Unchained Melody / White Cliffs of Dover",
       "artist": "Robson & Jerome",
       "youtubeId": "iPheQgeHMAU",
-      "albumArt": "https://img.youtube.com/vi/iPheQgeHMAU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/iPheQgeHMAU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:00bjRdeKrB2xxRsjzexpql",
+      "spotifyUrl": "https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql"
     },
     {
       "rank": 3,
       "title": "Boom Boom Boom",
       "artist": "The Outhere Brothers",
       "youtubeId": "u6qMxuFaq0I",
-      "albumArt": "https://img.youtube.com/vi/u6qMxuFaq0I/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/u6qMxuFaq0I/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3zg4stPJlbNSBPA8HJzLZA",
+      "spotifyUrl": "https://open.spotify.com/track/3zg4stPJlbNSBPA8HJzLZA"
     },
     {
       "rank": 4,
       "title": "Don't Stop (Wiggle Wiggle)",
       "artist": "The Outhere Brothers",
       "youtubeId": "FqJePwh71o8",
-      "albumArt": "https://img.youtube.com/vi/FqJePwh71o8/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/FqJePwh71o8/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1DjchFbMJZ7k8xYzn34X3w",
+      "spotifyUrl": "https://open.spotify.com/track/1DjchFbMJZ7k8xYzn34X3w"
     },
     {
       "rank": 5,
       "title": "Gangsta's Paradise",
       "artist": "Coolio feat. L.V.",
       "youtubeId": "7DXlY8LhWnI",
-      "albumArt": "https://img.youtube.com/vi/7DXlY8LhWnI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/7DXlY8LhWnI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1DIXPcTDzTj8ZMHt3PDt8p",
+      "spotifyUrl": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p"
     },
     {
       "rank": 6,
       "title": "Cotton Eye Joe",
       "artist": "Rednex",
       "youtubeId": "cuf5LNp1nbc",
-      "albumArt": "https://img.youtube.com/vi/cuf5LNp1nbc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/cuf5LNp1nbc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0Jg602cHeMCnPez9baacIe",
+      "spotifyUrl": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
     },
     {
       "rank": 7,
       "title": "You Are Not Alone",
       "artist": "Michael Jackson",
       "youtubeId": "02dMNQxwy48",
-      "albumArt": "https://img.youtube.com/vi/02dMNQxwy48/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/02dMNQxwy48/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3AoeaZs8dFemFJr3JdzOL0",
+      "spotifyUrl": "https://open.spotify.com/track/3AoeaZs8dFemFJr3JdzOL0"
     },
     {
       "rank": 8,
       "title": "Back for Good",
       "artist": "Take That",
       "youtubeId": "wdOwlQZmLCk",
-      "albumArt": "https://img.youtube.com/vi/wdOwlQZmLCk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/wdOwlQZmLCk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6vcdzohhBSbNdsZBh5IRpQ",
+      "spotifyUrl": "https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ"
     },
     {
       "rank": 9,
       "title": "Fairground",
       "artist": "Simply Red",
       "youtubeId": "yrxn2ruEUgw",
-      "albumArt": "https://img.youtube.com/vi/yrxn2ruEUgw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/yrxn2ruEUgw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3lghqWELEWj9yEPvme7c4W",
+      "spotifyUrl": "https://open.spotify.com/track/3lghqWELEWj9yEPvme7c4W"
     },
     {
       "rank": 10,
       "title": "I Believe / Up on the Roof",
       "artist": "Robson & Jerome",
       "youtubeId": "MxN9fNng4q4",
-      "albumArt": "https://img.youtube.com/vi/MxN9fNng4q4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/MxN9fNng4q4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2DOL9RDx4FzrTUYm2RWa1r",
+      "spotifyUrl": "https://open.spotify.com/track/2DOL9RDx4FzrTUYm2RWa1r"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1IZ3O4K2piQrlJ8EIzYkGl"
 }

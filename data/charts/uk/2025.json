@@ -8,70 +8,91 @@
       "title": "Ordinary",
       "artist": "Alex Warren",
       "youtubeId": "byxFUKxhT3s",
-      "albumArt": "https://img.youtube.com/vi/byxFUKxhT3s/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/byxFUKxhT3s/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
+      "spotifyUrl": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
     },
     {
       "rank": 2,
       "title": "Messy",
       "artist": "Lola Young",
       "youtubeId": "Y03n19YRXD4",
-      "albumArt": "https://img.youtube.com/vi/Y03n19YRXD4/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Y03n19YRXD4/hqdefault.jpg",
+      "spotifyUri": "spotify:track:35ISBknsCeZQtq66xABI9g",
+      "spotifyUrl": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
     },
     {
       "rank": 3,
       "title": "Pink Pony Club",
       "artist": "Chappell Roan",
       "youtubeId": "R_iTpfSCIVk",
-      "albumArt": "https://img.youtube.com/vi/R_iTpfSCIVk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/R_iTpfSCIVk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6393yGahSJ9slVdOwSxOVR",
+      "spotifyUrl": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
     },
     {
       "rank": 4,
       "title": "APT.",
       "artist": "ROSÉ & Bruno Mars",
       "youtubeId": "DiTd771WumE",
-      "albumArt": "https://img.youtube.com/vi/DiTd771WumE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/DiTd771WumE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+      "spotifyUrl": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "rank": 5,
       "title": "Die With A Smile",
       "artist": "Lady Gaga & Bruno Mars",
       "youtubeId": "DlFXDl_ROAM",
-      "albumArt": "https://img.youtube.com/vi/DlFXDl_ROAM/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/DlFXDl_ROAM/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "rank": 6,
       "title": "That's So True",
       "artist": "Gracie Abrams",
       "youtubeId": "W_YOJWZIjxo",
-      "albumArt": "https://img.youtube.com/vi/W_YOJWZIjxo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/W_YOJWZIjxo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "spotifyUrl": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "rank": 7,
       "title": "Beautiful Things",
       "artist": "Benson Boone",
       "youtubeId": "Oa_RSwwpPaA",
-      "albumArt": "https://img.youtube.com/vi/Oa_RSwwpPaA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Oa_RSwwpPaA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3xkHsmpQCBMytMJNiDf3Ii",
+      "spotifyUrl": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
       "rank": 8,
       "title": "Birds of a Feather",
       "artist": "Billie Eilish",
       "youtubeId": "WKZO-CWeOVA",
-      "albumArt": "https://img.youtube.com/vi/WKZO-CWeOVA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/WKZO-CWeOVA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
+      "spotifyUrl": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "rank": 9,
       "title": "Good Luck, Babe!",
       "artist": "Chappell Roan",
       "youtubeId": "VZ-oGLluGAc",
-      "albumArt": "https://img.youtube.com/vi/VZ-oGLluGAc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/VZ-oGLluGAc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0WbMK4wrZ1wFSty9F7FCgu",
+      "spotifyUrl": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "rank": 10,
       "title": "A Bar Song (Tipsy)",
       "artist": "Shaboozey",
       "youtubeId": "DPaqlPFznBI",
-      "albumArt": "https://img.youtube.com/vi/DPaqlPFznBI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/DPaqlPFznBI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5fZJQrFKWQLb7FpJXZ1g7K",
+      "spotifyUrl": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2p9fs4zuvjfTVXZhjbF8rs"
 }

@@ -199,6 +199,7 @@ export default async function ChartPage({ params }: PageProps) {
             country={country}
             countryName={getCountryName(country)}
             year={year}
+            spotifyPlaylistUrl={chart.spotifyPlaylistUrl}
           />
         </section>
 

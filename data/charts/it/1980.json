@@ -8,70 +8,91 @@
       "title": "Video Killed the Radio Star",
       "artist": "The Buggles",
       "youtubeId": "qGBohd0V2Mo",
-      "albumArt": "https://img.youtube.com/vi/qGBohd0V2Mo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/qGBohd0V2Mo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6t1FIJlZWTQfIZhsGjaulM",
+      "spotifyUrl": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
     },
     {
       "rank": 2,
       "title": "Upside Down",
       "artist": "Diana Ross",
       "youtubeId": "hDHW5wXBvLw",
-      "albumArt": "https://img.youtube.com/vi/hDHW5wXBvLw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/hDHW5wXBvLw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3pbtBomO4Zt5gGiqsYeiBH",
+      "spotifyUrl": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
     },
     {
       "rank": 3,
       "title": "Luna",
       "artist": "Gianni Togni",
       "youtubeId": "0-K3bL9iJIg",
-      "albumArt": "https://img.youtube.com/vi/0-K3bL9iJIg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/0-K3bL9iJIg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4gjmX7aKN7tVt3eqi4aP9P",
+      "spotifyUrl": "https://open.spotify.com/track/4gjmX7aKN7tVt3eqi4aP9P"
     },
     {
       "rank": 4,
       "title": "Olympic Games",
       "artist": "Miguel Bosé",
       "youtubeId": "fBscva5CVzQ",
-      "albumArt": "https://img.youtube.com/vi/fBscva5CVzQ/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/fBscva5CVzQ/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4tqIVaMnwVD7J0YC7b6zKg",
+      "spotifyUrl": "https://open.spotify.com/track/4tqIVaMnwVD7J0YC7b6zKg"
     },
     {
       "rank": 5,
       "title": "Amico",
       "artist": "Renato Zero",
       "youtubeId": "0sa-R5vkDZg",
-      "albumArt": "https://img.youtube.com/vi/0sa-R5vkDZg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/0sa-R5vkDZg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3LmfSh9YUmTvXiUpbt9zPv",
+      "spotifyUrl": "https://open.spotify.com/track/3LmfSh9YUmTvXiUpbt9zPv"
     },
     {
       "rank": 6,
       "title": "Master Blaster (Jammin')",
       "artist": "Stevie Wonder",
       "youtubeId": "0bEa3jERELA",
-      "albumArt": "https://img.youtube.com/vi/0bEa3jERELA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/0bEa3jERELA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:6NjYhDWaI8jKgcSU0ZsJuz",
+      "spotifyUrl": "https://open.spotify.com/track/6NjYhDWaI8jKgcSU0ZsJuz"
     },
     {
       "rank": 7,
       "title": "Non so che darei",
       "artist": "Alan Sorrenti",
       "youtubeId": "a_0pukZdiPs",
-      "albumArt": "https://img.youtube.com/vi/a_0pukZdiPs/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/a_0pukZdiPs/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0EOdowktdF7kczBbqstCfF",
+      "spotifyUrl": "https://open.spotify.com/track/0EOdowktdF7kczBbqstCfF"
     },
     {
       "rank": 8,
       "title": "You and Me",
       "artist": "Spargo",
       "youtubeId": "GEvo7p4QXZI",
-      "albumArt": "https://img.youtube.com/vi/GEvo7p4QXZI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/GEvo7p4QXZI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7vdCyoiMaAaC3cVXqrtXNj",
+      "spotifyUrl": "https://open.spotify.com/track/7vdCyoiMaAaC3cVXqrtXNj"
     },
     {
       "rank": 9,
       "title": "My Sharona",
       "artist": "The Knack",
       "youtubeId": "bbr60I0u2Ng",
-      "albumArt": "https://img.youtube.com/vi/bbr60I0u2Ng/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/bbr60I0u2Ng/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1HOMkjp0nHMaTnfAkslCQj",
+      "spotifyUrl": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "rank": 10,
       "title": "Il Tempo se ne va",
       "artist": "Adriano Celentano",
       "youtubeId": "-rkOJfHMmsY",
-      "albumArt": "https://img.youtube.com/vi/-rkOJfHMmsY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/-rkOJfHMmsY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:67SvGuCeo8ApQyOPdYFM4Q",
+      "spotifyUrl": "https://open.spotify.com/track/67SvGuCeo8ApQyOPdYFM4Q"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/18OHldjgtXtmdj2BeY5JOO"
 }

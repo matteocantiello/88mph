@@ -8,70 +8,91 @@
       "title": "We Belong Together",
       "artist": "Mariah Carey",
       "youtubeId": "BpcORYC6jPE",
-      "albumArt": "https://img.youtube.com/vi/BpcORYC6jPE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/BpcORYC6jPE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3LmvfNUQtglbTrydsdIqFU",
+      "spotifyUrl": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "rank": 2,
       "title": "Hollaback Girl",
       "artist": "Gwen Stefani",
       "youtubeId": "7YQESUr8Cxc",
-      "albumArt": "https://img.youtube.com/vi/7YQESUr8Cxc/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/7YQESUr8Cxc/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0LzrhCZFXW94Y8nwtTuRlw",
+      "spotifyUrl": "https://open.spotify.com/track/0LzrhCZFXW94Y8nwtTuRlw"
     },
     {
       "rank": 3,
       "title": "Since U Been Gone",
       "artist": "Kelly Clarkson",
       "youtubeId": "p0BiGek2bKA",
-      "albumArt": "https://img.youtube.com/vi/p0BiGek2bKA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/p0BiGek2bKA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3xrn9i8zhNZsTtcoWgQEAd",
+      "spotifyUrl": "https://open.spotify.com/track/3xrn9i8zhNZsTtcoWgQEAd"
     },
     {
       "rank": 4,
       "title": "Gold Digger",
       "artist": "Kanye West feat. Jamie Foxx",
       "youtubeId": "LFFcyWGWz14",
-      "albumArt": "https://img.youtube.com/vi/LFFcyWGWz14/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/LFFcyWGWz14/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1PS1QMdUqOal0ai3Gt7sDQ",
+      "spotifyUrl": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
     },
     {
       "rank": 5,
       "title": "Don't Phunk with My Heart",
       "artist": "The Black Eyed Peas",
       "youtubeId": "UvgOT91-3Po",
-      "albumArt": "https://img.youtube.com/vi/UvgOT91-3Po/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/UvgOT91-3Po/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5MzjQ95rdB2xt9DNa2IzaC",
+      "spotifyUrl": "https://open.spotify.com/track/5MzjQ95rdB2xt9DNa2IzaC"
     },
     {
       "rank": 6,
       "title": "Boulevard of Broken Dreams",
       "artist": "Green Day",
       "youtubeId": "FPrHuDvXEBw",
-      "albumArt": "https://img.youtube.com/vi/FPrHuDvXEBw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/FPrHuDvXEBw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0U87auHx1iZTEFcq9KVdmO",
+      "spotifyUrl": "https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO"
     },
     {
       "rank": 7,
       "title": "Photograph",
       "artist": "Nickelback",
       "youtubeId": "ULwIM6Za0QA",
-      "albumArt": "https://img.youtube.com/vi/ULwIM6Za0QA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/ULwIM6Za0QA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3bYrSlgvWacP1LZV44pfzp",
+      "spotifyUrl": "https://open.spotify.com/track/3bYrSlgvWacP1LZV44pfzp"
     },
     {
       "rank": 8,
       "title": "Alive",
       "artist": "Melissa O'Neil",
       "youtubeId": "JYzKiahvIDA",
-      "albumArt": "https://img.youtube.com/vi/JYzKiahvIDA/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/JYzKiahvIDA/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4GuazTuZDP0tjDb12bCfJN",
+      "spotifyUrl": "https://open.spotify.com/track/4GuazTuZDP0tjDb12bCfJN"
     },
     {
       "rank": 9,
       "title": "1, 2 Step",
       "artist": "Ciara feat. Missy Elliott",
       "youtubeId": "4p4a6_06AEI",
-      "albumArt": "https://img.youtube.com/vi/4p4a6_06AEI/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/4p4a6_06AEI/hqdefault.jpg",
+      "spotifyUri": "spotify:track:7uKcScNXuO3MWw6LowBjW1",
+      "spotifyUrl": "https://open.spotify.com/track/7uKcScNXuO3MWw6LowBjW1"
     },
     {
       "rank": 10,
       "title": "Welcome to My Life",
       "artist": "Simple Plan",
       "youtubeId": "o7tE24k5bZk",
-      "albumArt": "https://img.youtube.com/vi/o7tE24k5bZk/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/o7tE24k5bZk/hqdefault.jpg",
+      "spotifyUri": "spotify:track:714Lw0m2SmCEhKSPw0Dn8J",
+      "spotifyUrl": "https://open.spotify.com/track/714Lw0m2SmCEhKSPw0Dn8J"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5VGq8eTFxut3t1qL9PDgVn"
 }

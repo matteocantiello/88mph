@@ -8,70 +8,91 @@
       "title": "I'll Be There for You",
       "artist": "The Rembrandts",
       "youtubeId": "RIjTq_OdFvo",
-      "albumArt": "https://img.youtube.com/vi/RIjTq_OdFvo/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/RIjTq_OdFvo/hqdefault.jpg",
+      "spotifyUri": "spotify:track:15tHagkk8z306XkyOHqiip",
+      "spotifyUrl": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
     },
     {
       "rank": 2,
       "title": "Only Wanna Be with You",
       "artist": "Hootie & the Blowfish",
       "youtubeId": "62F4rAa-CK0",
-      "albumArt": "https://img.youtube.com/vi/62F4rAa-CK0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/62F4rAa-CK0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1OFKUn2VLafrHj7ybnap0Q",
+      "spotifyUrl": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "rank": 3,
       "title": "Take a Bow",
       "artist": "Madonna",
       "youtubeId": "XzETtsTBRPw",
-      "albumArt": "https://img.youtube.com/vi/XzETtsTBRPw/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/XzETtsTBRPw/hqdefault.jpg",
+      "spotifyUri": "spotify:track:5oqukcHWfqq7HGjyKwLX1y",
+      "spotifyUrl": "https://open.spotify.com/track/5oqukcHWfqq7HGjyKwLX1y"
     },
     {
       "rank": 4,
       "title": "I Wish You Well",
       "artist": "Tom Cochrane",
       "youtubeId": "B__dmroKdP0",
-      "albumArt": "https://img.youtube.com/vi/B__dmroKdP0/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/B__dmroKdP0/hqdefault.jpg",
+      "spotifyUri": "spotify:track:4OqjGjXSyAa76zrmrmMyZT",
+      "spotifyUrl": "https://open.spotify.com/track/4OqjGjXSyAa76zrmrmMyZT"
     },
     {
       "rank": 5,
       "title": "Have You Ever Really Loved a Woman?",
       "artist": "Bryan Adams",
       "youtubeId": "QfUc4zc4kTY",
-      "albumArt": "https://img.youtube.com/vi/QfUc4zc4kTY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/QfUc4zc4kTY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:32Gf5A7Hr8RdgggXG0Fdks",
+      "spotifyUrl": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
     },
     {
       "rank": 6,
       "title": "Until I Hear It from You",
       "artist": "Gin Blossoms",
       "youtubeId": "N-ERwplQNmE",
-      "albumArt": "https://img.youtube.com/vi/N-ERwplQNmE/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/N-ERwplQNmE/hqdefault.jpg",
+      "spotifyUri": "spotify:track:1wVimYQCszJEndeXtS4XtU",
+      "spotifyUrl": "https://open.spotify.com/track/1wVimYQCszJEndeXtS4XtU"
     },
     {
       "rank": 7,
       "title": "Kiss from a Rose",
       "artist": "Seal",
       "youtubeId": "_2PCtLXWdbY",
-      "albumArt": "https://img.youtube.com/vi/_2PCtLXWdbY/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/_2PCtLXWdbY/hqdefault.jpg",
+      "spotifyUri": "spotify:track:3YKptz29AsOlm7WAVnztBh",
+      "spotifyUrl": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "rank": 8,
       "title": "Strong Enough",
       "artist": "Sheryl Crow",
       "youtubeId": "_slR9CA7_Ks",
-      "albumArt": "https://img.youtube.com/vi/_slR9CA7_Ks/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/_slR9CA7_Ks/hqdefault.jpg",
+      "spotifyUri": "spotify:track:25IRjWUZ60n7KXxcB4DiX9",
+      "spotifyUrl": "https://open.spotify.com/track/25IRjWUZ60n7KXxcB4DiX9"
     },
     {
       "rank": 9,
       "title": "Believe",
       "artist": "Elton John",
       "youtubeId": "6Vm1l1GhRaU",
-      "albumArt": "https://img.youtube.com/vi/6Vm1l1GhRaU/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/6Vm1l1GhRaU/hqdefault.jpg",
+      "spotifyUri": "spotify:track:0mh3kdiViRyeH8JzVL61Hw",
+      "spotifyUrl": "https://open.spotify.com/track/0mh3kdiViRyeH8JzVL61Hw"
     },
     {
       "rank": 10,
       "title": "No More I Love You's",
       "artist": "Annie Lennox",
       "youtubeId": "Sg6_MU30mQg",
-      "albumArt": "https://img.youtube.com/vi/Sg6_MU30mQg/hqdefault.jpg"
+      "albumArt": "https://img.youtube.com/vi/Sg6_MU30mQg/hqdefault.jpg",
+      "spotifyUri": "spotify:track:2Pn5gvVioma5LHPxgEBBmD",
+      "spotifyUrl": "https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD"
     }
-  ]
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6ZXzz4dRNV35dcPnoW7Ax3"
 }
