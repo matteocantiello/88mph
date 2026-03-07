@@ -56,9 +56,14 @@ export default function TimeCircuit({
       }
     };
     document.addEventListener("mousedown", handleClick);
-    // Scroll selected year into view
+    // Scroll selected year into view within the picker (not the page)
     requestAnimationFrame(() => {
-      pickerRef.current?.querySelector("[data-selected]")?.scrollIntoView({ block: "center", behavior: "instant" });
+      const selected = pickerRef.current?.querySelector("[data-selected]") as HTMLElement | null;
+      const scroller = pickerRef.current?.querySelector("[data-picker-scroll]") as HTMLElement | null;
+      if (selected && scroller) {
+        const top = selected.offsetTop - scroller.clientHeight / 2 + selected.clientHeight / 2;
+        scroller.scrollTo({ top, behavior: "instant" });
+      }
     });
     return () => document.removeEventListener("mousedown", handleClick);
   }, [pickerOpen]);
@@ -136,7 +141,7 @@ export default function TimeCircuit({
 
           {/* Year grid picker */}
           {pickerOpen && availableYears.length > 0 && (
-            <div className="absolute left-0 right-0 top-full mt-1 z-20 bg-[#111] border border-white/[0.08] rounded-xl p-3 shadow-2xl shadow-black/60 max-h-[40vh] overflow-y-auto scrollbar-hide">
+            <div data-picker-scroll className="absolute left-0 right-0 top-full mt-1 z-20 bg-[#111] border border-white/[0.08] rounded-xl p-3 shadow-2xl shadow-black/60 max-h-[40vh] overflow-y-auto scrollbar-hide animate-picker-open">
               <div className="grid grid-cols-4 gap-1.5">
                 {availableYears.map((y) => (
                   <button

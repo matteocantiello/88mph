@@ -267,3 +267,19 @@ body {
 .flux-flash {
   animation: fluxFlash 0.5s ease-out;
 }
+
+/* Year picker open animation */
+@keyframes pickerOpen {
+  from {
+    opacity: 0;
+    transform: translateY(-4px) scaleY(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scaleY(1);
+  }
+}
+.animate-picker-open {
+  animation: pickerOpen 0.15s ease-out;
+  transform-origin: top center;
+}
