@@ -53,13 +53,13 @@ export default async function HomePage() {
           </div>
 
           {/* Hero headline + CTA */}
-          <div className="anim-slide-up text-center max-w-3xl mx-auto mb-8 md:mb-10">
+          <div className="anim-slide-up text-center max-w-3xl mx-auto mb-12 md:mb-16">
             <p className="font-body text-[10px] uppercase tracking-[0.35em] text-accent/50 mb-5 flex items-center justify-center gap-2">
               <span className="w-8 h-px bg-accent/30" />
               The past. On shuffle.
               <span className="w-8 h-px bg-accent/30" />
             </p>
-            <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-[1.05] tracking-tight text-foreground/90 mb-8">
+            <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-[1.05] tracking-tight text-foreground/90 mb-10">
               What was the world listening to?
             </h1>
             <div className="flex items-center justify-center">
