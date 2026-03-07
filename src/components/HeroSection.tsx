@@ -6,103 +6,122 @@ import { Metadata } from "@/lib/data";
 import RandomButton from "./RandomButton";
 import TimeTravelBrowser from "./TimeTravelBrowser";
 
-// All country names for the scramble pool
 const ALL_COUNTRY_NAMES = Object.keys(COUNTRIES).map((c) => getCountryName(c));
+const REEL_ITEMS = 8; // number of random items before final value
 
 /**
- * Slot-machine style inline text that scrambles through random values
- * before settling on the final text, with smooth width transitions.
+ * Vertical slot-machine reel. Builds a strip of [random, random, ..., final]
+ * and scrolls through it with a decelerating CSS transition.
  */
-function SlotMachineText({
-  text,
-  scrambling,
+function SlotReel({
+  value,
+  spinning,
   pool,
   className,
 }: {
-  text: string;
-  scrambling: boolean;
+  value: string;
+  spinning: boolean;
   pool: string[];
   className?: string;
 }) {
-  const measureRef = useRef<HTMLSpanElement>(null);
-  const hiddenRef = useRef<HTMLSpanElement>(null);
+  const containerRef = useRef<HTMLSpanElement>(null);
   const [width, setWidth] = useState<number | undefined>(undefined);
-  const [displayText, setDisplayText] = useState(text);
-  const scrambleRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const [reel, setReel] = useState<string[]>([value]);
+  const [offset, setOffset] = useState(0);
+  const [animate, setAnimate] = useState(false);
+  const prevValueRef = useRef(value);
 
-  // When scrambling starts, cycle through random pool values
+  // Build the reel when spinning starts with a new value
   useEffect(() => {
-    if (scrambling && pool.length > 0) {
-      // Start fast, showing random values
-      let tick = 0;
-      scrambleRef.current = setInterval(() => {
-        const rand = pool[Math.floor(Math.random() * pool.length)];
-        setDisplayText(rand);
-        tick++;
-        // Slow down after a few ticks by clearing and restarting slower
-        if (tick > 6 && scrambleRef.current) {
-          clearInterval(scrambleRef.current);
-          scrambleRef.current = null;
-        }
-      }, 60);
+    if (spinning) {
+      // Build reel: current displayed value + random items + final value
+      const items: string[] = [prevValueRef.current];
+      for (let i = 0; i < REEL_ITEMS; i++) {
+        items.push(pool[Math.floor(Math.random() * pool.length)]);
+      }
+      items.push(value);
+      setReel(items);
+      setOffset(0);
+      setAnimate(false);
 
-      return () => {
-        if (scrambleRef.current) {
-          clearInterval(scrambleRef.current);
-          scrambleRef.current = null;
-        }
-      };
+      // Kick off the scroll on next frame
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          setAnimate(true);
+          setOffset(items.length - 1);
+        });
+      });
     }
-  }, [scrambling, pool]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [spinning]);
 
-  // When scrambling stops, settle on the real text
+  // When settling, update displayed value
   useEffect(() => {
-    if (!scrambling) {
-      setDisplayText(text);
+    if (!spinning) {
+      prevValueRef.current = value;
+      // Collapse reel to just the final value (no animation)
+      const timer = setTimeout(() => {
+        setReel([value]);
+        setOffset(0);
+        setAnimate(false);
+      }, 50);
+      return () => clearTimeout(timer);
     }
-  }, [scrambling, text]);
+  }, [spinning, value]);
 
-  // Measure width of displayed text
+  // Measure width — track the widest item in the reel for smooth container sizing
+  const measureRef = useRef<HTMLSpanElement>(null);
   useEffect(() => {
     if (measureRef.current) {
       setWidth(measureRef.current.offsetWidth);
     }
-  }, [displayText]);
+  }, [reel, offset, value]);
 
-  // Also measure on initial render with real text via hidden span
+  // Height of one line (measured from container)
+  const [lineHeight, setLineHeight] = useState(0);
   useEffect(() => {
-    if (hiddenRef.current && width === undefined) {
-      setWidth(hiddenRef.current.offsetWidth);
+    if (containerRef.current) {
+      const style = getComputedStyle(containerRef.current);
+      setLineHeight(parseFloat(style.lineHeight) || containerRef.current.offsetHeight || 48);
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [reel]);
 
   return (
     <span
+      ref={containerRef}
       className="inline-block overflow-hidden align-bottom"
       style={{
         width: width !== undefined ? `${width}px` : "auto",
-        transition: "width 0.4s cubic-bezier(0.4, 0, 0.2, 1)",
+        height: lineHeight > 0 ? `${lineHeight}px` : "1.1em",
+        transition: "width 0.5s cubic-bezier(0.22, 1, 0.36, 1)",
+        verticalAlign: "bottom",
       }}
     >
       <span
-        ref={measureRef}
-        className={`inline-block whitespace-nowrap transition-opacity duration-200 ${className ?? ""}`}
+        className="inline-flex flex-col"
         style={{
-          opacity: scrambling ? 0.4 : 1,
-          filter: scrambling ? "blur(1px)" : "none",
-          transition: "opacity 0.2s ease, filter 0.2s ease",
+          transform: `translateY(-${offset * lineHeight}px)`,
+          transition: animate
+            ? `transform 0.7s cubic-bezier(0.16, 1, 0.3, 1)`
+            : "none",
         }}
       >
-        {displayText}
-      </span>
-      {/* Hidden measurer for initial width */}
-      <span
-        ref={hiddenRef}
-        className="absolute invisible whitespace-nowrap"
-        aria-hidden
-      >
-        {text}
+        {reel.map((item, i) => {
+          const isFinal = i === reel.length - 1 || reel.length === 1;
+          return (
+            <span
+              key={`${i}-${item}`}
+              ref={isFinal ? measureRef : undefined}
+              className={`inline-block whitespace-nowrap ${className ?? ""}`}
+              style={{
+                height: lineHeight > 0 ? `${lineHeight}px` : "1.1em",
+                lineHeight: lineHeight > 0 ? `${lineHeight}px` : "1.1",
+              }}
+            >
+              {item}
+            </span>
+          );
+        })}
       </span>
     </span>
   );
@@ -119,11 +138,10 @@ export default function HeroSection({
 }: HeroSectionProps) {
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
   const [selectedYear, setSelectedYear] = useState<number | null>(null);
-  const [scrambling, setScrambling] = useState(false);
+  const [spinning, setSpinning] = useState(false);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const userInteractedRef = useRef(false);
 
-  // Build flat list of all country/year pairs for rotation
   const allPairs = useMemo(() => {
     const pairs: { country: string; year: number }[] = [];
     for (const [country, years] of Object.entries(availableYearsByCountry)) {
@@ -134,7 +152,6 @@ export default function HeroSection({
     return pairs;
   }, [availableYearsByCountry]);
 
-  // Pool of year strings for scramble effect
   const yearPool = useMemo(
     () => Array.from(new Set(allPairs.map((p) => String(p.year)))),
     [allPairs]
@@ -144,18 +161,17 @@ export default function HeroSection({
     if (allPairs.length === 0 || userInteractedRef.current) return;
     const pair = allPairs[Math.floor(Math.random() * allPairs.length)];
 
-    // Start scramble
-    setScrambling(true);
+    // Set the target values and start spinning
+    setSelectedCountry(pair.country);
+    setSelectedYear(pair.year);
+    setSpinning(true);
 
-    // After scramble duration, settle on final values
+    // Stop spinning after animation completes
     setTimeout(() => {
-      setSelectedCountry(pair.country);
-      setSelectedYear(pair.year);
-      setScrambling(false);
-    }, 500);
+      setSpinning(false);
+    }, 800);
   }, [allPairs]);
 
-  // Start rotating on mount
   useEffect(() => {
     pickRandom();
     intervalRef.current = setInterval(pickRandom, 4000);
@@ -164,14 +180,13 @@ export default function HeroSection({
     };
   }, [pickRandom]);
 
-  // Stop rotation when user interacts
   const stopRotation = useCallback(() => {
     userInteractedRef.current = true;
     if (intervalRef.current) {
       clearInterval(intervalRef.current);
       intervalRef.current = null;
     }
-    setScrambling(false);
+    setSpinning(false);
   }, []);
 
   const handleCountryChange = useCallback(
@@ -225,9 +240,9 @@ export default function HeroSection({
         </p>
         <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.1] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
           What was{" "}
-          <SlotMachineText
-            text={countryLabel}
-            scrambling={scrambling}
+          <SlotReel
+            value={countryLabel}
+            spinning={spinning}
             pool={ALL_COUNTRY_NAMES}
             className={rawName ? "text-amber-400/90" : ""}
           />{" "}
@@ -235,9 +250,9 @@ export default function HeroSection({
           {selectedYear ? (
             <>
               {" in "}
-              <SlotMachineText
-                text={String(selectedYear)}
-                scrambling={scrambling}
+              <SlotReel
+                value={String(selectedYear)}
+                spinning={spinning}
                 pool={yearPool}
                 className="text-emerald-400/80"
               />
