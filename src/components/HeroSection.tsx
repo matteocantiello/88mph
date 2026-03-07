@@ -7,34 +7,63 @@ import RandomButton from "./RandomButton";
 import TimeTravelBrowser from "./TimeTravelBrowser";
 
 const ALL_COUNTRY_NAMES = Object.keys(COUNTRIES).map((c) => getCountryName(c));
-const REEL_ITEMS = 8; // number of random items before final value
+const REEL_ITEMS = 8;
+
+// Prepend "the" for country labels used in the drum
+function formatCountryLabel(name: string): string {
+  if (/^(United|Netherlands|Philippines)/i.test(name)) return "the " + name;
+  return name;
+}
+
+// All labels with "the" prefix where needed, for the pool
+const ALL_COUNTRY_LABELS = ALL_COUNTRY_NAMES.map(formatCountryLabel);
+
+// Font scale factor: shorter names stay at 1, long ones shrink slightly
+function fontScale(text: string): number {
+  if (text.length <= 8) return 1;
+  if (text.length <= 14) return 0.85;
+  return 0.72;
+}
 
 /**
- * Vertical slot-machine reel. Builds a strip of [random, random, ..., final]
- * and scrolls through it with a decelerating CSS transition.
+ * Fixed-width drum that vertically scrolls through values.
+ * Width is constant (set via CSS), text is centered and scaled to fit.
  */
-function SlotReel({
+function SlotDrum({
   value,
   spinning,
   pool,
   className,
+  drumWidth,
 }: {
   value: string;
   spinning: boolean;
   pool: string[];
   className?: string;
+  drumWidth: string; // CSS width like "8em"
 }) {
   const containerRef = useRef<HTMLSpanElement>(null);
-  const [width, setWidth] = useState<number | undefined>(undefined);
   const [reel, setReel] = useState<string[]>([value]);
   const [offset, setOffset] = useState(0);
   const [animate, setAnimate] = useState(false);
   const prevValueRef = useRef(value);
 
-  // Build the reel when spinning starts with a new value
+  const [lineHeight, setLineHeight] = useState(0);
+  useEffect(() => {
+    if (containerRef.current) {
+      const h = containerRef.current.parentElement?.offsetHeight;
+      if (h) {
+        setLineHeight(h);
+      } else {
+        const style = getComputedStyle(containerRef.current);
+        setLineHeight(parseFloat(style.fontSize) * 1.1 || 48);
+      }
+    }
+  }, []);
+
+  // Build reel on spin
   useEffect(() => {
     if (spinning) {
-      // Build reel: current displayed value + random items + final value
       const items: string[] = [prevValueRef.current];
       for (let i = 0; i < REEL_ITEMS; i++) {
         items.push(pool[Math.floor(Math.random() * pool.length)]);
@@ -44,7 +73,6 @@ function SlotReel({
       setOffset(0);
       setAnimate(false);
 
-      // Kick off the scroll on next frame
       requestAnimationFrame(() => {
         requestAnimationFrame(() => {
           setAnimate(true);
@@ -55,11 +83,10 @@ function SlotReel({
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [spinning]);
 
-  // When settling, update displayed value
+  // Settle
   useEffect(() => {
     if (!spinning) {
       prevValueRef.current = value;
-      // Collapse reel to just the final value (no animation)
       const timer = setTimeout(() => {
         setReel([value]);
         setOffset(0);
@@ -69,59 +96,40 @@ function SlotReel({
     }
   }, [spinning, value]);
 
-  // Measure width — track the widest item in the reel for smooth container sizing
-  const measureRef = useRef<HTMLSpanElement>(null);
-  useEffect(() => {
-    if (measureRef.current) {
-      setWidth(measureRef.current.offsetWidth);
-    }
-  }, [reel, offset, value]);
-
-  // Height of one line (measured from container)
-  const [lineHeight, setLineHeight] = useState(0);
-  useEffect(() => {
-    if (containerRef.current) {
-      const style = getComputedStyle(containerRef.current);
-      setLineHeight(parseFloat(style.lineHeight) || containerRef.current.offsetHeight || 48);
-    }
-  }, [reel]);
-
   return (
     <span
       ref={containerRef}
-      className="inline-block overflow-hidden align-bottom"
+      className="inline-block overflow-hidden align-bottom text-center"
       style={{
-        width: width !== undefined ? `${width}px` : "auto",
+        width: drumWidth,
         height: lineHeight > 0 ? `${lineHeight}px` : "1.1em",
-        transition: "width 0.5s cubic-bezier(0.22, 1, 0.36, 1)",
         verticalAlign: "bottom",
+        borderBottom: "2px solid rgba(255,255,255,0.06)",
+        borderRadius: "2px",
       }}
     >
       <span
-        className="inline-flex flex-col"
+        className="flex flex-col items-center"
         style={{
-          transform: `translateY(-${offset * lineHeight}px)`,
+          transform: `translateY(-${offset * (lineHeight || 0)}px)`,
           transition: animate
-            ? `transform 0.7s cubic-bezier(0.16, 1, 0.3, 1)`
+            ? "transform 0.7s cubic-bezier(0.16, 1, 0.3, 1)"
             : "none",
         }}
       >
-        {reel.map((item, i) => {
-          const isFinal = i === reel.length - 1 || reel.length === 1;
-          return (
-            <span
-              key={`${i}-${item}`}
-              ref={isFinal ? measureRef : undefined}
-              className={`inline-block whitespace-nowrap ${className ?? ""}`}
-              style={{
-                height: lineHeight > 0 ? `${lineHeight}px` : "1.1em",
-                lineHeight: lineHeight > 0 ? `${lineHeight}px` : "1.1",
-              }}
-            >
-              {item}
-            </span>
-          );
-        })}
+        {reel.map((item, i) => (
+          <span
+            key={`${i}-${item}`}
+            className={`block whitespace-nowrap ${className ?? ""}`}
+            style={{
+              height: lineHeight > 0 ? `${lineHeight}px` : "1.1em",
+              lineHeight: lineHeight > 0 ? `${lineHeight}px` : "1.1",
+              fontSize: `${fontScale(item)}em`,
+            }}
+          >
+            {item}
+          </span>
+        ))}
       </span>
     </span>
   );
@@ -161,12 +169,10 @@ export default function HeroSection({
     if (allPairs.length === 0 || userInteractedRef.current) return;
     const pair = allPairs[Math.floor(Math.random() * allPairs.length)];
 
-    // Set the target values and start spinning
     setSelectedCountry(pair.country);
     setSelectedYear(pair.year);
     setSpinning(true);
 
-    // Stop spinning after animation completes
     setTimeout(() => {
       setSpinning(false);
     }, 800);
@@ -224,10 +230,7 @@ export default function HeroSection({
   );
 
   const rawName = selectedCountry ? getCountryName(selectedCountry) : null;
-  const needsThe = rawName && /^(United|Netherlands|Philippines)/i.test(rawName);
-  const countryLabel = rawName
-    ? (needsThe ? "the " : "") + rawName
-    : "the world";
+  const countryLabel = rawName ? formatCountryLabel(rawName) : "the world";
 
   return (
     <>
@@ -240,24 +243,21 @@ export default function HeroSection({
         </p>
         <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.1] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
           What was{" "}
-          <SlotReel
+          <SlotDrum
             value={countryLabel}
             spinning={spinning}
-            pool={ALL_COUNTRY_NAMES}
-            className={rawName ? "text-amber-400/90" : ""}
+            pool={ALL_COUNTRY_LABELS}
+            className="text-amber-400/90"
+            drumWidth="7.5em"
           />{" "}
-          listening to
-          {selectedYear ? (
-            <>
-              {" in "}
-              <SlotReel
-                value={String(selectedYear)}
-                spinning={spinning}
-                pool={yearPool}
-                className="text-emerald-400/80"
-              />
-            </>
-          ) : null}
+          listening to in{" "}
+          <SlotDrum
+            value={selectedYear ? String(selectedYear) : "----"}
+            spinning={spinning}
+            pool={yearPool}
+            className="text-emerald-400/80"
+            drumWidth="2.8em"
+          />
           ?
         </h1>
         <div className="flex items-center justify-center">
