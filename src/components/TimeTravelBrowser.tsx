@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import WorldMap from "./WorldMap";
 import TimeCircuit from "./TimeCircuit";
@@ -47,21 +47,21 @@ export default function TimeTravelBrowser({
   const selectedCountry = isControlled ? controlledCountry : internalCountry;
   const destinationYear = isControlled ? controlledYear ?? null : internalYear;
 
-  const handleCountryChange = (c: string | null) => {
+  const handleCountryChange = useCallback((c: string | null) => {
     if (isControlled) {
       onCountryChange?.(c);
     } else {
       setInternalCountry(c);
     }
-  };
+  }, [isControlled, onCountryChange]);
 
-  const handleYearChange = (y: number | null) => {
+  const handleYearChange = useCallback((y: number | null) => {
     if (isControlled) {
       onYearChange?.(y);
     } else {
       setInternalYear(y);
     }
-  };
+  }, [isControlled, onYearChange]);
 
   // Read last departed from localStorage + pre-select random country/year on mount (uncontrolled only)
   useEffect(() => {
