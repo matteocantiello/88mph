@@ -37,15 +37,15 @@ export default function HeroSection({
           The past. On shuffle.
           <span className="w-8 h-px bg-accent/30" />
         </p>
-        <h1 className="font-display text-[2rem] sm:text-5xl md:text-6xl lg:text-7xl leading-[1.05] tracking-tight text-foreground/90 mb-10">
+        <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.1] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
           {countryName && displayYear ? (
             <>
               What was{" "}
-              <span className="led-hero inline text-[1em] leading-[inherit]">
+              <span className="text-amber-400/90">
                 {countryName}
               </span>{" "}
               listening to in{" "}
-              <span className="led-digit led-green inline text-[1em] leading-[inherit]">
+              <span className="text-emerald-400/80">
                 {displayYear}
               </span>
               ?
