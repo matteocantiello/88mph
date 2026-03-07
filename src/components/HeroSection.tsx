@@ -37,12 +37,14 @@ function drumFontScale(text: string): number {
  */
 function Drum3D({
   value,
+  target,
   spinning,
   pool,
   className,
   drumWidth,
 }: {
   value: string;
+  target?: string;
   spinning: boolean;
   pool: string[];
   className?: string;
@@ -71,13 +73,15 @@ function Drum3D({
       ? slotH / (2 * Math.sin(Math.PI / itemCount))
       : 0;
 
+  const landingValue = target ?? value;
+
   useEffect(() => {
     if (spinning) {
       const items: string[] = [prevValueRef.current];
       for (let i = 0; i < REEL_ITEMS; i++) {
         items.push(pool[Math.floor(Math.random() * pool.length)]);
       }
-      items.push(value);
+      items.push(landingValue);
       setReel(items);
       setCurrentIndex(0);
       setAnimate(false);
@@ -175,6 +179,8 @@ export default function HeroSection({
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
   const [selectedYear, setSelectedYear] = useState<number | null>(null);
   const [spinning, setSpinning] = useState(false);
+  const [targetCountryLabel, setTargetCountryLabel] = useState<string>("");
+  const [targetYearLabel, setTargetYearLabel] = useState<string>("");
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const userInteractedRef = useRef(false);
   const targetRef = useRef<{ country: string; year: number } | null>(null);
@@ -208,6 +214,8 @@ export default function HeroSection({
     const pair = allPairs[Math.floor(Math.random() * allPairs.length)];
 
     targetRef.current = pair;
+    setTargetCountryLabel(drumLabel(getCountryName(pair.country)));
+    setTargetYearLabel(String(pair.year));
     setSpinning(true);
 
     let tick = 0;
@@ -312,6 +320,7 @@ export default function HeroSection({
           What was{" "}
           <Drum3D
             value={countryLabel}
+            target={targetCountryLabel}
             spinning={spinning}
             pool={ALL_DRUM_LABELS}
             className="text-amber-400/90"
@@ -320,6 +329,7 @@ export default function HeroSection({
           listening to in{" "}
           <Drum3D
             value={selectedYear ? String(selectedYear) : ""}
+            target={targetYearLabel}
             spinning={spinning}
             pool={yearPool}
             className="text-emerald-400/80"
