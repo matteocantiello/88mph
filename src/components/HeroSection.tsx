@@ -59,7 +59,7 @@ function Drum3D({
   useEffect(() => {
     if (containerRef.current) {
       const fs = parseFloat(getComputedStyle(containerRef.current).fontSize);
-      setSlotH(Math.ceil(fs * 1.35));
+      setSlotH(Math.ceil(fs * 1.05));
     }
   }, []);
 
@@ -112,7 +112,7 @@ function Drum3D({
       className="inline-block overflow-hidden text-center"
       style={{
         width: drumWidth,
-        height: slotH > 0 ? `${slotH}px` : "1.35em",
+        height: slotH > 0 ? `${slotH}px` : "1.05em",
         verticalAlign: "bottom",
         marginBottom: "-0.18em",
         perspective: slotH > 0 ? `${slotH * 4}px` : "200px",
@@ -135,7 +135,7 @@ function Drum3D({
             ? "transform 0.8s cubic-bezier(0.16, 1, 0.3, 1)"
             : "none",
           position: "relative",
-          height: slotH > 0 ? `${slotH}px` : "1.35em",
+          height: slotH > 0 ? `${slotH}px` : "1.05em",
         }}
       >
         {reel.map((item, i) => (
@@ -144,8 +144,8 @@ function Drum3D({
             className={`whitespace-nowrap ${className ?? ""}`}
             style={{
               position: itemCount > 1 ? "absolute" : "relative",
-              height: slotH > 0 ? `${slotH}px` : "1.35em",
-              lineHeight: slotH > 0 ? `${slotH}px` : "1.35",
+              height: slotH > 0 ? `${slotH}px` : "1.05em",
+              lineHeight: slotH > 0 ? `${slotH}px` : "1.05",
               fontSize: `${drumFontScale(item)}em`,
               width: "100%",
               backfaceVisibility: "hidden",
@@ -324,7 +324,7 @@ export default function HeroSection({
             pool={yearPool}
             className="text-emerald-400/80"
             drumWidth="1.8em"
-          />
+          />{" "}
           ?
         </h1>
         <div className="flex items-center justify-center">
