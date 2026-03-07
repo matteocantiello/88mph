@@ -69,17 +69,20 @@
     {
       "rank": 8,
       "title": "Uptown Funk!",
-      "artist": "Mark Ronson feat. Bruno Mars"
+      "artist": "Mark Ronson feat. Bruno Mars",
+      "youtubeId": "OPf0YbXqDm0"
     },
     {
       "rank": 9,
       "title": "Stole the Show",
-      "artist": "Kygo feat. Parson James"
+      "artist": "Kygo feat. Parson James",
+      "youtubeId": "BgfcToAjfdc"
     },
     {
       "rank": 10,
       "title": "What Do You Mean?",
-      "artist": "Justin Bieber"
+      "artist": "Justin Bieber",
+      "youtubeId": "DK_0jXPuIr0"
     }
   ]
 }
