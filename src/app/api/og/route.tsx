@@ -41,18 +41,19 @@ export async function GET(req: NextRequest) {
   const format = searchParams.get("format");
   const isLandscape = format === "landscape";
 
-  // Load postcard image if available, convert to PNG data URL for Satori
+  // Load postcard image if available, convert to JPEG data URL for Satori
+  // Use lower resolution to keep final image small and fast (WhatsApp has ~4s timeout)
   let postcardDataUrl: string | null = null;
   const postcardPath = path.join(process.cwd(), "public", "postcards", `${country}_${year}.webp`);
   if (fs.existsSync(postcardPath)) {
     try {
-      const w = isLandscape ? 1200 : 1080;
-      const h = isLandscape ? 630 : 620;
-      const pngBuffer = await sharp(postcardPath)
+      const w = isLandscape ? 600 : 540;
+      const h = isLandscape ? 315 : 310;
+      const jpegBuffer = await sharp(postcardPath)
         .resize(w, h, { fit: "cover" })
-        .png({ quality: 70 })
+        .jpeg({ quality: 60 })
         .toBuffer();
-      postcardDataUrl = `data:image/png;base64,${pngBuffer.toString("base64")}`;
+      postcardDataUrl = `data:image/jpeg;base64,${jpegBuffer.toString("base64")}`;
     } catch {
       // Fall back to gradient-only
     }
@@ -78,7 +79,7 @@ export async function GET(req: NextRequest) {
   };
 
   if (isLandscape) {
-    return new ImageResponse(
+    const pngResponse = new ImageResponse(
       (
         <div
           style={{
@@ -273,8 +274,21 @@ export async function GET(req: NextRequest) {
           </div>
         </div>
       ),
-      { width: 1200, height: 630, fonts, headers: cacheHeaders }
+      { width: 1200, height: 630, fonts }
     );
+
+    // Convert PNG to JPEG for smaller file size (WhatsApp has ~4s timeout and prefers small images)
+    const pngBuffer = Buffer.from(await pngResponse.arrayBuffer());
+    const jpegBuffer = await sharp(pngBuffer)
+      .jpeg({ quality: 80 })
+      .toBuffer();
+
+    return new Response(new Uint8Array(jpegBuffer), {
+      headers: {
+        "Content-Type": "image/jpeg",
+        ...cacheHeaders,
+      },
+    });
   }
 
   // Portrait format (default) — for download
