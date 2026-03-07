@@ -252,23 +252,62 @@ Requires `TOGETHER_API_KEY` in `.env.local`. Images are saved to `public/postcar
 
 ### Step 8: Create Spotify Playlists
 
-Each chart gets a pre-created public playlist on the 88mph Spotify account with a postcard cover image.
+Each chart gets a pre-created public playlist on the dedicated **88mph Spotify account** with a postcard cover image. This means users can open the full playlist with one click — no Spotify login required on their end.
+
+#### Prerequisites
+
+- A Spotify app registered at [developer.spotify.com/dashboard](https://developer.spotify.com/dashboard)
+  - Redirect URI: `http://127.0.0.1:8765/callback`
+  - API: **Web API**
+- The 88mph Spotify account must have **Premium** (required for Web API access since Feb 2026)
+- `.env.local` must contain `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN`
+
+#### First-time setup: Get a refresh token
 
 ```bash
-# One-time setup: get a refresh token for the 88mph Spotify account
 node scripts/spotify-get-token.mjs
-# → Save the printed SPOTIFY_REFRESH_TOKEN to .env.local
+```
 
-# Create playlists for all new charts (skips existing)
+This opens a browser to authorize the 88mph Spotify account with `playlist-modify-public` and `ugc-image-upload` scopes. After authorizing, it prints a `SPOTIFY_REFRESH_TOKEN` — add it to `.env.local`.
+
+This only needs to be done once. The refresh token is long-lived, **but** Spotify will revoke it if an API call fails (e.g., invalid endpoint, 403 error). If that happens, re-run `spotify-get-token.mjs` to get a new token.
+
+#### Creating playlists
+
+```bash
+# Create playlists for all charts that don't have one yet
 node scripts/create-spotify-playlists.mjs
 
 # Single country/year
-node scripts/create-spotify-playlists.mjs --country ca --year 1985
+node scripts/create-spotify-playlists.mjs --country us --year 2026
 ```
 
-Requires `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` in `.env.local`. The Spotify account must have Premium (required for Web API access since Feb 2026).
+For each chart, the script:
+1. Skips if `spotifyPlaylistUrl` already exists in the chart JSON (idempotent)
+2. Skips if no tracks have `spotifyUri` (run `enrich-spotify.mjs` first)
+3. Creates a public playlist named **`88mph: {Country Name} {Year}`**
+4. Sets description: `Top 10 songs from {Country} in {Year}. Explore more at 88mph.fm`
+5. Adds all tracks that have a `spotifyUri`
+6. Uploads the postcard image (`public/postcards/{country}_{year}.webp`) as the playlist cover (resized to 640x640 JPEG)
+7. Saves the playlist URL as `spotifyPlaylistUrl` in the chart JSON
 
-The script creates a public playlist named `88mph: {Country} {Year}`, adds all tracks with `spotifyUri`, uploads the postcard as cover art, and saves the playlist URL to `spotifyPlaylistUrl` in the chart JSON. The chart page automatically shows a "Listen on Spotify" button when this field exists.
+The chart page (`src/components/ChartList.tsx`) automatically shows a green **"Listen on Spotify"** button when `spotifyPlaylistUrl` exists on the chart data.
+
+#### API notes (Feb 2026 changes)
+
+Spotify changed several endpoints in February 2026. The scripts already use the updated endpoints:
+- Playlist creation: `POST /me/playlists` (not `/users/{id}/playlists`)
+- Add tracks: `POST /playlists/{id}/items` (not `/playlists/{id}/tracks`)
+- Cover upload: `PUT /playlists/{id}/images` (unchanged)
+
+#### Troubleshooting
+
+| Error | Fix |
+|-------|-----|
+| `Token refresh failed: Refresh token revoked` | Re-run `node scripts/spotify-get-token.mjs` and update `.env.local` |
+| `403 Forbidden` on playlist creation | Check that the Spotify account has Premium and the app uses Web API |
+| `401 Unauthorized` on cover upload | Re-auth with `spotify-get-token.mjs` — the `ugc-image-upload` scope may be missing |
+| Rate limiting (429) | The script has built-in 1-second delays; if hit, wait and re-run (idempotent) |
 
 ### Step 9: Update Documentation
 
