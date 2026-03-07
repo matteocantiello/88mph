@@ -17,6 +17,8 @@ interface TimeTravelBrowserProps {
   stacked?: boolean;
   /** Hide the section header */
   hideHeader?: boolean;
+  /** Called when selected country or year changes */
+  onSelectionChange?: (country: string | null, year: number | null) => void;
 }
 
 const LS_KEY = "88mph-last-departed";
@@ -25,6 +27,7 @@ export default function TimeTravelBrowser({
   availableYearsByCountry,
   stacked = false,
   hideHeader = false,
+  onSelectionChange,
 }: TimeTravelBrowserProps) {
   const router = useRouter();
   const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
@@ -77,6 +80,11 @@ export default function TimeTravelBrowser({
       return years[Math.floor(years.length / 2)];
     });
   }, [selectedCountry, availableYearsByCountry]);
+
+  // Notify parent of selection changes
+  useEffect(() => {
+    onSelectionChange?.(selectedCountry, destinationYear);
+  }, [selectedCountry, destinationYear, onSelectionChange]);
 
   const handleGo = () => {
     if (!selectedCountry || !destinationYear) return;
