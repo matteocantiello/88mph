@@ -8,7 +8,7 @@ import TimeTravelBrowser from "./TimeTravelBrowser";
 
 const REEL_ITEMS = 8;
 
-// Short display names for the drum — keep everything compact
+// Short display names for the drum
 const DRUM_NAMES: Record<string, string> = {
   "United States": "the US",
   "United Kingdom": "the UK",
@@ -21,10 +21,10 @@ function drumLabel(name: string): string {
   return DRUM_NAMES[name] || name;
 }
 
-const ALL_DRUM_LABELS = Object.keys(COUNTRIES)
-  .map((c) => drumLabel(getCountryName(c)));
+const ALL_DRUM_LABELS = Object.keys(COUNTRIES).map((c) =>
+  drumLabel(getCountryName(c))
+);
 
-// Scale font for names that are still a bit long
 function drumFontScale(text: string): number {
   if (text.length <= 7) return 1;
   if (text.length <= 9) return 0.88;
@@ -32,10 +32,10 @@ function drumFontScale(text: string): number {
 }
 
 /**
- * Fixed-width vertical slot drum. Items scroll vertically with deceleration.
- * Uses a generous slot height (1.3em) to avoid clipping descenders.
+ * 3D rotating drum. Items are placed around a cylinder using CSS 3D transforms.
+ * The cylinder rotates to show each item through a viewport window.
  */
-function SlotDrum({
+function Drum3D({
   value,
   spinning,
   pool,
@@ -50,18 +50,26 @@ function SlotDrum({
 }) {
   const containerRef = useRef<HTMLSpanElement>(null);
   const [reel, setReel] = useState<string[]>([value]);
-  const [offset, setOffset] = useState(0);
+  const [currentIndex, setCurrentIndex] = useState(0);
   const [animate, setAnimate] = useState(false);
   const prevValueRef = useRef(value);
 
-  // Slot height in px — measured from font size
+  // Slot height and cylinder radius
   const [slotH, setSlotH] = useState(0);
   useEffect(() => {
     if (containerRef.current) {
       const fs = parseFloat(getComputedStyle(containerRef.current).fontSize);
-      setSlotH(Math.ceil(fs * 1.3));
+      setSlotH(Math.ceil(fs * 1.35));
     }
   }, []);
+
+  // Cylinder radius: r = h / (2 * sin(PI / n))
+  const itemCount = reel.length;
+  const angleStep = itemCount > 1 ? 360 / itemCount : 0;
+  const radius =
+    itemCount > 1 && slotH > 0
+      ? slotH / (2 * Math.sin(Math.PI / itemCount))
+      : 0;
 
   useEffect(() => {
     if (spinning) {
@@ -71,17 +79,17 @@ function SlotDrum({
       }
       items.push(value);
       setReel(items);
-      setOffset(0);
+      setCurrentIndex(0);
       setAnimate(false);
 
       requestAnimationFrame(() => {
         requestAnimationFrame(() => {
           setAnimate(true);
-          setOffset(items.length - 1);
+          setCurrentIndex(items.length - 1);
         });
       });
     }
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [spinning]);
 
   useEffect(() => {
@@ -89,12 +97,14 @@ function SlotDrum({
       prevValueRef.current = value;
       const timer = setTimeout(() => {
         setReel([value]);
-        setOffset(0);
+        setCurrentIndex(0);
         setAnimate(false);
       }, 50);
       return () => clearTimeout(timer);
     }
   }, [spinning, value]);
+
+  const rotationAngle = -currentIndex * angleStep;
 
   return (
     <span
@@ -102,28 +112,46 @@ function SlotDrum({
       className="inline-block overflow-hidden text-center"
       style={{
         width: drumWidth,
-        height: slotH > 0 ? `${slotH}px` : "1.3em",
+        height: slotH > 0 ? `${slotH}px` : "1.35em",
         verticalAlign: "bottom",
         marginBottom: "-0.18em",
+        perspective: slotH > 0 ? `${slotH * 4}px` : "200px",
+        borderRadius: "4px",
+        background: "rgba(255,255,255,0.03)",
+        boxShadow:
+          "inset 0 8px 12px -4px rgba(0,0,0,0.5), inset 0 -8px 12px -4px rgba(0,0,0,0.5)",
       }}
     >
       <span
         className="flex flex-col items-center"
         style={{
-          transform: `translateY(-${offset * slotH}px)`,
+          transformStyle: itemCount > 1 ? "preserve-3d" : undefined,
+          transform:
+            itemCount > 1
+              ? `translateZ(-${radius}px) rotateX(${rotationAngle}deg)`
+              : undefined,
           transition: animate
-            ? "transform 0.7s cubic-bezier(0.16, 1, 0.3, 1)"
+            ? "transform 0.8s cubic-bezier(0.16, 1, 0.3, 1)"
             : "none",
+          position: "relative",
+          height: slotH > 0 ? `${slotH}px` : "1.35em",
         }}
       >
         {reel.map((item, i) => (
           <span
             key={`${i}-${item}`}
-            className={`block whitespace-nowrap ${className ?? ""}`}
+            className={`whitespace-nowrap ${className ?? ""}`}
             style={{
-              height: slotH > 0 ? `${slotH}px` : "1.3em",
-              lineHeight: slotH > 0 ? `${slotH}px` : "1.3",
+              position: itemCount > 1 ? "absolute" : "relative",
+              height: slotH > 0 ? `${slotH}px` : "1.35em",
+              lineHeight: slotH > 0 ? `${slotH}px` : "1.35",
               fontSize: `${drumFontScale(item)}em`,
+              width: "100%",
+              backfaceVisibility: "hidden",
+              transform:
+                itemCount > 1
+                  ? `rotateX(${i * angleStep}deg) translateZ(${radius}px)`
+                  : undefined,
             }}
           >
             {item}
@@ -166,11 +194,11 @@ export default function HeroSection({
     [allPairs]
   );
 
-  // Countries with charts for map shuffling
   const countryPool = useMemo(
-    () => Object.keys(availableYearsByCountry).filter(
-      (c) => (availableYearsByCountry[c]?.length ?? 0) > 0
-    ),
+    () =>
+      Object.keys(availableYearsByCountry).filter(
+        (c) => (availableYearsByCountry[c]?.length ?? 0) > 0
+      ),
     [availableYearsByCountry]
   );
 
@@ -178,18 +206,16 @@ export default function HeroSection({
     if (allPairs.length === 0 || userInteractedRef.current) return;
     const pair = allPairs[Math.floor(Math.random() * allPairs.length)];
 
-    // Store the final target
     targetRef.current = pair;
-
-    // Start drum spin (headline)
     setSpinning(true);
 
-    // Shuffle map/circuit through random countries+years during spin
     let tick = 0;
     shuffleRef.current = setInterval(() => {
-      const randCountry = countryPool[Math.floor(Math.random() * countryPool.length)];
+      const randCountry =
+        countryPool[Math.floor(Math.random() * countryPool.length)];
       const randYears = availableYearsByCountry[randCountry] || [];
-      const randYear = randYears[Math.floor(Math.random() * randYears.length)];
+      const randYear =
+        randYears[Math.floor(Math.random() * randYears.length)];
       setSelectedCountry(randCountry);
       setSelectedYear(randYear);
       tick++;
@@ -199,7 +225,6 @@ export default function HeroSection({
       }
     }, 80);
 
-    // Settle on final value
     setTimeout(() => {
       if (shuffleRef.current) {
         clearInterval(shuffleRef.current);
@@ -229,7 +254,6 @@ export default function HeroSection({
       clearInterval(shuffleRef.current);
       shuffleRef.current = null;
     }
-    // Settle on target if mid-spin
     if (targetRef.current) {
       setSelectedCountry(targetRef.current.country);
       setSelectedYear(targetRef.current.year);
@@ -272,7 +296,7 @@ export default function HeroSection({
   );
 
   const rawName = selectedCountry ? getCountryName(selectedCountry) : null;
-  const countryLabel = rawName ? drumLabel(rawName) : "the world";
+  const countryLabel = rawName ? drumLabel(rawName) : "";
 
   return (
     <>
@@ -285,7 +309,7 @@ export default function HeroSection({
         </p>
         <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.3] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
           What was{" "}
-          <SlotDrum
+          <Drum3D
             value={countryLabel}
             spinning={spinning}
             pool={ALL_DRUM_LABELS}
@@ -293,8 +317,8 @@ export default function HeroSection({
             drumWidth="4.2em"
           />{" "}
           listening to in{" "}
-          <SlotDrum
-            value={selectedYear ? String(selectedYear) : "----"}
+          <Drum3D
+            value={selectedYear ? String(selectedYear) : ""}
             spinning={spinning}
             pool={yearPool}
             className="text-emerald-400/80"
