@@ -2,7 +2,7 @@ name: Triage Chart Suggestion
 
 on:
   issues:
-    types: [opened, labeled]
+    types: [opened]
 
 jobs:
   triage:
