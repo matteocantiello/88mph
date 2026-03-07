@@ -173,18 +173,20 @@ function WorldMap({
       </ComposableMap>
 
 
-      {/* Selected country label below map */}
-      {selectedCountry && COUNTRIES[selectedCountry] && (
-        <div className="flex items-center justify-center gap-2.5 mt-2 anim-fade">
-          <span className="text-2xl">{COUNTRIES[selectedCountry].flag}</span>
-          <span className="font-body text-base text-foreground/70 font-medium">
-            {COUNTRIES[selectedCountry].name}
-          </span>
-          <span className="font-body text-xs text-accent/50 ml-1">
-            {(availableYearsByCountry[selectedCountry] || []).length} charts
-          </span>
-        </div>
-      )}
+      {/* Selected country label below map — fixed height to prevent layout shift */}
+      <div className="flex items-center justify-center gap-2.5 mt-2 h-9">
+        {selectedCountry && COUNTRIES[selectedCountry] && (
+          <div className="flex items-center justify-center gap-2.5 anim-fade">
+            <span className="text-2xl">{COUNTRIES[selectedCountry].flag}</span>
+            <span className="font-body text-base text-foreground/70 font-medium">
+              {COUNTRIES[selectedCountry].name}
+            </span>
+            <span className="font-body text-xs text-accent/50 ml-1">
+              {(availableYearsByCountry[selectedCountry] || []).length} charts
+            </span>
+          </div>
+        )}
+      </div>
 
     </div>
   );
