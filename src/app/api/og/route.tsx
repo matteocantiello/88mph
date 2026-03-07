@@ -76,6 +76,7 @@ export async function GET(req: NextRequest) {
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={postcardDataUrl}
+              alt=""
               width={1080}
               height={620}
               style={{ objectFit: "cover", width: "100%", height: "100%" }}
