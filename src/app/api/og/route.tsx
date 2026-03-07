@@ -134,12 +134,12 @@ export async function GET(req: NextRequest) {
         <div
           style={{
             display: "flex",
-            alignItems: "center",
+            alignItems: "flex-start",
             gap: "14px",
             marginBottom: "20px",
           }}
         >
-          <span style={{ fontSize: 36 }}>{flag}</span>
+          <span style={{ fontSize: 28, lineHeight: 1.2 }}>{flag}</span>
           <span
             style={{
               display: "flex",
