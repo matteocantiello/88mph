@@ -1,0 +1,30 @@
+name: Triage Chart Suggestion
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  triage:
+    if: contains(github.event.issue.labels.*.name, 'chart-suggestion')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Validate chart suggestion
+        run: node scripts/process-issue.mjs --validate-only
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          REPO_FULL_NAME: ${{ github.repository }}

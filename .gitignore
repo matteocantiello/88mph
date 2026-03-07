@@ -40,3 +40,6 @@ HISTORY.md
 
 # task tracking (local only)
 tasks/
+
+# local pipeline docs (contains workflow with secrets)
+PIPELINE.md
