@@ -38,14 +38,18 @@ export async function GET(req: NextRequest) {
   const theme = getThemeForYear(year);
   const countryName = getCountryName(country);
   const flag = getCountryFlag(country);
+  const format = searchParams.get("format");
+  const isLandscape = format === "landscape";
 
   // Load postcard image if available, convert to PNG data URL for Satori
   let postcardDataUrl: string | null = null;
   const postcardPath = path.join(process.cwd(), "public", "postcards", `${country}_${year}.webp`);
   if (fs.existsSync(postcardPath)) {
     try {
+      const w = isLandscape ? 1200 : 1080;
+      const h = isLandscape ? 630 : 620;
       const pngBuffer = await sharp(postcardPath)
-        .resize(1080, 620, { fit: "cover" })
+        .resize(w, h, { fit: "cover" })
         .png({ quality: 70 })
         .toBuffer();
       postcardDataUrl = `data:image/png;base64,${pngBuffer.toString("base64")}`;
@@ -54,6 +58,226 @@ export async function GET(req: NextRequest) {
     }
   }
 
+  const fonts = [
+    {
+      name: "Instrument Serif",
+      data: instrumentSerifData,
+      style: "normal" as const,
+      weight: 400 as const,
+    },
+    {
+      name: "Outfit",
+      data: outfitData,
+      style: "normal" as const,
+      weight: 600 as const,
+    },
+  ];
+
+  const cacheHeaders = {
+    "Cache-Control": "public, s-maxage=31536000, immutable",
+  };
+
+  if (isLandscape) {
+    return new ImageResponse(
+      (
+        <div
+          style={{
+            display: "flex",
+            width: "100%",
+            height: "100%",
+            background: `linear-gradient(135deg, ${theme.surface} 0%, ${theme.background} 40%, ${theme.background} 100%)`,
+            fontFamily: "Outfit",
+            color: theme.foreground,
+            position: "relative",
+          }}
+        >
+          {/* Postcard background */}
+          {postcardDataUrl && (
+            <div style={{ display: "flex", position: "absolute", top: 0, left: 0, right: 0, bottom: 0 }}>
+              <img
+                src={postcardDataUrl}
+                alt=""
+                width={1200}
+                height={630}
+                style={{ objectFit: "cover", width: "100%", height: "100%" }}
+              />
+              <div
+                style={{
+                  display: "flex",
+                  position: "absolute",
+                  top: 0,
+                  left: 0,
+                  right: 0,
+                  bottom: 0,
+                  background: `linear-gradient(to right, ${theme.background} 0%, ${theme.background}cc 35%, ${theme.background}88 60%, ${theme.background}44 100%), linear-gradient(to bottom, ${theme.background}40 0%, ${theme.background}bb 100%)`,
+                }}
+              />
+            </div>
+          )}
+
+          {/* Content — left-aligned */}
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "center",
+              padding: "48px 56px",
+              position: "relative",
+              width: "55%",
+            }}
+          >
+            {/* Branding */}
+            <span
+              style={{
+                fontFamily: "Instrument Serif",
+                fontSize: 24,
+                color: theme.foreground,
+                opacity: 0.4,
+                marginBottom: "16px",
+              }}
+            >
+              88mph
+            </span>
+
+            {/* Year */}
+            <div
+              style={{
+                display: "flex",
+                fontFamily: "Instrument Serif",
+                fontSize: 100,
+                color: theme.accent,
+                lineHeight: 1,
+                marginBottom: "8px",
+              }}
+            >
+              {year}
+            </div>
+
+            {/* Country + label */}
+            <div
+              style={{
+                display: "flex",
+                alignItems: "center",
+                gap: "10px",
+                marginBottom: "16px",
+              }}
+            >
+              <span style={{ fontSize: 22 }}>{flag}</span>
+              <span
+                style={{
+                  fontSize: 18,
+                  letterSpacing: "0.12em",
+                  textTransform: "uppercase" as const,
+                  color: theme.foreground,
+                  opacity: 0.6,
+                }}
+              >
+                {countryName}
+              </span>
+              <span
+                style={{
+                  fontSize: 14,
+                  color: theme.foreground,
+                  opacity: 0.3,
+                  marginLeft: "4px",
+                }}
+              >
+                Year-End Top 10
+              </span>
+            </div>
+
+            {/* Divider */}
+            <div
+              style={{
+                display: "flex",
+                width: "80%",
+                height: "2px",
+                background: `linear-gradient(to right, ${theme.accent}60, transparent)`,
+                marginBottom: "16px",
+              }}
+            />
+
+            {/* Top 5 tracks */}
+            <div
+              style={{
+                display: "flex",
+                flexDirection: "column",
+                gap: "8px",
+              }}
+            >
+              {chart.tracks.slice(0, 5).map((track) => (
+                <div
+                  key={track.rank}
+                  style={{
+                    display: "flex",
+                    alignItems: "baseline",
+                    gap: "12px",
+                  }}
+                >
+                  <span
+                    style={{
+                      fontSize: 18,
+                      color: theme.accent,
+                      opacity: 0.5,
+                      width: "28px",
+                      textAlign: "right",
+                      flexShrink: 0,
+                      fontFamily: "Instrument Serif",
+                    }}
+                  >
+                    {track.rank}
+                  </span>
+                  <span
+                    style={{
+                      fontSize: 20,
+                      fontWeight: 600,
+                      color: theme.foreground,
+                      lineHeight: 1.3,
+                    }}
+                  >
+                    {track.title.length > 28 ? track.title.slice(0, 28) + "..." : track.title}
+                  </span>
+                  <span
+                    style={{
+                      fontSize: 16,
+                      color: theme.foreground,
+                      opacity: 0.4,
+                    }}
+                  >
+                    {track.artist.length > 25 ? track.artist.slice(0, 25) + "..." : track.artist}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Bottom-right branding */}
+          <div
+            style={{
+              display: "flex",
+              position: "absolute",
+              bottom: "20px",
+              right: "28px",
+            }}
+          >
+            <span
+              style={{
+                fontFamily: "Instrument Serif",
+                fontSize: 18,
+                color: theme.foreground,
+                opacity: 0.2,
+              }}
+            >
+              88mph.fm
+            </span>
+          </div>
+        </div>
+      ),
+      { width: 1200, height: 630, fonts, headers: cacheHeaders }
+    );
+  }
+
+  // Portrait format (default) — for download
   return new ImageResponse(
     (
       <div
@@ -272,23 +496,8 @@ export async function GET(req: NextRequest) {
     {
       width: 1080,
       height: 1920,
-      fonts: [
-        {
-          name: "Instrument Serif",
-          data: instrumentSerifData,
-          style: "normal",
-          weight: 400,
-        },
-        {
-          name: "Outfit",
-          data: outfitData,
-          style: "normal",
-          weight: 600,
-        },
-      ],
-      headers: {
-        "Cache-Control": "public, s-maxage=31536000, immutable",
-      },
+      fonts,
+      headers: cacheHeaders,
     }
   );
 }

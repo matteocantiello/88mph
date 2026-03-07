@@ -37,7 +37,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const title = `${flag} ${name} ${year} — Top 10 | 88mph`;
   const description = `What was ${name} listening to in ${year}? Discover the year-end top 10 chart.`;
 
-  const ogImage = `${SITE_URL}/api/og?country=${country}&year=${year}`;
+  const ogImage = `${SITE_URL}/api/og?country=${country}&year=${year}&format=landscape`;
+  const pageUrl = `${SITE_URL}/${country}/${year}`;
 
   return {
     title,
@@ -46,7 +47,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title: `${name} ${year} — Top 10`,
       description,
       siteName: "88mph",
-      images: [{ url: ogImage, width: 1080, height: 1920 }],
+      url: pageUrl,
+      type: "website",
+      images: [{ url: ogImage, width: 1200, height: 630 }],
     },
     twitter: {
       card: "summary_large_image",
