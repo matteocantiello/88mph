@@ -82,7 +82,7 @@ export default function TimeCircuit({
       {/* Title */}
       <div className="flex items-center gap-2 mb-4">
         <div className="w-1.5 h-1.5 rounded-full bg-accent/60" />
-        <span className="font-body text-[10px] uppercase tracking-[0.3em] text-foreground/25 font-medium">
+        <span className="font-body text-[12px] uppercase tracking-[0.3em] text-foreground/25 font-medium">
           Time Circuits
         </span>
       </div>
@@ -94,7 +94,7 @@ export default function TimeCircuit({
           <div className="flex items-center bg-black/40 rounded-lg px-3 py-2.5 border border-white/[0.03]">
             <div className="flex items-center gap-2 shrink-0">
               <div className={`w-1.5 h-1.5 rounded-full ${hasCountry ? "indicator-green" : "bg-foreground/10"}`} />
-              <span className="font-body text-[9px] uppercase tracking-[0.2em] text-foreground/20">
+              <span className="font-body text-[11px] uppercase tracking-[0.2em] text-foreground/20">
                 Destination
               </span>
             </div>
@@ -115,7 +115,7 @@ export default function TimeCircuit({
                 onClick={hasCountry ? () => setPickerOpen(!pickerOpen) : undefined}
                 className={hasCountry ? "cursor-pointer" : "cursor-default"}
               >
-                <span className={`led-digit text-3xl md:text-4xl led-green ${!destinationYear ? "led-dim" : ""}`}>
+                <span className={`led-digit text-4xl md:text-5xl led-green ${!destinationYear ? "led-dim" : ""}`}>
                   {destinationYear ? String(destinationYear) : "----"}
                 </span>
               </button>
@@ -161,11 +161,11 @@ export default function TimeCircuit({
         <div className="flex items-center bg-black/40 rounded-lg px-3 py-2.5 border border-white/[0.03]">
           <div className="flex items-center gap-2 shrink-0">
             <div className="w-1.5 h-1.5 rounded-full indicator-amber" />
-            <span className="font-body text-[9px] uppercase tracking-[0.2em] text-foreground/20">
+            <span className="font-body text-[11px] uppercase tracking-[0.2em] text-foreground/20">
               Present
             </span>
           </div>
-          <span className="led-digit text-lg ml-auto led-amber">
+          <span className="led-digit text-xl ml-auto led-amber">
             {presentYear}
           </span>
         </div>
@@ -174,11 +174,11 @@ export default function TimeCircuit({
         <div className="flex items-center bg-black/40 rounded-lg px-3 py-2.5 border border-white/[0.03]">
           <div className="flex items-center gap-2 shrink-0">
             <div className="w-1.5 h-1.5 rounded-full indicator-red" />
-            <span className="font-body text-[9px] uppercase tracking-[0.2em] text-foreground/20">
+            <span className="font-body text-[11px] uppercase tracking-[0.2em] text-foreground/20">
               Last Departed
             </span>
           </div>
-          <span className={`led-digit text-lg ml-auto led-red ${!lastDeparted ? "led-dim" : ""}`}>
+          <span className={`led-digit text-xl ml-auto led-red ${!lastDeparted ? "led-dim" : ""}`}>
             {lastDeparted ? String(lastDeparted.year) : "----"}
           </span>
         </div>
