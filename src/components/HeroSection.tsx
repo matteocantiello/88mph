@@ -9,25 +9,16 @@ import TimeTravelBrowser from "./TimeTravelBrowser";
 const ALL_COUNTRY_NAMES = Object.keys(COUNTRIES).map((c) => getCountryName(c));
 const REEL_ITEMS = 8;
 
-// Prepend "the" for country labels used in the drum
 function formatCountryLabel(name: string): string {
   if (/^(United|Netherlands|Philippines)/i.test(name)) return "the " + name;
   return name;
 }
 
-// All labels with "the" prefix where needed, for the pool
 const ALL_COUNTRY_LABELS = ALL_COUNTRY_NAMES.map(formatCountryLabel);
 
-// Font scale factor: shorter names stay at 1, long ones shrink slightly
-function fontScale(text: string): number {
-  if (text.length <= 8) return 1;
-  if (text.length <= 14) return 0.85;
-  return 0.72;
-}
-
 /**
- * Fixed-width drum that vertically scrolls through values.
- * Width is constant (set via CSS), text is centered and scaled to fit.
+ * Fixed-width vertical slot drum. Items scroll vertically with deceleration.
+ * Uses a generous slot height (1.3em) to avoid clipping descenders.
  */
 function SlotDrum({
   value,
@@ -40,7 +31,7 @@ function SlotDrum({
   spinning: boolean;
   pool: string[];
   className?: string;
-  drumWidth: string; // CSS width like "8em"
+  drumWidth: string;
 }) {
   const containerRef = useRef<HTMLSpanElement>(null);
   const [reel, setReel] = useState<string[]>([value]);
@@ -48,20 +39,15 @@ function SlotDrum({
   const [animate, setAnimate] = useState(false);
   const prevValueRef = useRef(value);
 
-  const [lineHeight, setLineHeight] = useState(0);
+  // Slot height in px — measured from font size
+  const [slotH, setSlotH] = useState(0);
   useEffect(() => {
     if (containerRef.current) {
-      const h = containerRef.current.parentElement?.offsetHeight;
-      if (h) {
-        setLineHeight(h);
-      } else {
-        const style = getComputedStyle(containerRef.current);
-        setLineHeight(parseFloat(style.fontSize) * 1.1 || 48);
-      }
+      const fs = parseFloat(getComputedStyle(containerRef.current).fontSize);
+      setSlotH(Math.ceil(fs * 1.3));
     }
   }, []);
 
-  // Build reel on spin
   useEffect(() => {
     if (spinning) {
       const items: string[] = [prevValueRef.current];
@@ -83,7 +69,6 @@ function SlotDrum({
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [spinning]);
 
-  // Settle
   useEffect(() => {
     if (!spinning) {
       prevValueRef.current = value;
@@ -99,19 +84,19 @@ function SlotDrum({
   return (
     <span
       ref={containerRef}
-      className="inline-block overflow-hidden align-bottom text-center"
+      className="inline-block overflow-hidden text-center"
       style={{
         width: drumWidth,
-        height: lineHeight > 0 ? `${lineHeight}px` : "1.1em",
-        verticalAlign: "bottom",
-        borderBottom: "2px solid rgba(255,255,255,0.06)",
-        borderRadius: "2px",
+        height: slotH > 0 ? `${slotH}px` : "1.3em",
+        verticalAlign: "baseline",
+        position: "relative",
+        top: "0.05em",
       }}
     >
       <span
         className="flex flex-col items-center"
         style={{
-          transform: `translateY(-${offset * (lineHeight || 0)}px)`,
+          transform: `translateY(-${offset * slotH}px)`,
           transition: animate
             ? "transform 0.7s cubic-bezier(0.16, 1, 0.3, 1)"
             : "none",
@@ -122,9 +107,8 @@ function SlotDrum({
             key={`${i}-${item}`}
             className={`block whitespace-nowrap ${className ?? ""}`}
             style={{
-              height: lineHeight > 0 ? `${lineHeight}px` : "1.1em",
-              lineHeight: lineHeight > 0 ? `${lineHeight}px` : "1.1",
-              fontSize: `${fontScale(item)}em`,
+              height: slotH > 0 ? `${slotH}px` : "1.3em",
+              lineHeight: slotH > 0 ? `${slotH}px` : "1.3",
             }}
           >
             {item}
@@ -241,14 +225,14 @@ export default function HeroSection({
           The past. On shuffle.
           <span className="w-8 h-px bg-accent/30" />
         </p>
-        <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.1] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
+        <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.3] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
           What was{" "}
           <SlotDrum
             value={countryLabel}
             spinning={spinning}
             pool={ALL_COUNTRY_LABELS}
             className="text-amber-400/90"
-            drumWidth="7.5em"
+            drumWidth="5.5em"
           />{" "}
           listening to in{" "}
           <SlotDrum
@@ -256,7 +240,7 @@ export default function HeroSection({
             spinning={spinning}
             pool={yearPool}
             className="text-emerald-400/80"
-            drumWidth="2.8em"
+            drumWidth="2.6em"
           />
           ?
         </h1>
