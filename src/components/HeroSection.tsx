@@ -348,7 +348,7 @@ export default function HeroSection({
             target={targetYearLabel}
             spinning={spinning}
             pool={yearPool}
-            className="text-emerald-400/80"
+            className="text-[#39ff14]/80"
             drumWidth="1.8em"
           />{" "}
           ?
