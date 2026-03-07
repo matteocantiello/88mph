@@ -12,6 +12,7 @@ import EraContext from "@/components/EraContext";
 import TimeSelector from "@/components/TimeSelector";
 import LastDepartedTracker from "@/components/LastDepartedTracker";
 import RandomButton from "@/components/RandomButton";
+import ShareButton from "@/components/ShareButton";
 
 interface PageProps {
   params: { country: string; year: string };
@@ -36,12 +37,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const title = `${flag} ${name} ${year} — Top 10 | 88mph`;
   const description = `What was ${name} listening to in ${year}? Discover the year-end top 10 chart.`;
 
-  // Use postcard as OG image if it exists, otherwise hero
-  const postcardFile = `${country}_${year}.webp`;
-  const postcardPath = path.join(process.cwd(), "public", "postcards", postcardFile);
-  const ogImage = fs.existsSync(postcardPath)
-    ? `${SITE_URL}/postcards/${postcardFile}`
-    : `${SITE_URL}/og.webp`;
+  const ogImage = `${SITE_URL}/api/og?country=${country}&year=${year}`;
 
   return {
     title,
@@ -50,7 +46,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title: `${name} ${year} — Top 10`,
       description,
       siteName: "88mph",
-      images: [{ url: ogImage, width: 1280, height: 736 }],
+      images: [{ url: ogImage, width: 1080, height: 1920 }],
     },
     twitter: {
       card: "summary_large_image",
@@ -103,8 +99,10 @@ export default async function ChartPage({ params }: PageProps) {
             <span className="font-display text-base">88mph</span>
           </Link>
 
-          {/* Prev / Next */}
+          {/* Share + Prev / Next */}
           <div className="flex items-center gap-3">
+            <ShareButton country={country} countryName={getCountryName(country)} year={year} />
+            <span className="w-px h-4 bg-foreground/10" />
             {prev ? (
               <Link
                 href={`/${country}/${prev}`}
@@ -201,6 +199,7 @@ export default async function ChartPage({ params }: PageProps) {
             country={country}
             countryName={getCountryName(country)}
             year={year}
+            spotifyPlaylistUrl={chart.spotifyPlaylistUrl}
           />
         </section>
 
