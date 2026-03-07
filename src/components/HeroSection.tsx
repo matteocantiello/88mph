@@ -26,9 +26,10 @@ const ALL_DRUM_LABELS = Object.keys(COUNTRIES).map((c) =>
 );
 
 function drumFontScale(text: string): number {
-  if (text.length <= 7) return 1;
-  if (text.length <= 9) return 0.88;
-  return 0.78;
+  if (text.length <= 6) return 1;
+  if (text.length <= 7) return 0.88;
+  if (text.length <= 9) return 0.85;
+  return 0.7;
 }
 
 /**
@@ -103,7 +104,7 @@ function Drum3D({
         setReel([value]);
         setCurrentIndex(0);
         setAnimate(false);
-      }, 50);
+      }, 150);
       return () => clearTimeout(timer);
     }
   }, [spinning, value]);
@@ -120,11 +121,6 @@ function Drum3D({
         verticalAlign: "bottom",
         marginBottom: "-0.18em",
         perspective: slotH > 0 ? `${slotH * 4}px` : "200px",
-        borderRadius: "6px",
-        background: "linear-gradient(180deg, rgba(30,28,26,0.9) 0%, rgba(18,16,14,0.95) 40%, rgba(18,16,14,0.95) 60%, rgba(30,28,26,0.9) 100%)",
-        boxShadow:
-          "inset 0 1px 0 rgba(255,255,255,0.08), inset 0 -1px 0 rgba(255,255,255,0.04), inset 0 10px 16px -6px rgba(0,0,0,0.7), inset 0 -10px 16px -6px rgba(0,0,0,0.7), 0 1px 3px rgba(0,0,0,0.4)",
-        border: "1px solid rgba(255,255,255,0.06)",
       }}
     >
       <span
@@ -185,6 +181,8 @@ export default function HeroSection({
   const userInteractedRef = useRef(false);
   const targetRef = useRef<{ country: string; year: number } | null>(null);
   const shuffleRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const landingTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const spinningRef = useRef(false);
 
   const allPairs = useMemo(() => {
     const pairs: { country: string; year: number }[] = [];
@@ -210,13 +208,24 @@ export default function HeroSection({
   );
 
   const pickRandom = useCallback(() => {
-    if (allPairs.length === 0 || userInteractedRef.current) return;
+    if (allPairs.length === 0 || userInteractedRef.current || spinningRef.current) return;
     const pair = allPairs[Math.floor(Math.random() * allPairs.length)];
 
     targetRef.current = pair;
     setTargetCountryLabel(drumLabel(getCountryName(pair.country)));
     setTargetYearLabel(String(pair.year));
+    spinningRef.current = true;
     setSpinning(true);
+
+    // Clean up any previous timers
+    if (shuffleRef.current) {
+      clearInterval(shuffleRef.current);
+      shuffleRef.current = null;
+    }
+    if (landingTimerRef.current) {
+      clearTimeout(landingTimerRef.current);
+      landingTimerRef.current = null;
+    }
 
     let tick = 0;
     shuffleRef.current = setInterval(() => {
@@ -234,15 +243,17 @@ export default function HeroSection({
       }
     }, 80);
 
-    setTimeout(() => {
+    landingTimerRef.current = setTimeout(() => {
       if (shuffleRef.current) {
         clearInterval(shuffleRef.current);
         shuffleRef.current = null;
       }
       setSelectedCountry(pair.country);
       setSelectedYear(pair.year);
+      spinningRef.current = false;
       setSpinning(false);
-    }, 700);
+      landingTimerRef.current = null;
+    }, 850);
   }, [allPairs, countryPool, availableYearsByCountry]);
 
   useEffect(() => {
@@ -263,10 +274,15 @@ export default function HeroSection({
       clearInterval(shuffleRef.current);
       shuffleRef.current = null;
     }
+    if (landingTimerRef.current) {
+      clearTimeout(landingTimerRef.current);
+      landingTimerRef.current = null;
+    }
     if (targetRef.current) {
       setSelectedCountry(targetRef.current.country);
       setSelectedYear(targetRef.current.year);
     }
+    spinningRef.current = false;
     setSpinning(false);
   }, []);
 
@@ -324,7 +340,7 @@ export default function HeroSection({
             spinning={spinning}
             pool={ALL_DRUM_LABELS}
             className="text-amber-400/90"
-            drumWidth="3.1em"
+            drumWidth="2.6em"
           />{" "}
           listening to in{" "}
           <Drum3D
