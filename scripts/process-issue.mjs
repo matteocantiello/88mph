@@ -84,11 +84,14 @@ function ghExec(cmd) {
 // Local mode: use `gh` CLI (already authenticated)
 
 async function ghApiCall(endpoint, method = "GET", body = null) {
+  // Resolve repo-relative endpoints (e.g. /issues/1) to full paths
+  const repo = getRepo();
+  const fullEndpoint = endpoint.startsWith("/repos/") || endpoint.startsWith("https://")
+    ? endpoint
+    : `/repos/${repo}${endpoint}`;
+
   if (LOCAL_MODE) {
-    const repoFlag = process.env.REPO_FULL_NAME
-      ? `--repo ${process.env.REPO_FULL_NAME}`
-      : "";
-    let cmd = `gh api ${repoFlag} "${endpoint}" --method ${method}`;
+    let cmd = `gh api "${fullEndpoint}" --method ${method}`;
     if (body) {
       cmd += ` --input -`;
       return JSON.parse(
@@ -103,10 +106,10 @@ async function ghApiCall(endpoint, method = "GET", body = null) {
   }
 
   // CI mode: raw fetch
-  const { GITHUB_TOKEN, REPO_FULL_NAME } = process.env;
-  const url = endpoint.startsWith("https://")
-    ? endpoint
-    : `https://api.github.com/repos/${REPO_FULL_NAME}${endpoint}`;
+  const { GITHUB_TOKEN } = process.env;
+  const url = fullEndpoint.startsWith("https://")
+    ? fullEndpoint
+    : `https://api.github.com${fullEndpoint}`;
   const res = await fetch(url, {
     method,
     headers: {
@@ -130,17 +133,17 @@ function getIssueNumber() {
 
 async function commentOnIssue(body) {
   const num = getIssueNumber();
-  await ghApiCall(`/repos/${getRepo()}/issues/${num}/comments`, "POST", { body });
+  await ghApiCall(`/issues/${num}/comments`, "POST", { body });
 }
 
 async function closeIssue() {
   const num = getIssueNumber();
-  await ghApiCall(`/repos/${getRepo()}/issues/${num}`, "PATCH", { state: "closed" });
+  await ghApiCall(`/issues/${num}`, "PATCH", { state: "closed" });
 }
 
 async function addLabel(label) {
   const num = getIssueNumber();
-  await ghApiCall(`/repos/${getRepo()}/issues/${num}/labels`, "POST", { labels: [label] });
+  await ghApiCall(`/issues/${num}/labels`, "POST", { labels: [label] });
 }
 
 function getRepo() {
