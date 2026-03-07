@@ -6,52 +6,72 @@
     {
       "rank": 1,
       "title": "Mikrofonkåt",
-      "artist": "September"
+      "artist": "September",
+      "youtubeId": "gJ3c7lLm2ig",
+      "albumArt": "https://img.youtube.com/vi/gJ3c7lLm2ig/hqdefault.jpg"
     },
     {
       "rank": 2,
       "title": "Love the Way You Lie",
-      "artist": "Eminem feat. Rihanna"
+      "artist": "Eminem feat. Rihanna",
+      "youtubeId": "RnkShwdXfyc",
+      "albumArt": "https://img.youtube.com/vi/RnkShwdXfyc/hqdefault.jpg"
     },
     {
       "rank": 3,
       "title": "Gubben i lådan",
-      "artist": "Daniel Adams-Ray"
+      "artist": "Daniel Adams-Ray",
+      "youtubeId": "oeh6jYid6Mw",
+      "albumArt": "https://img.youtube.com/vi/oeh6jYid6Mw/hqdefault.jpg"
     },
     {
       "rank": 4,
       "title": "This Is My Life",
-      "artist": "Anna Bergendahl"
+      "artist": "Anna Bergendahl",
+      "youtubeId": "vm0X000BAzQ",
+      "albumArt": "https://img.youtube.com/vi/vm0X000BAzQ/hqdefault.jpg"
     },
     {
       "rank": 5,
       "title": "Satellite",
-      "artist": "Lena"
+      "artist": "Lena",
+      "youtubeId": "93ugDwiBVzA",
+      "albumArt": "https://img.youtube.com/vi/93ugDwiBVzA/hqdefault.jpg"
     },
     {
       "rank": 6,
       "title": "Higher",
-      "artist": "Erik Grönwall"
+      "artist": "Erik Grönwall",
+      "youtubeId": "HJAMuAGu4E8",
+      "albumArt": "https://img.youtube.com/vi/HJAMuAGu4E8/hqdefault.jpg"
     },
     {
       "rank": 7,
       "title": "Stereo Love",
-      "artist": "Edward Maya & Vika Jigulina"
+      "artist": "Edward Maya & Vika Jigulina",
+      "youtubeId": "bfl76Sr-Rsk",
+      "albumArt": "https://img.youtube.com/vi/bfl76Sr-Rsk/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Manboy",
-      "artist": "Eric Saade"
+      "artist": "Eric Saade",
+      "youtubeId": "zg1_k2iKruc",
+      "albumArt": "https://img.youtube.com/vi/zg1_k2iKruc/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Dancing on My Own",
-      "artist": "Robyn"
+      "artist": "Robyn",
+      "youtubeId": "CcNo07Xp8aQ",
+      "albumArt": "https://img.youtube.com/vi/CcNo07Xp8aQ/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Waka Waka (This Time for Africa)",
-      "artist": "Shakira"
+      "artist": "Shakira",
+      "youtubeId": "Z_slTWayFK0",
+      "albumArt": "https://img.youtube.com/vi/Z_slTWayFK0/hqdefault.jpg"
     }
   ]
 }

@@ -3,15 +3,75 @@
   "year": 2005,
   "context": "The Swedish Hitlistan in 2005 saw international novelty acts dominate the first half — Crazy Frog's 'Axel F' held number one for eleven weeks followed by Schnappi's eight-week reign — before James Blunt and Swedish Idol winner Agnes took over. The domestic scene was galvanized by Darin's pop breakthroughs and Kent's continued dominance of Swedish-language rock.",
   "tracks": [
-    {"rank": 1, "title": "Axel F", "artist": "Crazy Frog"},
-    {"rank": 2, "title": "Schnappi, das kleine Krokodil", "artist": "Schnappi"},
-    {"rank": 3, "title": "Right Here Right Now", "artist": "Agnes"},
-    {"rank": 4, "title": "You're Beautiful", "artist": "James Blunt"},
-    {"rank": 5, "title": "Step Up", "artist": "Darin"},
-    {"rank": 6, "title": "The hjärta & smärta EP", "artist": "Kent"},
-    {"rank": 7, "title": "Who's That Girl", "artist": "Darin"},
-    {"rank": 8, "title": "Satellites", "artist": "September"},
-    {"rank": 9, "title": "Bad Day", "artist": "Daniel Powter"},
-    {"rank": 10, "title": "Lonely", "artist": "Akon"}
+    {
+      "rank": 1,
+      "title": "Axel F",
+      "artist": "Crazy Frog",
+      "youtubeId": "_M1iPYsHZvU",
+      "albumArt": "https://img.youtube.com/vi/_M1iPYsHZvU/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Schnappi, das kleine Krokodil",
+      "artist": "Schnappi",
+      "youtubeId": "mz7zeyhPXQA",
+      "albumArt": "https://img.youtube.com/vi/mz7zeyhPXQA/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Right Here Right Now",
+      "artist": "Agnes",
+      "youtubeId": "_zkDWJ6KP6o",
+      "albumArt": "https://img.youtube.com/vi/_zkDWJ6KP6o/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "You're Beautiful",
+      "artist": "James Blunt",
+      "youtubeId": "J3SD2-XDGoQ",
+      "albumArt": "https://img.youtube.com/vi/J3SD2-XDGoQ/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Step Up",
+      "artist": "Darin",
+      "youtubeId": "ZiM4cFDaF2k",
+      "albumArt": "https://img.youtube.com/vi/ZiM4cFDaF2k/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "The hjärta & smärta EP",
+      "artist": "Kent",
+      "youtubeId": "b2I2pBIn9so",
+      "albumArt": "https://img.youtube.com/vi/b2I2pBIn9so/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Who's That Girl",
+      "artist": "Darin",
+      "youtubeId": "A5lBQ677lAA",
+      "albumArt": "https://img.youtube.com/vi/A5lBQ677lAA/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Satellites",
+      "artist": "September",
+      "youtubeId": "b3nC2dCZh6Y",
+      "albumArt": "https://img.youtube.com/vi/b3nC2dCZh6Y/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Bad Day",
+      "artist": "Daniel Powter",
+      "youtubeId": "-reIEyYxgxA",
+      "albumArt": "https://img.youtube.com/vi/-reIEyYxgxA/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Lonely",
+      "artist": "Akon",
+      "youtubeId": "nN66uAbiJJw",
+      "albumArt": "https://img.youtube.com/vi/nN66uAbiJJw/hqdefault.jpg"
+    }
   ]
 }

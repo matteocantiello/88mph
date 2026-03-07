@@ -60,22 +60,30 @@
     {
       "rank": 7,
       "title": "Vill du bli min fru",
-      "artist": "Drängarna"
+      "artist": "Drängarna",
+      "youtubeId": "aaiueMIOaLA",
+      "albumArt": "https://img.youtube.com/vi/aaiueMIOaLA/hqdefault.jpg"
     },
     {
       "rank": 8,
       "title": "Fiskarna i haven",
-      "artist": "Idde Schultz"
+      "artist": "Idde Schultz",
+      "youtubeId": "MGr6h3MEJyY",
+      "albumArt": "https://img.youtube.com/vi/MGr6h3MEJyY/hqdefault.jpg"
     },
     {
       "rank": 9,
       "title": "Tears Don't Lie",
-      "artist": "Mark 'Oh"
+      "artist": "Mark 'Oh",
+      "youtubeId": "SZYeFdsDCD0",
+      "albumArt": "https://img.youtube.com/vi/SZYeFdsDCD0/hqdefault.jpg"
     },
     {
       "rank": 10,
       "title": "Lucky Love",
-      "artist": "Ace of Base"
+      "artist": "Ace of Base",
+      "youtubeId": "C3RalZTbRBw",
+      "albumArt": "https://img.youtube.com/vi/C3RalZTbRBw/hqdefault.jpg"
     }
   ]
 }

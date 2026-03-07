@@ -3,15 +3,75 @@
   "year": 2020,
   "context": "Norway's 2020 chart captured the lockdown-era streaming boom, with Swedish singer Victor Leksell's melancholy 'Svag' claiming the top spot — a sign of Nordic pop's outsized domestic streaming reach. The Weeknd's 'Blinding Lights' and global viral hits sat alongside Norwegian acts Dagny and the TikTok-driven 'Savage Love', showing a healthy balance between local and global pop.",
   "tracks": [
-    {"rank": 1, "title": "Svag", "artist": "Victor Leksell"},
-    {"rank": 2, "title": "Blinding Lights", "artist": "The Weeknd"},
-    {"rank": 3, "title": "Roses (Imanbek Remix)", "artist": "SAINt JHN"},
-    {"rank": 4, "title": "Somebody", "artist": "Dagny"},
-    {"rank": 5, "title": "Dance Monkey", "artist": "Tones and I"},
-    {"rank": 6, "title": "Rockstar", "artist": "DaBaby feat. Roddy Ricch"},
-    {"rank": 7, "title": "Someone You Loved", "artist": "Lewis Capaldi"},
-    {"rank": 8, "title": "Savage Love (Laxed - Siren Beat)", "artist": "Jawsh 685 feat. Jason Derulo"},
-    {"rank": 9, "title": "Mood", "artist": "24kGoldn feat. iann dior"},
-    {"rank": 10, "title": "Salt", "artist": "Ava Max"}
+    {
+      "rank": 1,
+      "title": "Svag",
+      "artist": "Victor Leksell",
+      "youtubeId": "ZIrIVwghyR8",
+      "albumArt": "https://img.youtube.com/vi/ZIrIVwghyR8/hqdefault.jpg"
+    },
+    {
+      "rank": 2,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "youtubeId": "H64a2ggVIWc",
+      "albumArt": "https://img.youtube.com/vi/H64a2ggVIWc/hqdefault.jpg"
+    },
+    {
+      "rank": 3,
+      "title": "Roses (Imanbek Remix)",
+      "artist": "SAINt JHN",
+      "youtubeId": "t0aXItJPodE",
+      "albumArt": "https://img.youtube.com/vi/t0aXItJPodE/hqdefault.jpg"
+    },
+    {
+      "rank": 4,
+      "title": "Somebody",
+      "artist": "Dagny",
+      "youtubeId": "i37nBo4jxiw",
+      "albumArt": "https://img.youtube.com/vi/i37nBo4jxiw/hqdefault.jpg"
+    },
+    {
+      "rank": 5,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "youtubeId": "Hx4nWW9z0ig",
+      "albumArt": "https://img.youtube.com/vi/Hx4nWW9z0ig/hqdefault.jpg"
+    },
+    {
+      "rank": 6,
+      "title": "Rockstar",
+      "artist": "DaBaby feat. Roddy Ricch",
+      "youtubeId": "dmcUUgBsITU",
+      "albumArt": "https://img.youtube.com/vi/dmcUUgBsITU/hqdefault.jpg"
+    },
+    {
+      "rank": 7,
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "youtubeId": "AyCrypt1pdI",
+      "albumArt": "https://img.youtube.com/vi/AyCrypt1pdI/hqdefault.jpg"
+    },
+    {
+      "rank": 8,
+      "title": "Savage Love (Laxed - Siren Beat)",
+      "artist": "Jawsh 685 feat. Jason Derulo",
+      "youtubeId": "zfvfxA166eQ",
+      "albumArt": "https://img.youtube.com/vi/zfvfxA166eQ/hqdefault.jpg"
+    },
+    {
+      "rank": 9,
+      "title": "Mood",
+      "artist": "24kGoldn feat. iann dior",
+      "youtubeId": "UNOtbkQxECI",
+      "albumArt": "https://img.youtube.com/vi/UNOtbkQxECI/hqdefault.jpg"
+    },
+    {
+      "rank": 10,
+      "title": "Salt",
+      "artist": "Ava Max",
+      "youtubeId": "PKWHYLtmAGA",
+      "albumArt": "https://img.youtube.com/vi/PKWHYLtmAGA/hqdefault.jpg"
+    }
   ]
 }

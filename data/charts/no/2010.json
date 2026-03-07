@@ -69,7 +69,9 @@
     {
       "rank": 10,
       "title": "Fireflies",
-      "artist": "Owl City"
+      "artist": "Owl City",
+      "youtubeId": "duKDG5Wq6L4",
+      "albumArt": "https://img.youtube.com/vi/duKDG5Wq6L4/hqdefault.jpg"
     }
   ]
 }
