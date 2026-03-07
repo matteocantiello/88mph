@@ -56,6 +56,10 @@ export default function TimeCircuit({
       }
     };
     document.addEventListener("mousedown", handleClick);
+    // Scroll selected year into view
+    requestAnimationFrame(() => {
+      pickerRef.current?.querySelector("[data-selected]")?.scrollIntoView({ block: "center", behavior: "instant" });
+    });
     return () => document.removeEventListener("mousedown", handleClick);
   }, [pickerOpen]);
 
@@ -132,12 +136,13 @@ export default function TimeCircuit({
 
           {/* Year grid picker */}
           {pickerOpen && availableYears.length > 0 && (
-            <div className="absolute left-0 right-0 top-full mt-1 z-20 bg-[#111] border border-white/[0.08] rounded-xl p-3 shadow-2xl shadow-black/60">
+            <div className="absolute left-0 right-0 top-full mt-1 z-20 bg-[#111] border border-white/[0.08] rounded-xl p-3 shadow-2xl shadow-black/60 max-h-[40vh] overflow-y-auto scrollbar-hide">
               <div className="grid grid-cols-4 gap-1.5">
                 {availableYears.map((y) => (
                   <button
                     key={y}
                     onClick={() => handlePickYear(y)}
+                    {...(y === destinationYear ? { "data-selected": true } : {})}
                     className={`py-1.5 rounded-lg font-body text-xs tabular-nums transition-all duration-150 ${
                       y === destinationYear
                         ? "bg-[#39ff14]/15 text-[#39ff14] font-semibold shadow-[0_0_8px_rgba(57,255,20,0.25)]"
