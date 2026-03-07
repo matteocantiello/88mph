@@ -6,6 +6,44 @@ import { Metadata } from "@/lib/data";
 import RandomButton from "./RandomButton";
 import TimeTravelBrowser from "./TimeTravelBrowser";
 
+/** Inline slot that smoothly animates width changes when its text content changes */
+function AnimatedSlot({
+  text,
+  fading,
+  className,
+}: {
+  text: string;
+  fading: boolean;
+  className?: string;
+}) {
+  const measureRef = useRef<HTMLSpanElement>(null);
+  const [width, setWidth] = useState<number | undefined>(undefined);
+
+  useEffect(() => {
+    if (measureRef.current) {
+      setWidth(measureRef.current.offsetWidth);
+    }
+  }, [text]);
+
+  return (
+    <span
+      className="inline-block overflow-hidden align-bottom"
+      style={{
+        width: width !== undefined ? `${width}px` : "auto",
+        transition: "width 0.4s cubic-bezier(0.4, 0, 0.2, 1)",
+      }}
+    >
+      <span
+        ref={measureRef}
+        className={`inline-block whitespace-nowrap transition-opacity duration-300 ${className ?? ""}`}
+        style={{ opacity: fading ? 0 : 1 }}
+      >
+        {text}
+      </span>
+    </span>
+  );
+}
+
 interface HeroSectionProps {
   metadata: Metadata;
   availableYearsByCountry: Record<string, number[]>;
@@ -99,7 +137,9 @@ export default function HeroSection({
 
   const rawName = selectedCountry ? getCountryName(selectedCountry) : null;
   const needsThe = rawName && /^(United|Netherlands|Philippines)/i.test(rawName);
-  const countryName = rawName;
+  const countryLabel = rawName
+    ? (needsThe ? "the " : "") + rawName
+    : "the world";
 
   return (
     <>
@@ -112,29 +152,20 @@ export default function HeroSection({
         </p>
         <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.1] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
           What was{" "}
-          {countryName ? (
-            <>
-              {needsThe && "the "}
-              <span
-                className="text-amber-400/90 inline-block transition-opacity duration-300"
-                style={{ opacity: fading ? 0 : 1 }}
-              >
-                {countryName}
-              </span>
-            </>
-          ) : (
-            "the world"
-          )}{" "}
+          <AnimatedSlot
+            text={countryLabel}
+            fading={fading}
+            className={rawName ? "text-amber-400/90" : ""}
+          />{" "}
           listening to
           {selectedYear ? (
             <>
               {" in "}
-              <span
-                className="text-emerald-400/80 inline-block transition-opacity duration-300"
-                style={{ opacity: fading ? 0 : 1 }}
-              >
-                {selectedYear}
-              </span>
+              <AnimatedSlot
+                text={String(selectedYear)}
+                fading={fading}
+                className="text-emerald-400/80"
+              />
             </>
           ) : null}
           ?
