@@ -32,6 +32,9 @@ export async function getChartData(
   country: string,
   year: number
 ): Promise<ChartData | null> {
+  if (!/^[a-z]{2}$/.test(country) || !Number.isInteger(year) || year < 1930 || year > 2030) {
+    return null;
+  }
   try {
     const data = await import(`../../data/charts/${country}/${year}.json`);
     return data.default as ChartData;

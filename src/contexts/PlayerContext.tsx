@@ -123,6 +123,7 @@ export function PlayerProvider({ children }: { children: ReactNode }) {
    */
   const playYouTube = useCallback(
     (videoId: string) => {
+      if (!/^[a-zA-Z0-9_-]{1,20}$/.test(videoId)) return;
       const wrapper = document.getElementById("yt-player-wrapper");
       if (!wrapper) return;
 
