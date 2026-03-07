@@ -6,15 +6,30 @@ import { Metadata } from "@/lib/data";
 import RandomButton from "./RandomButton";
 import TimeTravelBrowser from "./TimeTravelBrowser";
 
-const ALL_COUNTRY_NAMES = Object.keys(COUNTRIES).map((c) => getCountryName(c));
 const REEL_ITEMS = 8;
 
-function formatCountryLabel(name: string): string {
-  if (/^(United|Netherlands|Philippines)/i.test(name)) return "the " + name;
-  return name;
+// Short display names for the drum — keep everything compact
+const DRUM_NAMES: Record<string, string> = {
+  "United States": "the US",
+  "United Kingdom": "the UK",
+  "Netherlands": "Holland",
+  "South Korea": "S. Korea",
+  "South Africa": "S. Africa",
+};
+
+function drumLabel(name: string): string {
+  return DRUM_NAMES[name] || name;
 }
 
-const ALL_COUNTRY_LABELS = ALL_COUNTRY_NAMES.map(formatCountryLabel);
+const ALL_DRUM_LABELS = Object.keys(COUNTRIES)
+  .map((c) => drumLabel(getCountryName(c)));
+
+// Scale font for names that are still a bit long
+function drumFontScale(text: string): number {
+  if (text.length <= 7) return 1;
+  if (text.length <= 9) return 0.88;
+  return 0.78;
+}
 
 /**
  * Fixed-width vertical slot drum. Items scroll vertically with deceleration.
@@ -109,6 +124,7 @@ function SlotDrum({
             style={{
               height: slotH > 0 ? `${slotH}px` : "1.3em",
               lineHeight: slotH > 0 ? `${slotH}px` : "1.3",
+              fontSize: `${drumFontScale(item)}em`,
             }}
           >
             {item}
@@ -257,7 +273,7 @@ export default function HeroSection({
   );
 
   const rawName = selectedCountry ? getCountryName(selectedCountry) : null;
-  const countryLabel = rawName ? formatCountryLabel(rawName) : "the world";
+  const countryLabel = rawName ? drumLabel(rawName) : "the world";
 
   return (
     <>
@@ -273,9 +289,9 @@ export default function HeroSection({
           <SlotDrum
             value={countryLabel}
             spinning={spinning}
-            pool={ALL_COUNTRY_LABELS}
+            pool={ALL_DRUM_LABELS}
             className="text-amber-400/90"
-            drumWidth="5.5em"
+            drumWidth="4.2em"
           />{" "}
           listening to in{" "}
           <SlotDrum
@@ -283,7 +299,7 @@ export default function HeroSection({
             spinning={spinning}
             pool={yearPool}
             className="text-emerald-400/80"
-            drumWidth="2.6em"
+            drumWidth="2.2em"
           />
           ?
         </h1>
