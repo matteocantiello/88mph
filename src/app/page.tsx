@@ -59,7 +59,7 @@ export default async function HomePage() {
               The past. On shuffle.
               <span className="w-8 h-px bg-accent/30" />
             </p>
-            <h1 className="font-display text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-[1.05] tracking-tight text-foreground/90 mb-10">
+            <h1 className="font-display text-[2rem] sm:text-5xl md:text-6xl lg:text-7xl leading-[1.05] tracking-tight text-foreground/90 mb-10">
               What was the world listening to?
             </h1>
             <div className="flex items-center justify-center">
