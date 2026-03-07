@@ -133,6 +133,8 @@ export default function HeroSection({
   const [spinning, setSpinning] = useState(false);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const userInteractedRef = useRef(false);
+  const targetRef = useRef<{ country: string; year: number } | null>(null);
+  const shuffleRef = useRef<ReturnType<typeof setInterval> | null>(null);
 
   const allPairs = useMemo(() => {
     const pairs: { country: string; year: number }[] = [];
@@ -149,18 +151,50 @@ export default function HeroSection({
     [allPairs]
   );
 
+  // Countries with charts for map shuffling
+  const countryPool = useMemo(
+    () => Object.keys(availableYearsByCountry).filter(
+      (c) => (availableYearsByCountry[c]?.length ?? 0) > 0
+    ),
+    [availableYearsByCountry]
+  );
+
   const pickRandom = useCallback(() => {
     if (allPairs.length === 0 || userInteractedRef.current) return;
     const pair = allPairs[Math.floor(Math.random() * allPairs.length)];
 
-    setSelectedCountry(pair.country);
-    setSelectedYear(pair.year);
+    // Store the final target
+    targetRef.current = pair;
+
+    // Start drum spin (headline)
     setSpinning(true);
 
+    // Shuffle map/circuit through random countries+years during spin
+    let tick = 0;
+    shuffleRef.current = setInterval(() => {
+      const randCountry = countryPool[Math.floor(Math.random() * countryPool.length)];
+      const randYears = availableYearsByCountry[randCountry] || [];
+      const randYear = randYears[Math.floor(Math.random() * randYears.length)];
+      setSelectedCountry(randCountry);
+      setSelectedYear(randYear);
+      tick++;
+      if (tick >= 6 && shuffleRef.current) {
+        clearInterval(shuffleRef.current);
+        shuffleRef.current = null;
+      }
+    }, 80);
+
+    // Settle on final value
     setTimeout(() => {
+      if (shuffleRef.current) {
+        clearInterval(shuffleRef.current);
+        shuffleRef.current = null;
+      }
+      setSelectedCountry(pair.country);
+      setSelectedYear(pair.year);
       setSpinning(false);
-    }, 800);
-  }, [allPairs]);
+    }, 700);
+  }, [allPairs, countryPool, availableYearsByCountry]);
 
   useEffect(() => {
     pickRandom();
@@ -175,6 +209,15 @@ export default function HeroSection({
     if (intervalRef.current) {
       clearInterval(intervalRef.current);
       intervalRef.current = null;
+    }
+    if (shuffleRef.current) {
+      clearInterval(shuffleRef.current);
+      shuffleRef.current = null;
+    }
+    // Settle on target if mid-spin
+    if (targetRef.current) {
+      setSelectedCountry(targetRef.current.country);
+      setSelectedYear(targetRef.current.year);
     }
     setSpinning(false);
   }, []);
