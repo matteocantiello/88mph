@@ -31,7 +31,7 @@ export default function TimeTravelBrowser({
   const [destinationYear, setDestinationYear] = useState<number | null>(null);
   const [lastDeparted, setLastDeparted] = useState<LastDeparted | null>(null);
 
-  // Read last departed from localStorage on mount
+  // Read last departed from localStorage + pre-select random country/year on mount
   useEffect(() => {
     try {
       const stored = localStorage.getItem(LS_KEY);
@@ -41,6 +41,19 @@ export default function TimeTravelBrowser({
     } catch {
       // ignore
     }
+
+    // Pick a random country with charts, then a random year
+    const countries = Object.keys(availableYearsByCountry).filter(
+      (c) => (availableYearsByCountry[c]?.length ?? 0) > 0
+    );
+    if (countries.length > 0) {
+      const country = countries[Math.floor(Math.random() * countries.length)];
+      const years = availableYearsByCountry[country];
+      const year = years[Math.floor(Math.random() * years.length)];
+      setSelectedCountry(country);
+      setDestinationYear(year);
+    }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   // Snap destinationYear to nearest available year when country changes
