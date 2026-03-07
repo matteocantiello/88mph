@@ -46,7 +46,7 @@ export default function HeroSection({
   // Start rotating on mount
   useEffect(() => {
     pickRandom();
-    intervalRef.current = setInterval(pickRandom, 5000);
+    intervalRef.current = setInterval(pickRandom, 4000);
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current);
     };
@@ -111,25 +111,33 @@ export default function HeroSection({
           <span className="w-8 h-px bg-accent/30" />
         </p>
         <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.1] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
-          {countryName && selectedYear ? (
-            <span
-              className="transition-opacity duration-300"
-              style={{ opacity: fading ? 0 : 1 }}
-            >
-              What was{" "}
+          What was{" "}
+          {countryName ? (
+            <>
               {needsThe && "the "}
-              <span className="text-amber-400/90">
+              <span
+                className="text-amber-400/90 inline-block transition-opacity duration-300"
+                style={{ opacity: fading ? 0 : 1 }}
+              >
                 {countryName}
-              </span>{" "}
-              listening to in{" "}
-              <span className="text-emerald-400/80">
+              </span>
+            </>
+          ) : (
+            "the world"
+          )}{" "}
+          listening to
+          {selectedYear ? (
+            <>
+              {" in "}
+              <span
+                className="text-emerald-400/80 inline-block transition-opacity duration-300"
+                style={{ opacity: fading ? 0 : 1 }}
+              >
                 {selectedYear}
               </span>
-              ?
-            </span>
-          ) : (
-            "What was the world listening to?"
-          )}
+            </>
+          ) : null}
+          ?
         </h1>
         <div className="flex items-center justify-center">
           <RandomButton metadata={metadata} />
