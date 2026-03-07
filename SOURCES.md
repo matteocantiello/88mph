@@ -51,7 +51,7 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 
 | Source | Data Provided | URL | Notes |
 |--------|---------------|-----|-------|
-| Spotify Web API | Album art, track URIs, 30-second previews, external links | https://developer.spotify.com/documentation/web-api | Used via client credentials flow; enrichment script in `scripts/generate-data.mjs` |
+| Spotify Web API | Album art, track URIs, 30-second previews, external links | https://developer.spotify.com/documentation/web-api | Track enrichment via `scripts/enrich-spotify.mjs` (client credentials); playlist creation via `scripts/create-spotify-playlists.mjs` (OAuth refresh token) |
 
 ## General Reference
 
@@ -94,4 +94,5 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 - For countries without formal chart infrastructure in certain eras (Soviet Russia, pre-2000 Nigeria, apartheid-era South Africa, pre-2000 China), data is compiled from award shows, festival data, retrospective rankings, and cultural documentation.
 - Italian charts were verified directly against hitparadeitalia.it official year-end data; existing charts for 1965, 1985, and 2000 matched the official source exactly.
 - Indian pre-1994 data uses Binaca Geetmala (later Cibaca Geetmala) annual countdown rankings, the most authoritative source for that era.
-- Spotify enrichment adds `albumArt`, `spotifyUri`, `spotifyUrl`, and `previewUrl` (when available) to each track. Preview URLs may be null due to Spotify's late-2024 policy changes restricting 30-second previews; in those cases, the app offers a "Play on Spotify" external link instead.
+- Spotify enrichment adds `spotifyUri` and `spotifyUrl` to each track. Album art from Spotify is used when no YouTube thumbnail is available. Preview URLs may be null due to Spotify's late-2024 policy changes restricting 30-second previews; in those cases, the app offers a "Play on Spotify" external link instead.
+- All 230 charts have pre-created public Spotify playlists on the dedicated 88mph account, with postcard cover images. The `spotifyPlaylistUrl` field in each chart JSON links directly to the playlist. Only 2 tracks across the entire dataset could not be found on Spotify (both Russian).

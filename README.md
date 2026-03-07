@@ -34,7 +34,8 @@ Copy `.env.local.example` to `.env.local` and fill in as needed:
 | `SPOTIFY_CLIENT_ID` | For enrichment | Spotify API client ID |
 | `SPOTIFY_CLIENT_SECRET` | For enrichment | Spotify API client secret |
 | `TOGETHER_API_KEY` | For postcards | Together AI API key (image generation) |
-| `NEXT_PUBLIC_ENABLE_SPOTIFY_SAVE` | Optional | Enable "Save to Spotify" playlist export |
+| `SPOTIFY_REFRESH_TOKEN` | For playlists | Refresh token for the 88mph Spotify account (via `scripts/spotify-get-token.mjs`) |
+| `NEXT_PUBLIC_ENABLE_SPOTIFY_SAVE` | Optional | Enable legacy "Save to Spotify" button (per-user OAuth) |
 | `SPOTIFY_COOKIE_SECRET` | For Save to Spotify | `openssl rand -hex 32` |
 | `NEXT_PUBLIC_BASE_URL` | For Save to Spotify | Your app's public URL |
 
@@ -48,7 +49,9 @@ Copy `.env.local.example` to `.env.local` and fill in as needed:
 - AI-generated postcard hero images for each chart (FLUX via Together AI)
 - Spotify album art, 30-second previews with a mini player, and "Play on Spotify" links
 - YouTube video embeds for in-app playback (yt-dlp powered enrichment)
-- Save to Spotify — create playlists directly from any chart (requires Spotify OAuth)
+- **Pre-created Spotify playlists** — every chart has a one-click "Listen on Spotify" button linking to a curated 10-song playlist with postcard cover art
+- Share button for sharing charts on social media
+- Dynamic OG images (shareable chart postcards)
 - Film grain overlay, editorial typography (Instrument Serif + Outfit), staggered animations
 - Random "teleport" button that drops you into a surprise era
 
@@ -96,7 +99,7 @@ This section documents the end-to-end process for adding new charts. An LLM agen
 ### Overview
 
 ```
-Research → Chart JSON → metadata.json → Spotify enrichment → YouTube enrichment → Postcard image → Done
+Research → Chart JSON → metadata.json → Spotify enrichment → YouTube enrichment → Postcard image → Spotify playlist → Done
 ```
 
 ### Step 1: Research the Chart Data
@@ -166,15 +169,16 @@ If adding a brand-new country, update these files:
 
 ```bash
 # All charts
-node scripts/generate-data.mjs
+node scripts/enrich-spotify.mjs
 
-# Single country
-node scripts/generate-data.mjs --country ca
+# Single country/year
+node scripts/enrich-spotify.mjs --country ca
+node scripts/enrich-spotify.mjs --country ca --year 1985
 ```
 
 Requires `SPOTIFY_CLIENT_ID` and `SPOTIFY_CLIENT_SECRET` in `.env.local`.
 
-This adds to each track: `spotifyUri`, `previewUrl`, `albumArt`, `externalUrl`. The script is idempotent — re-runs skip already-enriched tracks.
+This adds to each track: `spotifyUri`, `spotifyUrl`. The script is idempotent — re-runs skip already-enriched tracks. Existing fields (e.g., `youtubeId`) are preserved.
 
 ### Step 6: Enrich with YouTube Data
 
@@ -246,12 +250,32 @@ Requires `TOGETHER_API_KEY` in `.env.local`. Images are saved to `public/postcar
 
 **Important:** Use `--height 736` (not 720) with FLUX.1.1-pro — height must be a multiple of 32.
 
-### Step 8: Update Documentation
+### Step 8: Create Spotify Playlists
+
+Each chart gets a pre-created public playlist on the 88mph Spotify account with a postcard cover image.
+
+```bash
+# One-time setup: get a refresh token for the 88mph Spotify account
+node scripts/spotify-get-token.mjs
+# → Save the printed SPOTIFY_REFRESH_TOKEN to .env.local
+
+# Create playlists for all new charts (skips existing)
+node scripts/create-spotify-playlists.mjs
+
+# Single country/year
+node scripts/create-spotify-playlists.mjs --country ca --year 1985
+```
+
+Requires `SPOTIFY_CLIENT_ID`, `SPOTIFY_CLIENT_SECRET`, and `SPOTIFY_REFRESH_TOKEN` in `.env.local`. The Spotify account must have Premium (required for Web API access since Feb 2026).
+
+The script creates a public playlist named `88mph: {Country} {Year}`, adds all tracks with `spotifyUri`, uploads the postcard as cover art, and saves the playlist URL to `spotifyPlaylistUrl` in the chart JSON. The chart page automatically shows a "Listen on Spotify" button when this field exists.
+
+### Step 9: Update Documentation
 
 1. **`SOURCES.md`** — Add the data source for the new charts
 2. **`README.md`** — Update the Available Charts table if needed
 
-### Step 9: Test and Deploy
+### Step 10: Test and Deploy
 
 ```bash
 npm run typecheck    # Verify no type errors
@@ -271,7 +295,7 @@ The chart integrity tests automatically validate all JSON files in `data/charts/
 #    { "country": "us", "year": 2026, "available": true }
 
 # 3. Enrich
-node scripts/generate-data.mjs --country us
+node scripts/enrich-spotify.mjs --country us --year 2026
 node scripts/enrich-youtube.mjs --country us --year 2026
 
 # 4. Generate postcard
@@ -279,9 +303,12 @@ node scripts/postcards/generate-prompts.mjs --country us --year 2026
 # Edit data/postcard-prompts.jsonl to improve the prompt
 node scripts/postcards/generate-images.mjs --model black-forest-labs/FLUX.1.1-pro --steps 20 --height 736
 
-# 5. Update SOURCES.md
+# 5. Create Spotify playlist
+node scripts/create-spotify-playlists.mjs --country us --year 2026
 
-# 6. Test
+# 6. Update SOURCES.md
+
+# 7. Test
 npm test && npm run build
 ```
 
@@ -294,8 +321,9 @@ npm test && npm run build
 # 4. Add entries to data/metadata.json
 # 5. Enrich (Spotify + YouTube)
 # 6. Generate postcards
-# 7. Update SOURCES.md and README.md
-# 8. Test: npm test && npm run build
+# 7. Create Spotify playlists
+# 8. Update SOURCES.md and README.md
+# 9. Test: npm test && npm run build
 ```
 
 ---
@@ -331,35 +359,23 @@ Tests cover:
 
 ### Spotify Integration
 
-Charts are enriched with Spotify data: album art, track links, and 30-second previews (where available). For tracks without previews, the app shows a "Play on Spotify" button that opens the track externally.
+Charts are enriched with Spotify data via two scripts:
 
-To re-run enrichment or enrich new charts:
+- **`scripts/enrich-spotify.mjs`** — Adds `spotifyUri` and `spotifyUrl` to each track using Spotify's search API (client credentials flow). Idempotent; preserves existing fields.
+- **`scripts/create-spotify-playlists.mjs`** — Creates public playlists on the dedicated 88mph Spotify account with postcard cover images. Saves `spotifyPlaylistUrl` to chart JSON.
 
-1. Create an app at [Spotify Developer Dashboard](https://developer.spotify.com/dashboard)
-2. Copy `.env.local.example` to `.env.local` and add your Client ID and Secret
-3. Run the enrichment script:
+Every chart page shows a green **"Listen on Spotify"** button that opens the pre-created playlist directly — no user authentication required.
 
-```bash
-node scripts/generate-data.mjs            # all countries
-node scripts/generate-data.mjs --country us  # single country
-```
+To set up from scratch:
 
-The script is idempotent — re-running skips already-enriched tracks. It includes retry with backoff for rate limits and fallback search for non-Latin titles.
+1. Create an app at [Spotify Developer Dashboard](https://developer.spotify.com/dashboard) (requires Premium since Feb 2026)
+2. Add redirect URI `http://127.0.0.1:8765/callback`
+3. Copy `.env.local.example` to `.env.local` and add Client ID, Client Secret
+4. Get a refresh token: `node scripts/spotify-get-token.mjs`
+5. Enrich tracks: `node scripts/enrich-spotify.mjs`
+6. Create playlists: `node scripts/create-spotify-playlists.mjs`
 
-### Save to Spotify
-
-Users can save any chart as a Spotify playlist directly from the app. This requires:
-
-1. A Spotify app with the `playlist-modify-private` scope
-2. Add your redirect URI (`{BASE_URL}/api/spotify/callback`) in the Spotify Developer Dashboard
-3. Set these environment variables:
-   - `NEXT_PUBLIC_ENABLE_SPOTIFY_SAVE=true`
-   - `SPOTIFY_COOKIE_SECRET` — generate with `openssl rand -hex 32`
-   - `NEXT_PUBLIC_BASE_URL` — your app's public URL
-
-The OAuth flow uses PKCE with CSRF state validation. Tokens are encrypted with AES-256-GCM and stored in httpOnly cookies.
-
-**Note:** Spotify's Development Mode limits apps to 25 users unless you request an extension.
+**Note:** Spotify may revoke refresh tokens on API errors. If the playlist script fails with "Refresh token revoked", re-run `spotify-get-token.mjs` to get a new token.
 
 ### Security
 
@@ -390,7 +406,7 @@ src/
 │   ├── WorldMap.tsx            # Interactive SVG world map
 │   ├── TimeCircuit.tsx         # Back to the Future time circuit display
 │   ├── TimeTravelBrowser.tsx   # Combined map + time circuit browser
-│   ├── ChartList.tsx           # Top 10 track list with Save to Spotify
+│   ├── ChartList.tsx           # Top 10 track list with Listen on Spotify
 │   ├── TrackRow.tsx            # Track row with play button
 │   ├── MiniPlayer.tsx          # Fixed bottom audio controls
 │   ├── VideoPanel.tsx          # YouTube video embed panel
@@ -398,7 +414,8 @@ src/
 │   ├── CountryBrowser.tsx      # Regional country + chart browser
 │   ├── RandomButton.tsx        # Random era teleport
 │   ├── EraContext.tsx          # Cultural context blockquote
-│   ├── SaveToSpotify.tsx       # Spotify playlist export button
+│   ├── SaveToSpotify.tsx       # Legacy per-user Spotify playlist export
+│   ├── ShareButton.tsx         # Share chart on social media
 │   ├── FeaturedCard.tsx        # Featured chart card on landing page
 │   └── LastDepartedTracker.tsx # Tracks previously visited eras
 ├── contexts/
@@ -414,8 +431,11 @@ data/
 ├── postcard-prompts.jsonl      # AI image generation prompts per chart
 └── charts/{country}/{year}.json # Chart data files
 scripts/
-├── generate-data.mjs           # Spotify enrichment
-├── enrich-youtube.mjs          # YouTube enrichment
+├── enrich-spotify.mjs          # Spotify track enrichment (URIs, URLs)
+├── enrich-youtube.mjs          # YouTube enrichment (video IDs)
+├── create-spotify-playlists.mjs # Create playlists on 88mph Spotify account
+├── spotify-get-token.mjs       # One-time OAuth helper for refresh token
+├── generate-data.mjs           # Legacy Spotify enrichment
 ├── extract-contexts.mjs        # Extract chart contexts to text file
 └── postcards/
     ├── generate-prompts.mjs    # Create postcard prompt stubs
