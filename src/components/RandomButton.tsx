@@ -44,7 +44,7 @@ export default function RandomButton({ metadata, compact = false }: RandomButton
                 ? "bg-accent/10 text-accent border border-accent/30 scale-95"
                 : "bg-white/[0.04] text-foreground/50 border border-white/[0.08] hover:border-accent/30 hover:text-accent hover:bg-accent/[0.06]"
             }`
-          : `gap-3 px-8 py-4 text-base ${
+          : `gap-2 px-6 py-3 text-sm sm:gap-3 sm:px-8 sm:py-4 sm:text-base ${
               spinning
                 ? "bg-accent/20 text-accent border-2 border-accent/40 scale-95"
                 : "bg-accent text-background border-2 border-accent hover:bg-accent/90 hover:shadow-[0_0_50px_-5px] hover:shadow-accent/40 hover:scale-105"
