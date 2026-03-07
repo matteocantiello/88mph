@@ -15,10 +15,11 @@ export default function HeroSection({
   metadata,
   availableYearsByCountry,
 }: HeroSectionProps) {
-  const [displayCountry, setDisplayCountry] = useState<string | null>(null);
-  const [displayYear, setDisplayYear] = useState<number | null>(null);
+  const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
+  const [selectedYear, setSelectedYear] = useState<number | null>(null);
   const [fading, setFading] = useState(false);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const userInteractedRef = useRef(false);
 
   // Build flat list of all country/year pairs for rotation
   const allPairs = useMemo(() => {
@@ -32,12 +33,12 @@ export default function HeroSection({
   }, [availableYearsByCountry]);
 
   const pickRandom = useCallback(() => {
-    if (allPairs.length === 0) return;
+    if (allPairs.length === 0 || userInteractedRef.current) return;
     const pair = allPairs[Math.floor(Math.random() * allPairs.length)];
     setFading(true);
     setTimeout(() => {
-      setDisplayCountry(pair.country);
-      setDisplayYear(pair.year);
+      setSelectedCountry(pair.country);
+      setSelectedYear(pair.year);
       setFading(false);
     }, 300);
   }, [allPairs]);
@@ -45,21 +46,58 @@ export default function HeroSection({
   // Start rotating on mount
   useEffect(() => {
     pickRandom();
-    intervalRef.current = setInterval(pickRandom, 3000);
+    intervalRef.current = setInterval(pickRandom, 5000);
     return () => {
       if (intervalRef.current) clearInterval(intervalRef.current);
     };
   }, [pickRandom]);
 
-  const handleSelectionChange = useCallback(
-    (country: string | null, year: number | null) => {
-      setDisplayCountry(country);
-      setDisplayYear(year);
+  // Stop rotation when user interacts
+  const stopRotation = useCallback(() => {
+    userInteractedRef.current = true;
+    if (intervalRef.current) {
+      clearInterval(intervalRef.current);
+      intervalRef.current = null;
+    }
+    setFading(false);
+  }, []);
+
+  const handleCountryChange = useCallback(
+    (country: string | null) => {
+      stopRotation();
+      setSelectedCountry(country);
+      // Snap year to nearest available
+      if (country) {
+        const years = availableYearsByCountry[country] || [];
+        if (years.length > 0) {
+          setSelectedYear((prev) => {
+            if (prev && years.includes(prev)) return prev;
+            if (prev) {
+              return years.reduce((a, b) =>
+                Math.abs(b - prev) < Math.abs(a - prev) ? b : a
+              );
+            }
+            return years[Math.floor(years.length / 2)];
+          });
+        } else {
+          setSelectedYear(null);
+        }
+      } else {
+        setSelectedYear(null);
+      }
     },
-    []
+    [stopRotation, availableYearsByCountry]
   );
 
-  const rawName = displayCountry ? getCountryName(displayCountry) : null;
+  const handleYearChange = useCallback(
+    (year: number | null) => {
+      stopRotation();
+      setSelectedYear(year);
+    },
+    [stopRotation]
+  );
+
+  const rawName = selectedCountry ? getCountryName(selectedCountry) : null;
   const needsThe = rawName && /^(United|Netherlands|Philippines)/i.test(rawName);
   const countryName = rawName;
 
@@ -73,7 +111,7 @@ export default function HeroSection({
           <span className="w-8 h-px bg-accent/30" />
         </p>
         <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.1] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
-          {countryName && displayYear ? (
+          {countryName && selectedYear ? (
             <span
               className="transition-opacity duration-300"
               style={{ opacity: fading ? 0 : 1 }}
@@ -85,7 +123,7 @@ export default function HeroSection({
               </span>{" "}
               listening to in{" "}
               <span className="text-emerald-400/80">
-                {displayYear}
+                {selectedYear}
               </span>
               ?
             </span>
@@ -103,7 +141,10 @@ export default function HeroSection({
         <TimeTravelBrowser
           availableYearsByCountry={availableYearsByCountry}
           hideHeader
-          onSelectionChange={handleSelectionChange}
+          country={selectedCountry}
+          year={selectedYear}
+          onCountryChange={handleCountryChange}
+          onYearChange={handleYearChange}
         />
       </div>
     </>

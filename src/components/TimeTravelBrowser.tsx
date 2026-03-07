@@ -17,8 +17,14 @@ interface TimeTravelBrowserProps {
   stacked?: boolean;
   /** Hide the section header */
   hideHeader?: boolean;
-  /** Called when selected country or year changes */
-  onSelectionChange?: (country: string | null, year: number | null) => void;
+  /** Controlled country (optional — if provided, overrides internal state) */
+  country?: string | null;
+  /** Controlled year (optional — if provided, overrides internal state) */
+  year?: number | null;
+  /** Called when user changes country */
+  onCountryChange?: (country: string | null) => void;
+  /** Called when user changes year */
+  onYearChange?: (year: number | null) => void;
 }
 
 const LS_KEY = "88mph-last-departed";
@@ -27,14 +33,37 @@ export default function TimeTravelBrowser({
   availableYearsByCountry,
   stacked = false,
   hideHeader = false,
-  onSelectionChange,
+  country: controlledCountry,
+  year: controlledYear,
+  onCountryChange,
+  onYearChange,
 }: TimeTravelBrowserProps) {
   const router = useRouter();
-  const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
-  const [destinationYear, setDestinationYear] = useState<number | null>(null);
+  const [internalCountry, setInternalCountry] = useState<string | null>(null);
+  const [internalYear, setInternalYear] = useState<number | null>(null);
   const [lastDeparted, setLastDeparted] = useState<LastDeparted | null>(null);
 
-  // Read last departed from localStorage + pre-select random country/year on mount
+  const isControlled = controlledCountry !== undefined;
+  const selectedCountry = isControlled ? controlledCountry : internalCountry;
+  const destinationYear = isControlled ? controlledYear ?? null : internalYear;
+
+  const handleCountryChange = (c: string | null) => {
+    if (isControlled) {
+      onCountryChange?.(c);
+    } else {
+      setInternalCountry(c);
+    }
+  };
+
+  const handleYearChange = (y: number | null) => {
+    if (isControlled) {
+      onYearChange?.(y);
+    } else {
+      setInternalYear(y);
+    }
+  };
+
+  // Read last departed from localStorage + pre-select random country/year on mount (uncontrolled only)
   useEffect(() => {
     try {
       const stored = localStorage.getItem(LS_KEY);
@@ -45,32 +74,34 @@ export default function TimeTravelBrowser({
       // ignore
     }
 
-    // Pick a random country with charts, then a random year
-    const countries = Object.keys(availableYearsByCountry).filter(
-      (c) => (availableYearsByCountry[c]?.length ?? 0) > 0
-    );
-    if (countries.length > 0) {
-      const country = countries[Math.floor(Math.random() * countries.length)];
-      const years = availableYearsByCountry[country];
-      const year = years[Math.floor(Math.random() * years.length)];
-      setSelectedCountry(country);
-      setDestinationYear(year);
+    if (!isControlled) {
+      const countries = Object.keys(availableYearsByCountry).filter(
+        (c) => (availableYearsByCountry[c]?.length ?? 0) > 0
+      );
+      if (countries.length > 0) {
+        const country = countries[Math.floor(Math.random() * countries.length)];
+        const years = availableYearsByCountry[country];
+        const year = years[Math.floor(Math.random() * years.length)];
+        setInternalCountry(country);
+        setInternalYear(year);
+      }
     }
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  // Snap destinationYear to nearest available year when country changes
+  // Snap destinationYear to nearest available year when country changes (uncontrolled only)
   useEffect(() => {
-    if (!selectedCountry) {
-      setDestinationYear(null);
+    if (isControlled) return;
+    if (!internalCountry) {
+      setInternalYear(null);
       return;
     }
-    const years = availableYearsByCountry[selectedCountry] || [];
+    const years = availableYearsByCountry[internalCountry] || [];
     if (years.length === 0) {
-      setDestinationYear(null);
+      setInternalYear(null);
       return;
     }
-    setDestinationYear((prev) => {
+    setInternalYear((prev) => {
       if (prev && years.includes(prev)) return prev;
       if (prev) {
         return years.reduce((a, b) =>
@@ -79,16 +110,10 @@ export default function TimeTravelBrowser({
       }
       return years[Math.floor(years.length / 2)];
     });
-  }, [selectedCountry, availableYearsByCountry]);
-
-  // Notify parent of selection changes
-  useEffect(() => {
-    onSelectionChange?.(selectedCountry, destinationYear);
-  }, [selectedCountry, destinationYear, onSelectionChange]);
+  }, [internalCountry, availableYearsByCountry, isControlled]);
 
   const handleGo = () => {
     if (!selectedCountry || !destinationYear) return;
-    // Write to localStorage
     const departure: LastDeparted = {
       country: selectedCountry,
       year: destinationYear,
@@ -126,7 +151,7 @@ export default function TimeTravelBrowser({
           <div className="anim-slide-up">
             <WorldMap
               selectedCountry={selectedCountry}
-              onSelectCountry={setSelectedCountry}
+              onSelectCountry={handleCountryChange}
               availableYearsByCountry={availableYearsByCountry}
             />
           </div>
@@ -134,7 +159,7 @@ export default function TimeTravelBrowser({
             <TimeCircuit
               selectedCountry={selectedCountry}
               destinationYear={destinationYear}
-              onYearChange={setDestinationYear}
+              onYearChange={(y) => handleYearChange(y)}
               availableYears={availableYears}
               lastDeparted={lastDeparted}
               onGo={handleGo}
@@ -146,7 +171,7 @@ export default function TimeTravelBrowser({
           <div className="anim-slide-up">
             <WorldMap
               selectedCountry={selectedCountry}
-              onSelectCountry={setSelectedCountry}
+              onSelectCountry={handleCountryChange}
               availableYearsByCountry={availableYearsByCountry}
             />
           </div>
@@ -154,7 +179,7 @@ export default function TimeTravelBrowser({
             <TimeCircuit
               selectedCountry={selectedCountry}
               destinationYear={destinationYear}
-              onYearChange={setDestinationYear}
+              onYearChange={(y) => handleYearChange(y)}
               availableYears={availableYears}
               lastDeparted={lastDeparted}
               onGo={handleGo}
