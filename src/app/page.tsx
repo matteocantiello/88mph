@@ -1,6 +1,7 @@
 import { getMetadata, getChartData, getAvailableYears, ChartData } from "@/lib/data";
 import { COUNTRIES } from "@/lib/utils";
 import Image from "next/image";
+import Link from "next/link";
 import RandomButton from "@/components/RandomButton";
 import TimeTravelBrowser from "@/components/TimeTravelBrowser";
 
@@ -112,14 +113,12 @@ export default async function HomePage() {
               {Object.keys(COUNTRIES).length} countries &middot; {totalCharts} charts
             </p>
             <span className="w-px h-3 bg-foreground/10" />
-            <a
-              href="https://github.com/matteocantiello/88mph/issues/new?template=suggest-chart.yml"
-              target="_blank"
-              rel="noopener noreferrer"
+            <Link
+              href="/suggest"
               className="font-body text-[11px] text-foreground/25 hover:text-accent transition-colors"
             >
               Suggest a chart
-            </a>
+            </Link>
           </div>
         </div>
       </footer>
@@ -128,7 +127,6 @@ export default async function HomePage() {
 }
 
 /* Spotlight card shown in the hero */
-import Link from "next/link";
 import { getCountryFlag, getCountryName } from "@/lib/utils";
 import { getThemeForYear } from "@/lib/themes";
 

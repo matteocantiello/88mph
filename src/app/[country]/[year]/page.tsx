@@ -221,9 +221,7 @@ export default async function ChartPage({ params }: PageProps) {
             />
             <div className="mt-6 text-right">
               <a
-                href={`https://github.com/matteocantiello/88mph/issues/new?template=suggest-chart.yml&title=${encodeURIComponent(`[Chart]: ${getCountryName(country)} ${year}`)}`}
-                target="_blank"
-                rel="noopener noreferrer"
+                href="/suggest"
                 className="font-body text-[11px] text-foreground/20 hover:text-accent transition-colors"
               >
                 Suggest a correction
