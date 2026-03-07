@@ -103,9 +103,8 @@ function SlotDrum({
       style={{
         width: drumWidth,
         height: slotH > 0 ? `${slotH}px` : "1.3em",
-        verticalAlign: "baseline",
-        position: "relative",
-        top: "0.05em",
+        verticalAlign: "bottom",
+        marginBottom: "-0.18em",
       }}
     >
       <span
