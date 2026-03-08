@@ -292,7 +292,7 @@ export async function GET(req: NextRequest) {
   }
 
   // Portrait format (default) — for download
-  return new ImageResponse(
+  const pngPortrait = new ImageResponse(
     (
       <div
         style={{
@@ -301,8 +301,7 @@ export async function GET(req: NextRequest) {
           width: "100%",
           height: "100%",
           background: `linear-gradient(170deg, ${theme.surface} 0%, ${theme.background} 35%, ${theme.background} 100%)`,
-          padding: "60px 56px 48px",
-          justifyContent: "space-between",
+          padding: "56px 52px 44px",
           fontFamily: "Outfit",
           color: theme.foreground,
           position: "relative",
@@ -339,7 +338,7 @@ export async function GET(req: NextRequest) {
             display: "flex",
             alignItems: "center",
             justifyContent: "space-between",
-            marginBottom: "40px",
+            marginBottom: "32px",
           }}
         >
           <span
@@ -359,53 +358,47 @@ export async function GET(req: NextRequest) {
           style={{
             display: "flex",
             fontFamily: "Instrument Serif",
-            fontSize: 180,
+            fontSize: 220,
             color: theme.accent,
             lineHeight: 1,
-            marginBottom: "8px",
+            marginBottom: "4px",
           }}
         >
           {year}
         </div>
 
-        {/* Country — below year for readability over postcard */}
+        {/* Country — below year */}
         <div
           style={{
             display: "flex",
-            alignItems: "flex-start",
-            gap: "14px",
-            marginBottom: "20px",
+            alignItems: "center",
+            gap: "16px",
+            marginBottom: "24px",
           }}
         >
-          <span style={{ fontSize: 28, lineHeight: 1.2 }}>{flag}</span>
+          <span style={{ fontSize: 40, lineHeight: 1 }}>{flag}</span>
           <span
             style={{
-              display: "flex",
-              flexDirection: "column",
-              gap: "4px",
+              fontSize: 34,
+              letterSpacing: "0.12em",
+              textTransform: "uppercase" as const,
+              color: theme.foreground,
+              opacity: 0.7,
+              fontWeight: 600,
             }}
           >
-            <span
-              style={{
-                fontSize: 24,
-                letterSpacing: "0.15em",
-                textTransform: "uppercase" as const,
-                color: theme.foreground,
-                opacity: 0.6,
-              }}
-            >
-              {countryName}
-            </span>
-            <span
-              style={{
-                fontSize: 20,
-                letterSpacing: "0.08em",
-                color: theme.foreground,
-                opacity: 0.35,
-              }}
-            >
-              Year-End Top 10
-            </span>
+            {countryName}
+          </span>
+          <span
+            style={{
+              fontSize: 26,
+              letterSpacing: "0.06em",
+              color: theme.foreground,
+              opacity: 0.4,
+              marginLeft: "4px",
+            }}
+          >
+            Year-End Top 10
           </span>
         </div>
 
@@ -416,7 +409,7 @@ export async function GET(req: NextRequest) {
             width: "100%",
             height: "2px",
             background: `linear-gradient(to right, ${theme.accent}60, transparent)`,
-            marginBottom: "40px",
+            marginBottom: "32px",
           }}
         />
 
@@ -425,7 +418,8 @@ export async function GET(req: NextRequest) {
           style={{
             display: "flex",
             flexDirection: "column",
-            gap: "30px",
+            gap: "20px",
+            flex: 1,
           }}
         >
           {chart.tracks.slice(0, 10).map((track) => (
@@ -433,16 +427,16 @@ export async function GET(req: NextRequest) {
               key={track.rank}
               style={{
                 display: "flex",
-                alignItems: "baseline",
-                gap: "24px",
+                alignItems: "center",
+                gap: "20px",
               }}
             >
               <span
                 style={{
-                  fontSize: 34,
+                  fontSize: 38,
                   color: theme.accent,
                   opacity: 0.5,
-                  width: "56px",
+                  width: "52px",
                   textAlign: "right",
                   flexShrink: 0,
                   fontFamily: "Instrument Serif",
@@ -450,36 +444,62 @@ export async function GET(req: NextRequest) {
               >
                 {track.rank}
               </span>
+              {/* Album art thumbnail */}
+              {track.albumArt ? (
+                <img
+                  src={track.albumArt}
+                  alt=""
+                  width={72}
+                  height={72}
+                  style={{
+                    borderRadius: "8px",
+                    objectFit: "cover",
+                    flexShrink: 0,
+                  }}
+                />
+              ) : (
+                <div
+                  style={{
+                    display: "flex",
+                    width: "72px",
+                    height: "72px",
+                    borderRadius: "8px",
+                    background: `${theme.foreground}10`,
+                    flexShrink: 0,
+                  }}
+                />
+              )}
               <div
                 style={{
                   display: "flex",
                   flexDirection: "column",
-                  gap: "2px",
+                  gap: "4px",
                   overflow: "hidden",
+                  flex: 1,
                 }}
               >
                 <span
                   style={{
-                    fontSize: 36,
+                    fontSize: 38,
                     fontWeight: 600,
                     color: theme.foreground,
                     lineHeight: 1.2,
                   }}
                 >
-                  {track.title.length > 32
-                    ? track.title.slice(0, 32) + "..."
+                  {track.title.length > 28
+                    ? track.title.slice(0, 28) + "..."
                     : track.title}
                 </span>
                 <span
                   style={{
-                    fontSize: 26,
+                    fontSize: 30,
                     color: theme.foreground,
-                    opacity: 0.45,
+                    opacity: 0.5,
                     lineHeight: 1.2,
                   }}
                 >
-                  {track.artist.length > 40
-                    ? track.artist.slice(0, 40) + "..."
+                  {track.artist.length > 35
+                    ? track.artist.slice(0, 35) + "..."
                     : track.artist}
                 </span>
               </div>
@@ -492,14 +512,16 @@ export async function GET(req: NextRequest) {
           style={{
             display: "flex",
             justifyContent: "center",
+            marginTop: "20px",
           }}
         >
           <span
             style={{
               fontFamily: "Instrument Serif",
-              fontSize: 28,
+              fontSize: 34,
               color: theme.foreground,
-              opacity: 0.25,
+              opacity: 0.4,
+              fontWeight: 600,
             }}
           >
             88mph.fm
@@ -511,7 +533,17 @@ export async function GET(req: NextRequest) {
       width: 1080,
       height: 1920,
       fonts,
-      headers: cacheHeaders,
     }
   );
+
+  // Convert PNG to JPEG for smaller file size
+  const pngBuf = Buffer.from(await pngPortrait.arrayBuffer());
+  const jpegBuf = await sharp(pngBuf).jpeg({ quality: 85 }).toBuffer();
+
+  return new Response(new Uint8Array(jpegBuf), {
+    headers: {
+      "Content-Type": "image/jpeg",
+      ...cacheHeaders,
+    },
+  });
 }
