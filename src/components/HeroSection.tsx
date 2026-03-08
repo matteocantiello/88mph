@@ -183,6 +183,9 @@ export default function HeroSection({
   const shuffleRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const landingTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const spinningRef = useRef(false);
+  // Track the last "settled" country — the value the user actually sees between rotations.
+  // The shuffle corrupts selectedCountry with random values; this ref preserves the truth.
+  const settledCountryRef = useRef<string | null>(null);
 
   const allPairs = useMemo(() => {
     const pairs: { country: string; year: number }[] = [];
@@ -250,6 +253,7 @@ export default function HeroSection({
       }
       setSelectedCountry(pair.country);
       setSelectedYear(pair.year);
+      settledCountryRef.current = pair.country;
       spinningRef.current = false;
       setSpinning(false);
       landingTimerRef.current = null;
@@ -278,6 +282,10 @@ export default function HeroSection({
       clearTimeout(landingTimerRef.current);
       landingTimerRef.current = null;
     }
+    // Restore the last settled country — the shuffle may have corrupted selectedCountry
+    if (settledCountryRef.current !== null) {
+      setSelectedCountry(settledCountryRef.current);
+    }
     spinningRef.current = false;
     setSpinning(false);
   }, []);
@@ -285,6 +293,7 @@ export default function HeroSection({
   const handleCountryChange = useCallback(
     (country: string | null) => {
       stopRotation();
+      settledCountryRef.current = country;
       setSelectedCountry(country);
       if (country) {
         const years = availableYearsByCountry[country] || [];
