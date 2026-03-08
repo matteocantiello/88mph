@@ -84,7 +84,7 @@ export default function TimeCircuit({
   const hasCountry = !!selectedCountry;
 
   return (
-    <div className="time-circuit-panel rounded-xl p-4 md:p-5 h-full flex flex-col justify-between">
+    <div className="time-circuit-panel rounded-xl p-4 md:p-5 h-full flex flex-col justify-between overflow-visible">
       {/* Title */}
       <div className="flex items-center gap-2 mb-4">
         <div className="w-1.5 h-1.5 rounded-full bg-accent/60" />
@@ -142,8 +142,8 @@ export default function TimeCircuit({
 
           {/* Year grid picker */}
           {pickerOpen && availableYears.length > 0 && (
-            <div data-picker-scroll className="absolute left-0 right-0 top-full mt-1 z-20 bg-[#111] border border-white/[0.08] rounded-xl p-3 shadow-2xl shadow-black/60 max-h-[40vh] overflow-y-auto scrollbar-hide animate-picker-open">
-              <div className="grid grid-cols-4 gap-1.5">
+            <div data-picker-scroll className="absolute left-0 right-0 top-full mt-1 z-20 bg-[#111] border border-white/[0.08] rounded-xl p-3 shadow-2xl shadow-black/60 max-h-[60vh] overflow-y-auto scrollbar-hide animate-picker-open">
+              <div className="grid grid-cols-4 sm:grid-cols-5 gap-1.5">
                 {availableYears.map((y) => (
                   <button
                     key={y}

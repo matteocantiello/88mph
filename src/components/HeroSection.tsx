@@ -118,8 +118,8 @@ function Drum3D({
       style={{
         width: drumWidth,
         height: slotH > 0 ? `${slotH}px` : "1.35em",
-        verticalAlign: "bottom",
-        marginBottom: "-0.18em",
+        verticalAlign: "baseline",
+        marginBottom: "-0.35em",
         perspective: slotH > 0 ? `${slotH * 4}px` : "200px",
       }}
     >
@@ -278,10 +278,6 @@ export default function HeroSection({
       clearTimeout(landingTimerRef.current);
       landingTimerRef.current = null;
     }
-    if (targetRef.current) {
-      setSelectedCountry(targetRef.current.country);
-      setSelectedYear(targetRef.current.year);
-    }
     spinningRef.current = false;
     setSpinning(false);
   }, []);
@@ -332,8 +328,8 @@ export default function HeroSection({
           The past. On shuffle.
           <span className="w-8 h-px bg-accent/30" />
         </p>
-        <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.3] tracking-tight text-foreground/90 mb-10 whitespace-nowrap">
-          What was{" "}
+        <h1 className="font-display text-[1.45rem] sm:text-4xl md:text-5xl lg:text-6xl leading-[1.8] sm:leading-[1.3] tracking-tight text-foreground/90 mb-10">
+          <span className="whitespace-nowrap">What was{" "}
           <Drum3D
             value={countryLabel}
             target={targetCountryLabel}
@@ -341,8 +337,8 @@ export default function HeroSection({
             pool={ALL_DRUM_LABELS}
             className="text-amber-400/90"
             drumWidth="2.6em"
-          />{" "}
-          listening to in{" "}
+          /></span>{" "}
+          <span className="whitespace-nowrap">listening to in{" "}
           <Drum3D
             value={selectedYear ? String(selectedYear) : ""}
             target={targetYearLabel}
@@ -351,7 +347,7 @@ export default function HeroSection({
             className="text-[#39ff14]/80"
             drumWidth="1.8em"
           />{" "}
-          ?
+          ?</span>
         </h1>
         <div className="flex items-center justify-center">
           <RandomButton metadata={metadata} />

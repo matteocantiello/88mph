@@ -24,7 +24,7 @@ export default async function HomePage() {
   return (
     <main className="min-h-screen bg-background">
       {/* Hero */}
-      <header className="relative overflow-hidden">
+      <header className="relative overflow-x-hidden">
         {/* Hero background image */}
         <div className="absolute inset-0 postcard-hero pointer-events-none">
           <Image
