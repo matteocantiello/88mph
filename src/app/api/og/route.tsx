@@ -376,10 +376,10 @@ export async function GET(req: NextRequest) {
             marginBottom: "24px",
           }}
         >
-          <span style={{ fontSize: 40, lineHeight: 1 }}>{flag}</span>
+          <span style={{ fontSize: 44, lineHeight: 1 }}>{flag}</span>
           <span
             style={{
-              fontSize: 34,
+              fontSize: 38,
               letterSpacing: "0.12em",
               textTransform: "uppercase" as const,
               color: theme.foreground,
@@ -391,10 +391,10 @@ export async function GET(req: NextRequest) {
           </span>
           <span
             style={{
-              fontSize: 26,
+              fontSize: 28,
               letterSpacing: "0.06em",
               color: theme.foreground,
-              opacity: 0.4,
+              opacity: 0.45,
               marginLeft: "4px",
             }}
           >
@@ -418,7 +418,7 @@ export async function GET(req: NextRequest) {
           style={{
             display: "flex",
             flexDirection: "column",
-            gap: "20px",
+            gap: "24px",
             flex: 1,
           }}
         >
@@ -433,13 +433,14 @@ export async function GET(req: NextRequest) {
             >
               <span
                 style={{
-                  fontSize: 38,
+                  fontSize: 42,
                   color: theme.accent,
-                  opacity: 0.5,
-                  width: "52px",
+                  opacity: 0.7,
+                  width: "56px",
                   textAlign: "right",
                   flexShrink: 0,
-                  fontFamily: "Instrument Serif",
+                  fontFamily: "Outfit",
+                  fontWeight: 600,
                 }}
               >
                 {track.rank}
@@ -449,8 +450,8 @@ export async function GET(req: NextRequest) {
                 <img
                   src={track.albumArt}
                   alt=""
-                  width={72}
-                  height={72}
+                  width={76}
+                  height={76}
                   style={{
                     borderRadius: "8px",
                     objectFit: "cover",
@@ -461,8 +462,8 @@ export async function GET(req: NextRequest) {
                 <div
                   style={{
                     display: "flex",
-                    width: "72px",
-                    height: "72px",
+                    width: "76px",
+                    height: "76px",
                     borderRadius: "8px",
                     background: `${theme.foreground}10`,
                     flexShrink: 0,
@@ -480,26 +481,26 @@ export async function GET(req: NextRequest) {
               >
                 <span
                   style={{
-                    fontSize: 38,
+                    fontSize: 42,
                     fontWeight: 600,
                     color: theme.foreground,
                     lineHeight: 1.2,
                   }}
                 >
-                  {track.title.length > 28
-                    ? track.title.slice(0, 28) + "..."
+                  {track.title.length > 26
+                    ? track.title.slice(0, 26) + "..."
                     : track.title}
                 </span>
                 <span
                   style={{
-                    fontSize: 30,
+                    fontSize: 33,
                     color: theme.foreground,
                     opacity: 0.5,
                     lineHeight: 1.2,
                   }}
                 >
-                  {track.artist.length > 35
-                    ? track.artist.slice(0, 35) + "..."
+                  {track.artist.length > 32
+                    ? track.artist.slice(0, 32) + "..."
                     : track.artist}
                 </span>
               </div>
@@ -517,11 +518,12 @@ export async function GET(req: NextRequest) {
         >
           <span
             style={{
-              fontFamily: "Instrument Serif",
-              fontSize: 34,
-              color: theme.foreground,
-              opacity: 0.4,
+              fontFamily: "Outfit",
+              fontSize: 36,
+              color: theme.accent,
+              opacity: 0.6,
               fontWeight: 600,
+              letterSpacing: "0.08em",
             }}
           >
             88mph.fm
