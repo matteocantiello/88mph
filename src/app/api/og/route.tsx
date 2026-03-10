@@ -41,6 +41,26 @@ export async function GET(req: NextRequest) {
   const format = searchParams.get("format");
   const isLandscape = format === "landscape";
 
+  // Pre-fetch album art as base64 data URLs so Satori doesn't need external fetches
+  // (YouTube thumbnails block non-browser requests, Spotify CDN can be flaky)
+  const albumArtMap = new Map<number, string>();
+  if (!isLandscape) {
+    await Promise.all(
+      chart.tracks.slice(0, 10).map(async (track) => {
+        if (!track.albumArt) return;
+        try {
+          const res = await fetch(track.albumArt, { signal: AbortSignal.timeout(3000) });
+          if (!res.ok) return;
+          const buf = Buffer.from(await res.arrayBuffer());
+          const jpegBuf = await sharp(buf).resize(76, 76, { fit: "cover" }).jpeg({ quality: 70 }).toBuffer();
+          albumArtMap.set(track.rank, `data:image/jpeg;base64,${jpegBuf.toString("base64")}`);
+        } catch {
+          // Skip failed fetches — fallback placeholder will show
+        }
+      })
+    );
+  }
+
   // Load postcard image if available, convert to JPEG data URL for Satori
   // Use lower resolution to keep final image small and fast (WhatsApp has ~4s timeout)
   let postcardDataUrl: string | null = null;
@@ -445,10 +465,10 @@ export async function GET(req: NextRequest) {
               >
                 {track.rank}
               </span>
-              {/* Album art thumbnail */}
-              {track.albumArt ? (
+              {/* Album art thumbnail (pre-fetched as base64) */}
+              {albumArtMap.has(track.rank) ? (
                 <img
-                  src={track.albumArt}
+                  src={albumArtMap.get(track.rank)}
                   alt=""
                   width={76}
                   height={76}
