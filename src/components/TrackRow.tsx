@@ -52,6 +52,7 @@ export default function TrackRow({ track, queue, index }: TrackRowProps) {
             alt=""
             width={48}
             height={48}
+            unoptimized
             className="w-full h-full object-cover"
           />
         ) : (
