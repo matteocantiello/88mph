@@ -37,7 +37,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const title = `${flag} ${name} ${year} — Top 10 | 88mph`;
   const description = `What was ${name} listening to in ${year}? Discover the year-end top 10 chart.`;
 
-  const ogImage = `${SITE_URL}/api/og?country=${country}&year=${year}&format=landscape`;
+  const ogImage = `${SITE_URL}/api/og?country=${country}&year=${year}&format=landscape&v=2`;
   const pageUrl = `${SITE_URL}/${country}/${year}`;
 
   return {

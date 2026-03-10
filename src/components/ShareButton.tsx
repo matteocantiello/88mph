@@ -40,7 +40,7 @@ export default function ShareButton({ country, countryName, year }: ShareButtonP
 
   const downloadImage = async () => {
     try {
-      const res = await fetch(`/api/og?country=${country}&year=${year}`);
+      const res = await fetch(`/api/og?country=${country}&year=${year}&v=2`);
       const blob = await res.blob();
       const url = URL.createObjectURL(blob);
       const a = document.createElement("a");
