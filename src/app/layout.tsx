@@ -60,7 +60,7 @@ export default function RootLayout({
         className={`${instrumentSerif.variable} ${outfit.variable} ${shareTechMono.variable} font-body antialiased`}
       >
         <PlayerProvider>
-          <div className="film-grain">
+          <div className="film-grain pb-20">
             {children}
           </div>
           <VideoPanel />
