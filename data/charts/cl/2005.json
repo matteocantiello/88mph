@@ -1,0 +1,108 @@
+{
+  "country": "cl",
+  "year": 2005,
+  "context": "Chile's 2005 music scene balanced international pop-rock hits with homegrown talent. Los Bunkers emerged as Chile's leading rock band, while reggaeton began making inroads via Daddy Yankee's 'Gasolina.' Chilean cumbia and Latin pop remained strong on radio alongside Argentine and international rock.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Llueve Sobre la Ciudad",
+      "artist": "Los Bunkers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025b707596812daac339d409ad",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0chYiddNUMKEj9nGMUVNoB",
+      "spotifyUrl": "https://open.spotify.com/track/0chYiddNUMKEj9nGMUVNoB",
+      "youtubeId": "3RVseMltFTM"
+    },
+    {
+      "rank": 2,
+      "title": "La Tortura",
+      "artist": "Shakira feat. Alejandro Sanz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02afccde0243b5c750c07f6825",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:53AafWSzYsiJKnAtJTUB5f",
+      "spotifyUrl": "https://open.spotify.com/track/53AafWSzYsiJKnAtJTUB5f",
+      "youtubeId": "GdgiSOHcswI"
+    },
+    {
+      "rank": 3,
+      "title": "Gasolina",
+      "artist": "Daddy Yankee",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5YoITs1m0q8UOQ4AW7N5ga",
+      "spotifyUrl": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga",
+      "youtubeId": "2djj_KnGwjk"
+    },
+    {
+      "rank": 4,
+      "title": "Fotografía",
+      "artist": "Juanes & Nelly Furtado",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0223a1613112c1ecf946f51177",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0dEPlb8waIqRtKpLb3l6So",
+      "spotifyUrl": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So",
+      "youtubeId": "pVUNjdYNWtE"
+    },
+    {
+      "rank": 5,
+      "title": "La Camisa Negra",
+      "artist": "Juanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c091c40987e92a9256d2f210",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2EM9zpAc7PVeoAydmbfVIL",
+      "spotifyUrl": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL",
+      "youtubeId": "7fwUH0oRmkQ"
+    },
+    {
+      "rank": 6,
+      "title": "Bailando Solo",
+      "artist": "Los Bunkers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5d2418a94c6d9ea86ed906a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1wGNjZQoO4Ac5zotF3aZTb",
+      "spotifyUrl": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb",
+      "youtubeId": "nrn43ebiQSc"
+    },
+    {
+      "rank": 7,
+      "title": "Crimen",
+      "artist": "Gustavo Cerati",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d543f7c7de880da5370922c0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3oqWr0jDWNXxWufNogGREp",
+      "spotifyUrl": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp",
+      "youtubeId": "YVXNPPdh6wE"
+    },
+    {
+      "rank": 8,
+      "title": "Boulevard",
+      "artist": "Kudai",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023daba7200668b6c8f1819f44",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:224kL7H7v6VhHYK3yqxiha",
+      "spotifyUrl": "https://open.spotify.com/track/224kL7H7v6VhHYK3yqxiha",
+      "youtubeId": "UpLr2NSY16E"
+    },
+    {
+      "rank": 9,
+      "title": "Tu Amor por Siempre",
+      "artist": "Kudai",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0235c39f9f5d937c008303422c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4hYpquinYQymG1D36PXYcC",
+      "spotifyUrl": "https://open.spotify.com/track/4hYpquinYQymG1D36PXYcC",
+      "youtubeId": "ckKc7tjlrw4"
+    },
+    {
+      "rank": 10,
+      "title": "Miénteme",
+      "artist": "Los Bunkers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d9d325ade0c8856137e4dd12",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Df8mDDSY22DR5XZcHIA4A",
+      "spotifyUrl": "https://open.spotify.com/track/5Df8mDDSY22DR5XZcHIA4A",
+      "youtubeId": "t5c326VmDFI"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1bboiSLF48Y2eDVWDLS5yw"
+}

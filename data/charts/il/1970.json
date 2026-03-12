@@ -1,0 +1,105 @@
+{
+  "country": "il",
+  "year": 1970,
+  "context": "Israel's 1970 music scene was shaped by the aftermath of the Six-Day War and the emergence of Shirei Eretz Yisrael (Songs of the Land of Israel). Arik Einstein and Shalom Hanoch pioneered Israeli rock, while the annual Eurovision selection and IBA radio countdown defined popular taste. Music carried deep nationalist and existential themes.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ani Ve'ata",
+      "artist": "Arik Einstein",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02231856e1b899c16a598adb71",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:617PmmsrRatBBPRfWJI7lM",
+      "spotifyUrl": "https://open.spotify.com/track/617PmmsrRatBBPRfWJI7lM",
+      "youtubeId": "0gYTKeJG7Zs"
+    },
+    {
+      "rank": 2,
+      "title": "Yerushalayim Shel Zahav",
+      "artist": "Naomi Shemer",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02abfc0de7c324b278ad8d4bfe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0bXtwwYn1Q9M1a4NfK4V7d",
+      "spotifyUrl": "https://open.spotify.com/track/0bXtwwYn1Q9M1a4NfK4V7d",
+      "youtubeId": "1C34gFHTPTE"
+    },
+    {
+      "rank": 3,
+      "title": "Sa Le'at",
+      "artist": "Arik Einstein",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02663d1ea74e4cec41c820b5fc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6eVOYsCfODbEyrdqrYUJAF",
+      "spotifyUrl": "https://open.spotify.com/track/6eVOYsCfODbEyrdqrYUJAF",
+      "youtubeId": "Lfp-Yb0IeKw"
+    },
+    {
+      "rank": 4,
+      "title": "Erev Shel Shoshanim",
+      "artist": "Yaffa Yarkoni",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029bea5b40c8a23b5611379256",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:406Rgy4NNjTbEa7FVaAMta",
+      "spotifyUrl": "https://open.spotify.com/track/406Rgy4NNjTbEa7FVaAMta",
+      "youtubeId": "SvhfNEWVGWU"
+    },
+    {
+      "rank": 5,
+      "title": "Kmo Tzemach Bar",
+      "artist": "Arik Einstein & Shalom Hanoch",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282762a5aa16d146b05f8af48",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:402JAv9GpAcUMYuSx8tjzN",
+      "spotifyUrl": "https://open.spotify.com/track/402JAv9GpAcUMYuSx8tjzN"
+    },
+    {
+      "rank": 6,
+      "title": "Ha'Perach Be'Gani",
+      "artist": "Ilanit",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025025804504634274476844f3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0hhfp7NAYsNH0n1XknTEpe",
+      "spotifyUrl": "https://open.spotify.com/track/0hhfp7NAYsNH0n1XknTEpe"
+    },
+    {
+      "rank": 7,
+      "title": "Lu Yehi",
+      "artist": "Naomi Shemer",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dc533238c29b7ad72ee7d2da",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5UWuxNUqn33n4U9fBMSa86",
+      "spotifyUrl": "https://open.spotify.com/track/5UWuxNUqn33n4U9fBMSa86",
+      "youtubeId": "hAKsR7ZgYx4"
+    },
+    {
+      "rank": 8,
+      "title": "Mehal Ha'Har",
+      "artist": "Shalom Hanoch",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025025804504634274476844f3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0hhfp7NAYsNH0n1XknTEpe",
+      "spotifyUrl": "https://open.spotify.com/track/0hhfp7NAYsNH0n1XknTEpe"
+    },
+    {
+      "rank": 9,
+      "title": "Shir La'Shalom",
+      "artist": "Lehakat Ha'Nahal",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023e70e44b6c11f460376ebc82",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6HZOLrOgDgg60EjVUx5jbE",
+      "spotifyUrl": "https://open.spotify.com/track/6HZOLrOgDgg60EjVUx5jbE",
+      "youtubeId": "IJtrDKDSOok"
+    },
+    {
+      "rank": 10,
+      "title": "Ba'Shanah Ha'Ba'ah",
+      "artist": "Nurit Galron",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027e2688edd61e1cb9a626dc2e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6QRJl05391uIICU67ocDro",
+      "spotifyUrl": "https://open.spotify.com/track/6QRJl05391uIICU67ocDro",
+      "youtubeId": "2Jth1MedtV4"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/09dHLDiwn7ffhOHagUSS8P"
+}

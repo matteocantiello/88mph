@@ -1,0 +1,93 @@
+{
+  "country": "th",
+  "year": 2000,
+  "context": "Thailand's 2000 was the golden age of string (Thai pop-rock), with Bird Thongchai McIntyre reigning as the undisputed king of Thai pop. Grammy Entertainment and RS Promotion dominated the industry, nurturing artists like Asanee-Wasan, Loso, and Bodyslam who blended Thai melodies with Western rock and pop production.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Rak Khun Thao Fah",
+      "artist": "Bird Thongchai McIntyre",
+      "youtubeId": "Utie6gXKw2c",
+      "spotifyUri": "spotify:track:4Q3HsJwY1NV2Jh5jL4knaf",
+      "spotifyUrl": "https://open.spotify.com/track/4Q3HsJwY1NV2Jh5jL4knaf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028aa087da6c4f22ea490fd2da"
+    },
+    {
+      "rank": 2,
+      "title": "Kham Wa Rak",
+      "artist": "Asanee-Wasan",
+      "youtubeId": "2QUItkIwGEc",
+      "spotifyUri": "spotify:track:5k1XnO0YmRQ87bc6Sscg4m",
+      "spotifyUrl": "https://open.spotify.com/track/5k1XnO0YmRQ87bc6Sscg4m",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027951e1e20366eb1b3be3993d"
+    },
+    {
+      "rank": 3,
+      "title": "Khon Kae Lae Khon Ngoh",
+      "artist": "Big Ass",
+      "spotifyUri": "spotify:track:0rpOdjjyXzR0M8oPx0TzJV",
+      "spotifyUrl": "https://open.spotify.com/track/0rpOdjjyXzR0M8oPx0TzJV",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282df4274f456882f1f22e2f0"
+    },
+    {
+      "rank": 4,
+      "title": "Khon Dee Tee Thur Mai Dai Rak",
+      "artist": "Loso",
+      "youtubeId": "igBte-tq_ZI",
+      "spotifyUri": "spotify:track:0rpOdjjyXzR0M8oPx0TzJV",
+      "spotifyUrl": "https://open.spotify.com/track/0rpOdjjyXzR0M8oPx0TzJV",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282df4274f456882f1f22e2f0"
+    },
+    {
+      "rank": 5,
+      "title": "Pai Nai Ma",
+      "artist": "Bird Thongchai McIntyre",
+      "youtubeId": "pFy0QZQkwkw",
+      "spotifyUri": "spotify:track:5NWLCUC0C1NhPanCq3NYwo",
+      "spotifyUrl": "https://open.spotify.com/track/5NWLCUC0C1NhPanCq3NYwo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0284cd203cac39b28fd4ac9090"
+    },
+    {
+      "rank": 6,
+      "title": "Som Sarn",
+      "artist": "Loso",
+      "youtubeId": "lhCodLwxwYo",
+      "spotifyUri": "spotify:track:769SjtHPstx3yw6QmvP232",
+      "spotifyUrl": "https://open.spotify.com/track/769SjtHPstx3yw6QmvP232",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0206dc5d66620faaccfb43fd41"
+    },
+    {
+      "rank": 7,
+      "title": "Kraam",
+      "artist": "Bodyslam",
+      "youtubeId": "6uxTE0h6w94"
+    },
+    {
+      "rank": 8,
+      "title": "Fan Ja",
+      "artist": "Palmy",
+      "youtubeId": "ePPBGxFEfuw",
+      "spotifyUri": "spotify:track:6xH4G9LcES3cNwg5Yl0sde",
+      "spotifyUrl": "https://open.spotify.com/track/6xH4G9LcES3cNwg5Yl0sde",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02338dea32aa79482bce09e40e"
+    },
+    {
+      "rank": 9,
+      "title": "Yaak Bpen Khon Samkhan Khong Thur",
+      "artist": "Groove Riders",
+      "spotifyUri": "spotify:track:0XQHSgbCHKQUW739mjpnpH",
+      "spotifyUrl": "https://open.spotify.com/track/0XQHSgbCHKQUW739mjpnpH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02274234cf0a0741d01d5eb399"
+    },
+    {
+      "rank": 10,
+      "title": "Pid Thong Lang Phra",
+      "artist": "Carabao",
+      "youtubeId": "y_xfXUVY9xI",
+      "spotifyUri": "spotify:track:6DcvG3pfjoVJnlisUmcSzl",
+      "spotifyUrl": "https://open.spotify.com/track/6DcvG3pfjoVJnlisUmcSzl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e595fb92e8bf9b984457f60e"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4Gdq6hBguFUnnsYeAor8sb"
+}

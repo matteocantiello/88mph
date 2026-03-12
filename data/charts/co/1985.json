@@ -1,0 +1,108 @@
+{
+  "country": "co",
+  "year": 1985,
+  "context": "The mid-1980s marked the peak of vallenato's mainstream dominance in Colombia, with Diomedes Díaz as the undisputed king. Joe Arroyo was simultaneously revolutionizing tropical music with his orchestra La Verdad, while the Grupo Niche salsa movement from Cali was rising. Vallenato and salsa coexisted as the twin pillars of Colombian popular music.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tú Eres la Reina",
+      "artist": "Diomedes Díaz & Juancho Rois",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023ccef69da22117088fcd8104",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:15Q3jbXrqgd9DqW8I4iKl4",
+      "spotifyUrl": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4",
+      "youtubeId": "JkUu_1MMBwM"
+    },
+    {
+      "rank": 2,
+      "title": "Rebelión",
+      "artist": "Joe Arroyo y La Verdad",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ef8d6139c380eb2ffb2d7d97",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0SZxeUYe7xTAVG2zMOozz4",
+      "spotifyUrl": "https://open.spotify.com/track/0SZxeUYe7xTAVG2zMOozz4",
+      "youtubeId": "e700cKd4uqU"
+    },
+    {
+      "rank": 3,
+      "title": "Rosa Angelina",
+      "artist": "Joe Arroyo y La Verdad",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ca60721e5adc444e6a15d59d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2DtRiKsrdaXbQZ6Ns4LXMV",
+      "spotifyUrl": "https://open.spotify.com/track/2DtRiKsrdaXbQZ6Ns4LXMV",
+      "youtubeId": "4FitNkTSi2c"
+    },
+    {
+      "rank": 4,
+      "title": "Sin Medir Distancias",
+      "artist": "Diomedes Díaz & Juancho Rois",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021a0545de9d227b48707f0ed1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3NcPDaUA2u9cv8NHbuojE0",
+      "spotifyUrl": "https://open.spotify.com/track/3NcPDaUA2u9cv8NHbuojE0",
+      "youtubeId": "vZBBpRdtWJw"
+    },
+    {
+      "rank": 5,
+      "title": "Cali Pachanguero",
+      "artist": "Grupo Niche",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0231f52b4562e4a6b06d4ec3b2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6GsxCYC9UaL0J8b8MVrRqX",
+      "spotifyUrl": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX",
+      "youtubeId": "YLjGoiOi8ac"
+    },
+    {
+      "rank": 6,
+      "title": "Olvidemos el Pasado",
+      "artist": "Alfredo Gutiérrez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b1f9ceac8585a42a6947df4b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:50fZP6OYJRCgjXKf9LBYwX",
+      "spotifyUrl": "https://open.spotify.com/track/50fZP6OYJRCgjXKf9LBYwX",
+      "youtubeId": "35lL6BIx0MY"
+    },
+    {
+      "rank": 7,
+      "title": "El Mochuelo",
+      "artist": "Otto Serge",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a96bfcb79b11b97f67263841",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1dQQtzeKGUtVTUzLoRI01j",
+      "spotifyUrl": "https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j",
+      "youtubeId": "x550hYzXQFA"
+    },
+    {
+      "rank": 8,
+      "title": "Déjame Quererte",
+      "artist": "Binomio de Oro",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022710c65004f23216a1739e0a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2pdx5eLAspXwzUxAmENhKO",
+      "spotifyUrl": "https://open.spotify.com/track/2pdx5eLAspXwzUxAmENhKO",
+      "youtubeId": "5vzeY-K2aUg"
+    },
+    {
+      "rank": 9,
+      "title": "Tabaco y Ron",
+      "artist": "La Sonora Dinamita",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f84dad51cdfbcd4505de9999",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:67fYwGTNhiUsqRxPZIWAJE",
+      "spotifyUrl": "https://open.spotify.com/track/67fYwGTNhiUsqRxPZIWAJE",
+      "youtubeId": "ZPGxREAnXjo"
+    },
+    {
+      "rank": 10,
+      "title": "Amarte Más No Pude",
+      "artist": "Diomedes Díaz & Juancho Rois",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bb351ebdd85195a71cebca37",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0oTn6wwj6KdI5Gzdcujf9Z",
+      "spotifyUrl": "https://open.spotify.com/track/0oTn6wwj6KdI5Gzdcujf9Z",
+      "youtubeId": "mY0kAaTVawU"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5o62g2DHNnohIa425mufdP"
+}

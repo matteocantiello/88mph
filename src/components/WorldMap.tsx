@@ -39,6 +39,18 @@ const ISO_N3_TO_CODE: Record<string, string> = {
   "566": "ng", // Nigeria
   "710": "za", // South Africa
   "124": "ca", // Canada
+  "032": "ar", // Argentina
+  "152": "cl", // Chile
+  "170": "co", // Colombia
+  "818": "eg", // Egypt
+  "288": "gh", // Ghana
+  "360": "id", // Indonesia
+  "376": "il", // Israel
+  "404": "ke", // Kenya
+  "458": "my", // Malaysia
+  "608": "ph", // Philippines
+  "764": "th", // Thailand
+  "792": "tr", // Turkey
 };
 
 // Map our codes to ISO 3166-1 alpha-2 for flag CDN (flagcdn.com)
@@ -63,6 +75,18 @@ const CODE_TO_FLAG_ISO: Record<string, string> = {
   ng: "ng",
   za: "za",
   ca: "ca",
+  ar: "ar",
+  cl: "cl",
+  co: "co",
+  eg: "eg",
+  gh: "gh",
+  id: "id",
+  il: "il",
+  ke: "ke",
+  my: "my",
+  ph: "ph",
+  th: "th",
+  tr: "tr",
 };
 
 function WorldMap({

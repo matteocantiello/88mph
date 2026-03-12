@@ -1,0 +1,98 @@
+{
+  "country": "tr",
+  "year": 2015,
+  "context": "Turkey's 2015 saw a new generation of pop stars emerge alongside streaming's growth. Aleyna Tilki was about to break through as a teenage sensation, while established artists like Tarkan and Hadise continued to chart. Turkish hip-hop was gaining ground, and the country's music industry was increasingly digital.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Cuppa",
+      "artist": "Tarkan",
+      "youtubeId": "liumcDGMsYE",
+      "spotifyUri": "spotify:track:3nZfl2Ge5xUb6qJIkgTPQX",
+      "spotifyUrl": "https://open.spotify.com/track/3nZfl2Ge5xUb6qJIkgTPQX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0278dfceb448b59ca65539c91c"
+    },
+    {
+      "rank": 2,
+      "title": "Prenses",
+      "artist": "Hadise",
+      "youtubeId": "qtVsVJ9V338",
+      "spotifyUri": "spotify:track:29m80muVSkcLNPTJgyAo22",
+      "spotifyUrl": "https://open.spotify.com/track/29m80muVSkcLNPTJgyAo22",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02af8ed306e53977f548a8d894"
+    },
+    {
+      "rank": 3,
+      "title": "İncir Reçeli 2",
+      "artist": "Murat Boz",
+      "youtubeId": "ouO3qjQZJZM",
+      "spotifyUri": "spotify:track:7BHAJ6Q7nAuspfNzeyEPul",
+      "spotifyUrl": "https://open.spotify.com/track/7BHAJ6Q7nAuspfNzeyEPul",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e575d566abcae98638c0c559"
+    },
+    {
+      "rank": 4,
+      "title": "Söz",
+      "artist": "Murat Boz",
+      "youtubeId": "ZikgfIoBPOY",
+      "spotifyUri": "spotify:track:0cdGDHyxuFEZDBTzcPxP7S",
+      "spotifyUrl": "https://open.spotify.com/track/0cdGDHyxuFEZDBTzcPxP7S",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bd71d6c267c0028cc504b654"
+    },
+    {
+      "rank": 5,
+      "title": "Aşk Adına",
+      "artist": "Hadise",
+      "youtubeId": "gDevGambI5w",
+      "spotifyUri": "spotify:track:4PTjzk0gb6st9Lk5kKBnc6",
+      "spotifyUrl": "https://open.spotify.com/track/4PTjzk0gb6st9Lk5kKBnc6",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b0b708cd6af98b90b56296bb"
+    },
+    {
+      "rank": 6,
+      "title": "Vazgeçtim",
+      "artist": "Sıla",
+      "youtubeId": "hTl6G1Mi9wo",
+      "spotifyUri": "spotify:track:4oIuzVjiOVlznI3hzIBIq8",
+      "spotifyUrl": "https://open.spotify.com/track/4oIuzVjiOVlznI3hzIBIq8",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b511e3464e158495d88b36ba"
+    },
+    {
+      "rank": 7,
+      "title": "Yaz Yaz Yaz",
+      "artist": "Kenan Doğulu",
+      "youtubeId": "VcuO0Yi3dFE",
+      "spotifyUri": "spotify:track:0rlhNjGephcDlZPh2mgftk",
+      "spotifyUrl": "https://open.spotify.com/track/0rlhNjGephcDlZPh2mgftk",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0291885a4d35db67a2ef3eda07"
+    },
+    {
+      "rank": 8,
+      "title": "Müptezel",
+      "artist": "Emre Aydın",
+      "youtubeId": "3LznIeW4rP8",
+      "spotifyUri": "spotify:track:2DJAhrGJb3K2iFp8ohJ8MQ",
+      "spotifyUrl": "https://open.spotify.com/track/2DJAhrGJb3K2iFp8ohJ8MQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0275df7480a73f3f77acc2ec7d"
+    },
+    {
+      "rank": 9,
+      "title": "Beni Çok Sev",
+      "artist": "Tarkan",
+      "youtubeId": "NoV-_VupGHU",
+      "spotifyUri": "spotify:track:0uyWiTVblh6pV6JQlIe72e",
+      "spotifyUrl": "https://open.spotify.com/track/0uyWiTVblh6pV6JQlIe72e",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021e2f49c6803d7e4e71a2074d"
+    },
+    {
+      "rank": 10,
+      "title": "Bu Benim Öyküm",
+      "artist": "Sezen Aksu",
+      "youtubeId": "KQhSLoms5Ys",
+      "spotifyUri": "spotify:track:5yR0xxzNTXRLuUr0Jm9MmB",
+      "spotifyUrl": "https://open.spotify.com/track/5yR0xxzNTXRLuUr0Jm9MmB",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c1617f001a84f8bf81b574f6"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2bdyxh06P61ZmJDO10Qbdl"
+}

@@ -1,0 +1,108 @@
+{
+  "country": "gh",
+  "year": 2005,
+  "context": "By 2005 hiplife had fully matured into Ghana's dominant popular music, with producers like Hammer of The Last Two and Appietus crafting polished beats. Ofori Amponsah's 'Otoolege' swept seven awards at the 2006 Ghana Music Awards, while Castro, Praye, and Mzbel brought danceable energy and controversy to the mainstream.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Otoolege",
+      "artist": "Ofori Amponsah ft. K.K. Fosu, Kofi Nti & Barosky",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028efa3b30997d35b4ea003050",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1osCJSONOQ0CNEKYGp7XfQ",
+      "spotifyUrl": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ",
+      "youtubeId": "M6bBWBIqp9U"
+    },
+    {
+      "rank": 2,
+      "title": "Toffee",
+      "artist": "Castro",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02333b36b4f2265e053e49cfa8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4qnolDQkujcltJIKNoSbnr",
+      "spotifyUrl": "https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr",
+      "youtubeId": "8ZDYnNwWgag"
+    },
+    {
+      "rank": 3,
+      "title": "Shoddy",
+      "artist": "Praye",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022ced7dec784b69e22fe09970",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6opNm3NekuN1HYXb2inWIN",
+      "spotifyUrl": "https://open.spotify.com/track/6opNm3NekuN1HYXb2inWIN",
+      "youtubeId": "8q8tro-30fA"
+    },
+    {
+      "rank": 4,
+      "title": "Konkontibaa",
+      "artist": "Obour ft. Samini",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a3fb28a6f13eaa65272b41c6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6rscBpsqkCwkCUcqv8dkjx",
+      "spotifyUrl": "https://open.spotify.com/track/6rscBpsqkCwkCUcqv8dkjx",
+      "youtubeId": "lfAC-zZ-JWM"
+    },
+    {
+      "rank": 5,
+      "title": "Fefe Ne Fe",
+      "artist": "Tic Tac ft. Tony Tetuila",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025002eb9041f804d304d4364b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3yTE6IOdcYLlV6TnCzjPA1",
+      "spotifyUrl": "https://open.spotify.com/track/3yTE6IOdcYLlV6TnCzjPA1",
+      "youtubeId": "8zyK4-SldvQ"
+    },
+    {
+      "rank": 6,
+      "title": "Tuobodom",
+      "artist": "Nkasei",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026ea84965bc925cdbdcaad426",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6ZidFzOUA1IxgNf2bwIg2p",
+      "spotifyUrl": "https://open.spotify.com/track/6ZidFzOUA1IxgNf2bwIg2p",
+      "youtubeId": "G8MGvoSwbcI"
+    },
+    {
+      "rank": 7,
+      "title": "16 Years",
+      "artist": "Mzbel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02efe11a065a80dc203ad3046f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:67OAZs5WyB3PAMA39hp2e7",
+      "spotifyUrl": "https://open.spotify.com/track/67OAZs5WyB3PAMA39hp2e7",
+      "youtubeId": "9rOC7Emj32U"
+    },
+    {
+      "rank": 8,
+      "title": "Goosie Ganda",
+      "artist": "Wutah",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028193323804279fee98b110ce",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0HM85P3Vil4mrjhMmDZEYO",
+      "spotifyUrl": "https://open.spotify.com/track/0HM85P3Vil4mrjhMmDZEYO",
+      "youtubeId": "_DUA7hbwsoQ"
+    },
+    {
+      "rank": 9,
+      "title": "Aso",
+      "artist": "Kwabena Kwabena ft. Kontihene",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aa1036cd36ae4d54a6ed9581",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1PuNS35MWQGEfra65aUpSc",
+      "spotifyUrl": "https://open.spotify.com/track/1PuNS35MWQGEfra65aUpSc",
+      "youtubeId": "fptTTK5khYo"
+    },
+    {
+      "rank": 10,
+      "title": "Na Ya Tal",
+      "artist": "Kwaw Kese",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0284d28dc1599906e25fe8f548",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1nINIulSBhkYdYUA1Wbwog",
+      "spotifyUrl": "https://open.spotify.com/track/1nINIulSBhkYdYUA1Wbwog",
+      "youtubeId": "__Cg58jd0EM"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4zF54NrtBdxMxivTdxHwea"
+}

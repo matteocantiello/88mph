@@ -1,0 +1,105 @@
+{
+  "country": "il",
+  "year": 1980,
+  "context": "The 1980s brought the mizrahi music revolution to Israel, as Zohar Argov's working-class anthems broke through mainstream prejudice to become national hits. Israeli rock matured through artists like Shlomo Artzi, while the country's diverse population — Ashkenazi, Sephardic, Yemeni — found common ground in a new, blended Israeli pop sound.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ha'Perach Be'Gani",
+      "artist": "Zohar Argov",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0285351ed8179567a9944ac60d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:65SBc367d0Wra0HTW9eNqj",
+      "spotifyUrl": "https://open.spotify.com/track/65SBc367d0Wra0HTW9eNqj",
+      "youtubeId": "Dn4wMxQRnaY"
+    },
+    {
+      "rank": 2,
+      "title": "Elinor",
+      "artist": "Zohar Argov",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024cccba2541e024b5a8f3d51d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5DrKHIoKhGgqJCvHChRwbo",
+      "spotifyUrl": "https://open.spotify.com/track/5DrKHIoKhGgqJCvHChRwbo",
+      "youtubeId": "oW1ZxEg4sI0"
+    },
+    {
+      "rank": 3,
+      "title": "Gvanim Shel Smacha",
+      "artist": "Shlomo Artzi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0201f29cb95808086322951517",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2gK92y6pVz6ygq8Fc7N2xL",
+      "spotifyUrl": "https://open.spotify.com/track/2gK92y6pVz6ygq8Fc7N2xL",
+      "youtubeId": "AMLtogb1vRI"
+    },
+    {
+      "rank": 4,
+      "title": "Hayu Zmanim",
+      "artist": "Yehuda Poliker",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244ae44c09eabdeef350c8437",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4oqt7HQkjCiOpUfyQbcMPr",
+      "spotifyUrl": "https://open.spotify.com/track/4oqt7HQkjCiOpUfyQbcMPr"
+    },
+    {
+      "rank": 5,
+      "title": "Hayalda Hakhi Yafa Ba'Gan",
+      "artist": "Zvika Pick",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02434a3d55c63ddcaa18dce37c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2YfRKF4sWeV1t1NqBoUgxH",
+      "spotifyUrl": "https://open.spotify.com/track/2YfRKF4sWeV1t1NqBoUgxH"
+    },
+    {
+      "rank": 6,
+      "title": "Ha'Kochav Shelach Nolad",
+      "artist": "Yehudit Ravitz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b05b7d6a527c2e4e1d974043",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:14nl3Pm9l9PDb2dOgvHXae",
+      "spotifyUrl": "https://open.spotify.com/track/14nl3Pm9l9PDb2dOgvHXae"
+    },
+    {
+      "rank": 7,
+      "title": "Yesh Li Ahava",
+      "artist": "Rita",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0278df3bc161b06e6dc4c22128",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0UJCL5ood5gVvb6R4gfHmA",
+      "spotifyUrl": "https://open.spotify.com/track/0UJCL5ood5gVvb6R4gfHmA",
+      "youtubeId": "wqEne3lDjYo"
+    },
+    {
+      "rank": 8,
+      "title": "Hora",
+      "artist": "Ofra Haza",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0251eeeb919817b2cd858e086d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4ydKgP5tvk6CrtyrYVB03z",
+      "spotifyUrl": "https://open.spotify.com/track/4ydKgP5tvk6CrtyrYVB03z",
+      "youtubeId": "X85bjpqB21A"
+    },
+    {
+      "rank": 9,
+      "title": "Stav",
+      "artist": "Shlomo Artzi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f357ba4458a7b0c0fc4d69a7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0dRoC8ArrJllS28n8eZbRg",
+      "spotifyUrl": "https://open.spotify.com/track/0dRoC8ArrJllS28n8eZbRg",
+      "youtubeId": "zc_OFSNlTPc"
+    },
+    {
+      "rank": 10,
+      "title": "Kan",
+      "artist": "Yehudit Ravitz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027d71cf6d71deb7caecbf24b3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3jqJ6XZcdgYSD63pSaN8dM",
+      "spotifyUrl": "https://open.spotify.com/track/3jqJ6XZcdgYSD63pSaN8dM",
+      "youtubeId": "7g5IJLwF3gQ"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6HXrmHUopqSUlSLAMyfmVj"
+}

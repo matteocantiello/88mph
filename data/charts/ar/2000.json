@@ -1,0 +1,108 @@
+{
+  "country": "ar",
+  "year": 2000,
+  "context": "Argentina in 2000 saw rock nacional at a crossroads, with new bands like Bersuit Vergarabat and Babasonicos pushing boundaries while the country headed toward its devastating 2001 economic crisis. Cumbia villera exploded as the soundtrack of the crisis, and Los Rodriguez's Andrés Calamaro went solo with massive success.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Flaca",
+      "artist": "Andrés Calamaro",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e4b8ec3d2ffe1f77c7185d48",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1p7m9H4H8s0Y7SgRm7j3ED",
+      "spotifyUrl": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED",
+      "youtubeId": "uEV4RqqnlSE"
+    },
+    {
+      "rank": 2,
+      "title": "La Vida Tombola",
+      "artist": "Manu Chao",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3U34tMYhMbr6tBWZdCUp6f",
+      "spotifyUrl": "https://open.spotify.com/track/3U34tMYhMbr6tBWZdCUp6f",
+      "youtubeId": "r3XsLHwirwU"
+    },
+    {
+      "rank": 3,
+      "title": "Jesse James",
+      "artist": "Bersuit Vergarabat",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029b979c559ea40fc088c07f6b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4iABTqDgx71UVIhfUNLZng",
+      "spotifyUrl": "https://open.spotify.com/track/4iABTqDgx71UVIhfUNLZng",
+      "youtubeId": "p5_Kosxcq0M"
+    },
+    {
+      "rank": 4,
+      "title": "Loco (Tu Forma de Ser)",
+      "artist": "Los Auténticos Decadentes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0262d6b9c62691db6f63608eac",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3ydweVPwq9PCEVJ8WwqT6u",
+      "spotifyUrl": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u",
+      "youtubeId": "9PSudEJdCNI"
+    },
+    {
+      "rank": 5,
+      "title": "Ella Usó Mi Cabeza Como un Revólver",
+      "artist": "Babasonicos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b50bb73f2ef9047afa0644a4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5RzXSxR7BUhEtpqh77lMbR",
+      "spotifyUrl": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR",
+      "youtubeId": "L095O5hU4VI"
+    },
+    {
+      "rank": 6,
+      "title": "Amo y Señor",
+      "artist": "Leo Dan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028ad34e1f526e13770fe56a81",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0pnyOit504K6A1594D0uZV",
+      "spotifyUrl": "https://open.spotify.com/track/0pnyOit504K6A1594D0uZV",
+      "youtubeId": "igQqGk8R-Ks"
+    },
+    {
+      "rank": 7,
+      "title": "La Perla",
+      "artist": "Babasonicos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c0540f97b3f95e387a9b58e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1V14rt4SEpMU1wCdmGz6eB",
+      "spotifyUrl": "https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB",
+      "youtubeId": "L8H822UtvOg"
+    },
+    {
+      "rank": 8,
+      "title": "Estadio Azteca",
+      "artist": "Andrés Calamaro",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02687f3027948e525c171d0440",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:03Ntkzzjkz7nFJldcPbL90",
+      "spotifyUrl": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90",
+      "youtubeId": "ctEfRni9sQQ"
+    },
+    {
+      "rank": 9,
+      "title": "Sr. Cobranza",
+      "artist": "Bersuit Vergarabat",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a0fc7851f47a216e9a902aa6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0zXMZx9kvFO6x58JiIh4BJ",
+      "spotifyUrl": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ",
+      "youtubeId": "yvjgke19zZw"
+    },
+    {
+      "rank": 10,
+      "title": "No Voy en Tren",
+      "artist": "Charly García",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0242542c948d51893462874c89",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5MV4J9OdmVGz63b1gnezp6",
+      "spotifyUrl": "https://open.spotify.com/track/5MV4J9OdmVGz63b1gnezp6",
+      "youtubeId": "RIaZM8d9oCA"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5KAAHtcWGaaJun7lb1rd0U"
+}

@@ -1,0 +1,108 @@
+{
+  "country": "id",
+  "year": 2010,
+  "context": "Indonesia's 2010 music scene transitioned as digital platforms began replacing physical sales. Pop-rock remained strong with bands like Ungu and D'Masiv, while melayu pop and dangdut koplo (a faster, more electronic form of dangdut) gained traction in Java's smaller cities and on YouTube.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Cinta Ini Membunuhku",
+      "artist": "D'Masiv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a53bc0dfa374c632d394e98",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3jqOKTYh4XH9khpOXQp89Y",
+      "spotifyUrl": "https://open.spotify.com/track/3jqOKTYh4XH9khpOXQp89Y",
+      "youtubeId": "NVLamgxW4mw"
+    },
+    {
+      "rank": 2,
+      "title": "Separuh Aku",
+      "artist": "Noah",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ef9c61634ef59e7ee439dacc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4sJmv194lQKWjytpaxH1Vj",
+      "spotifyUrl": "https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj",
+      "youtubeId": "tstwxIh6xJw"
+    },
+    {
+      "rank": 3,
+      "title": "Kamu Yang Kutunggu",
+      "artist": "Afgan feat. Rossa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020ff00614783dc334b340358c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0V0ezy5ttHCGCB2a8dVUoZ",
+      "spotifyUrl": "https://open.spotify.com/track/0V0ezy5ttHCGCB2a8dVUoZ",
+      "youtubeId": "OSujOd9_fDg"
+    },
+    {
+      "rank": 4,
+      "title": "Terlatih Patah Hati",
+      "artist": "The Rain",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0200bb1fe08fd2ac677bcc759a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1mAkA0ZVdi3S9gVvuJw89I",
+      "spotifyUrl": "https://open.spotify.com/track/1mAkA0ZVdi3S9gVvuJw89I",
+      "youtubeId": "kkuDEm4v1MM"
+    },
+    {
+      "rank": 5,
+      "title": "Diam-Diam Suka",
+      "artist": "Cherrybelle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023ad38432e5772bf80a9a2483",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:54hwAFt5hfHwGmhzjY0RmE",
+      "spotifyUrl": "https://open.spotify.com/track/54hwAFt5hfHwGmhzjY0RmE",
+      "youtubeId": "YDuKxNjCzgM"
+    },
+    {
+      "rank": 6,
+      "title": "Perahu Kertas",
+      "artist": "Maudy Ayunda",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024ee6c0713af0507f42e13b02",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5SbrY0QeN03TpEXT9l29GR",
+      "spotifyUrl": "https://open.spotify.com/track/5SbrY0QeN03TpEXT9l29GR",
+      "youtubeId": "Y6_uE7qoudM"
+    },
+    {
+      "rank": 7,
+      "title": "Ku Tak Bisa",
+      "artist": "Adista",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0224ca12d9a5b97eac0c995d16",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7uvZDlkMqa96xtiqmwm9Dn",
+      "spotifyUrl": "https://open.spotify.com/track/7uvZDlkMqa96xtiqmwm9Dn",
+      "youtubeId": "Fywx-OTQ1cE"
+    },
+    {
+      "rank": 8,
+      "title": "Setia",
+      "artist": "Jikustik",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f9924da00f931bcf1a724e5e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0cbV99EGKS34lcXzy02Kqx",
+      "spotifyUrl": "https://open.spotify.com/track/0cbV99EGKS34lcXzy02Kqx",
+      "youtubeId": "E1Q1pjvWXQs"
+    },
+    {
+      "rank": 9,
+      "title": "Aku Milikmu",
+      "artist": "Dewa 19",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfc7fa507f4bc822cabe7bde",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5JESuE80fvausWHjcT9QVh",
+      "spotifyUrl": "https://open.spotify.com/track/5JESuE80fvausWHjcT9QVh",
+      "youtubeId": "5a0EkeqWNBs"
+    },
+    {
+      "rank": 10,
+      "title": "Sempurna",
+      "artist": "Andra & The Backbone",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020df7dec70511dd4f2e69dc34",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2UgCs0i0rNHUH2jKE5NZHE",
+      "spotifyUrl": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE",
+      "youtubeId": "CIRSQrkhehM"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1m2OcPljSj4iaj88JDKouy"
+}

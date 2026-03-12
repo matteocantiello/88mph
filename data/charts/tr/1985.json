@@ -1,0 +1,98 @@
+{
+  "country": "tr",
+  "year": 1985,
+  "context": "The mid-1980s was the peak of arabesk in Turkey, with İbrahim Tatlıses, Müslüm Gürses, and Ferdi Tayfur dominating the music scene. Sezen Aksu was emerging as the 'Diva of Turkish Pop,' beginning to bridge the gap between arabesk and Western-style pop that would define Turkish music for decades.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Mavi Mavi",
+      "artist": "İbrahim Tatlıses",
+      "youtubeId": "rQWmwR5f5lA",
+      "spotifyUri": "spotify:track:0h8Si92FV5u2GE2U692bqN",
+      "spotifyUrl": "https://open.spotify.com/track/0h8Si92FV5u2GE2U692bqN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bf28fb55c4157ceb81d4370d"
+    },
+    {
+      "rank": 2,
+      "title": "Hani Benim Gençliğim",
+      "artist": "Sezen Aksu",
+      "youtubeId": "RzGzcfnECMU",
+      "spotifyUri": "spotify:track:0126WdGxnrNEqzgUb1wgQH",
+      "spotifyUrl": "https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0203a4aef4fa3f80032dc3f82d"
+    },
+    {
+      "rank": 3,
+      "title": "Ay Dilbere",
+      "artist": "Ferdi Tayfur",
+      "youtubeId": "pacGMiugjfo",
+      "spotifyUri": "spotify:track:2SUfHk0LaBAvVyelypcj5s",
+      "spotifyUrl": "https://open.spotify.com/track/2SUfHk0LaBAvVyelypcj5s",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cdc7a58120b62cdbb11a610b"
+    },
+    {
+      "rank": 4,
+      "title": "Benim Hayatım",
+      "artist": "Müslüm Gürses",
+      "youtubeId": "wrMxP-FV9bo",
+      "spotifyUri": "spotify:track:28TeosAOQZvsftj5ZxucaX",
+      "spotifyUrl": "https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022b570cac7049d9ac64af30a0"
+    },
+    {
+      "rank": 5,
+      "title": "Dom Dom Kurşunu",
+      "artist": "İbrahim Tatlıses",
+      "youtubeId": "sPzP8Mbbcf8",
+      "spotifyUri": "spotify:track:5gJjYGOIJxj9UbFKU2YNpE",
+      "spotifyUrl": "https://open.spotify.com/track/5gJjYGOIJxj9UbFKU2YNpE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020fa46647fbd407d8403f58e2"
+    },
+    {
+      "rank": 6,
+      "title": "Firuze",
+      "artist": "Sezen Aksu",
+      "youtubeId": "EO4r_SV6bbA",
+      "spotifyUri": "spotify:track:7nSTtrEEmGtZ8BtG8Zc0ze",
+      "spotifyUrl": "https://open.spotify.com/track/7nSTtrEEmGtZ8BtG8Zc0ze",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0273b3de66544f772dd3c6ded4"
+    },
+    {
+      "rank": 7,
+      "title": "Yalan",
+      "artist": "Ferdi Tayfur",
+      "youtubeId": "msYr2F1_skA",
+      "spotifyUri": "spotify:track:1ckCr7JgCvEeCLTRazXlda",
+      "spotifyUrl": "https://open.spotify.com/track/1ckCr7JgCvEeCLTRazXlda",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c5de4efed8711805ffdad991"
+    },
+    {
+      "rank": 8,
+      "title": "Gülümse",
+      "artist": "Sezen Aksu",
+      "youtubeId": "qgfLk8Uksxo",
+      "spotifyUri": "spotify:track:5fejcHsVRZuxHu0XpCeiqf",
+      "spotifyUrl": "https://open.spotify.com/track/5fejcHsVRZuxHu0XpCeiqf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b04acd97ea452f76244cbc30"
+    },
+    {
+      "rank": 9,
+      "title": "Gönül Dağı",
+      "artist": "Neşet Ertaş",
+      "youtubeId": "KhpbrgttqUw",
+      "spotifyUri": "spotify:track:7yWqRsRXU7OAL0KMo8Wy9S",
+      "spotifyUrl": "https://open.spotify.com/track/7yWqRsRXU7OAL0KMo8Wy9S",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029c08a1aef8473ceb09631ee6"
+    },
+    {
+      "rank": 10,
+      "title": "Bir Teselli Ver",
+      "artist": "Müslüm Gürses",
+      "youtubeId": "RTY5yqYyi7s",
+      "spotifyUri": "spotify:track:6nBt02w2yKB84vdrStauex",
+      "spotifyUrl": "https://open.spotify.com/track/6nBt02w2yKB84vdrStauex",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f9c6997fdb2489014dd84758"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5anB63CYfKYjnuwqy1rGsW"
+}

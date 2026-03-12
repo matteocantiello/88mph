@@ -1,0 +1,98 @@
+{
+  "country": "tr",
+  "year": 2025,
+  "context": "Turkey's 2025 music landscape was shaped by a blend of traditional Turkish pop, modern urban sounds, and the continued influence of streaming platforms. Tarkan's longevity remained remarkable, while younger artists like Aleyna Tilki, Edis, and Ezhel commanded massive digital audiences. Turkish music's reach extended well beyond its borders into Central Asia and the Balkans.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Neden",
+      "artist": "Tarkan",
+      "youtubeId": "PpojKEO9RU0",
+      "spotifyUri": "spotify:track:0OFivfe4fC4QR20TzMVbfM",
+      "spotifyUrl": "https://open.spotify.com/track/0OFivfe4fC4QR20TzMVbfM",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026d362a3d334de413e8de137e"
+    },
+    {
+      "rank": 2,
+      "title": "Cevapsız Çınlama",
+      "artist": "Aleyna Tilki",
+      "youtubeId": "YUB0Fsm1Ug8",
+      "spotifyUri": "spotify:track:2W6XpjOKbmZ1NNVNtwBr5b",
+      "spotifyUrl": "https://open.spotify.com/track/2W6XpjOKbmZ1NNVNtwBr5b",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0260ec8269db302150815ef8c1"
+    },
+    {
+      "rank": 3,
+      "title": "Ceylan",
+      "artist": "Murat Boz",
+      "youtubeId": "ZikgfIoBPOY",
+      "spotifyUri": "spotify:track:71lIucZDjYS6q5wP2q8svt",
+      "spotifyUrl": "https://open.spotify.com/track/71lIucZDjYS6q5wP2q8svt",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d593225611f71830ce903213"
+    },
+    {
+      "rank": 4,
+      "title": "Gözlerinin Yeşili",
+      "artist": "Edis",
+      "youtubeId": "xzyJeXFni1c",
+      "spotifyUri": "spotify:track:3LtpLElD5C1SB4hQQbPsYo",
+      "spotifyUrl": "https://open.spotify.com/track/3LtpLElD5C1SB4hQQbPsYo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029972c231c9ad7f849c454b34"
+    },
+    {
+      "rank": 5,
+      "title": "Aşk Sanmıştım",
+      "artist": "Sıla",
+      "youtubeId": "FQq0mY61S2M",
+      "spotifyUri": "spotify:track:7evPUpjUEslhwIMqbHIWe7",
+      "spotifyUrl": "https://open.spotify.com/track/7evPUpjUEslhwIMqbHIWe7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0270872f9e9135d57e305186d6"
+    },
+    {
+      "rank": 6,
+      "title": "Her Yer Karanlık",
+      "artist": "Ezhel",
+      "youtubeId": "Hrf7F3QAfvE",
+      "spotifyUri": "spotify:track:6PQtzyaHnx61E6KxbW4ytc",
+      "spotifyUrl": "https://open.spotify.com/track/6PQtzyaHnx61E6KxbW4ytc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021e54edb52256da7756591634"
+    },
+    {
+      "rank": 7,
+      "title": "Yana Yana",
+      "artist": "Hadise",
+      "youtubeId": "91IJVz-9Vxs",
+      "spotifyUri": "spotify:track:3hbIYwZdRwBuBdXwKfwOg6",
+      "spotifyUrl": "https://open.spotify.com/track/3hbIYwZdRwBuBdXwKfwOg6",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0248e5414998aeb7a794f0c28c"
+    },
+    {
+      "rank": 8,
+      "title": "Kendine İyi Bak",
+      "artist": "Tarkan",
+      "youtubeId": "c_wFl1W5cbA",
+      "spotifyUri": "spotify:track:1WYC1u2z1gCKdDazxK95CI",
+      "spotifyUrl": "https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028efc9428d6f1191b25a89d9a"
+    },
+    {
+      "rank": 9,
+      "title": "Beni Vurup Yerde Bırakma",
+      "artist": "Sezen Aksu",
+      "youtubeId": "FfhP6o1Ms9A",
+      "spotifyUri": "spotify:track:1DtTGyWAhf24gZTC2Fbg61",
+      "spotifyUrl": "https://open.spotify.com/track/1DtTGyWAhf24gZTC2Fbg61",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02413d4083aa9ec7b08fb098ed"
+    },
+    {
+      "rank": 10,
+      "title": "Düşüne Düşüne",
+      "artist": "Simge",
+      "youtubeId": "umqcaTcqhWI",
+      "spotifyUri": "spotify:track:6EtvDLHbxrkV9Cb95cTqbr",
+      "spotifyUrl": "https://open.spotify.com/track/6EtvDLHbxrkV9Cb95cTqbr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cf2526028252cc9ab71c3f78"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0RwQdBpuKlUNup8VQvK7BK"
+}

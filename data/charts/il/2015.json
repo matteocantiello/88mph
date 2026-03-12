@@ -1,0 +1,96 @@
+{
+  "country": "il",
+  "year": 2015,
+  "context": "Israel's 2015 saw Omer Adam cement his status as the country's biggest pop star, while Static & Ben El Tavori's electronic-mizrahi fusion was becoming a cultural phenomenon. Israeli pop increasingly blended Middle Eastern, Mediterranean, and EDM elements into a distinctive sound that reflected the country's multicultural identity.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Shnei Meshugaim",
+      "artist": "Omer Adam",
+      "youtubeId": "fRFEiZhAVO0",
+      "spotifyUri": "spotify:track:0qH6stYoiSWErrzIvkiN1W",
+      "spotifyUrl": "https://open.spotify.com/track/0qH6stYoiSWErrzIvkiN1W",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02becb1296c2b82f631d61ab7b"
+    },
+    {
+      "rank": 2,
+      "title": "Tudo Bom",
+      "artist": "Static & Ben El Tavori",
+      "youtubeId": "XCh1Dza-MoE",
+      "spotifyUri": "spotify:track:6lR6VBmCIm7gZwE4msLdb9",
+      "spotifyUrl": "https://open.spotify.com/track/6lR6VBmCIm7gZwE4msLdb9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a63323f4d816c3e26b381802"
+    },
+    {
+      "rank": 3,
+      "title": "Shigaon",
+      "artist": "Omer Adam",
+      "youtubeId": "fZXLo0PJkWc",
+      "spotifyUri": "spotify:track:2tRtMaQykoQP3oPYOtjDkN",
+      "spotifyUrl": "https://open.spotify.com/track/2tRtMaQykoQP3oPYOtjDkN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7441b1a54d9635b8dbe14e1"
+    },
+    {
+      "rank": 4,
+      "title": "Silsulim",
+      "artist": "Static & Ben El Tavori",
+      "youtubeId": "CWLUhqNYRLg",
+      "spotifyUri": "spotify:track:4OTEPzxXxUsClpW04dfIWp",
+      "spotifyUrl": "https://open.spotify.com/track/4OTEPzxXxUsClpW04dfIWp",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02220557b31ab6078df2ef7ad6"
+    },
+    {
+      "rank": 5,
+      "title": "Hopa",
+      "artist": "Eyal Golan feat. Omer Adam",
+      "youtubeId": "dJvp8A6HIKU",
+      "spotifyUri": "spotify:track:04yfprdwbPNibN8M6vE8NQ",
+      "spotifyUrl": "https://open.spotify.com/track/04yfprdwbPNibN8M6vE8NQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ff7e41fe82be6a3c33538812"
+    },
+    {
+      "rank": 6,
+      "title": "Zeh Lo Meshane",
+      "artist": "Eden Ben Zaken",
+      "spotifyUri": "spotify:track:7n6elf6gl4POlFO2LlyIMy",
+      "spotifyUrl": "https://open.spotify.com/track/7n6elf6gl4POlFO2LlyIMy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027531ffde17ed27d8ce75a5b2"
+    },
+    {
+      "rank": 7,
+      "title": "Ani Maamin",
+      "artist": "Omer Adam",
+      "youtubeId": "l8EQ1l5_bHI",
+      "spotifyUri": "spotify:track:2tRtMaQykoQP3oPYOtjDkN",
+      "spotifyUrl": "https://open.spotify.com/track/2tRtMaQykoQP3oPYOtjDkN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7441b1a54d9635b8dbe14e1"
+    },
+    {
+      "rank": 8,
+      "title": "Kacha Ze",
+      "artist": "Static & Ben El Tavori",
+      "spotifyUri": "spotify:track:1aW9qzUsXGbyhT3NPCWwdT",
+      "spotifyUrl": "https://open.spotify.com/track/1aW9qzUsXGbyhT3NPCWwdT",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027e6610a12bd3bd8e26f3a245"
+    },
+    {
+      "rank": 9,
+      "title": "Lo Levad",
+      "artist": "Noa Kirel",
+      "youtubeId": "HCUgOTMGlfI",
+      "spotifyUri": "spotify:track:0evZ3J8iWcFH7kRYmg5Mzw",
+      "spotifyUrl": "https://open.spotify.com/track/0evZ3J8iWcFH7kRYmg5Mzw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d84446a2af2c06e7d3b08ca2"
+    },
+    {
+      "rank": 10,
+      "title": "Tamid Lecha Shamti",
+      "artist": "Sarit Hadad",
+      "youtubeId": "uWNaslElCMI",
+      "spotifyUri": "spotify:track:6RLQXtGsWZZsDd3Sa5swwF",
+      "spotifyUrl": "https://open.spotify.com/track/6RLQXtGsWZZsDd3Sa5swwF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021bbc84bb8dd47d76d357e01c"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1tpGue2cssReP7uaeItuZQ"
+}

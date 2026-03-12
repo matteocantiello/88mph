@@ -1,0 +1,98 @@
+{
+  "country": "my",
+  "year": 2025,
+  "context": "Malaysia's 2025 music scene reflected a vibrant mix of Malay pop, hip-hop, and international influences. Dato' Sri Siti Nurhaliza continued her legendary career, while younger artists like Hael Husaini and Bunga Isme gained massive streaming numbers. K-pop and Western pop remained popular alongside an increasingly confident local industry.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "DiTd771WumE",
+      "spotifyUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+      "spotifyUrl": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0246085aa1855bd888abc51a5a"
+    },
+    {
+      "rank": 2,
+      "title": "Menghargai Kata Rindu",
+      "artist": "Hael Husaini",
+      "youtubeId": "vhLsSAnP7Ys",
+      "spotifyUri": "spotify:track:7dJXDo04rMWbfIepBGTfi0",
+      "spotifyUrl": "https://open.spotify.com/track/7dJXDo04rMWbfIepBGTfi0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02967144632ba895a5246565dc"
+    },
+    {
+      "rank": 3,
+      "title": "Lebih Dari Egoku",
+      "artist": "Mahalini",
+      "youtubeId": "AoZtXCastrc",
+      "spotifyUri": "spotify:track:6sLYPVGD1D4abiqf4qwI8p",
+      "spotifyUrl": "https://open.spotify.com/track/6sLYPVGD1D4abiqf4qwI8p",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020453e6343ff8b92827f727cf"
+    },
+    {
+      "rank": 4,
+      "title": "Die With a Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "DlFXDl_ROAM",
+      "spotifyUri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45"
+    },
+    {
+      "rank": 5,
+      "title": "Sial",
+      "artist": "Mahalini",
+      "youtubeId": "2MyjWg7P00A",
+      "spotifyUri": "spotify:track:6O0WEM0QNEhqpU50BKui7o",
+      "spotifyUrl": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f713eb92ebf7ca05a562542"
+    },
+    {
+      "rank": 6,
+      "title": "Satu Rasa Cinta",
+      "artist": "Arief",
+      "youtubeId": "QR1sRkvE7m0",
+      "spotifyUri": "spotify:track:2rzHka4Hnut1s1kBucyn7C",
+      "spotifyUrl": "https://open.spotify.com/track/2rzHka4Hnut1s1kBucyn7C",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02abb03e2330d646ab68508773"
+    },
+    {
+      "rank": 7,
+      "title": "Jangan Marah",
+      "artist": "Bunga Isme",
+      "youtubeId": "QF3bzdOpR2g",
+      "spotifyUri": "spotify:track:64qFP2cPhR52roELiGu4hj",
+      "spotifyUrl": "https://open.spotify.com/track/64qFP2cPhR52roELiGu4hj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0288160d21ebfaad492d4ebab8"
+    },
+    {
+      "rank": 8,
+      "title": "Seluruh Cinta",
+      "artist": "Dato' Sri Siti Nurhaliza feat. Judika",
+      "youtubeId": "vaON9m_MO6g",
+      "spotifyUri": "spotify:track:2FKvy1aWWazofWPRD9nNnP",
+      "spotifyUrl": "https://open.spotify.com/track/2FKvy1aWWazofWPRD9nNnP",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0277f54d7aebbba40273c875c8"
+    },
+    {
+      "rank": 9,
+      "title": "Ku Ingin Pisah",
+      "artist": "Bernadya",
+      "youtubeId": "-PvSxXZ4GHo",
+      "spotifyUri": "spotify:track:5xgZB5HODUVEanizzlOjEo",
+      "spotifyUrl": "https://open.spotify.com/track/5xgZB5HODUVEanizzlOjEo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022cc7eb853887837e0a4b726e"
+    },
+    {
+      "rank": 10,
+      "title": "Tiada Gantinya",
+      "artist": "Khai Bahar",
+      "youtubeId": "gD03C8WxBXA",
+      "spotifyUri": "spotify:track:15Hc18rqD3gSMqDJpJBk6V",
+      "spotifyUrl": "https://open.spotify.com/track/15Hc18rqD3gSMqDJpJBk6V",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0223f6814ba461a087edc030e9"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1IFjKEQr7b6KIuEHInae6R"
+}

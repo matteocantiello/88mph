@@ -1,0 +1,98 @@
+{
+  "country": "ph",
+  "year": 2015,
+  "context": "The Philippines in 2015 experienced a unique blend of OPM, international pop, and the growing influence of Korean pop. December Avenue and Ben&Ben were emerging as the new voice of Filipino indie-pop, while mainstream acts like Sarah Geronimo and Daniel Padilla maintained strong radio presence alongside global hits.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "youtubeId": "fdz_cabS9BU",
+      "spotifyUri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
+      "spotifyUrl": "https://open.spotify.com/track/1Slwb6dOYkBlWal1PGtnNg",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d08209944468440145f01524"
+    },
+    {
+      "rank": 2,
+      "title": "See You Again",
+      "artist": "Wiz Khalifa feat. Charlie Puth",
+      "youtubeId": "xl8thVrlvjI",
+      "spotifyUri": "spotify:track:2JzZzZUQj3Qff7wapcbKjc",
+      "spotifyUrl": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e5df11b17b2727da2b718d8"
+    },
+    {
+      "rank": 3,
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "youtubeId": "iPcX6EpJI3o",
+      "spotifyUri": "spotify:track:2iuZJX9X9P0GKaE93xcPjk",
+      "spotifyUrl": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02442b53773d50e1b5369bb16c"
+    },
+    {
+      "rank": 4,
+      "title": "Lean On",
+      "artist": "Major Lazer & DJ Snake feat. MØ",
+      "youtubeId": "5vOid-7uBdQ",
+      "spotifyUri": "spotify:track:01aTsQoKoeXofSTvKuunzv",
+      "spotifyUrl": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6d24aee7b49a2db98a76856"
+    },
+    {
+      "rank": 5,
+      "title": "Buwan",
+      "artist": "Juan Karlos",
+      "youtubeId": "4jWtIybFlLs",
+      "spotifyUri": "spotify:track:5f9808hpiCpuNyqqdXmpF2",
+      "spotifyUrl": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021916f5fab42ee22fd89b18cd"
+    },
+    {
+      "rank": 6,
+      "title": "Hanggang",
+      "artist": "December Avenue",
+      "youtubeId": "vlzmETqyt5Q",
+      "spotifyUri": "spotify:track:7iBav4v8maicL8cWKGxFhQ",
+      "spotifyUrl": "https://open.spotify.com/track/7iBav4v8maicL8cWKGxFhQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023f4be7b80314bc44154f2e1a"
+    },
+    {
+      "rank": 7,
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "youtubeId": "ITy0m2xYlw4",
+      "spotifyUri": "spotify:track:6fxVffaTuwjgEk5h9QyRjy",
+      "spotifyUrl": "https://open.spotify.com/track/6fxVffaTuwjgEk5h9QyRjy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d08209944468440145f01524"
+    },
+    {
+      "rank": 8,
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson feat. Bruno Mars",
+      "youtubeId": "tYvFa2ARD24",
+      "spotifyUri": "spotify:track:32OlwWuMpZ6b0aN2RZOeMS",
+      "spotifyUrl": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029860171ddfee17f77a570cf6"
+    },
+    {
+      "rank": 9,
+      "title": "Kathang Isip",
+      "artist": "Ben&Ben",
+      "youtubeId": "sKa8HtWgOxk",
+      "spotifyUri": "spotify:track:3WUEs51GpcvlgU7lehLgLh",
+      "spotifyUrl": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbf886276cd90f8d60b56a01"
+    },
+    {
+      "rank": 10,
+      "title": "DOTA",
+      "artist": "Basil Valdez",
+      "youtubeId": "VsgAd28rXCw",
+      "spotifyUri": "spotify:track:4ficNSRprYy3xuCZS3xm2L",
+      "spotifyUrl": "https://open.spotify.com/track/4ficNSRprYy3xuCZS3xm2L",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029439aade6c351e07ca77051f"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/04cYfg7oeUETN8IpEnP43v"
+}

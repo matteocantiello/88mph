@@ -19,6 +19,18 @@ export const COUNTRIES: Record<string, { name: string; flag: string }> = {
   ng: { name: "Nigeria", flag: "🇳🇬" },
   za: { name: "South Africa", flag: "🇿🇦" },
   ca: { name: "Canada", flag: "🇨🇦" },
+  eg: { name: "Egypt", flag: "🇪🇬" },
+  gh: { name: "Ghana", flag: "🇬🇭" },
+  ke: { name: "Kenya", flag: "🇰🇪" },
+  ar: { name: "Argentina", flag: "🇦🇷" },
+  co: { name: "Colombia", flag: "🇨🇴" },
+  cl: { name: "Chile", flag: "🇨🇱" },
+  tr: { name: "Turkey", flag: "🇹🇷" },
+  ph: { name: "Philippines", flag: "🇵🇭" },
+  id: { name: "Indonesia", flag: "🇮🇩" },
+  il: { name: "Israel", flag: "🇮🇱" },
+  th: { name: "Thailand", flag: "🇹🇭" },
+  my: { name: "Malaysia", flag: "🇲🇾" },
 };
 
 export function getCountryName(code: string): string {
@@ -49,10 +61,11 @@ export interface Region {
 }
 
 export const REGIONS: Region[] = [
-  { name: "Americas", countries: ["us", "ca", "br", "mx"] },
+  { name: "Americas", countries: ["us", "ca", "br", "mx", "ar", "co", "cl"] },
   { name: "Oceania", countries: ["au"] },
   { name: "Europe", countries: ["uk", "fr", "de", "it", "es", "se", "no", "nl"] },
-  { name: "Asia", countries: ["jp", "kr", "in", "cn"] },
-  { name: "Eurasia", countries: ["ru"] },
-  { name: "Africa", countries: ["ng", "za"] },
+  { name: "Asia", countries: ["jp", "kr", "in", "cn", "ph", "id", "th", "my"] },
+  { name: "Eurasia", countries: ["ru", "tr"] },
+  { name: "Middle East", countries: ["eg", "il"] },
+  { name: "Africa", countries: ["ng", "za", "gh", "ke"] },
 ];

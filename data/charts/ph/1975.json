@@ -1,0 +1,98 @@
+{
+  "country": "ph",
+  "year": 1975,
+  "context": "The Philippines in 1975 was in the grip of the Manila Sound movement — a catchy, dance-oriented pop-rock style that blended Filipino lyrics with Western rock and funk influences. VST & Company, Hotdog, and Hagibis defined the era, while Freddie Aguilar would soon emerge with his iconic folk ballad 'Anak.'",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Awitin Mo, Isasayaw Ko",
+      "artist": "VST & Company",
+      "youtubeId": "9GqE11C7qB4",
+      "spotifyUri": "spotify:track:5xFIkvs3t1jhuTUJ5tydte",
+      "spotifyUrl": "https://open.spotify.com/track/5xFIkvs3t1jhuTUJ5tydte",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c8a48d568fe0d0d959579c24"
+    },
+    {
+      "rank": 2,
+      "title": "Ikaw ang Miss Universe ng Buhay Ko",
+      "artist": "Hotdog",
+      "youtubeId": "or64seSAr3k",
+      "spotifyUri": "spotify:track:7FIDPZy0YOnohh2d2z63h6",
+      "spotifyUrl": "https://open.spotify.com/track/7FIDPZy0YOnohh2d2z63h6",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02feade416eb01e3bc7d9567ef"
+    },
+    {
+      "rank": 3,
+      "title": "Kay Ganda ng Ating Musika",
+      "artist": "Heber Bartolome",
+      "youtubeId": "5A_Fzh9JYEs",
+      "spotifyUri": "spotify:track:49nPfWCyVNm3aPTqzqAqh0",
+      "spotifyUrl": "https://open.spotify.com/track/49nPfWCyVNm3aPTqzqAqh0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027afa9b1b6981704f8b713c7c"
+    },
+    {
+      "rank": 4,
+      "title": "Nandito Ako",
+      "artist": "Asin",
+      "youtubeId": "MUrca5QA56g",
+      "spotifyUri": "spotify:track:5Ykz2rfupj8lEr5eDumU0X",
+      "spotifyUrl": "https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b28641a8cbba7661f99c7592"
+    },
+    {
+      "rank": 5,
+      "title": "Tayo'y Magsayawan",
+      "artist": "Blackout",
+      "youtubeId": "HW4EeYdR_Xo",
+      "spotifyUri": "spotify:track:1osglvsccU0oGsHPYHjyuR",
+      "spotifyUrl": "https://open.spotify.com/track/1osglvsccU0oGsHPYHjyuR",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020f1941c6420a941846899a67"
+    },
+    {
+      "rank": 6,
+      "title": "Bongga Ka Day",
+      "artist": "Hotdog",
+      "youtubeId": "JpPEu6uJeMc",
+      "spotifyUri": "spotify:track:2WYjrf12UjXPcMjqVpa1aZ",
+      "spotifyUrl": "https://open.spotify.com/track/2WYjrf12UjXPcMjqVpa1aZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0237a7c1983d643ef88aa54fee"
+    },
+    {
+      "rank": 7,
+      "title": "Rock Baby Rock",
+      "artist": "VST & Company",
+      "youtubeId": "eiipPPhjaCA",
+      "spotifyUri": "spotify:track:2i8FEE8sse2lAWlMfDKuu7",
+      "spotifyUrl": "https://open.spotify.com/track/2i8FEE8sse2lAWlMfDKuu7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020f1941c6420a941846899a67"
+    },
+    {
+      "rank": 8,
+      "title": "Halik",
+      "artist": "Asin",
+      "youtubeId": "-gSkqsp5auc",
+      "spotifyUri": "spotify:track:6J2u5cAE67pwycgDfQDwN0",
+      "spotifyUrl": "https://open.spotify.com/track/6J2u5cAE67pwycgDfQDwN0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ecba1198c8d2c4d6eaee116a"
+    },
+    {
+      "rank": 9,
+      "title": "Usok",
+      "artist": "Aegis (Lolita Carbon)",
+      "youtubeId": "AxSo8E12EZo",
+      "spotifyUri": "spotify:track:0V8yKxUytLHPefbRqYT1DS",
+      "spotifyUrl": "https://open.spotify.com/track/0V8yKxUytLHPefbRqYT1DS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e9aa75c9e5f1971cd6e1be12"
+    },
+    {
+      "rank": 10,
+      "title": "Masdan Mo ang Kapaligiran",
+      "artist": "Asin",
+      "youtubeId": "GSpZ4yE046E",
+      "spotifyUri": "spotify:track:02b9Z8WRHkd3Kx4cLRKoLm",
+      "spotifyUrl": "https://open.spotify.com/track/02b9Z8WRHkd3Kx4cLRKoLm",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023d3fab110c8e453963c6e34f"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0tyEM0PbXo4y4YSNyXNHFJ"
+}

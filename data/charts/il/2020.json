@@ -1,0 +1,97 @@
+{
+  "country": "il",
+  "year": 2020,
+  "context": "Israel's 2020 music scene thrived on streaming despite pandemic lockdowns. Noa Kirel emerged as Gen-Z's biggest Israeli pop star, Omer Adam and Static & Ben El remained chart fixtures, and Netta Barzilai's post-Eurovision career continued. Hebrew-language pop dominated domestic charts while maintaining a distinctly Israeli sound.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Million Dollar",
+      "artist": "Noa Kirel",
+      "youtubeId": "lFMoDtmus8s",
+      "spotifyUri": "spotify:track:4JQ66UlGRtAERXJiHaJgHl",
+      "spotifyUrl": "https://open.spotify.com/track/4JQ66UlGRtAERXJiHaJgHl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e48de2ad8b90ec643045371e"
+    },
+    {
+      "rank": 2,
+      "title": "Tudo Bom",
+      "artist": "Static & Ben El Tavori",
+      "youtubeId": "XCh1Dza-MoE",
+      "spotifyUri": "spotify:track:6lR6VBmCIm7gZwE4msLdb9",
+      "spotifyUrl": "https://open.spotify.com/track/6lR6VBmCIm7gZwE4msLdb9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a63323f4d816c3e26b381802"
+    },
+    {
+      "rank": 3,
+      "title": "Habib Albi",
+      "artist": "Omer Adam",
+      "youtubeId": "jTZ2xQWrano",
+      "spotifyUri": "spotify:track:2tRtMaQykoQP3oPYOtjDkN",
+      "spotifyUrl": "https://open.spotify.com/track/2tRtMaQykoQP3oPYOtjDkN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7441b1a54d9635b8dbe14e1"
+    },
+    {
+      "rank": 4,
+      "title": "Bassa Sababa",
+      "artist": "Netta",
+      "youtubeId": "LUkLfDgqWiY",
+      "spotifyUri": "spotify:track:3m6JyjVb6pE697VkI1uyt6",
+      "spotifyUrl": "https://open.spotify.com/track/3m6JyjVb6pE697VkI1uyt6",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028ee67445ae7490baa5fccc8a"
+    },
+    {
+      "rank": 5,
+      "title": "Medabrim",
+      "artist": "Omer Adam",
+      "youtubeId": "yh3stzVBAIk",
+      "spotifyUri": "spotify:track:4Yw9bTgtRGvRZpQXEWhqcK",
+      "spotifyUrl": "https://open.spotify.com/track/4Yw9bTgtRGvRZpQXEWhqcK",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022c4283eb68985f345954869d"
+    },
+    {
+      "rank": 6,
+      "title": "Silsulim",
+      "artist": "Static & Ben El Tavori",
+      "youtubeId": "CWLUhqNYRLg",
+      "spotifyUri": "spotify:track:4OTEPzxXxUsClpW04dfIWp",
+      "spotifyUrl": "https://open.spotify.com/track/4OTEPzxXxUsClpW04dfIWp",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02220557b31ab6078df2ef7ad6"
+    },
+    {
+      "rank": 7,
+      "title": "Nosa Nosa",
+      "artist": "Static & Ben El Tavori",
+      "youtubeId": "9RT2DLyFwFQ",
+      "spotifyUri": "spotify:track:1aW9qzUsXGbyhT3NPCWwdT",
+      "spotifyUrl": "https://open.spotify.com/track/1aW9qzUsXGbyhT3NPCWwdT",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027e6610a12bd3bd8e26f3a245"
+    },
+    {
+      "rank": 8,
+      "title": "Ma Nishma",
+      "artist": "Eden Ben Zaken",
+      "youtubeId": "zOVKM3GKA3I",
+      "spotifyUri": "spotify:track:1s4yL3qIAAxaX0MyuE75Pa",
+      "spotifyUrl": "https://open.spotify.com/track/1s4yL3qIAAxaX0MyuE75Pa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aec64c7f7d644e0b343738fa"
+    },
+    {
+      "rank": 9,
+      "title": "Unicorn",
+      "artist": "Noa Kirel",
+      "youtubeId": "Nx0kMoyyWbE",
+      "spotifyUri": "spotify:track:6dUregFbvUNqHP5nphqesK",
+      "spotifyUrl": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022f5e69e468226d3a6e877e34"
+    },
+    {
+      "rank": 10,
+      "title": "Lo Nosheket",
+      "artist": "Itay Levi",
+      "spotifyUri": "spotify:track:0tewqHTtZMfb7sPsqTyRVc",
+      "spotifyUrl": "https://open.spotify.com/track/0tewqHTtZMfb7sPsqTyRVc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027cbfa1a11f0d2b2ae5d553d4"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3OZkaFhcMgOmKMC7F2X8ni"
+}

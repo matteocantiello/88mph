@@ -1,0 +1,108 @@
+{
+  "country": "co",
+  "year": 2025,
+  "context": "Urban music dominated Colombia in 2025 with 81% of the Billboard Colombia Top 100. Beéle emerged as the year's biggest artist with five songs in the top 10, led by 'La Plena.' Blessd and Ovy On The Drums were ubiquitous producers, while the remaining chart featured salsa, vallenato, and regional Mexican music, reflecting Colombia's diverse musical appetite.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "La Plena (W Sound 05)",
+      "artist": "W Sound, Beéle & Ovy On The Drums",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c0353d023daf5ebda0eb003b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6iOndD4OFo7GkaDypWQIou",
+      "spotifyUrl": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou",
+      "youtubeId": "SEY1UKEmOrQ"
+    },
+    {
+      "rank": 2,
+      "title": "Mi Refe",
+      "artist": "Beéle & Ovy On The Drums",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022feb67a486bcf117e7fb15b0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4zhk2RS2EZODmBW6il55Qj",
+      "spotifyUrl": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj",
+      "youtubeId": "ggzhoL1uvdc"
+    },
+    {
+      "rank": 3,
+      "title": "Hasta Aquí Llegué",
+      "artist": "Nanpa Básico & Beéle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0258476875bb86ae6b610c4b23",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Qe2g06yzLBuuSvVmFiweP",
+      "spotifyUrl": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP",
+      "youtubeId": "pvDYFbkUrKA"
+    },
+    {
+      "rank": 4,
+      "title": "Sobelove",
+      "artist": "Beéle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022feb67a486bcf117e7fb15b0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3fmw8iIyQDS2L7nE6Wd0xG",
+      "spotifyUrl": "https://open.spotify.com/track/3fmw8iIyQDS2L7nE6Wd0xG",
+      "youtubeId": "dIUX2IfPR8M"
+    },
+    {
+      "rank": 5,
+      "title": "Imagínate",
+      "artist": "Danny Ocean & Kapo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024330d7d9762313dff66f1ca7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ns16ylM6sbxo9ZWIwyE5d",
+      "spotifyUrl": "https://open.spotify.com/track/7ns16ylM6sbxo9ZWIwyE5d",
+      "youtubeId": "tm4k3qdUZQ4"
+    },
+    {
+      "rank": 6,
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+      "spotifyUrl": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "youtubeId": "TiebZllW8As"
+    },
+    {
+      "rank": 7,
+      "title": "AMISTA",
+      "artist": "Blessd & Ovy On The Drums",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ece85a893843b0963f4b8a2b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1kJyDcBrZ7rSKnFtKc82vm",
+      "spotifyUrl": "https://open.spotify.com/track/1kJyDcBrZ7rSKnFtKc82vm",
+      "youtubeId": "z2XuBkOOhhw"
+    },
+    {
+      "rank": 8,
+      "title": "Ba Ba Bad Remix",
+      "artist": "Kybba, Sean Paul, Ryan Castro & Busy Signal",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026ae028ed3ea9eba462d26508",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0lMafSfME2iJEE972bsQaK",
+      "spotifyUrl": "https://open.spotify.com/track/0lMafSfME2iJEE972bsQaK",
+      "youtubeId": "8C5tNbMxTaQ"
+    },
+    {
+      "rank": 9,
+      "title": "Top Diesel",
+      "artist": "Beéle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022feb67a486bcf117e7fb15b0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2QP041AcWg8PwPIWP95RKN",
+      "spotifyUrl": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN",
+      "youtubeId": "OGVVXJMgmxQ"
+    },
+    {
+      "rank": 10,
+      "title": "Capaz (Merengueton)",
+      "artist": "Alleh & Yorghaki",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0253596a050e8369c51da11029",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2dd3G3ZqEcG2cNS1tp3oEk",
+      "spotifyUrl": "https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk",
+      "youtubeId": "OcvTUMwvc4Y"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1bu7Xv4ncSlTVUczPbm5BZ"
+}

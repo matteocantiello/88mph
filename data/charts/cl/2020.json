@@ -1,0 +1,108 @@
+{
+  "country": "cl",
+  "year": 2020,
+  "context": "Chile's 2020 was defined by the aftermath of the 2019 social protests and the pandemic lockdowns. Streaming surged as the primary music consumption method, with reggaeton and Latin trap dominating playlists. Chilean urban artists like Paloma Mami and Cami gained traction alongside the dominant Bad Bunny and Karol G.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tusa",
+      "artist": "Karol G feat. Nicki Minaj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ddd3154c58e15a8bdb63bbcc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7k4t7uLgtOxPwTpFmtJNTY",
+      "spotifyUrl": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY",
+      "youtubeId": "SRkr9PyBBuU"
+    },
+    {
+      "rank": 2,
+      "title": "Dákiti",
+      "artist": "Bad Bunny & Jhay Cortez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0234c8199b0b3b3fb42b8a98a8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:47EiUVwUp4C9fGccaPuUCS",
+      "spotifyUrl": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS",
+      "youtubeId": "2x9aY0QJR04"
+    },
+    {
+      "rank": 3,
+      "title": "Yo Perreo Sola",
+      "artist": "Bad Bunny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0SqqAgdovOE24BzxIClpjw",
+      "spotifyUrl": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw",
+      "youtubeId": "iFuqjC-LiH8"
+    },
+    {
+      "rank": 4,
+      "title": "Hawái",
+      "artist": "Maluma",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02079fb6c5ba37dc11d66ce1e2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1yoMvmasuxZfqHEipJhRbp",
+      "spotifyUrl": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp",
+      "youtubeId": "n_2ZYU72BYQ"
+    },
+    {
+      "rank": 5,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "youtubeId": "J7p4bzqLvCw"
+    },
+    {
+      "rank": 6,
+      "title": "Not Steady",
+      "artist": "Paloma Mami",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e4d218622b2e9757baa5c28b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:42ArfZUgGo3k5btIHp08it",
+      "spotifyUrl": "https://open.spotify.com/track/42ArfZUgGo3k5btIHp08it",
+      "youtubeId": "LXyrPE75eYU"
+    },
+    {
+      "rank": 7,
+      "title": "Relación",
+      "artist": "Sech",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263d74fcb3aaafe8c16e62f9b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:35UUpTmrcFXNIVIN26ujXl",
+      "spotifyUrl": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl",
+      "youtubeId": "sijiZyndvtc"
+    },
+    {
+      "rank": 8,
+      "title": "Caramelo",
+      "artist": "Ozuna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b1717c201d31ad8e43dedc55",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:67jvGGbJmOmVonlyX3mNkV",
+      "spotifyUrl": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV",
+      "youtubeId": "KilybZma5vY"
+    },
+    {
+      "rank": 9,
+      "title": "La Noche de Anoche",
+      "artist": "Bad Bunny & Rosalía",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02005ee342f4eef2cc6e8436ab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2XIc1pqjXV3Cr2BQUGNBck",
+      "spotifyUrl": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck",
+      "youtubeId": "0jmAwrqNudw"
+    },
+    {
+      "rank": 10,
+      "title": "Safaera",
+      "artist": "Bad Bunny feat. Jowell & Randy & Ñengo Flow",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028b163aee2880871e23e70573",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3N80T8M05b18AWhYFGI2pT",
+      "spotifyUrl": "https://open.spotify.com/track/3N80T8M05b18AWhYFGI2pT",
+      "youtubeId": "StOcfVeaZ60"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/35DEX3xrp60IQ6xnOk7miE"
+}

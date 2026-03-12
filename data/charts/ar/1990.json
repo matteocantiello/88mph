@@ -1,0 +1,108 @@
+{
+  "country": "ar",
+  "year": 1990,
+  "context": "1990 was the peak of Argentine rock's golden era. Soda Stereo was Latin America's biggest rock band, Fito Páez released critically acclaimed albums, and Los Fabulosos Cadillacs brought ska to the mainstream. The cumbia villera movement was beginning to stir in Buenos Aires' working-class barrios.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "De Música Ligera",
+      "artist": "Soda Stereo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2WD9ggmpZE7Wodh3qVVCgg",
+      "spotifyUrl": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg",
+      "youtubeId": "tXNR2LMzDiE"
+    },
+    {
+      "rank": 2,
+      "title": "En la Ciudad de la Furia",
+      "artist": "Soda Stereo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282cf3a9e2e2b6b1b3f994d38",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7J2885UBOaG6x3LLkp2YGf",
+      "spotifyUrl": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf",
+      "youtubeId": "vo7jBHB66q4"
+    },
+    {
+      "rank": 3,
+      "title": "El Amor Después del Amor",
+      "artist": "Fito Páez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b80f37385bd537d17f9be93a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1PQzZbitOJ6XPFg7FFzsKQ",
+      "spotifyUrl": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ",
+      "youtubeId": "wFCpNO0o638"
+    },
+    {
+      "rank": 4,
+      "title": "Matador",
+      "artist": "Los Fabulosos Cadillacs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02721cad4da1b767b70e8aa699",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4bMZ60QNM6OEehI6b8RtS4",
+      "spotifyUrl": "https://open.spotify.com/track/4bMZ60QNM6OEehI6b8RtS4",
+      "youtubeId": "dKJM2ux3bF8"
+    },
+    {
+      "rank": 5,
+      "title": "Cuando Pase el Temblor",
+      "artist": "Soda Stereo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2ExpCKBxiHbgzepERl1t4D",
+      "spotifyUrl": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D",
+      "youtubeId": "7PHqjNbwnwU"
+    },
+    {
+      "rank": 6,
+      "title": "Yo Vengo a Ofrecer Mi Corazón",
+      "artist": "Fito Páez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02921417baf700cc9da1d43b80",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2PhrL2xyZCqr5OPQJirv0i",
+      "spotifyUrl": "https://open.spotify.com/track/2PhrL2xyZCqr5OPQJirv0i",
+      "youtubeId": "0wWThHdh2RM"
+    },
+    {
+      "rank": 7,
+      "title": "Corazón Delator",
+      "artist": "Soda Stereo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282cf3a9e2e2b6b1b3f994d38",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2zaZ81JI8KbYaL7210BB0U",
+      "spotifyUrl": "https://open.spotify.com/track/2zaZ81JI8KbYaL7210BB0U",
+      "youtubeId": "4l3oYRETotc"
+    },
+    {
+      "rank": 8,
+      "title": "Un Vestido y un Amor",
+      "artist": "Fito Páez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b80f37385bd537d17f9be93a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2fuN5UVkZFtak2aOpXJSln",
+      "spotifyUrl": "https://open.spotify.com/track/2fuN5UVkZFtak2aOpXJSln",
+      "youtubeId": "7aSsSf-e4zQ"
+    },
+    {
+      "rank": 9,
+      "title": "Juegos de Seducción",
+      "artist": "Soda Stereo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e28947f6ad2f100af9c1965a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:39YibHWQJLIgjQ0xWKlq6t",
+      "spotifyUrl": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t",
+      "youtubeId": "1WKN8uwct74"
+    },
+    {
+      "rank": 10,
+      "title": "La Rueda Mágica",
+      "artist": "Los Fabulosos Cadillacs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f41a299791d5833d41d78f2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5WvQjVukHeE6bc3r8nxVd4",
+      "spotifyUrl": "https://open.spotify.com/track/5WvQjVukHeE6bc3r8nxVd4",
+      "youtubeId": "5o3XzW2GGc8"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4tP7o3OZ1dpCrPSMxKzomN"
+}

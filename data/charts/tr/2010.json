@@ -1,0 +1,98 @@
+{
+  "country": "tr",
+  "year": 2010,
+  "context": "Turkey's 2010 music scene was a diverse mix of pop, rock, and the emerging hip-hop scene. Tarkan continued his reign with 'Adımı Kalbine Yaz,' while maNga represented Turkey at Eurovision with a credible rock entry. Streaming was beginning to change Turkish music consumption, though traditional media still dominated.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Adımı Kalbine Yaz",
+      "artist": "Tarkan",
+      "youtubeId": "bdoqdoLSZCM",
+      "spotifyUri": "spotify:track:4gXX2ayvtMf4Tc5DCSHFTH",
+      "spotifyUrl": "https://open.spotify.com/track/4gXX2ayvtMf4Tc5DCSHFTH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026d362a3d334de413e8de137e"
+    },
+    {
+      "rank": 2,
+      "title": "We Could Be the Same",
+      "artist": "maNga",
+      "youtubeId": "2oi-JJ3HpsE",
+      "spotifyUri": "spotify:track:1JzWdmqLRpqu2x6mfmxKjU",
+      "spotifyUrl": "https://open.spotify.com/track/1JzWdmqLRpqu2x6mfmxKjU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aa72709ce92353f462a471a9"
+    },
+    {
+      "rank": 3,
+      "title": "Yıldızların Altında",
+      "artist": "Simge",
+      "youtubeId": "G7etA3Lqcho",
+      "spotifyUri": "spotify:track:77pFHFviVrb2iOP2gMFDNf",
+      "spotifyUrl": "https://open.spotify.com/track/77pFHFviVrb2iOP2gMFDNf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020a981ca29ae17d15dd9ca980"
+    },
+    {
+      "rank": 4,
+      "title": "Ağlasam mı",
+      "artist": "Hadise",
+      "youtubeId": "94Cm9Ife7_g",
+      "spotifyUri": "spotify:track:3UvovK0XewZDt68i2rxuRC",
+      "spotifyUrl": "https://open.spotify.com/track/3UvovK0XewZDt68i2rxuRC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029a96eafc1b0d25bde38723b6"
+    },
+    {
+      "rank": 5,
+      "title": "Aşk Nereden Nereye",
+      "artist": "Tarkan",
+      "youtubeId": "TkMwp3X8zgc",
+      "spotifyUri": "spotify:track:11JETpKZgg9ko82b5fVK8Z",
+      "spotifyUrl": "https://open.spotify.com/track/11JETpKZgg9ko82b5fVK8Z",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020ab116090a8f8716a745e7f5"
+    },
+    {
+      "rank": 6,
+      "title": "Stüdyoya Gel",
+      "artist": "Hadise",
+      "youtubeId": "mpgqxe2wInQ",
+      "spotifyUri": "spotify:track:4PTjzk0gb6st9Lk5kKBnc6",
+      "spotifyUrl": "https://open.spotify.com/track/4PTjzk0gb6st9Lk5kKBnc6",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b0b708cd6af98b90b56296bb"
+    },
+    {
+      "rank": 7,
+      "title": "Herkes Onu Konuşur",
+      "artist": "Duman",
+      "youtubeId": "z4DWQi672SA",
+      "spotifyUri": "spotify:track:6RnDBMuWq39tX8m1JLAE8w",
+      "spotifyUrl": "https://open.spotify.com/track/6RnDBMuWq39tX8m1JLAE8w",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b54b44e68e957380036c0a5"
+    },
+    {
+      "rank": 8,
+      "title": "Yalnızlık",
+      "artist": "Kenan Doğulu",
+      "youtubeId": "Iy07CKTcDBk",
+      "spotifyUri": "spotify:track:0nJVAwPZjuuBS9rc9KVD2v",
+      "spotifyUrl": "https://open.spotify.com/track/0nJVAwPZjuuBS9rc9KVD2v",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fcc2cf97f7dfbf2f4ce99a4e"
+    },
+    {
+      "rank": 9,
+      "title": "Hayde",
+      "artist": "Gülben Ergen",
+      "youtubeId": "-GH4Z3p8YfQ",
+      "spotifyUri": "spotify:track:0wuxwuAlXUe0gIIyAChyVo",
+      "spotifyUrl": "https://open.spotify.com/track/0wuxwuAlXUe0gIIyAChyVo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b8ec12b237842e9d6370c068"
+    },
+    {
+      "rank": 10,
+      "title": "Şıkıdım",
+      "artist": "Tarkan",
+      "youtubeId": "F3wE8xzVK7Q",
+      "spotifyUri": "spotify:track:4JWqsrhprLDSJSfqtlw1wq",
+      "spotifyUrl": "https://open.spotify.com/track/4JWqsrhprLDSJSfqtlw1wq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028160ac3fc7d7fb247d3c1d90"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0fWlQBGBWakbqUgO6RpY8g"
+}

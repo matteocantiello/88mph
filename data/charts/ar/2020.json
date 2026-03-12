@@ -1,0 +1,108 @@
+{
+  "country": "ar",
+  "year": 2020,
+  "context": "Argentine trap and urban music exploded in 2020, with Duki, Tini, and Nicki Nicole becoming international stars. The pandemic fueled streaming consumption, and Argentine artists dominated Spotify Latin America charts. Bad Bunny's YHLQMDLG was inescapable, but homegrown talent competed fiercely for the top spots.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tusa",
+      "artist": "Karol G feat. Nicki Minaj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae28c8f2748587cc2a33d6c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0dKg2vGC1hFqcK5LGTaKzX",
+      "spotifyUrl": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX",
+      "youtubeId": "SRkr9PyBBuU"
+    },
+    {
+      "rank": 2,
+      "title": "Dákiti",
+      "artist": "Bad Bunny & Jhay Cortez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0234c8199b0b3b3fb42b8a98a8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:47EiUVwUp4C9fGccaPuUCS",
+      "spotifyUrl": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS",
+      "youtubeId": "2x9aY0QJR04"
+    },
+    {
+      "rank": 3,
+      "title": "Yo Perreo Sola",
+      "artist": "Bad Bunny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0SqqAgdovOE24BzxIClpjw",
+      "spotifyUrl": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw",
+      "youtubeId": "iFuqjC-LiH8"
+    },
+    {
+      "rank": 4,
+      "title": "Colocao",
+      "artist": "Nicki Nicole",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0247bb20ce49a6ada66ddea162",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7MCFjPDImfjQv7GynHgVrR",
+      "spotifyUrl": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR",
+      "youtubeId": "PrpU5mGsWl8"
+    },
+    {
+      "rank": 5,
+      "title": "Hawái",
+      "artist": "Maluma",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02079fb6c5ba37dc11d66ce1e2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1yoMvmasuxZfqHEipJhRbp",
+      "spotifyUrl": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp",
+      "youtubeId": "n_2ZYU72BYQ"
+    },
+    {
+      "rank": 6,
+      "title": "She Don't Give a FO",
+      "artist": "Duki feat. Khea",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ec5576912784b56cb57e0453",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0spCHuxIvFFVQTr2aZnTwk",
+      "spotifyUrl": "https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk",
+      "youtubeId": "jd0gBacoqBI"
+    },
+    {
+      "rank": 7,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "youtubeId": "J7p4bzqLvCw"
+    },
+    {
+      "rank": 8,
+      "title": "Tattoo (Remix)",
+      "artist": "Rauw Alejandro & Camilo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbb38f3a3a5b0799aa6988f1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4G3PTss3mU33Tau7t4KbwE",
+      "spotifyUrl": "https://open.spotify.com/track/4G3PTss3mU33Tau7t4KbwE",
+      "youtubeId": "e0bJK82IeBE"
+    },
+    {
+      "rank": 9,
+      "title": "La Noche de Anoche",
+      "artist": "Bad Bunny & Rosalía",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02005ee342f4eef2cc6e8436ab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2XIc1pqjXV3Cr2BQUGNBck",
+      "spotifyUrl": "https://open.spotify.com/track/2XIc1pqjXV3Cr2BQUGNBck",
+      "youtubeId": "0jmAwrqNudw"
+    },
+    {
+      "rank": 10,
+      "title": "Caramelo",
+      "artist": "Ozuna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b1717c201d31ad8e43dedc55",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:67jvGGbJmOmVonlyX3mNkV",
+      "spotifyUrl": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV",
+      "youtubeId": "KilybZma5vY"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4fDkK9CaDntD6U1fVvDEvH"
+}

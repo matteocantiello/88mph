@@ -1,0 +1,98 @@
+{
+  "country": "ph",
+  "year": 2010,
+  "context": "The Philippines in 2010 saw Filipino pop-rock reaching maturity, with bands like Bamboo and Callalily dominating alongside international K-pop and Western pop. The country's deep connection to American pop culture kept Billboard hits prominent, while Filipino indie music was gaining traction through social media.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Narda",
+      "artist": "Kamikazee",
+      "youtubeId": "Msu8mOWzcFA",
+      "spotifyUri": "spotify:track:7pFoQ4rWKHaTUuoVCcIECH",
+      "spotifyUrl": "https://open.spotify.com/track/7pFoQ4rWKHaTUuoVCcIECH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022b8ce6fc2d59c87aafd6e157"
+    },
+    {
+      "rank": 2,
+      "title": "Mundo",
+      "artist": "IV of Spades",
+      "youtubeId": "omFa4Yk9Fmg",
+      "spotifyUri": "spotify:track:61vyXXtY7OSYFRtSzv5ehw",
+      "spotifyUrl": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021aaed2d9bea791b5488e08a2"
+    },
+    {
+      "rank": 3,
+      "title": "Your Universe",
+      "artist": "Rico Blanco",
+      "youtubeId": "1IlDDRf9c8g",
+      "spotifyUri": "spotify:track:7vWHppvllFJXdXf0xplZum",
+      "spotifyUrl": "https://open.spotify.com/track/7vWHppvllFJXdXf0xplZum",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c77d5f60b6752e68ebb26297"
+    },
+    {
+      "rank": 4,
+      "title": "Tayo Na Lang Dalawa",
+      "artist": "Mayonnaise",
+      "youtubeId": "6tEDzvHcmLc",
+      "spotifyUri": "spotify:track:5okbUwrwx9dlGQiT2mq6XK",
+      "spotifyUrl": "https://open.spotify.com/track/5okbUwrwx9dlGQiT2mq6XK",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cdbe43e28b09b5e9c5aa500c"
+    },
+    {
+      "rank": 5,
+      "title": "One Thing",
+      "artist": "One Direction",
+      "youtubeId": "mpdIaUzG1RQ",
+      "spotifyUri": "spotify:track:5G2c6FsfTzgYUzageCmfXY",
+      "spotifyUrl": "https://open.spotify.com/track/5G2c6FsfTzgYUzageCmfXY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a5584795dc73860653a9a3e"
+    },
+    {
+      "rank": 6,
+      "title": "Di Na Mababawi",
+      "artist": "Sponge Cola",
+      "youtubeId": "0zcrSc-8J2I",
+      "spotifyUri": "spotify:track:12yyDHIguZFBcIGYwToH20",
+      "spotifyUrl": "https://open.spotify.com/track/12yyDHIguZFBcIGYwToH20",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0272c7e7e9504df18db1b0b82c"
+    },
+    {
+      "rank": 7,
+      "title": "Wag Ka Nang Umiyak",
+      "artist": "Sugarfree",
+      "youtubeId": "7y7BvCFMQ74",
+      "spotifyUri": "spotify:track:4CMAmKu1Lef0bCdZJSrqw3",
+      "spotifyUrl": "https://open.spotify.com/track/4CMAmKu1Lef0bCdZJSrqw3",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f2385a821b6917c93cc54a1f"
+    },
+    {
+      "rank": 8,
+      "title": "Jeepney",
+      "artist": "Sponge Cola",
+      "youtubeId": "sZoahxuHQDc",
+      "spotifyUri": "spotify:track:4XBVANYES6enLW1ooQ78qO",
+      "spotifyUrl": "https://open.spotify.com/track/4XBVANYES6enLW1ooQ78qO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a00746b4108573e75ec6fa9b"
+    },
+    {
+      "rank": 9,
+      "title": "Burnout",
+      "artist": "Sugarfree",
+      "youtubeId": "d0n3vgtsnzY",
+      "spotifyUri": "spotify:track:6Srj2NoAIGgBFORh6r5Whs",
+      "spotifyUrl": "https://open.spotify.com/track/6Srj2NoAIGgBFORh6r5Whs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02089ce120f5b4f793f4fd5ce7"
+    },
+    {
+      "rank": 10,
+      "title": "Tadhana",
+      "artist": "Up Dharma Down",
+      "youtubeId": "aM1chZsrlNk",
+      "spotifyUri": "spotify:track:6FIEuf1JIzmCtach0gXpeG",
+      "spotifyUrl": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c37604dd465e90d386feb4bf"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2gshtrbUfCLhOBhktr4eaI"
+}

@@ -1,0 +1,108 @@
+{
+  "country": "co",
+  "year": 2010,
+  "context": "Colombia's 2010 was defined by Shakira's World Cup anthem 'Waka Waka' and the reggaeton mega-hit 'Danza Kuduro.' Silvestre Dangond was dominating vallenato, while Fonseca represented the tropipop movement. J Balvin was still emerging from Medellín's underground scene as the industry transitioned toward digital platforms.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Waka Waka (Esto Es África)",
+      "artist": "Shakira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02815abe02dc1a5aa63be0ee89",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0W8nDs4H2cqxxAgszNMYO3",
+      "spotifyUrl": "https://open.spotify.com/track/0W8nDs4H2cqxxAgszNMYO3",
+      "youtubeId": "1FeEa2Ew2yo"
+    },
+    {
+      "rank": 2,
+      "title": "Danza Kuduro",
+      "artist": "Don Omar feat. Lucenzo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024640a26eb27649006be29a94",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2a1o6ZejUi8U3wzzOtCOYw",
+      "spotifyUrl": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw",
+      "youtubeId": "BbWY-avjDto"
+    },
+    {
+      "rank": 3,
+      "title": "Loca",
+      "artist": "Shakira feat. El Cata",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024214ddc9e33e76de6a8ee888",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:42k1KeBehAd83lrGt1okiC",
+      "spotifyUrl": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC",
+      "youtubeId": "p_uBMc7mA0c"
+    },
+    {
+      "rank": 4,
+      "title": "La Despedida",
+      "artist": "Daddy Yankee",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f5bd069de5a5164ea7264fe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0fqrZVSenCW6vD2eFMx5pt",
+      "spotifyUrl": "https://open.spotify.com/track/0fqrZVSenCW6vD2eFMx5pt",
+      "youtubeId": "h6bg8X5qNUs"
+    },
+    {
+      "rank": 5,
+      "title": "Taboo",
+      "artist": "Don Omar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024640a26eb27649006be29a94",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4cyYC67XY3weSVmSLdKLP8",
+      "spotifyUrl": "https://open.spotify.com/track/4cyYC67XY3weSVmSLdKLP8",
+      "youtubeId": "J28D_9JpuJM"
+    },
+    {
+      "rank": 6,
+      "title": "Ni Punto e' Comparación",
+      "artist": "Silvestre Dangond & Juancho de la Espriella",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023842047a972ed838c3e73fda",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7kqpOZodfEgrYloEgujW7Q",
+      "spotifyUrl": "https://open.spotify.com/track/7kqpOZodfEgrYloEgujW7Q",
+      "youtubeId": "BbSHvIX7Ep4"
+    },
+    {
+      "rank": 7,
+      "title": "Yerbatero",
+      "artist": "Juanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029c70edaee6f9e1dcf58833fe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7jUwaYkoy1koPCjXlov21Y",
+      "spotifyUrl": "https://open.spotify.com/track/7jUwaYkoy1koPCjXlov21Y",
+      "youtubeId": "APtK1KZEEXk"
+    },
+    {
+      "rank": 8,
+      "title": "Te Mando Flores",
+      "artist": "Fonseca",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b3d9283abdcab894aea11d05",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2in1gSZtv2lRbcZUmN9aAl",
+      "spotifyUrl": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl",
+      "youtubeId": "6tNFByx9Bq8"
+    },
+    {
+      "rank": 9,
+      "title": "Ella No Sigue Modas",
+      "artist": "Juan Magan feat. Don Omar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5e45cc0dc2afb858f861736",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4CYpaMXu4iyGdk8b0jCeYi",
+      "spotifyUrl": "https://open.spotify.com/track/4CYpaMXu4iyGdk8b0jCeYi",
+      "youtubeId": "SNZyhuJINE4"
+    },
+    {
+      "rank": 10,
+      "title": "Sale el Sol",
+      "artist": "Shakira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024214ddc9e33e76de6a8ee888",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1DJxR9NMQ14fv1WK0pHodt",
+      "spotifyUrl": "https://open.spotify.com/track/1DJxR9NMQ14fv1WK0pHodt",
+      "youtubeId": "eiTQzaCJfOc"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3SrC119msPxb8HPHuloqVg"
+}

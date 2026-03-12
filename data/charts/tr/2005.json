@@ -1,0 +1,98 @@
+{
+  "country": "tr",
+  "year": 2005,
+  "context": "Post-Eurovision Turkey (Sertab Erener won in 2003) saw Turkish pop reach new heights of international visibility. Tarkan remained the king of Turkish pop, while Kenan Doğulu and Hadise brought dance-pop energy. Turkish rock bands like maNga and Duman gained massive followings alongside the pop mainstream.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Dudu",
+      "artist": "Tarkan",
+      "youtubeId": "zfkzSJHKdhg",
+      "spotifyUri": "spotify:track:15xj7p5uDk9sDnNbQtgZ8Y",
+      "spotifyUrl": "https://open.spotify.com/track/15xj7p5uDk9sDnNbQtgZ8Y",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025e9767ffdb710d4d134990d4"
+    },
+    {
+      "rank": 2,
+      "title": "Bounce",
+      "artist": "Tarkan",
+      "youtubeId": "Ehc_F3_GhKg",
+      "spotifyUri": "spotify:track:2PzILjPsqUGf0U5LNQGKK2",
+      "spotifyUrl": "https://open.spotify.com/track/2PzILjPsqUGf0U5LNQGKK2",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f777b77c9e37a8f5ae7a65d"
+    },
+    {
+      "rank": 3,
+      "title": "Dansöz",
+      "artist": "Hadise",
+      "youtubeId": "dpczRPOxJJE",
+      "spotifyUri": "spotify:track:29m80muVSkcLNPTJgyAo22",
+      "spotifyUrl": "https://open.spotify.com/track/29m80muVSkcLNPTJgyAo22",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02af8ed306e53977f548a8d894"
+    },
+    {
+      "rank": 4,
+      "title": "Çakkıdı",
+      "artist": "Kenan Doğulu",
+      "youtubeId": "FOuIx9qm-o4",
+      "spotifyUri": "spotify:track:1jH3jM3CqPmZcX7gzVPLHb",
+      "spotifyUrl": "https://open.spotify.com/track/1jH3jM3CqPmZcX7gzVPLHb",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ca2a0ee424df2f638e461d00"
+    },
+    {
+      "rank": 5,
+      "title": "Herkes Aynı Hayatta",
+      "artist": "Duman",
+      "youtubeId": "rSOAUf-r2m0",
+      "spotifyUri": "spotify:track:4DPjZs1Jjw5mQ41w0xt9KA",
+      "spotifyUrl": "https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f2ea9ce778b215eec5cb8bff"
+    },
+    {
+      "rank": 6,
+      "title": "Olsun",
+      "artist": "Mustafa Sandal",
+      "youtubeId": "KlZComzKqNc",
+      "spotifyUri": "spotify:track:0ZW3bx45x9mtkXRalxaw3A",
+      "spotifyUrl": "https://open.spotify.com/track/0ZW3bx45x9mtkXRalxaw3A",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0275230399649524be7c4f6eb5"
+    },
+    {
+      "rank": 7,
+      "title": "Senden Önce Senden Sonra",
+      "artist": "Sertab Erener",
+      "youtubeId": "8bgKJvEASkU",
+      "spotifyUri": "spotify:track:5CMUpt4pM8U6wMzPClWppc",
+      "spotifyUrl": "https://open.spotify.com/track/5CMUpt4pM8U6wMzPClWppc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0257d480949eabcea5aba85123"
+    },
+    {
+      "rank": 8,
+      "title": "Aşk",
+      "artist": "Tarkan",
+      "youtubeId": "uvGdRurg-ck",
+      "spotifyUri": "spotify:track:2OVOkrXkTFGNsIN3dDEmHL",
+      "spotifyUrl": "https://open.spotify.com/track/2OVOkrXkTFGNsIN3dDEmHL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022a978fe39ebc3b0a9722a04d"
+    },
+    {
+      "rank": 9,
+      "title": "Beni Bırakma",
+      "artist": "Sezen Aksu",
+      "youtubeId": "-cH00GEaTuw",
+      "spotifyUri": "spotify:track:0126WdGxnrNEqzgUb1wgQH",
+      "spotifyUrl": "https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0203a4aef4fa3f80032dc3f82d"
+    },
+    {
+      "rank": 10,
+      "title": "Bir Daha Yak",
+      "artist": "maNga",
+      "youtubeId": "1gFriikHlhk",
+      "spotifyUri": "spotify:track:05QuKF12UfS8ReyTQKbs4o",
+      "spotifyUrl": "https://open.spotify.com/track/05QuKF12UfS8ReyTQKbs4o",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0224b4d80af894203f42f30a33"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/34gNGilTI6S55iRKIHBPUU"
+}

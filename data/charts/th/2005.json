@@ -1,0 +1,95 @@
+{
+  "country": "th",
+  "year": 2005,
+  "context": "Thailand's 2005 saw the emergence of a new generation of pop-rock and indie acts alongside veterans like Bird Thongchai. Bodyslam became a stadium-filling sensation, Palmy brought a fresh female pop voice, and the Thai indie scene grew through Bakery Music's roster. Post-tsunami cultural processing also influenced the year's musical themes.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Khwam Rak",
+      "artist": "Bodyslam",
+      "youtubeId": "G2ePuOdu4A4",
+      "spotifyUri": "spotify:track:5djtarcayWp2DK6DQ1Z9P6",
+      "spotifyUrl": "https://open.spotify.com/track/5djtarcayWp2DK6DQ1Z9P6",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029a7514703bbd3b230399d942"
+    },
+    {
+      "rank": 2,
+      "title": "Yahk Bok Wah Rak Kan",
+      "artist": "Bird Thongchai McIntyre",
+      "youtubeId": "42-FA74j6Aw",
+      "spotifyUri": "spotify:track:0HoimIevP015OpVBROD9vq",
+      "spotifyUrl": "https://open.spotify.com/track/0HoimIevP015OpVBROD9vq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024d665adf47c67d173ea8d2df"
+    },
+    {
+      "rank": 3,
+      "title": "Krai",
+      "artist": "Palmy",
+      "youtubeId": "Gv4sdSSvVv4",
+      "spotifyUri": "spotify:track:4QFz5G7EWivxl4wdQteufq",
+      "spotifyUrl": "https://open.spotify.com/track/4QFz5G7EWivxl4wdQteufq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0261fd141990bd57df0cf6483a"
+    },
+    {
+      "rank": 4,
+      "title": "Kor Hai Rak Jai",
+      "artist": "Potato",
+      "youtubeId": "1907sXv2Lng",
+      "spotifyUri": "spotify:track:0pRt14pfi35RtAKA1dtKow",
+      "spotifyUrl": "https://open.spotify.com/track/0pRt14pfi35RtAKA1dtKow",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ed732528b0006c2fb52b738e"
+    },
+    {
+      "rank": 5,
+      "title": "Thung Jai",
+      "artist": "Stamp",
+      "youtubeId": "2-IGQJqjuYg",
+      "spotifyUri": "spotify:track:6z2TAgG5owbku3utDC8dpz",
+      "spotifyUrl": "https://open.spotify.com/track/6z2TAgG5owbku3utDC8dpz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dcf9b9820c0cbccaf12f64b2"
+    },
+    {
+      "rank": 6,
+      "title": "Khon Kae Lae Khon Ngoh",
+      "artist": "Big Ass",
+      "spotifyUri": "spotify:track:0rpOdjjyXzR0M8oPx0TzJV",
+      "spotifyUrl": "https://open.spotify.com/track/0rpOdjjyXzR0M8oPx0TzJV",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282df4274f456882f1f22e2f0"
+    },
+    {
+      "rank": 7,
+      "title": "Ruk Khon Phlid",
+      "artist": "Clash",
+      "spotifyUri": "spotify:track:3eVAABtqGxApDMtLiN9Prk",
+      "spotifyUrl": "https://open.spotify.com/track/3eVAABtqGxApDMtLiN9Prk",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0232db71c79a4a087a6eb842a5"
+    },
+    {
+      "rank": 8,
+      "title": "Mee Thur Yoo Kang Kang",
+      "artist": "Getsunova",
+      "youtubeId": "oNuB6286xbU",
+      "spotifyUri": "spotify:track:3RhkB7qr8MtfeUlKEWei1o",
+      "spotifyUrl": "https://open.spotify.com/track/3RhkB7qr8MtfeUlKEWei1o",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0230f75ca728578d74ed3b24b8"
+    },
+    {
+      "rank": 9,
+      "title": "Yah Leum Gan",
+      "artist": "Bird Thongchai McIntyre",
+      "youtubeId": "Ep29dDACWOk",
+      "spotifyUri": "spotify:track:3gg0XnA58Sp6vpKYKUaQtw",
+      "spotifyUrl": "https://open.spotify.com/track/3gg0XnA58Sp6vpKYKUaQtw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02763f994742732b50839d3116"
+    },
+    {
+      "rank": 10,
+      "title": "Thur Kheu Phan Larn",
+      "artist": "Bodyslam",
+      "spotifyUri": "spotify:track:4IKotloi4izZLh9n5xJoRj",
+      "spotifyUrl": "https://open.spotify.com/track/4IKotloi4izZLh9n5xJoRj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028aa087da6c4f22ea490fd2da"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/464m4xZWxA6UXiXE50f2UO"
+}

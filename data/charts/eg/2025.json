@@ -1,0 +1,108 @@
+{
+  "country": "eg",
+  "year": 2025,
+  "context": "Egypt's 2025 music scene showcased a diverse sonic palette where pop, hip-hop, mahraganat, and shaabi coexisted at the top of streaming charts. Amr Diab remained the most-streamed artist with his album featuring 'Ebtadena,' while a new wave of artists like Wegz, Marwan Pablo, Lege-Cy, and TUL8TE pushed genre boundaries.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Kalam Forsan",
+      "artist": "Wegz feat. Mohamed Mounir",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021f1182f830488dc3244ac36d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Jx6LbHo5VhJSsqRvQUIDH",
+      "spotifyUrl": "https://open.spotify.com/track/5Jx6LbHo5VhJSsqRvQUIDH",
+      "youtubeId": "h7kQEIs5rKk"
+    },
+    {
+      "rank": 2,
+      "title": "Khatfoony",
+      "artist": "Amr Diab feat. Jana Diab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a898544d02a17395e57ce8c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3ptVro4saZIK2M6J8fIoEg",
+      "spotifyUrl": "https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg",
+      "youtubeId": "S4KnOdYgjuU"
+    },
+    {
+      "rank": 3,
+      "title": "KARMA",
+      "artist": "Marwan Pablo & Abyusif",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b273f520e0180e754511806a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5ETFNSZAqO6A66VrgXkd6v",
+      "spotifyUrl": "https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v",
+      "youtubeId": "NzAi4b5EvXA"
+    },
+    {
+      "rank": 4,
+      "title": "El Neyya",
+      "artist": "Lege-Cy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bf3163d9950cab913dbc535e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2lygVhKHBUzEGMJXljHOV2",
+      "spotifyUrl": "https://open.spotify.com/track/2lygVhKHBUzEGMJXljHOV2",
+      "youtubeId": "N_DcJ4ACTAw"
+    },
+    {
+      "rank": 5,
+      "title": "Ana Mesh Delar Ya Hokouma",
+      "artist": "Eslam Cabonga",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d2e91e85a7a70d0ce67f9906",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7rfu5tLNTXdfoyr6RnIodf",
+      "spotifyUrl": "https://open.spotify.com/track/7rfu5tLNTXdfoyr6RnIodf",
+      "youtubeId": "V5ozKNPQHRM"
+    },
+    {
+      "rank": 6,
+      "title": "Narein",
+      "artist": "TUL8TE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022e50096092c24bd9acb0749d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3D33hlROnv1lNCWIXIGsL2",
+      "spotifyUrl": "https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2",
+      "youtubeId": "JnCTOi2QAZk"
+    },
+    {
+      "rank": 7,
+      "title": "Sahby Ya Sahby",
+      "artist": "Bahaa Sultan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02230c5a2067e5612417d3eee7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0ZJ2vlWyCoMA52VbECDMEL",
+      "spotifyUrl": "https://open.spotify.com/track/0ZJ2vlWyCoMA52VbECDMEL",
+      "youtubeId": "OxB2h_1ZS74"
+    },
+    {
+      "rank": 8,
+      "title": "Baba",
+      "artist": "Amr Diab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a898544d02a17395e57ce8c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1GkBG6kv0tDEDALIG7NR2K",
+      "spotifyUrl": "https://open.spotify.com/track/1GkBG6kv0tDEDALIG7NR2K",
+      "youtubeId": "zY7WTjKzCoQ"
+    },
+    {
+      "rank": 9,
+      "title": "Ebtadena",
+      "artist": "Amr Diab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a898544d02a17395e57ce8c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:54MaPJYSZOG3SZ36dzjFC9",
+      "spotifyUrl": "https://open.spotify.com/track/54MaPJYSZOG3SZ36dzjFC9",
+      "youtubeId": "3h54dWWm0vs"
+    },
+    {
+      "rank": 10,
+      "title": "Makrehtosh",
+      "artist": "Tamer Ashour",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f37b1d95454c5b2bffc8d39",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6ETTz69AD0SQzjxiCipq7g",
+      "spotifyUrl": "https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g",
+      "youtubeId": "H1Mbg3MASCE"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0XjKQ78mJVubOuyuVZuqqq"
+}

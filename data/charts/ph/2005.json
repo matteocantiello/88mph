@@ -1,0 +1,95 @@
+{
+  "country": "ph",
+  "year": 2005,
+  "context": "By 2005, Filipino music was shifting between OPM rock bands like Hale and Orange and Lemons, romantic pop from Christian Bautista, and a growing influence of international hits. The era also saw the emergence of Philippine hip-hop with artists like Gloc-9, while power ballads remained a national passion.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "The Day You Said Goodnight",
+      "artist": "Hale",
+      "youtubeId": "gqpghl-0xKY",
+      "spotifyUri": "spotify:track:2cjp6qXf56En6dSHKfF8NE",
+      "spotifyUrl": "https://open.spotify.com/track/2cjp6qXf56En6dSHKfF8NE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a19b960b94edfffba8705234"
+    },
+    {
+      "rank": 2,
+      "title": "Hanggang",
+      "artist": "Wency Cornejo",
+      "youtubeId": "BwN8fP4ebJk",
+      "spotifyUri": "spotify:track:2eOYnUQY7rL20ydu3eJt0z",
+      "spotifyUrl": "https://open.spotify.com/track/2eOYnUQY7rL20ydu3eJt0z",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0285ee75f9e75c545b2d4ee0e3"
+    },
+    {
+      "rank": 3,
+      "title": "Pinoy Ako",
+      "artist": "Orange and Lemons",
+      "youtubeId": "ExH4sXZdAr0",
+      "spotifyUri": "spotify:track:5N3ILMKLwQjE1tIBszfJ8N",
+      "spotifyUrl": "https://open.spotify.com/track/5N3ILMKLwQjE1tIBszfJ8N",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02114d9cfa8e61b2fb4de3c910"
+    },
+    {
+      "rank": 4,
+      "title": "The Way You Look at Me",
+      "artist": "Christian Bautista",
+      "youtubeId": "6EaYWm71IXs",
+      "spotifyUri": "spotify:track:1C3wg8sCIPqpNQx0wAL4DC",
+      "spotifyUrl": "https://open.spotify.com/track/1C3wg8sCIPqpNQx0wAL4DC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02db3256242f3a163b301e075c"
+    },
+    {
+      "rank": 5,
+      "title": "Harana",
+      "artist": "Parokya ni Edgar",
+      "youtubeId": "4hmodo8yDCo",
+      "spotifyUri": "spotify:track:6UGrgPcISfwGeDikA4YpEv",
+      "spotifyUrl": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024d50a473c2a9ded0b12b48f6"
+    },
+    {
+      "rank": 6,
+      "title": "Your Universe",
+      "artist": "Rico Blanco",
+      "youtubeId": "1IlDDRf9c8g",
+      "spotifyUri": "spotify:track:7vWHppvllFJXdXf0xplZum",
+      "spotifyUrl": "https://open.spotify.com/track/7vWHppvllFJXdXf0xplZum",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c77d5f60b6752e68ebb26297"
+    },
+    {
+      "rank": 7,
+      "title": "Narda",
+      "artist": "Kamikazee",
+      "youtubeId": "Msu8mOWzcFA",
+      "spotifyUri": "spotify:track:7pFoQ4rWKHaTUuoVCcIECH",
+      "spotifyUrl": "https://open.spotify.com/track/7pFoQ4rWKHaTUuoVCcIECH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022b8ce6fc2d59c87aafd6e157"
+    },
+    {
+      "rank": 8,
+      "title": "Heaven Knows",
+      "artist": "Orange and Lemons",
+      "youtubeId": "BSnZENC4eTA",
+      "spotifyUri": "spotify:track:0Qra8Ps4tJAZPqRXyehCjc",
+      "spotifyUrl": "https://open.spotify.com/track/0Qra8Ps4tJAZPqRXyehCjc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e2c44a11d7822e5a6520a686"
+    },
+    {
+      "rank": 9,
+      "title": "Ulan",
+      "artist": "Bamboo",
+      "youtubeId": "Y0VG07yDK9E"
+    },
+    {
+      "rank": 10,
+      "title": "Beautiful in My Eyes",
+      "artist": "Joshua Kadison",
+      "youtubeId": "mvgtlwK3G58",
+      "spotifyUri": "spotify:track:5o8gWPZxr4GZFslU85YMmu",
+      "spotifyUrl": "https://open.spotify.com/track/5o8gWPZxr4GZFslU85YMmu",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f3cce8bfde65845aa3b0e469"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2Gfc2FRMsmEApW6b353bvn"
+}

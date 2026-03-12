@@ -1,0 +1,108 @@
+{
+  "country": "co",
+  "year": 2015,
+  "context": "2015 marked the definitive breakthrough of Colombian reggaeton into the mainstream. J Balvin's 'Ginza' topped charts across Latin America, Nicky Jam's 'El Perdón' became a global phenomenon, and Maluma emerged as a rising star with 'Borro Cassette.' Urban music had clearly become Colombia's dominant commercial genre.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ginza",
+      "artist": "J Balvin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02734b36a0655aae40d78d70f4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2C2TGgFzrTRIOdQS1vUN5h",
+      "spotifyUrl": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h",
+      "youtubeId": "T2eguXvbV7s"
+    },
+    {
+      "rank": 2,
+      "title": "Borro Cassette",
+      "artist": "Maluma",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7b78f86d070f52f45ad125f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
+      "spotifyUrl": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN",
+      "youtubeId": "JtosGq7bsTA"
+    },
+    {
+      "rank": 3,
+      "title": "El Perdón",
+      "artist": "Nicky Jam feat. Enrique Iglesias",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b242b4213fb5c21d97dbbf4d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7qCAVkHWZkF44OzOUKf8Cr",
+      "spotifyUrl": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr",
+      "youtubeId": "zs6aDvOTlMo"
+    },
+    {
+      "rank": 4,
+      "title": "Bajo el Agua",
+      "artist": "Manuel Medrano",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028195fefecfd1ba1918971352",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5QSYWruQQ7kBCHScI4xJ9g",
+      "spotifyUrl": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g",
+      "youtubeId": "GSbRWqsjmwI"
+    },
+    {
+      "rank": 5,
+      "title": "Pretextos",
+      "artist": "Maluma",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7b78f86d070f52f45ad125f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7HDOS7qOhBxmcsWTv29PSK",
+      "spotifyUrl": "https://open.spotify.com/track/7HDOS7qOhBxmcsWTv29PSK",
+      "youtubeId": "5Bin13QW3Ys"
+    },
+    {
+      "rank": 6,
+      "title": "Ay Vamos",
+      "artist": "J Balvin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024277da4c011dcc87f012bbab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Ges5C2IE738iJh4HyQizQ",
+      "spotifyUrl": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ",
+      "youtubeId": "6B76JriqgSY"
+    },
+    {
+      "rank": 7,
+      "title": "Travesuras",
+      "artist": "Nicky Jam",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02df424ca04adbeee670990046",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7AJ4RXkc0JWZqeQqzymSjv",
+      "spotifyUrl": "https://open.spotify.com/track/7AJ4RXkc0JWZqeQqzymSjv",
+      "youtubeId": "pI3k_rfkL5A"
+    },
+    {
+      "rank": 8,
+      "title": "Bailando",
+      "artist": "Enrique Iglesias feat. Gente de Zona",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0290b2ea6298a6e5d98e60d6ec",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5H8bSa8cVKMS44Wy6ngAHU",
+      "spotifyUrl": "https://open.spotify.com/track/5H8bSa8cVKMS44Wy6ngAHU",
+      "youtubeId": "Iz0hjRq40ko"
+    },
+    {
+      "rank": 9,
+      "title": "El Perdedor",
+      "artist": "Maluma",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7b78f86d070f52f45ad125f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1iEwyiSLAunPR6uouANE0O",
+      "spotifyUrl": "https://open.spotify.com/track/1iEwyiSLAunPR6uouANE0O",
+      "youtubeId": "PJniSb91tvo"
+    },
+    {
+      "rank": 10,
+      "title": "La Gozadera",
+      "artist": "Gente de Zona feat. Marc Anthony",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021e3b9d4d53e0ac334cd9eec4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0OMRAvrtLWE2TvcXorRiB9",
+      "spotifyUrl": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9",
+      "youtubeId": "LECvZ1GUweY"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0UddIt4oqvvs7sIbu0o5gW"
+}

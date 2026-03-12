@@ -1,0 +1,98 @@
+{
+  "country": "tr",
+  "year": 1995,
+  "context": "1995 was a turning point for Turkish pop, with Tarkan's debut album 'Aacayipsin' making him an overnight sensation. Sezen Aksu produced a string of hits for other artists while dominating as a performer herself. Turkish pop was becoming polished and internationally competitive, while arabesk remained beloved in Anatolia.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Şımarık",
+      "artist": "Tarkan",
+      "youtubeId": "pu9co0YRKHg",
+      "spotifyUri": "spotify:track:6vEL7E8TGzrxuxbrgdlkLL",
+      "spotifyUrl": "https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d0cc776df48f41116f43d449"
+    },
+    {
+      "rank": 2,
+      "title": "Hüp",
+      "artist": "Tarkan",
+      "youtubeId": "tZgtN2hg-tg",
+      "spotifyUri": "spotify:track:0ZoWRdF0aj5nigXXJZFrNb",
+      "spotifyUrl": "https://open.spotify.com/track/0ZoWRdF0aj5nigXXJZFrNb",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d3d5d5dcf25a85205584c1ff"
+    },
+    {
+      "rank": 3,
+      "title": "Gitti Gider",
+      "artist": "Sezen Aksu",
+      "youtubeId": "12xFP59L8hg",
+      "spotifyUri": "spotify:track:7nSTtrEEmGtZ8BtG8Zc0ze",
+      "spotifyUrl": "https://open.spotify.com/track/7nSTtrEEmGtZ8BtG8Zc0ze",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0273b3de66544f772dd3c6ded4"
+    },
+    {
+      "rank": 4,
+      "title": "Kış Güneşi",
+      "artist": "Tarkan",
+      "youtubeId": "tREKKkj6eMM",
+      "spotifyUri": "spotify:track:1tiIKelgeYVi1KcylVnZdq",
+      "spotifyUrl": "https://open.spotify.com/track/1tiIKelgeYVi1KcylVnZdq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c5654f59ff0dec134dce0333"
+    },
+    {
+      "rank": 5,
+      "title": "Unuttun mu Beni",
+      "artist": "Sezen Aksu",
+      "youtubeId": "u33EMpaJgU4",
+      "spotifyUri": "spotify:track:4ldaWVXiEEzj3zrQm57ipA",
+      "spotifyUrl": "https://open.spotify.com/track/4ldaWVXiEEzj3zrQm57ipA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ff7f345fc67e9558331bed3"
+    },
+    {
+      "rank": 6,
+      "title": "Hadi Bakalım",
+      "artist": "Sezen Aksu",
+      "youtubeId": "WVDXzzOFHOk",
+      "spotifyUri": "spotify:track:51xYVRNDNAINQNHnRXITTx",
+      "spotifyUrl": "https://open.spotify.com/track/51xYVRNDNAINQNHnRXITTx",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b04acd97ea452f76244cbc30"
+    },
+    {
+      "rank": 7,
+      "title": "Dön Bebeğim",
+      "artist": "İzel Çeliköz",
+      "youtubeId": "vTNOjOxABWM",
+      "spotifyUri": "spotify:track:5GJqK6pWFFJS3Csvjokxrs",
+      "spotifyUrl": "https://open.spotify.com/track/5GJqK6pWFFJS3Csvjokxrs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02be43d6bffdf12201926e5d01"
+    },
+    {
+      "rank": 8,
+      "title": "Sev Yeter",
+      "artist": "Ajda Pekkan",
+      "youtubeId": "xL6qrvNQhYw",
+      "spotifyUri": "spotify:track:2TpVirb3OFe2ATpo0ixRgP",
+      "spotifyUrl": "https://open.spotify.com/track/2TpVirb3OFe2ATpo0ixRgP",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022ee0a2a38d7f6b938d9718dc"
+    },
+    {
+      "rank": 9,
+      "title": "Dağlar",
+      "artist": "İbrahim Tatlıses",
+      "youtubeId": "fNj1Apz5218",
+      "spotifyUri": "spotify:track:2cFuJ5YRtCKWldHc3h2gVf",
+      "spotifyUrl": "https://open.spotify.com/track/2cFuJ5YRtCKWldHc3h2gVf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bf28fb55c4157ceb81d4370d"
+    },
+    {
+      "rank": 10,
+      "title": "Ayrılık",
+      "artist": "Yıldız Tilbe",
+      "youtubeId": "7ZDmuM3vetQ",
+      "spotifyUri": "spotify:track:67EdGxTPXaEtTKJklHHq7O",
+      "spotifyUrl": "https://open.spotify.com/track/67EdGxTPXaEtTKJklHHq7O",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0245f66aac8f475a04b99dcf9f"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0KCxS6Mqtj9HxwOLxBMPEl"
+}

@@ -1,0 +1,108 @@
+{
+  "country": "gh",
+  "year": 2020,
+  "context": "Ghana's 2020 was defined by afrobeats going global and the birth of the Asakaa (drill) movement from Kumasi. Kuami Eugene and KiDi led the afropop wave, Sarkodie remained omnipresent, and Yaw Tog's 'Sore' introduced Ghanaian drill to international audiences. Amaarae's alternative R&B signaled a new creative direction for Ghanaian artists.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Sore",
+      "artist": "Yaw Tog ft. O'Kenneth, City Boy, Reggie & Jay Bahd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0202b7386c5cd2f17d6a119534",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6k7PuQ7fyq4EUOaaFcSZ18",
+      "spotifyUrl": "https://open.spotify.com/track/6k7PuQ7fyq4EUOaaFcSZ18",
+      "youtubeId": "qPwQ0rUxgvQ"
+    },
+    {
+      "rank": 2,
+      "title": "Open Gate",
+      "artist": "Kuami Eugene",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d0b4faf87f79bde677c7503c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1EV1YMFILZvFzACu8np9O3",
+      "spotifyUrl": "https://open.spotify.com/track/1EV1YMFILZvFzACu8np9O3",
+      "youtubeId": "z9qTgwzdqzE"
+    },
+    {
+      "rank": 3,
+      "title": "Say Cheese",
+      "artist": "KiDi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022c50865691b4572eedad036d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:601WxmzITFziMCk3iuNps7",
+      "spotifyUrl": "https://open.spotify.com/track/601WxmzITFziMCk3iuNps7",
+      "youtubeId": "1v4FjteCoSU"
+    },
+    {
+      "rank": 4,
+      "title": "Anadwo",
+      "artist": "Sarkodie ft. King Promise",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d13f7a250389868d49ede89e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:727FNLOrz4Wj4KhTRMRlEv",
+      "spotifyUrl": "https://open.spotify.com/track/727FNLOrz4Wj4KhTRMRlEv",
+      "youtubeId": "mwJmcgpJ9UA"
+    },
+    {
+      "rank": 5,
+      "title": "No Dulling",
+      "artist": "Keche ft. Kuami Eugene",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0234efe0acdb97bc0f5ceba66f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1lEhZRJ67hhF1EaBEXetYF",
+      "spotifyUrl": "https://open.spotify.com/track/1lEhZRJ67hhF1EaBEXetYF",
+      "youtubeId": "2C7N9BSxes4"
+    },
+    {
+      "rank": 6,
+      "title": "Nominate",
+      "artist": "Stonebwoy ft. Keri Hilson",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b517e88ce8be3ac21c928dee",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0nZJKtGtaWETNDazwfVRIg",
+      "spotifyUrl": "https://open.spotify.com/track/0nZJKtGtaWETNDazwfVRIg",
+      "youtubeId": "d2v83FAV3JQ"
+    },
+    {
+      "rank": 7,
+      "title": "Inna Song (Gin & Lime)",
+      "artist": "Darkovibes ft. King Promise",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02683caf2951536f86d2db3245",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3sTW8RDBkEOyV1oKm8egim",
+      "spotifyUrl": "https://open.spotify.com/track/3sTW8RDBkEOyV1oKm8egim",
+      "youtubeId": "pe496yTVVmI"
+    },
+    {
+      "rank": 8,
+      "title": "La Hustle (Remix)",
+      "artist": "Medikal ft. Criss Waddle & Joey B",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f9ca23fb07a30a6820056bf7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0lGDjjDTjfKTO8phWKKxIl",
+      "spotifyUrl": "https://open.spotify.com/track/0lGDjjDTjfKTO8phWKKxIl",
+      "youtubeId": "8lyfnPH2sGY"
+    },
+    {
+      "rank": 9,
+      "title": "Attaa Adwoa",
+      "artist": "Bosom P-Yung",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024ccd76fd89a48b620427ce2e",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6hBjOLkPqWI4VodJ8cuknu",
+      "spotifyUrl": "https://open.spotify.com/track/6hBjOLkPqWI4VodJ8cuknu",
+      "youtubeId": "BYKEXOUXOq4"
+    },
+    {
+      "rank": 10,
+      "title": "Happy Day",
+      "artist": "Sarkodie ft. Kuami Eugene",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0256541a20c7eab4006a4e3e9b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:11gHXvOmoPeqlzYvzoba8v",
+      "spotifyUrl": "https://open.spotify.com/track/11gHXvOmoPeqlzYvzoba8v",
+      "youtubeId": "dYVrLNfQsoI"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0SzaS00FGgD0KsTuDhA8J0"
+}

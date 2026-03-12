@@ -1,6 +1,51 @@
 {
   "charts": [
     {
+      "country": "ar",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "ar",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "ar",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "ar",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "ar",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "ar",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "ar",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "ar",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "ar",
+      "year": 2025,
+      "available": true
+    },
+    {
       "country": "au",
       "year": 1960,
       "available": true
@@ -156,6 +201,36 @@
       "available": true
     },
     {
+      "country": "cl",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "cl",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "cl",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "cl",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "cl",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "cl",
+      "year": 2025,
+      "available": true
+    },
+    {
       "country": "cn",
       "year": 1985,
       "available": true
@@ -192,6 +267,46 @@
     },
     {
       "country": "cn",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "co",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "co",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "co",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "co",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "co",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "co",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "co",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "co",
       "year": 2025,
       "available": true
     },
@@ -266,6 +381,36 @@
       "available": true
     },
     {
+      "country": "eg",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "eg",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "eg",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "eg",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "eg",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "eg",
+      "year": 2025,
+      "available": true
+    },
+    {
       "country": "es",
       "year": 1965,
       "available": true
@@ -372,6 +517,116 @@
     },
     {
       "country": "fr",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "gh",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "gh",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "gh",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "gh",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "gh",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "gh",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "id",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "id",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "id",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "id",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "id",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "id",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "id",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "il",
+      "year": 1970,
+      "available": true
+    },
+    {
+      "country": "il",
+      "year": 1980,
+      "available": true
+    },
+    {
+      "country": "il",
+      "year": 1990,
+      "available": true
+    },
+    {
+      "country": "il",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "il",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "il",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "il",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "il",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "il",
       "year": 2025,
       "available": true
     },
@@ -576,6 +831,36 @@
       "available": true
     },
     {
+      "country": "ke",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "ke",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "ke",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "ke",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "ke",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "ke",
+      "year": 2025,
+      "available": true
+    },
+    {
       "country": "kr",
       "year": 1980,
       "available": true
@@ -666,6 +951,36 @@
       "available": true
     },
     {
+      "country": "my",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "my",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "my",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "my",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "my",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "my",
+      "year": 2025,
+      "available": true
+    },
+    {
       "country": "ng",
       "year": 1975,
       "available": true
@@ -791,6 +1106,46 @@
       "available": true
     },
     {
+      "country": "ph",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "ph",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "ph",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "ph",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "ph",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "ph",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "ph",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "ph",
+      "year": 2025,
+      "available": true
+    },
+    {
       "country": "ru",
       "year": 1975,
       "available": true
@@ -882,6 +1237,81 @@
     },
     {
       "country": "se",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "th",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "th",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "th",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "th",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "th",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "th",
+      "year": 2025,
+      "available": true
+    },
+    {
+      "country": "tr",
+      "year": 1975,
+      "available": true
+    },
+    {
+      "country": "tr",
+      "year": 1985,
+      "available": true
+    },
+    {
+      "country": "tr",
+      "year": 1995,
+      "available": true
+    },
+    {
+      "country": "tr",
+      "year": 2000,
+      "available": true
+    },
+    {
+      "country": "tr",
+      "year": 2005,
+      "available": true
+    },
+    {
+      "country": "tr",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "country": "tr",
+      "year": 2015,
+      "available": true
+    },
+    {
+      "country": "tr",
+      "year": 2020,
+      "available": true
+    },
+    {
+      "country": "tr",
       "year": 2025,
       "available": true
     },

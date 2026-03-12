@@ -1,0 +1,108 @@
+{
+  "country": "ke",
+  "year": 2025,
+  "context": "In 2025, Kenyans streamed more homegrown music than ever before, with artists like Okello Max, Savara, and Bien achieving massive Spotify and YouTube numbers. The scene spanned a wide sonic palette from gengetone revivals to Afro-pop and hip-hop, with Khaligraph Jones's 'Khali Cartel 5' cypher and the Willy Paul-Bahati collaboration becoming cultural events.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Taya",
+      "artist": "Okello Max",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c98ec7a7cd58ea90baf2321",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0FTkyNOOMb8b1sh81r5vJT",
+      "spotifyUrl": "https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT",
+      "youtubeId": "IVAK_FfmN6k"
+    },
+    {
+      "rank": 2,
+      "title": "Donjo Maber",
+      "artist": "Iyanii feat. Dufla Diligon",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e0a36c0b17bc49ea61867cd3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Qiy6PYDxjkkvB7e5KfHtk",
+      "spotifyUrl": "https://open.spotify.com/track/0Qiy6PYDxjkkvB7e5KfHtk",
+      "youtubeId": "ndv1T_GsIYw"
+    },
+    {
+      "rank": 3,
+      "title": "Sianda",
+      "artist": "Savara",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021b8d5f02f8bb490fcbe9a3bb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6oWyXVtVgd7UxA4GnUppTR",
+      "spotifyUrl": "https://open.spotify.com/track/6oWyXVtVgd7UxA4GnUppTR",
+      "youtubeId": "3UOosEeaCKw"
+    },
+    {
+      "rank": 4,
+      "title": "Keki",
+      "artist": "Willy Paul & Bahati",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02053b97d17f719ff2ce30837a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3G6JOHEn46OK8LUH4qiJhW",
+      "spotifyUrl": "https://open.spotify.com/track/3G6JOHEn46OK8LUH4qiJhW",
+      "youtubeId": "V0Oeh0fW-S0"
+    },
+    {
+      "rank": 5,
+      "title": "Khali Cartel 5",
+      "artist": "Khaligraph Jones feat. Various Artists",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025b2b6c8fc506e40768c85bc1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0arUL8gBetEOvzbfEsf56o",
+      "spotifyUrl": "https://open.spotify.com/track/0arUL8gBetEOvzbfEsf56o",
+      "youtubeId": "R-C_b7aujX8"
+    },
+    {
+      "rank": 6,
+      "title": "Woza",
+      "artist": "Nadia Mukami",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023de8d46f8257b9c1252d4a24",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4NebvrXSD2QkknEotgJXoh",
+      "spotifyUrl": "https://open.spotify.com/track/4NebvrXSD2QkknEotgJXoh",
+      "youtubeId": "8saSt43e_Dw"
+    },
+    {
+      "rank": 7,
+      "title": "Tai Chi",
+      "artist": "Nyashinski",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02480b8a473d3802b243d20ba6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Q8Vztfn6jrMPlpcxE6l6C",
+      "spotifyUrl": "https://open.spotify.com/track/0Q8Vztfn6jrMPlpcxE6l6C",
+      "youtubeId": "ErkChm8t9ck"
+    },
+    {
+      "rank": 8,
+      "title": "Pungulu",
+      "artist": "Angry Panda Clan & Papa Nyosto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0266140f4458aba9c3ca55b073",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1HV80tfavd82wOUOlL7q6O",
+      "spotifyUrl": "https://open.spotify.com/track/1HV80tfavd82wOUOlL7q6O",
+      "youtubeId": "C-8j3rtuOQ8"
+    },
+    {
+      "rank": 9,
+      "title": "All My Enemies Are Suffering",
+      "artist": "Bien",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029d2db64c623c134707746790",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1qBHJF6tX9C5UKheyCde4W",
+      "spotifyUrl": "https://open.spotify.com/track/1qBHJF6tX9C5UKheyCde4W",
+      "youtubeId": "S1Nb1O9O-KI"
+    },
+    {
+      "rank": 10,
+      "title": "Zimeshika",
+      "artist": "Trio Mio & Khaligraph Jones",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282e5f3cdb9e8dbe33bc72420",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:12hhrjiJ8gbYjycWcYrh8M",
+      "spotifyUrl": "https://open.spotify.com/track/12hhrjiJ8gbYjycWcYrh8M",
+      "youtubeId": "d-eyNwHRUKM"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0ZjilikZUEgi1JX0Lup1YY"
+}

@@ -1,0 +1,108 @@
+{
+  "country": "id",
+  "year": 1985,
+  "context": "Indonesia's 1985 was dominated by dangdut king Rhoma Irama and the sophisticated pop of Chrisye. Dangdut — a uniquely Indonesian genre blending Indian, Malay, and Arabic musical elements — was at its commercial peak, while pop Indonesia offered a more cosmopolitan alternative influenced by Western soft rock and jazz.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Begadang",
+      "artist": "Rhoma Irama",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02880cf90d8e872847b7727cdf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5TFBJunwkbdRjnUzKaZeJt",
+      "spotifyUrl": "https://open.spotify.com/track/5TFBJunwkbdRjnUzKaZeJt",
+      "youtubeId": "ailTsa1VQsI"
+    },
+    {
+      "rank": 2,
+      "title": "Lilin-Lilin Kecil",
+      "artist": "Chrisye",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0216dd514d5c6ca5471eb8bfa6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7iDpViFQbGCoLw7QCA5fS4",
+      "spotifyUrl": "https://open.spotify.com/track/7iDpViFQbGCoLw7QCA5fS4",
+      "youtubeId": "MN_-ghTd2UQ"
+    },
+    {
+      "rank": 3,
+      "title": "Jangan Sakiti Hatinya",
+      "artist": "Nike Ardilla",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023b4e4a4011cdd6d7939fbfc7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7uABk1gbtLCut4i3bMYFod",
+      "spotifyUrl": "https://open.spotify.com/track/7uABk1gbtLCut4i3bMYFod",
+      "youtubeId": "sIIF9tD1hNI"
+    },
+    {
+      "rank": 4,
+      "title": "Pernahkah Dulu",
+      "artist": "Betharia Sonata",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0236e075cfb2e5a888b56404ed",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4FVbw2kZPAOPYjoAPxte2E",
+      "spotifyUrl": "https://open.spotify.com/track/4FVbw2kZPAOPYjoAPxte2E",
+      "youtubeId": "cEFH9fWLmsk"
+    },
+    {
+      "rank": 5,
+      "title": "Damai Bersamamu",
+      "artist": "Chrisye",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f7f60f54d771cf90783f8c31",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7xSq21ht4d4bw7M5fql6ez",
+      "spotifyUrl": "https://open.spotify.com/track/7xSq21ht4d4bw7M5fql6ez",
+      "youtubeId": "Zt3zI655PUw"
+    },
+    {
+      "rank": 6,
+      "title": "Hati yang Luka",
+      "artist": "Betharia Sonata",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02014de162f1fe41f563d0d257",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7biuMlxzy39x2vnkzQexNL",
+      "spotifyUrl": "https://open.spotify.com/track/7biuMlxzy39x2vnkzQexNL",
+      "youtubeId": "XbBuTL9CRWU"
+    },
+    {
+      "rank": 7,
+      "title": "Rupiah",
+      "artist": "Rhoma Irama",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02880cf90d8e872847b7727cdf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:73zXH4dZuvHtwHPiUXGHXX",
+      "spotifyUrl": "https://open.spotify.com/track/73zXH4dZuvHtwHPiUXGHXX",
+      "youtubeId": "5WbEhibVEIA"
+    },
+    {
+      "rank": 8,
+      "title": "Sabda Alam",
+      "artist": "Chrisye",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023489495ebe848d6e7459c7c1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1g35iGjFu0LXTmhcyn4P0E",
+      "spotifyUrl": "https://open.spotify.com/track/1g35iGjFu0LXTmhcyn4P0E",
+      "youtubeId": "fr6nt_BtgIw"
+    },
+    {
+      "rank": 9,
+      "title": "Gala-Gala",
+      "artist": "Rhoma Irama",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026e8ac03db4f9f0887f5c730c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0vTa1tRGtgPyRnGKkfmQaH",
+      "spotifyUrl": "https://open.spotify.com/track/0vTa1tRGtgPyRnGKkfmQaH",
+      "youtubeId": "nxl7AEuZXlo"
+    },
+    {
+      "rank": 10,
+      "title": "Badai Pasti Berlalu",
+      "artist": "Chrisye",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:02QILbqLTVjjynNu2aM19M",
+      "spotifyUrl": "https://open.spotify.com/track/02QILbqLTVjjynNu2aM19M",
+      "youtubeId": "N4MzEytt6Io"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4HolAkF3RWkQZGtsFux6Sm"
+}

@@ -1,0 +1,108 @@
+{
+  "country": "ar",
+  "year": 2010,
+  "context": "Argentina's 2010 was marked by the tragic death of Gustavo Cerati, who fell into a coma during a concert in Caracas. His music dominated airplay throughout the year as the nation mourned. Meanwhile, cumbia pop and reggaeton increasingly competed with rock nacional for mainstream dominance.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Crimen",
+      "artist": "Gustavo Cerati",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d543f7c7de880da5370922c0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3oqWr0jDWNXxWufNogGREp",
+      "spotifyUrl": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp",
+      "youtubeId": "YVXNPPdh6wE"
+    },
+    {
+      "rank": 2,
+      "title": "De Música Ligera",
+      "artist": "Soda Stereo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2WD9ggmpZE7Wodh3qVVCgg",
+      "spotifyUrl": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg",
+      "youtubeId": "tXNR2LMzDiE"
+    },
+    {
+      "rank": 3,
+      "title": "Waka Waka",
+      "artist": "Shakira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6da56e427f7f87f0e544c6f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6bNB5gxFX6Q87DbQWb8OWZ",
+      "spotifyUrl": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ",
+      "youtubeId": "Z_slTWayFK0"
+    },
+    {
+      "rank": 4,
+      "title": "Mi Enfermedad",
+      "artist": "Fabiana Cantilo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0260bf5cb3fba9b172460dafed",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:46bGEqzd7anKKovVOZ9bTF",
+      "spotifyUrl": "https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF",
+      "youtubeId": "1YfCh5NLE30"
+    },
+    {
+      "rank": 5,
+      "title": "Amo",
+      "artist": "Axel",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023f15ab526ed2c778981833cf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4IDp1zu5LGwVzrp9j9WjHW",
+      "spotifyUrl": "https://open.spotify.com/track/4IDp1zu5LGwVzrp9j9WjHW",
+      "youtubeId": "zSebyN0EZD0"
+    },
+    {
+      "rank": 6,
+      "title": "Fuerza Natural",
+      "artist": "Gustavo Cerati",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0214653b83cd7d851accdb5142",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4nISKMNTbWKrZpGFI44pIz",
+      "spotifyUrl": "https://open.spotify.com/track/4nISKMNTbWKrZpGFI44pIz",
+      "youtubeId": "Z7ndVxqUb48"
+    },
+    {
+      "rank": 7,
+      "title": "Loca",
+      "artist": "Shakira feat. El Cata",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024214ddc9e33e76de6a8ee888",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:42k1KeBehAd83lrGt1okiC",
+      "spotifyUrl": "https://open.spotify.com/track/42k1KeBehAd83lrGt1okiC",
+      "youtubeId": "p_uBMc7mA0c"
+    },
+    {
+      "rank": 8,
+      "title": "Danza Kuduro",
+      "artist": "Don Omar feat. Lucenzo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024640a26eb27649006be29a94",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2a1o6ZejUi8U3wzzOtCOYw",
+      "spotifyUrl": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw",
+      "youtubeId": "BbWY-avjDto"
+    },
+    {
+      "rank": 9,
+      "title": "Lamento Boliviano",
+      "artist": "Enanitos Verdes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0235bf8a2179962114b8ec7585",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Pur3hWy6Nzc27ilmsp5HA",
+      "spotifyUrl": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA",
+      "youtubeId": "BRuHGchMrD8"
+    },
+    {
+      "rank": 10,
+      "title": "Nada Es para Siempre",
+      "artist": "Luis Fonsi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024687097846c807e9676657a6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5ToI5oXnUmX5Nsmg8enL1N",
+      "spotifyUrl": "https://open.spotify.com/track/5ToI5oXnUmX5Nsmg8enL1N",
+      "youtubeId": "ijmZkTMjkTQ"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2QidJc0OQH2r1oSrGdkprd"
+}

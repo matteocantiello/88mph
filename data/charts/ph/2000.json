@@ -1,0 +1,98 @@
+{
+  "country": "ph",
+  "year": 2000,
+  "context": "The Philippines in 2000 was experiencing a Pinoy rock renaissance, led by Eraserheads, Rivermaya, and Parokya ni Edgar. These bands combined Filipino lyrics with alternative rock and pop-punk, creating a distinctly Filipino sound that dominated radio and MTV Philippines. Regine Velasquez remained the reigning pop diva.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "With a Smile",
+      "artist": "Eraserheads",
+      "youtubeId": "PFQqdhp1vH0",
+      "spotifyUri": "spotify:track:1NopgVCMVhCKIm64tF7auX",
+      "spotifyUrl": "https://open.spotify.com/track/1NopgVCMVhCKIm64tF7auX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024ee9d148667165d546f88e84"
+    },
+    {
+      "rank": 2,
+      "title": "Ang Huling El Bimbo",
+      "artist": "Eraserheads",
+      "youtubeId": "brnVo92r4W4",
+      "spotifyUri": "spotify:track:135ggzbjOogZ75IQ0LQi8r",
+      "spotifyUrl": "https://open.spotify.com/track/135ggzbjOogZ75IQ0LQi8r",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029bacd20b2fad742126a482e1"
+    },
+    {
+      "rank": 3,
+      "title": "Harana",
+      "artist": "Parokya ni Edgar",
+      "youtubeId": "4hmodo8yDCo",
+      "spotifyUri": "spotify:track:6UGrgPcISfwGeDikA4YpEv",
+      "spotifyUrl": "https://open.spotify.com/track/6UGrgPcISfwGeDikA4YpEv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024d50a473c2a9ded0b12b48f6"
+    },
+    {
+      "rank": 4,
+      "title": "214",
+      "artist": "Rivermaya",
+      "youtubeId": "6yrmsZgW3RE",
+      "spotifyUri": "spotify:track:7gZ3kWNtIxFgxjsm5OTVMB",
+      "spotifyUrl": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ed85086a2f9577635caff039"
+    },
+    {
+      "rank": 5,
+      "title": "On a Day Like Today",
+      "artist": "Bryan Adams",
+      "youtubeId": "qSjJeFVm-XY",
+      "spotifyUri": "spotify:track:1g2tPIP5isX44SNeDeqLsz",
+      "spotifyUrl": "https://open.spotify.com/track/1g2tPIP5isX44SNeDeqLsz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025e9ba297f543a91ae5209ce8"
+    },
+    {
+      "rank": 6,
+      "title": "Kailangan Kita",
+      "artist": "Ogie Alcasid",
+      "youtubeId": "PdcucpUvIgw",
+      "spotifyUri": "spotify:track:7kLB1vEThSy5B58Zst5mEl",
+      "spotifyUrl": "https://open.spotify.com/track/7kLB1vEThSy5B58Zst5mEl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02024ef535e578ae2d4c2e5bf9"
+    },
+    {
+      "rank": 7,
+      "title": "Buloy",
+      "artist": "Parokya ni Edgar",
+      "youtubeId": "GRJqHELAA54",
+      "spotifyUri": "spotify:track:1sGSzOSb8cJ3xhQW7q2a4g",
+      "spotifyUrl": "https://open.spotify.com/track/1sGSzOSb8cJ3xhQW7q2a4g",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02556f267a3547979e820c4144"
+    },
+    {
+      "rank": 8,
+      "title": "Torete",
+      "artist": "Moonstar88",
+      "youtubeId": "UqotuNcLuHw",
+      "spotifyUri": "spotify:track:14NYrkbcxzarp4y7LlTtQF",
+      "spotifyUrl": "https://open.spotify.com/track/14NYrkbcxzarp4y7LlTtQF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b1106f869c1fa2b1d1d99766"
+    },
+    {
+      "rank": 9,
+      "title": "In Love with You",
+      "artist": "Regine Velasquez & Jacky Cheung",
+      "youtubeId": "pfrpH3jrrNQ",
+      "spotifyUri": "spotify:track:7rxcJ4zwimlDH46xN74E61",
+      "spotifyUrl": "https://open.spotify.com/track/7rxcJ4zwimlDH46xN74E61",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02708cd45541b4c2f230fd20f8"
+    },
+    {
+      "rank": 10,
+      "title": "Liwanag sa Dilim",
+      "artist": "Rivermaya",
+      "youtubeId": "nI4jlh79Ng4",
+      "spotifyUri": "spotify:track:3DLbZWrRhdW0YTW0QKuq2d",
+      "spotifyUrl": "https://open.spotify.com/track/3DLbZWrRhdW0YTW0QKuq2d",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0235b082f3a87ab2b492e4cdba"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6FFXl2aWSOQi9aHr7UcvvB"
+}

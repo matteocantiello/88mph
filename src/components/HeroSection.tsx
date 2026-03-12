@@ -15,6 +15,10 @@ const DRUM_NAMES: Record<string, string> = {
   "Netherlands": "Holland",
   "South Korea": "S. Korea",
   "South Africa": "S. Africa",
+  "Philippines": "Philipp.",
+  "Indonesia": "Indonesia",
+  "Argentina": "Argentina",
+  "Colombia": "Colombia",
 };
 
 function drumLabel(name: string): string {

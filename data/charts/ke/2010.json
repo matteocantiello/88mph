@@ -1,0 +1,108 @@
+{
+  "country": "ke",
+  "year": 2010,
+  "context": "The year 2010 was defined by the golden age of Kenyan gospel music, with Daddy Owen and Rufftone leading a wave of faith-based hits that crossed over to mainstream radio. Simultaneously, secular artists like Jaguar and Camp Mulla brought fresh energy with club bangers and international-sounding hip-hop, while Juliani used music as a vehicle for social commentary.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Mbona",
+      "artist": "Daddy Owen feat. Denno",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b685c92bca669e6428e13877",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:76CWAN962s7uUiiFCs99cf",
+      "spotifyUrl": "https://open.spotify.com/track/76CWAN962s7uUiiFCs99cf",
+      "youtubeId": "ugs2G18YkDc"
+    },
+    {
+      "rank": 2,
+      "title": "Kigeugeu",
+      "artist": "Jaguar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023c0b60dfb0f390f6b0438f14",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0dmUnUAZTYuxRQlLM6FcQi",
+      "spotifyUrl": "https://open.spotify.com/track/0dmUnUAZTYuxRQlLM6FcQi",
+      "youtubeId": "Qx4aiyQYhiw"
+    },
+    {
+      "rank": 3,
+      "title": "Mungu Baba",
+      "artist": "Rufftone",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02eca15c355e775ad4280b1a9c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5M5gw7OlOtho2gyoiCW5Cq",
+      "spotifyUrl": "https://open.spotify.com/track/5M5gw7OlOtho2gyoiCW5Cq",
+      "youtubeId": "Km853-lEDLc"
+    },
+    {
+      "rank": 4,
+      "title": "Utawala",
+      "artist": "Juliani",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02321369acf26e4451726f5734",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4E1igWdMs0HTR3TeJ9PkeI",
+      "spotifyUrl": "https://open.spotify.com/track/4E1igWdMs0HTR3TeJ9PkeI",
+      "youtubeId": "sbqIVV-OFw4"
+    },
+    {
+      "rank": 5,
+      "title": "Party Don't Stop",
+      "artist": "Camp Mulla feat. Collo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fa3178a7905f6e75c22c7bad",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2gdEiQ4bSKMSJdC80lkH30",
+      "spotifyUrl": "https://open.spotify.com/track/2gdEiQ4bSKMSJdC80lkH30",
+      "youtubeId": "2NJo5hm6XBM"
+    },
+    {
+      "rank": 6,
+      "title": "Get Down",
+      "artist": "Madtraxx",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f86d5f3e415714c1b3842901",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:20559bnPwpBlbK9heTfOkJ",
+      "spotifyUrl": "https://open.spotify.com/track/20559bnPwpBlbK9heTfOkJ",
+      "youtubeId": "Eo68bC61Yfc"
+    },
+    {
+      "rank": 7,
+      "title": "Saluti",
+      "artist": "Daddy Owen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f7b0a4586f66f274f5de77ea",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1s7JN48VufHUgcC3g7svmI",
+      "spotifyUrl": "https://open.spotify.com/track/1s7JN48VufHUgcC3g7svmI",
+      "youtubeId": "D2yG6eAu274"
+    },
+    {
+      "rank": 8,
+      "title": "You Guy",
+      "artist": "P-Unit",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021dd85cc03da5306fa5adac8d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7wOv2307rVbUprX7ytsyxj",
+      "spotifyUrl": "https://open.spotify.com/track/7wOv2307rVbUprX7ytsyxj",
+      "youtubeId": "9FUYnppIxEU"
+    },
+    {
+      "rank": 9,
+      "title": "Kipepeo",
+      "artist": "Jaguar",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027d1db10d4f3d5c6655f49e23",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5BUgPHcxvoeh0hDtzvCBhd",
+      "spotifyUrl": "https://open.spotify.com/track/5BUgPHcxvoeh0hDtzvCBhd",
+      "youtubeId": "N_Qupfdg9NY"
+    },
+    {
+      "rank": 10,
+      "title": "Bahasha ya Ocampo",
+      "artist": "Juliani",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c28aecab7f792d2bea830d29",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4HmC91fA4IN1lJgqpvlrsR",
+      "spotifyUrl": "https://open.spotify.com/track/4HmC91fA4IN1lJgqpvlrsR",
+      "youtubeId": "ORF_PU7zY_I"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5PkabLybo7tqpYOYsoXTkV"
+}

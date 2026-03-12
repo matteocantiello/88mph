@@ -1,0 +1,98 @@
+{
+  "country": "ph",
+  "year": 2020,
+  "context": "The Philippines' 2020 music scene boomed on streaming platforms during pandemic lockdowns. Ben&Ben became the country's most-streamed OPM act on Spotify, while P-pop groups like SB19 gained massive followings. The Filipino diaspora amplified OPM's global reach, and TikTok accelerated viral hits across the archipelago.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Pasilyo",
+      "artist": "SunKissed Lola",
+      "youtubeId": "Vn1eW9grhLc",
+      "spotifyUri": "spotify:track:0uZFcsx96wzbixsULmrg8o",
+      "spotifyUrl": "https://open.spotify.com/track/0uZFcsx96wzbixsULmrg8o",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024978596b32fde00ce5c4d07d"
+    },
+    {
+      "rank": 2,
+      "title": "Araw-Araw",
+      "artist": "Ben&Ben",
+      "youtubeId": "p5r_f-nL-30",
+      "spotifyUri": "spotify:track:4rG3h1QwgjSSWz8EIjCFrm",
+      "spotifyUrl": "https://open.spotify.com/track/4rG3h1QwgjSSWz8EIjCFrm",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbcb629ade1918ba09268794"
+    },
+    {
+      "rank": 3,
+      "title": "Go Up",
+      "artist": "SB19",
+      "youtubeId": "GyjB9ctVVsA",
+      "spotifyUri": "spotify:track:5VoY18OYEE2E6RJCBd2jki",
+      "spotifyUrl": "https://open.spotify.com/track/5VoY18OYEE2E6RJCBd2jki",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b923d66cccf1ce62784f19be"
+    },
+    {
+      "rank": 4,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "youtubeId": "J7p4bzqLvCw",
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36"
+    },
+    {
+      "rank": 5,
+      "title": "Eroplanong Papel",
+      "artist": "December Avenue",
+      "youtubeId": "JkBwtOEvoXU",
+      "spotifyUri": "spotify:track:7MrDNu3hC1MjczXhi1citM",
+      "spotifyUrl": "https://open.spotify.com/track/7MrDNu3hC1MjczXhi1citM",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f3100d7f97da4ad8932db0d7"
+    },
+    {
+      "rank": 6,
+      "title": "Dynamite",
+      "artist": "BTS",
+      "youtubeId": "gzJBaC9P2Eg",
+      "spotifyUri": "spotify:track:5QDLhrAOJJdNAmCTJ8xMyW",
+      "spotifyUrl": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c07d5d2fdc02ae252fcd07e5"
+    },
+    {
+      "rank": 7,
+      "title": "Buwan",
+      "artist": "Juan Karlos",
+      "youtubeId": "4jWtIybFlLs",
+      "spotifyUri": "spotify:track:5f9808hpiCpuNyqqdXmpF2",
+      "spotifyUrl": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021916f5fab42ee22fd89b18cd"
+    },
+    {
+      "rank": 8,
+      "title": "Paubaya",
+      "artist": "Moira Dela Torre",
+      "youtubeId": "Tdn22pcHKH8",
+      "spotifyUri": "spotify:track:7IZ3aOo6kzegDLZdZKOMm7",
+      "spotifyUrl": "https://open.spotify.com/track/7IZ3aOo6kzegDLZdZKOMm7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fd86d3241340bfba19c9fc4c"
+    },
+    {
+      "rank": 9,
+      "title": "Tahanan",
+      "artist": "Adie",
+      "youtubeId": "zQIu1V1ZzC4",
+      "spotifyUri": "spotify:track:7oMCyUv2mpT7Q4FWHnX2hZ",
+      "spotifyUrl": "https://open.spotify.com/track/7oMCyUv2mpT7Q4FWHnX2hZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ac3364edd3104f123584d1be"
+    },
+    {
+      "rank": 10,
+      "title": "Sa Susunod na Habang Buhay",
+      "artist": "Ben&Ben",
+      "youtubeId": "eTUn_tbwYIw",
+      "spotifyUri": "spotify:track:3PgjBOoA5OytNGkglObpOd",
+      "spotifyUrl": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0200cb9934d16e2262cf40a152"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4VbvnNnTYBM7PWeoSqtyIG"
+}

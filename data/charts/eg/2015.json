@@ -1,0 +1,108 @@
+{
+  "country": "eg",
+  "year": 2015,
+  "context": "By 2015, YouTube and early streaming platforms were reshaping Egyptian music consumption. Amr Diab's 'Shoft El Ayam' became the first Egyptian album to top Billboard's World Albums chart, while the underground scene produced Cairokee's socially conscious rock and the rise of shaabi-electronic fusions that would later explode as mahraganat.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Gamalo",
+      "artist": "Amr Diab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f7e2bbc56618390edf68925a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1THjXMmnpkAolDd9gUuiKv",
+      "spotifyUrl": "https://open.spotify.com/track/1THjXMmnpkAolDd9gUuiKv",
+      "youtubeId": "pl4hbEgKj00"
+    },
+    {
+      "rank": 2,
+      "title": "Mabalash",
+      "artist": "Mohamed Hamaki",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e2dbe575f28bd59ead80d1b4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6T7BnjLw6SixBVpxhZFHwQ",
+      "spotifyUrl": "https://open.spotify.com/track/6T7BnjLw6SixBVpxhZFHwQ",
+      "youtubeId": "VQc613pd-2E"
+    },
+    {
+      "rank": 3,
+      "title": "Nassay",
+      "artist": "Cairokee",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026609642c8f294da97bd0f76b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7yZc2gKENILqeJWofabYNF",
+      "spotifyUrl": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF",
+      "youtubeId": "ZXUosGmllig"
+    },
+    {
+      "rank": 4,
+      "title": "180 Darga",
+      "artist": "Tamer Hosny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022708961b3ba70f1facaad948",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3q18UGbW8o5KvAPt4nbeIB",
+      "spotifyUrl": "https://open.spotify.com/track/3q18UGbW8o5KvAPt4nbeIB",
+      "youtubeId": "rRJ5rL1zziI"
+    },
+    {
+      "rank": 5,
+      "title": "Dari Ya Alby",
+      "artist": "Hamza Namira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c2228ce3bb97ef17c8ded7f0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:03OoXcz5TPOCyU6RTR1bgk",
+      "spotifyUrl": "https://open.spotify.com/track/03OoXcz5TPOCyU6RTR1bgk",
+      "youtubeId": "3c0qJhdnrXw"
+    },
+    {
+      "rank": 6,
+      "title": "Boshret Kheir",
+      "artist": "Hussain Al Jassmi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a6cfb769954b7e0002441561",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0OehILYtgc6zCEsUfHBMDH",
+      "spotifyUrl": "https://open.spotify.com/track/0OehILYtgc6zCEsUfHBMDH",
+      "youtubeId": "QUBvVTNRp4Q"
+    },
+    {
+      "rank": 7,
+      "title": "Bahebak Enta",
+      "artist": "Sherine",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0242c5734fd4a5ddad47eddbfa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2zo2iMnuWdKvjlixk88Ak7",
+      "spotifyUrl": "https://open.spotify.com/track/2zo2iMnuWdKvjlixk88Ak7",
+      "youtubeId": "3HKL0x9y_XQ"
+    },
+    {
+      "rank": 8,
+      "title": "El Leila",
+      "artist": "Amr Diab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0294ed56b868bac4901e0ca123",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Oe6Ou9xu2AiuUQoagCfQ6",
+      "spotifyUrl": "https://open.spotify.com/track/5Oe6Ou9xu2AiuUQoagCfQ6",
+      "youtubeId": "EcTSGh1EA5I"
+    },
+    {
+      "rank": 9,
+      "title": "Naseny Leh",
+      "artist": "Tamer Hosny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0209892f0ebd3303b938291715",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:60pRQamxtl7W30qPKrtrH6",
+      "spotifyUrl": "https://open.spotify.com/track/60pRQamxtl7W30qPKrtrH6",
+      "youtubeId": "ou-7AboPoXE"
+    },
+    {
+      "rank": 10,
+      "title": "Baad El Layaly",
+      "artist": "Elissa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f6154b3024f30dede5f032ed",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:571ElrlNtK4djFptlFgtU3",
+      "spotifyUrl": "https://open.spotify.com/track/571ElrlNtK4djFptlFgtU3",
+      "youtubeId": "oTmJzgipXGQ"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/06nqdAsRg9M0YQStqbNLYS"
+}

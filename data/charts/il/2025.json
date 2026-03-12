@@ -1,0 +1,97 @@
+{
+  "country": "il",
+  "year": 2025,
+  "context": "Israel's 2025 music reflected a nation processing ongoing conflict and seeking joy through music. Noa Kirel continued her international trajectory, Omer Adam and Eyal Golan remained pillars of Israeli pop, and a new generation of artists blended mizrahi, trap, and electronic elements. Music served as both escapism and solidarity.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Raq Itcha",
+      "artist": "Omer Adam",
+      "youtubeId": "Jw02uPan7RU",
+      "spotifyUri": "spotify:track:3U1voPJN8NBSR96Ry0WJiF",
+      "spotifyUrl": "https://open.spotify.com/track/3U1voPJN8NBSR96Ry0WJiF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0212d961970aa13291d9720f8b"
+    },
+    {
+      "rank": 2,
+      "title": "Ma Ze Matchil",
+      "artist": "Noa Kirel",
+      "spotifyUri": "spotify:track:0rXOX9yyDrbDRXVrBtb3Qa",
+      "spotifyUrl": "https://open.spotify.com/track/0rXOX9yyDrbDRXVrBtb3Qa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02246dd456ad6730fb8a01c99a"
+    },
+    {
+      "rank": 3,
+      "title": "Olam Meshuga",
+      "artist": "Static & Ben El",
+      "youtubeId": "04Xu9eiqeGU",
+      "spotifyUri": "spotify:track:1aW9qzUsXGbyhT3NPCWwdT",
+      "spotifyUrl": "https://open.spotify.com/track/1aW9qzUsXGbyhT3NPCWwdT",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027e6610a12bd3bd8e26f3a245"
+    },
+    {
+      "rank": 4,
+      "title": "Yalla",
+      "artist": "Eden Ben Zaken",
+      "youtubeId": "BWQJb_Y7QPI",
+      "spotifyUri": "spotify:track:3ic9dAOJM45gUUyzWhS023",
+      "spotifyUrl": "https://open.spotify.com/track/3ic9dAOJM45gUUyzWhS023",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026e1e803688969261d2ecb1a3"
+    },
+    {
+      "rank": 5,
+      "title": "Habib Galbi",
+      "artist": "Eyal Golan",
+      "youtubeId": "cTmz3NsRQ1E",
+      "spotifyUri": "spotify:track:4QRr7dn77J0AoA3paGgqGE",
+      "spotifyUrl": "https://open.spotify.com/track/4QRr7dn77J0AoA3paGgqGE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dc27624e7abfb2472bdfb342"
+    },
+    {
+      "rank": 6,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "DiTd771WumE",
+      "spotifyUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+      "spotifyUrl": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0246085aa1855bd888abc51a5a"
+    },
+    {
+      "rank": 7,
+      "title": "Die With a Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "DlFXDl_ROAM",
+      "spotifyUri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45"
+    },
+    {
+      "rank": 8,
+      "title": "Kama Zman",
+      "artist": "Omer Adam",
+      "youtubeId": "kmI_nfegY1M",
+      "spotifyUri": "spotify:track:3pTsE064ZTJ1n8bP3VAm2c",
+      "spotifyUrl": "https://open.spotify.com/track/3pTsE064ZTJ1n8bP3VAm2c",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02635571e4dbe218b57bf5c1ff"
+    },
+    {
+      "rank": 9,
+      "title": "Neshama Sheli",
+      "artist": "Sarit Hadad",
+      "youtubeId": "OM8dT4r3u6o",
+      "spotifyUri": "spotify:track:0bQI3ozheKRxZ8Q6UELpxP",
+      "spotifyUrl": "https://open.spotify.com/track/0bQI3ozheKRxZ8Q6UELpxP",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023288fbd7bd032dc46e99486a"
+    },
+    {
+      "rank": 10,
+      "title": "Toda La'El",
+      "artist": "Ishay Ribo",
+      "youtubeId": "L-uK2DNX6sE",
+      "spotifyUri": "spotify:track:7Ck421SAROdN0Q6RXMbic7",
+      "spotifyUrl": "https://open.spotify.com/track/7Ck421SAROdN0Q6RXMbic7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028824b7e43d9cfd8e62ae1eca"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5DxuTmWowwBTOa77DkwOyu"
+}

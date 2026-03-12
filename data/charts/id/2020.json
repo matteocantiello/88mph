@@ -1,0 +1,108 @@
+{
+  "country": "id",
+  "year": 2020,
+  "context": "Indonesia's 2020 was shaped by pandemic-era streaming consumption and the rise of a new wave of indie and pop artists. Nadin Amizah, Tulus, and Mahalini led a generation of emotionally vulnerable pop that resonated with lockdown audiences. Dangdut koplo artist Via Vallen remained massively popular, representing Indonesia's diverse musical landscape.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Hati-Hati di Jalan",
+      "artist": "Tulus",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d34a0632f6861e8875d6899b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2hHeGD57S0BcopfVcmehdl",
+      "spotifyUrl": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl",
+      "youtubeId": "E7kHvjvU6JY"
+    },
+    {
+      "rank": 2,
+      "title": "Runtuh",
+      "artist": "Feby Putri feat. Fiersa Besari",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024788f7886c01b9b2ee95cbdd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Hii26x3qDErVitnGW8QtO",
+      "spotifyUrl": "https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO",
+      "youtubeId": "zhawF9_lpM0"
+    },
+    {
+      "rank": 3,
+      "title": "Sisa Rasa",
+      "artist": "Mahalini",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f713eb92ebf7ca05a562542",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0R6KCq5TLJB3gi2ragMrXZ",
+      "spotifyUrl": "https://open.spotify.com/track/0R6KCq5TLJB3gi2ragMrXZ",
+      "youtubeId": "5PJwbNjkM08"
+    },
+    {
+      "rank": 4,
+      "title": "Seperti Kisah",
+      "artist": "Rizky Febian",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0260f662793c829c43dc4dc4e7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6m1HyCmA5jt4Uy0mrS757Y",
+      "spotifyUrl": "https://open.spotify.com/track/6m1HyCmA5jt4Uy0mrS757Y",
+      "youtubeId": "ljLsfNN4fVE"
+    },
+    {
+      "rank": 5,
+      "title": "Melawan Restu",
+      "artist": "Mahalini",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f713eb92ebf7ca05a562542",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6H7lvP0NgAF39Rn3qve4Og",
+      "spotifyUrl": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og",
+      "youtubeId": "5uVDbP5jXko"
+    },
+    {
+      "rank": 6,
+      "title": "Bertaut",
+      "artist": "Nadin Amizah",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026d57a5c60decaa8fb39d5afb",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:630DpnzdfjdVqv2yLfPbAX",
+      "spotifyUrl": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX",
+      "youtubeId": "Xh93FL06JwQ"
+    },
+    {
+      "rank": 7,
+      "title": "Manusia Kuat",
+      "artist": "Tulus",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0271c65edbeed32af70b900637",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1vT1rKlEzvT9r0uYwAuwC8",
+      "spotifyUrl": "https://open.spotify.com/track/1vT1rKlEzvT9r0uYwAuwC8",
+      "youtubeId": "-1SDiC-mfdo"
+    },
+    {
+      "rank": 8,
+      "title": "Monokrom",
+      "artist": "Tulus",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0271c65edbeed32af70b900637",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4GfK1qOF3uBWidbPlTCQRL",
+      "spotifyUrl": "https://open.spotify.com/track/4GfK1qOF3uBWidbPlTCQRL",
+      "youtubeId": "1RrF6Ee_io0"
+    },
+    {
+      "rank": 9,
+      "title": "Cinta Tak Harus Memiliki",
+      "artist": "ST12",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026296585f8e70c1dc69bc2759",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0OZG0Mclr2yr5DMQELX4aX",
+      "spotifyUrl": "https://open.spotify.com/track/0OZG0Mclr2yr5DMQELX4aX",
+      "youtubeId": "oNxud1xMDcs"
+    },
+    {
+      "rank": 10,
+      "title": "Lathi",
+      "artist": "Weird Genius feat. Sara Fajira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0286211b65ea909bcc933ad12c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7IJdncR0sFTfunKdmQqTlt",
+      "spotifyUrl": "https://open.spotify.com/track/7IJdncR0sFTfunKdmQqTlt",
+      "youtubeId": "UwTnUpDuwGg"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/57QbQ1ejOYF4eNU9ymWt5e"
+}

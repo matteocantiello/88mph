@@ -1,0 +1,98 @@
+{
+  "country": "my",
+  "year": 2020,
+  "context": "Malaysia's 2020 pandemic year boosted streaming consumption dramatically. Khai Bahar and Siti Nordiana's viral duets dominated, while Hael Husaini and Dayang Nurfaizah represented a new generation of power vocalists. TikTok-driven hits gained traction alongside established Malay pop and a growing appetite for K-pop and Western streaming hits.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Lagu Kita",
+      "artist": "Khai Bahar & Siti Nordiana",
+      "youtubeId": "thbQfzT5-RU",
+      "spotifyUri": "spotify:track:1Xj4jPq4h1hFNfC3xsKDQt",
+      "spotifyUrl": "https://open.spotify.com/track/1Xj4jPq4h1hFNfC3xsKDQt",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ac7aeacc29f05b53a9cf57ab"
+    },
+    {
+      "rank": 2,
+      "title": "Hargai",
+      "artist": "Hael Husaini",
+      "youtubeId": "b3N6oI9Lnvc",
+      "spotifyUri": "spotify:track:6lBjHGf2bMn2YktJBNwi8I",
+      "spotifyUrl": "https://open.spotify.com/track/6lBjHGf2bMn2YktJBNwi8I",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02309e4bda5ef0a1c09ee8cb48"
+    },
+    {
+      "rank": 3,
+      "title": "Anta Permana",
+      "artist": "Dato' Sri Siti Nurhaliza",
+      "youtubeId": "hEhxsZ1vdos",
+      "spotifyUri": "spotify:track:5lr4DTs2cUZqFdFEnl9KqV",
+      "spotifyUrl": "https://open.spotify.com/track/5lr4DTs2cUZqFdFEnl9KqV",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02db46d0b450c9675fc39a5906"
+    },
+    {
+      "rank": 4,
+      "title": "Purnama Merindu",
+      "artist": "Dato' Sri Siti Nurhaliza",
+      "youtubeId": "2CiYeadIbPo",
+      "spotifyUri": "spotify:track:5XvA9FrzIFGkMSlWt206jZ",
+      "spotifyUrl": "https://open.spotify.com/track/5XvA9FrzIFGkMSlWt206jZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a1f2b6a165ae41c581a8594e"
+    },
+    {
+      "rank": 5,
+      "title": "Dynamite",
+      "artist": "BTS",
+      "youtubeId": "HaEYUJ2aRHs",
+      "spotifyUri": "spotify:track:5QDLhrAOJJdNAmCTJ8xMyW",
+      "spotifyUrl": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c07d5d2fdc02ae252fcd07e5"
+    },
+    {
+      "rank": 6,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "youtubeId": "J7p4bzqLvCw",
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36"
+    },
+    {
+      "rank": 7,
+      "title": "Tepi Sikit",
+      "artist": "Khai Bahar",
+      "youtubeId": "YNjO6g_QkF4",
+      "spotifyUri": "spotify:track:27Bk1FtbmttzwZhJFcSB06",
+      "spotifyUrl": "https://open.spotify.com/track/27Bk1FtbmttzwZhJFcSB06",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cc29045f8c2dc2547ad63eb6"
+    },
+    {
+      "rank": 8,
+      "title": "Cinta Hanya Sekali",
+      "artist": "Iqmal Haziq",
+      "youtubeId": "2EjHOt7a_Qs",
+      "spotifyUri": "spotify:track:03IiKIpdC3ILPbY7L1uri1",
+      "spotifyUrl": "https://open.spotify.com/track/03IiKIpdC3ILPbY7L1uri1",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0286c9802215dde2341f57b239"
+    },
+    {
+      "rank": 9,
+      "title": "Layar Impian",
+      "artist": "Akim & The Majistret",
+      "youtubeId": "LhQ5Hs2DL6A",
+      "spotifyUri": "spotify:track:1hZziLTIV72qhccuDVNLUz",
+      "spotifyUrl": "https://open.spotify.com/track/1hZziLTIV72qhccuDVNLUz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024ae8eab2438a0647b75a3d10"
+    },
+    {
+      "rank": 10,
+      "title": "Ikan dalam Kolam",
+      "artist": "Altimet feat. Siti Nordiana",
+      "youtubeId": "s5d885nBX-4",
+      "spotifyUri": "spotify:track:1564XM7NVoA0C68gxugKUK",
+      "spotifyUrl": "https://open.spotify.com/track/1564XM7NVoA0C68gxugKUK",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b880a4bdf516b576a669080d"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7Ai3F8fqau2zmpulS0ajmS"
+}

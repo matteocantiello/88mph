@@ -1,0 +1,98 @@
+{
+  "country": "my",
+  "year": 2000,
+  "context": "Malaysia's 2000 was the golden age of Malay pop, with Siti Nurhaliza reigning as the undisputed queen. The RIM (Recording Industry of Malaysia) charts tracked both Malay and international releases, and the local industry was thriving with rock kapak, pop ballads, and the early nasyid crossover movement led by Raihan.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Cindai",
+      "artist": "Siti Nurhaliza",
+      "youtubeId": "r8_x6XczCko",
+      "spotifyUri": "spotify:track:1frPBpX6txdpvVZEBmTlXn",
+      "spotifyUrl": "https://open.spotify.com/track/1frPBpX6txdpvVZEBmTlXn",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0237bbf6faf6d153f910c872e8"
+    },
+    {
+      "rank": 2,
+      "title": "Aku Cinta Padamu",
+      "artist": "Siti Nurhaliza",
+      "youtubeId": "FfN3RiAFIQo",
+      "spotifyUri": "spotify:track:7IsErGQbe4jnjBKLd2uGoq",
+      "spotifyUrl": "https://open.spotify.com/track/7IsErGQbe4jnjBKLd2uGoq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0208504dfe14087e53eb7f9b2f"
+    },
+    {
+      "rank": 3,
+      "title": "Puteri",
+      "artist": "Raihan",
+      "youtubeId": "raY346wyB8I",
+      "spotifyUri": "spotify:track:7l19mOJcnFJt1ZtpVwtb4L",
+      "spotifyUrl": "https://open.spotify.com/track/7l19mOJcnFJt1ZtpVwtb4L",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023ae89121e0d7488c6cc49d50"
+    },
+    {
+      "rank": 4,
+      "title": "Pejamkan Matamu",
+      "artist": "Malique feat. Siti Nurhaliza",
+      "youtubeId": "3Zy_EjJI14g",
+      "spotifyUri": "spotify:track:2ioYzfoZJRbJ8dy9veNqLo",
+      "spotifyUrl": "https://open.spotify.com/track/2ioYzfoZJRbJ8dy9veNqLo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0236ec2cd30e4eba59342cd864"
+    },
+    {
+      "rank": 5,
+      "title": "Sepi Sekuntum Mawar Merah",
+      "artist": "Exist",
+      "youtubeId": "u_EJKNznd7Q",
+      "spotifyUri": "spotify:track:3ykCO6ZNst1ADVmzHtKHWZ",
+      "spotifyUrl": "https://open.spotify.com/track/3ykCO6ZNst1ADVmzHtKHWZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fccadb2e92ba26305f4dacf7"
+    },
+    {
+      "rank": 6,
+      "title": "Joget Pahang",
+      "artist": "Siti Nurhaliza",
+      "youtubeId": "UcmTW2In0Wo",
+      "spotifyUri": "spotify:track:67LWjQW75gHvvofTVykJwG",
+      "spotifyUrl": "https://open.spotify.com/track/67LWjQW75gHvvofTVykJwG",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0237bbf6faf6d153f910c872e8"
+    },
+    {
+      "rank": 7,
+      "title": "Sembilu",
+      "artist": "Ella",
+      "youtubeId": "aDU-jYp0mcI",
+      "spotifyUri": "spotify:track:4mSrdNN00DC9t0rF41Qy93",
+      "spotifyUrl": "https://open.spotify.com/track/4mSrdNN00DC9t0rF41Qy93",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024bf92b5afce039deb9e9193d"
+    },
+    {
+      "rank": 8,
+      "title": "Kasih dan Sayang",
+      "artist": "Misha Omar",
+      "youtubeId": "hOUbI5r4fQU",
+      "spotifyUri": "spotify:track:5fWGiT0woSCuqP9Z7A1Ykw",
+      "spotifyUrl": "https://open.spotify.com/track/5fWGiT0woSCuqP9Z7A1Ykw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b10176c9b1c65e7f685197b3"
+    },
+    {
+      "rank": 9,
+      "title": "Demi Cinta",
+      "artist": "Kerispatih",
+      "youtubeId": "O9wqqT7-KI0",
+      "spotifyUri": "spotify:track:2SscarnRY3zdkORvPu9JGZ",
+      "spotifyUrl": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02899fb8089df3acdc70fc2459"
+    },
+    {
+      "rank": 10,
+      "title": "Hari Raya",
+      "artist": "P. Ramlee",
+      "youtubeId": "QJEHuzgmTWo",
+      "spotifyUri": "spotify:track:0SRAGnhky22X537slARFTK",
+      "spotifyUrl": "https://open.spotify.com/track/0SRAGnhky22X537slARFTK",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020f526e384442239574cbcc73"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5o199GZlMS8alMKWPXMzbd"
+}

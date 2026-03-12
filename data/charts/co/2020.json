@@ -1,0 +1,108 @@
+{
+  "country": "co",
+  "year": 2020,
+  "context": "The pandemic year in Colombia was soundtracked by reggaeton and Latin trap. Karol G's 'Tusa' with Nicki Minaj became a global phenomenon, Maluma's 'Hawái' dominated streaming, and Bad Bunny's YHLQMDLG tracks were inescapable. Colombian artists led the Latin urban explosion, with Medellín firmly established as the reggaeton capital.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tusa",
+      "artist": "Karol G feat. Nicki Minaj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ddd3154c58e15a8bdb63bbcc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7k4t7uLgtOxPwTpFmtJNTY",
+      "spotifyUrl": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY",
+      "youtubeId": "SRkr9PyBBuU"
+    },
+    {
+      "rank": 2,
+      "title": "Hawái",
+      "artist": "Maluma",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02079fb6c5ba37dc11d66ce1e2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1yoMvmasuxZfqHEipJhRbp",
+      "spotifyUrl": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp",
+      "youtubeId": "n_2ZYU72BYQ"
+    },
+    {
+      "rank": 3,
+      "title": "Caramelo",
+      "artist": "Ozuna",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b1717c201d31ad8e43dedc55",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:67jvGGbJmOmVonlyX3mNkV",
+      "spotifyUrl": "https://open.spotify.com/track/67jvGGbJmOmVonlyX3mNkV",
+      "youtubeId": "KilybZma5vY"
+    },
+    {
+      "rank": 4,
+      "title": "Yo Perreo Sola",
+      "artist": "Bad Bunny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0SqqAgdovOE24BzxIClpjw",
+      "spotifyUrl": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw",
+      "youtubeId": "iFuqjC-LiH8"
+    },
+    {
+      "rank": 5,
+      "title": "Relación",
+      "artist": "Sech",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263d74fcb3aaafe8c16e62f9b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:35UUpTmrcFXNIVIN26ujXl",
+      "spotifyUrl": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl",
+      "youtubeId": "sijiZyndvtc"
+    },
+    {
+      "rank": 6,
+      "title": "Dákiti",
+      "artist": "Bad Bunny & Jhay Cortez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0234c8199b0b3b3fb42b8a98a8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:47EiUVwUp4C9fGccaPuUCS",
+      "spotifyUrl": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS",
+      "youtubeId": "2x9aY0QJR04"
+    },
+    {
+      "rank": 7,
+      "title": "Bichota",
+      "artist": "Karol G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae28c8f2748587cc2a33d6c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1WvrDdouh6C51In1SdATbq",
+      "spotifyUrl": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq",
+      "youtubeId": "_SaLUxtCIuI"
+    },
+    {
+      "rank": 8,
+      "title": "Safaera",
+      "artist": "Bad Bunny feat. Jowell & Randy & Ñengo Flow",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028b163aee2880871e23e70573",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3N80T8M05b18AWhYFGI2pT",
+      "spotifyUrl": "https://open.spotify.com/track/3N80T8M05b18AWhYFGI2pT",
+      "youtubeId": "StOcfVeaZ60"
+    },
+    {
+      "rank": 9,
+      "title": "La Tóxica",
+      "artist": "Farruko",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026ea9ad41b1e353f1feebd0c0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:15OjBeqNX3bShsGYQbteRv",
+      "spotifyUrl": "https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv",
+      "youtubeId": "UUjeCOdnnQM"
+    },
+    {
+      "rank": 10,
+      "title": "Ay, DiOs Mío!",
+      "artist": "Karol G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae28c8f2748587cc2a33d6c2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1beTDCe7sT7fzm8WIKXicz",
+      "spotifyUrl": "https://open.spotify.com/track/1beTDCe7sT7fzm8WIKXicz",
+      "youtubeId": "63VIpd19Tos"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3czIWUEemjixBl6FFZqHbP"
+}

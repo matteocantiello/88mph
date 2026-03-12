@@ -1,0 +1,108 @@
+{
+  "country": "ar",
+  "year": 2005,
+  "context": "Post-crisis Argentina saw its music scene rebuild with fierce creative energy. Gustavo Cerati's solo career soared, Miranda! brought synth-pop glamour, and cumbia villera remained a cultural force. International reggaeton hits like 'Gasolina' were penetrating Argentine radio alongside the dominant rock nacional scene.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Crimen",
+      "artist": "Gustavo Cerati",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d543f7c7de880da5370922c0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3oqWr0jDWNXxWufNogGREp",
+      "spotifyUrl": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp",
+      "youtubeId": "YVXNPPdh6wE"
+    },
+    {
+      "rank": 2,
+      "title": "Don",
+      "artist": "Miranda!",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0241ca8a8fdfcce2d6ff7f2d05",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0WajUW5XINeraP2w0F3F8E",
+      "spotifyUrl": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E",
+      "youtubeId": "32DOcN9A0TQ"
+    },
+    {
+      "rank": 3,
+      "title": "Persiana Americana",
+      "artist": "Soda Stereo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7JZP7kQsuFFWOrtAI7uNiW",
+      "spotifyUrl": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW",
+      "youtubeId": "Z3L5M7GHAkw"
+    },
+    {
+      "rank": 4,
+      "title": "Tratame Suavemente",
+      "artist": "Soda Stereo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028fd9b16eb6bdd20c95717258",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:65DBZofI0b79kfHTcWWDuU",
+      "spotifyUrl": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU",
+      "youtubeId": "VbFfuHxyGEI"
+    },
+    {
+      "rank": 5,
+      "title": "Yo No Quiero Volverme Tan Loco",
+      "artist": "Charly García",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02209f16b555132048defda48a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:68LeIVjVDRMXPlfdFHhID6",
+      "spotifyUrl": "https://open.spotify.com/track/68LeIVjVDRMXPlfdFHhID6",
+      "youtubeId": "8XXGMzGKWfs"
+    },
+    {
+      "rank": 6,
+      "title": "Gasolina",
+      "artist": "Daddy Yankee",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5YoITs1m0q8UOQ4AW7N5ga",
+      "spotifyUrl": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga",
+      "youtubeId": "2djj_KnGwjk"
+    },
+    {
+      "rank": 7,
+      "title": "Adiós",
+      "artist": "Gustavo Cerati",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d543f7c7de880da5370922c0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1rh4kDY9T4fHVDum8Foi5k",
+      "spotifyUrl": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k",
+      "youtubeId": "217Bw85-5cw"
+    },
+    {
+      "rank": 8,
+      "title": "Enamorada Vía Internet",
+      "artist": "Los Caligaris",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d40c6088a66f5397aa397649",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2LojOTCV3KiolvhHRVSMpb",
+      "spotifyUrl": "https://open.spotify.com/track/2LojOTCV3KiolvhHRVSMpb",
+      "youtubeId": "LMY0FxpJPvk"
+    },
+    {
+      "rank": 9,
+      "title": "El Sensei",
+      "artist": "Bersuit Vergarabat",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024088617e750f6f13d036a70b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7cLvOmqVoZHdjqrIYKOOjH",
+      "spotifyUrl": "https://open.spotify.com/track/7cLvOmqVoZHdjqrIYKOOjH",
+      "youtubeId": "rzsJaYPz6GY"
+    },
+    {
+      "rank": 10,
+      "title": "La Tortura",
+      "artist": "Shakira feat. Alejandro Sanz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02afccde0243b5c750c07f6825",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:53AafWSzYsiJKnAtJTUB5f",
+      "spotifyUrl": "https://open.spotify.com/track/53AafWSzYsiJKnAtJTUB5f",
+      "youtubeId": "GdgiSOHcswI"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2BFxifRdjuzqgsnePeshTC"
+}

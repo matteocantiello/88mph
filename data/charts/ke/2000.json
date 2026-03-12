@@ -1,0 +1,108 @@
+{
+  "country": "ke",
+  "year": 2000,
+  "context": "The year 2000 marked the dawn of Kenya's urban music revolution, as Ogopa DJs and Blu Zebra Records began transforming Nairobi's soundscape. Benga veterans shared airwaves with a new wave of kapuka and hip-hop artists singing in Swahili and Sheng, with Nameless, Hardstone, Kalamashaka, and Necessary Noize pioneering a distinctly Kenyan pop identity.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Megarider",
+      "artist": "Nameless",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a99e19a5fbcdbee799676d4f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7umX9ZZEoUgvVnM16FiJwo",
+      "spotifyUrl": "https://open.spotify.com/track/7umX9ZZEoUgvVnM16FiJwo",
+      "youtubeId": "Ji1EtgrV3w8"
+    },
+    {
+      "rank": 2,
+      "title": "Uhiki",
+      "artist": "Hardstone",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cafedb773829eda0246c0aa1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:69Kseb9euWiUgIOgFRZZM0",
+      "spotifyUrl": "https://open.spotify.com/track/69Kseb9euWiUgIOgFRZZM0",
+      "youtubeId": "jQVrWCfDgdM"
+    },
+    {
+      "rank": 3,
+      "title": "Fanya Mambo",
+      "artist": "Kalamashaka",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a8325c48e1f3b8a3f48b1f29",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0sTDDpkm6UUaG8zUNhRD3X",
+      "spotifyUrl": "https://open.spotify.com/track/0sTDDpkm6UUaG8zUNhRD3X",
+      "youtubeId": "Y6W8nT96R2k"
+    },
+    {
+      "rank": 4,
+      "title": "Vuta Pumz",
+      "artist": "Longombas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022bea025c95cfba8e9ca387b5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6qmMT0kCQhje5i6QDMSy0I",
+      "spotifyUrl": "https://open.spotify.com/track/6qmMT0kCQhje5i6QDMSy0I",
+      "youtubeId": "LcO1AwEP2Yo"
+    },
+    {
+      "rank": 5,
+      "title": "Bring Back the Noize",
+      "artist": "Necessary Noize",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0246385ea1d5f82da45e3cd6fe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:37EA1zjPlie74fNjnoADGv",
+      "spotifyUrl": "https://open.spotify.com/track/37EA1zjPlie74fNjnoADGv",
+      "youtubeId": "6Vgk3j3Ombs"
+    },
+    {
+      "rank": 6,
+      "title": "Ting Badi Malo",
+      "artist": "Kleptomaniax",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02113dd7d198b005d0c70b6e76",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1W2OJOhdkKGoIJPrG75sv6",
+      "spotifyUrl": "https://open.spotify.com/track/1W2OJOhdkKGoIJPrG75sv6",
+      "youtubeId": "NJ-BE8C5z8U"
+    },
+    {
+      "rank": 7,
+      "title": "Haiwi Haiwi",
+      "artist": "Kalamashaka",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f1909982453f35bb6ee1b33d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2SNo5wyDBUU7Op1Vz3paVX",
+      "spotifyUrl": "https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX",
+      "youtubeId": "pujKOJbWWKM"
+    },
+    {
+      "rank": 8,
+      "title": "Kinyaunyau",
+      "artist": "Deux Vultures",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0204a2bc0e349bba45f7558da9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3h2NFjoT148gEnaF0g2Lqv",
+      "spotifyUrl": "https://open.spotify.com/track/3h2NFjoT148gEnaF0g2Lqv",
+      "youtubeId": "TOk_-3a_zcM"
+    },
+    {
+      "rank": 9,
+      "title": "Safari",
+      "artist": "Redsan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02563fc68bce784fdd93b6266f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1p7R83taQlEXcw1nxSVLCX",
+      "spotifyUrl": "https://open.spotify.com/track/1p7R83taQlEXcw1nxSVLCX",
+      "youtubeId": "v--Y0e2VvBk"
+    },
+    {
+      "rank": 10,
+      "title": "Jambo Bwana",
+      "artist": "Them Mushrooms",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0241717edbb24d6f1d48b2db33",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:128biMHYU0Yw6l5dba7a3o",
+      "spotifyUrl": "https://open.spotify.com/track/128biMHYU0Yw6l5dba7a3o",
+      "youtubeId": "myHtJS5YZtI"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/25pKGid8qaIqgC7QzTt0Bt"
+}

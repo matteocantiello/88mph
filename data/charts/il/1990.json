@@ -1,0 +1,104 @@
+{
+  "country": "il",
+  "year": 1990,
+  "context": "Israel's 1990 saw the rise of Mediterranean pop and the continued mainstreaming of mizrahi music. Ofra Haza had achieved international fame, Yehuda Poliker explored Sephardic heritage through rock, and a new wave of Israeli pop-rock artists emerged as the country opened culturally after the first intifada period.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Im Nin'alu",
+      "artist": "Ofra Haza",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0281c9bc87b7e4e0721cfa7005",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5PomJFkGwOHkrk0Rfs2DnH",
+      "spotifyUrl": "https://open.spotify.com/track/5PomJFkGwOHkrk0Rfs2DnH",
+      "youtubeId": "U3aBl8EVtgc"
+    },
+    {
+      "rank": 2,
+      "title": "Eize Makom Nifla",
+      "artist": "Shlomo Artzi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0201f29cb95808086322951517",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2gK92y6pVz6ygq8Fc7N2xL",
+      "spotifyUrl": "https://open.spotify.com/track/2gK92y6pVz6ygq8Fc7N2xL"
+    },
+    {
+      "rank": 3,
+      "title": "Ashes and Dust",
+      "artist": "Yehuda Poliker",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022abcc266597eb46f897a8666",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:63mdJr3NMY3wReOkNE6c6W",
+      "spotifyUrl": "https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W",
+      "youtubeId": "ZsMZXrxTvzc"
+    },
+    {
+      "rank": 4,
+      "title": "Shir Ahava Bedoui",
+      "artist": "Ethnix",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027939228387911a9e4ae50afc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Z06MCWoUTq520YjxU4MCE",
+      "spotifyUrl": "https://open.spotify.com/track/3Z06MCWoUTq520YjxU4MCE",
+      "youtubeId": "5wBRakgM71E"
+    },
+    {
+      "rank": 5,
+      "title": "Hageshem",
+      "artist": "Rita",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02811d18f6997df5409c93cdb3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:05fmjmDag1xjIcIxuissuG",
+      "spotifyUrl": "https://open.spotify.com/track/05fmjmDag1xjIcIxuissuG",
+      "youtubeId": "xpKiMc0T6CI"
+    },
+    {
+      "rank": 6,
+      "title": "Galbi",
+      "artist": "Ofra Haza",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0281c9bc87b7e4e0721cfa7005",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:66I1EYIFwfrqvn3dm6jaaE",
+      "spotifyUrl": "https://open.spotify.com/track/66I1EYIFwfrqvn3dm6jaaE",
+      "youtubeId": "0T8ZvQICRls"
+    },
+    {
+      "rank": 7,
+      "title": "Af Echad Lo Yavin Oti",
+      "artist": "Shlomo Artzi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0278df3bc161b06e6dc4c22128",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0UJCL5ood5gVvb6R4gfHmA",
+      "spotifyUrl": "https://open.spotify.com/track/0UJCL5ood5gVvb6R4gfHmA"
+    },
+    {
+      "rank": 8,
+      "title": "Holech Stam",
+      "artist": "Mashina",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d9984dbb334a632dba7f5191",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Caz0hqWWW46aBWMDxgmm1",
+      "spotifyUrl": "https://open.spotify.com/track/0Caz0hqWWW46aBWMDxgmm1"
+    },
+    {
+      "rank": 9,
+      "title": "Diva",
+      "artist": "Dana International",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020e3d0c03490ab7549192c937",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5g4rGXAdV7dYKGPmrUQ3ge",
+      "spotifyUrl": "https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge",
+      "youtubeId": "Hix1p6JT8Js"
+    },
+    {
+      "rank": 10,
+      "title": "Le'orech Ha'Yam",
+      "artist": "Ethnix",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021e0000b0470d637e969d93e4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0LyCqoe8ttQPmF8MRf1NGt",
+      "spotifyUrl": "https://open.spotify.com/track/0LyCqoe8ttQPmF8MRf1NGt"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5wuR9C7vv1gbhS9gXtkSUu"
+}

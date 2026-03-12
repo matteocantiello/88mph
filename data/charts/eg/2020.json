@@ -1,0 +1,107 @@
+{
+  "country": "eg",
+  "year": 2020,
+  "context": "2020 marked a seismic shift in Egyptian music as hip-hop and mahraganat dominated Spotify streams, dethroning legacy pop stars. Rapper Wegz became Egypt's most-streamed artist with five songs in the top charts, while Marwan Moussa and Abyusif cemented Egyptian rap's mainstream breakout. Amr Diab's album 'Sahran' remained the top-selling album, bridging generations.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Dorak Gai",
+      "artist": "Wegz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026e7afb3b8e2eb6c68fdeb870",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:51D1H2MNTGlqukyCl6dFck",
+      "spotifyUrl": "https://open.spotify.com/track/51D1H2MNTGlqukyCl6dFck",
+      "youtubeId": "4BUT7OmhYtk"
+    },
+    {
+      "rank": 2,
+      "title": "Wahd Wa Eshrin",
+      "artist": "Wegz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b6d1c94ae63194a3ba470af2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0eSENUPI9OKseZRzli8QXS",
+      "spotifyUrl": "https://open.spotify.com/track/0eSENUPI9OKseZRzli8QXS",
+      "youtubeId": "WwB5w-Rt88k"
+    },
+    {
+      "rank": 3,
+      "title": "Sheraton",
+      "artist": "Marwan Moussa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025694c41ad66455d4697d19fe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4GwuSF1seUh9LpJd7yee7y",
+      "spotifyUrl": "https://open.spotify.com/track/4GwuSF1seUh9LpJd7yee7y",
+      "youtubeId": "DFKT8czqYQU"
+    },
+    {
+      "rank": 4,
+      "title": "El Ghasala",
+      "artist": "Wegz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ebcd257c221f01d19eed1a4a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4GcEzW65Yr0bFVqozWcgPH",
+      "spotifyUrl": "https://open.spotify.com/track/4GcEzW65Yr0bFVqozWcgPH",
+      "youtubeId": "NHmkDpcW1as"
+    },
+    {
+      "rank": 5,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02931a1c33d7850f20ee23a5e1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2N8m6CYs74qQO4mjVcXO30",
+      "spotifyUrl": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30",
+      "youtubeId": "Hx4nWW9z0ig"
+    },
+    {
+      "rank": 6,
+      "title": "Millionaire",
+      "artist": "El Madfaagya",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240a4e80e75d14a2dfbca51d1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7vuO4IR9VCoXa1NvlgOISv",
+      "spotifyUrl": "https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv",
+      "youtubeId": "mZQ3En2HqJE"
+    },
+    {
+      "rank": 7,
+      "title": "Sogaro",
+      "artist": "Afroto",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0204333546db0f23ba6a519e51",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:09L4TxCTEejAip0Nie0Cua",
+      "spotifyUrl": "https://open.spotify.com/track/09L4TxCTEejAip0Nie0Cua",
+      "youtubeId": "_rCvjfk65SY"
+    },
+    {
+      "rank": 8,
+      "title": "Roses (Remix)",
+      "artist": "Imanbek & SAINt JHN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028e51ad44471425be0ddcc6a0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:72GVdRHK49beKrC1NqRCqj",
+      "spotifyUrl": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj",
+      "youtubeId": "t0aXItJPodE"
+    },
+    {
+      "rank": 9,
+      "title": "Denamet",
+      "artist": "Molotof",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0216dc2ac08cd144ce84378024",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5arfoRuIEliMiCRZt7CFkA",
+      "spotifyUrl": "https://open.spotify.com/track/5arfoRuIEliMiCRZt7CFkA",
+      "youtubeId": "sIJ6_pE71Sg"
+    },
+    {
+      "rank": 10,
+      "title": "Mahragan Hala Wallah",
+      "artist": "Abu Lila, Hamo Bika & Shabah El Koun",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e1c9f12fd1a957b7f8954bf9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2vSLxBSZoK0eha4AuhZlXV",
+      "spotifyUrl": "https://open.spotify.com/track/2vSLxBSZoK0eha4AuhZlXV"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3ZF4ctzfQo54Av4di14Mzq"
+}

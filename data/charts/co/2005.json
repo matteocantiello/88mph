@@ -1,0 +1,108 @@
+{
+  "country": "co",
+  "year": 2005,
+  "context": "2005 was a landmark year for Colombian music on the global stage. Shakira's 'La Tortura' with Alejandro Sanz and Juanes' 'La Camisa Negra' became massive international hits, both reaching No. 1 on Billboard's Hot Latin Songs. Reggaeton was beginning to infiltrate Colombian radio alongside the dominant tropipop and vallenato sounds.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "La Tortura",
+      "artist": "Shakira feat. Alejandro Sanz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02afccde0243b5c750c07f6825",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:53AafWSzYsiJKnAtJTUB5f",
+      "spotifyUrl": "https://open.spotify.com/track/53AafWSzYsiJKnAtJTUB5f",
+      "youtubeId": "GdgiSOHcswI"
+    },
+    {
+      "rank": 2,
+      "title": "La Camisa Negra",
+      "artist": "Juanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c091c40987e92a9256d2f210",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2EM9zpAc7PVeoAydmbfVIL",
+      "spotifyUrl": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL",
+      "youtubeId": "7fwUH0oRmkQ"
+    },
+    {
+      "rank": 3,
+      "title": "Nada Valgo Sin Tu Amor",
+      "artist": "Juanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c091c40987e92a9256d2f210",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6QdwofpqDvvNxX88C9A0iQ",
+      "spotifyUrl": "https://open.spotify.com/track/6QdwofpqDvvNxX88C9A0iQ",
+      "youtubeId": "CM2nA0zZQ54"
+    },
+    {
+      "rank": 4,
+      "title": "No",
+      "artist": "Shakira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0285432abc16fd92be0d435cb9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3d0WouFnFmr0K3kjeza3fF",
+      "spotifyUrl": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF",
+      "youtubeId": "Mykt8yAr_r0"
+    },
+    {
+      "rank": 5,
+      "title": "Te Mando Flores",
+      "artist": "Fonseca",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b3d9283abdcab894aea11d05",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2in1gSZtv2lRbcZUmN9aAl",
+      "spotifyUrl": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl",
+      "youtubeId": "6tNFByx9Bq8"
+    },
+    {
+      "rank": 6,
+      "title": "Tu con El",
+      "artist": "Frank Reyes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028691ddab54df688047af5b30",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1F1xe9LCAU0zlP1vo7gY0R",
+      "spotifyUrl": "https://open.spotify.com/track/1F1xe9LCAU0zlP1vo7gY0R",
+      "youtubeId": "aG7isTnrqbY"
+    },
+    {
+      "rank": 7,
+      "title": "Gasolina",
+      "artist": "Daddy Yankee",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5YoITs1m0q8UOQ4AW7N5ga",
+      "spotifyUrl": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga",
+      "youtubeId": "2djj_KnGwjk"
+    },
+    {
+      "rank": 8,
+      "title": "Día de Enero",
+      "artist": "Shakira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02afccde0243b5c750c07f6825",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2u24GtkbktY3HB3souJdNY",
+      "spotifyUrl": "https://open.spotify.com/track/2u24GtkbktY3HB3souJdNY",
+      "youtubeId": "UVbaQ65Qh4g"
+    },
+    {
+      "rank": 9,
+      "title": "Lo Que Hago Por Tu Amor",
+      "artist": "Silvestre Dangond & Juancho de la Espriella",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0274cbfd80214591b3720e8250",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5T2P1coKuUoCwN6PR6ihF5",
+      "spotifyUrl": "https://open.spotify.com/track/5T2P1coKuUoCwN6PR6ihF5",
+      "youtubeId": "TMhcZBazYDk"
+    },
+    {
+      "rank": 10,
+      "title": "Para Tu Amor",
+      "artist": "Juanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c091c40987e92a9256d2f210",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2quTytCTP9kKLvpveyO1mt",
+      "spotifyUrl": "https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt",
+      "youtubeId": "GLfn_Y3wI20"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5MMo1Kc6jine50zk28R2EN"
+}

@@ -1,0 +1,108 @@
+{
+  "country": "ke",
+  "year": 2020,
+  "context": "The year 2020 saw gengetone — the raw, Sheng-laced street sound born from Ethic Entertainment's 2018 breakthrough — reach peak mainstream saturation, while Sauti Sol remained dominant with their 'Midnight Train' album. The pandemic amplified digital music consumption, with TikTok propelling Femi One's 'Utawezana' to viral fame.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Utawezana",
+      "artist": "Femi One feat. Mejja",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028ebcd26b51bc7646c62a49b7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:10ba6KRxkyQE70RnfP6rEY",
+      "spotifyUrl": "https://open.spotify.com/track/10ba6KRxkyQE70RnfP6rEY",
+      "youtubeId": "rDMfiwonOcI"
+    },
+    {
+      "rank": 2,
+      "title": "Suzanna",
+      "artist": "Sauti Sol",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f0aabc547215e3e84b1cc9f3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4CpkKi23V5U6fd419XNQnG",
+      "spotifyUrl": "https://open.spotify.com/track/4CpkKi23V5U6fd419XNQnG",
+      "youtubeId": "KNEd-OkExKY"
+    },
+    {
+      "rank": 3,
+      "title": "Yes Bana",
+      "artist": "Khaligraph Jones feat. Bien",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cf578c0444198cd2e5e1bcaf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3mu4z2mdPAYDQkObbO1t74",
+      "spotifyUrl": "https://open.spotify.com/track/3mu4z2mdPAYDQkObbO1t74",
+      "youtubeId": "AHxPX_7MZBQ"
+    },
+    {
+      "rank": 4,
+      "title": "Toto",
+      "artist": "Arrow Bwoy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f505c7fce88a080843cfd967",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1AxeashNOmhMpxbfiAqtzP",
+      "spotifyUrl": "https://open.spotify.com/track/1AxeashNOmhMpxbfiAqtzP",
+      "youtubeId": "80FSkT_I_BI"
+    },
+    {
+      "rank": 5,
+      "title": "La Vie",
+      "artist": "Tanasha Donna feat. Mbosso",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029799acdd5685fd2769005d08",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2nEWD8N6hX1fYjjmIRqo4j",
+      "spotifyUrl": "https://open.spotify.com/track/2nEWD8N6hX1fYjjmIRqo4j",
+      "youtubeId": "DNXhsx-W4ds"
+    },
+    {
+      "rank": 6,
+      "title": "Brighter Days",
+      "artist": "Sauti Sol feat. Soweto Gospel Choir",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022746d52d5c22230aefe79884",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5qFDlKHNb0v68YSghSY4GK",
+      "spotifyUrl": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK",
+      "youtubeId": "JBWwZsPupOY"
+    },
+    {
+      "rank": 7,
+      "title": "Jipe",
+      "artist": "Nadia Mukami feat. Marioo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024cf635b745797bdeb3556209",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0ffZ6feYQfD2xVxL6iqk7B",
+      "spotifyUrl": "https://open.spotify.com/track/0ffZ6feYQfD2xVxL6iqk7B",
+      "youtubeId": "nX0FsICVia4"
+    },
+    {
+      "rank": 8,
+      "title": "Gere",
+      "artist": "Tanasha Donna feat. Diamond Platnumz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028287b26a339c7add1df57550",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3p7O0iw0xZ9TgI9c9QAoC2",
+      "spotifyUrl": "https://open.spotify.com/track/3p7O0iw0xZ9TgI9c9QAoC2",
+      "youtubeId": "gcr2gvKBXQk"
+    },
+    {
+      "rank": 9,
+      "title": "Hao",
+      "artist": "Khaligraph Jones feat. Masauti",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020e42be7d2b55532e619a2312",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6HgHSY6MqdGoj3a6fpa780",
+      "spotifyUrl": "https://open.spotify.com/track/6HgHSY6MqdGoj3a6fpa780",
+      "youtubeId": "pFkvj0544fU"
+    },
+    {
+      "rank": 10,
+      "title": "Nikune",
+      "artist": "Willy Paul feat. Nadia Mukami",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02914f15b95917c1e5c622b819",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0GD76KTIjZbwQEJ1j0KP90",
+      "spotifyUrl": "https://open.spotify.com/track/0GD76KTIjZbwQEJ1j0KP90",
+      "youtubeId": "sTq7aJwSt3k"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7Fv1PVPfThvoN8BudQ0JLG"
+}

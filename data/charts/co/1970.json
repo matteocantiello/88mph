@@ -1,0 +1,108 @@
+{
+  "country": "co",
+  "year": 1970,
+  "context": "Colombia's 1970 was the golden age of cumbia and tropical music, dominated by the legendary Discos Fuentes label. Groups like Los Corraleros de Majagual, Los Hispanos, Los Graduados, and Afrosound defined the era, blending cumbia, porro, and guaracha with early funk and psychedelic influences.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "La Pelea del Siglo",
+      "artist": "Gustavo 'El Loco' Quintero y Los Graduados",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026a7abcda206621135d0491c3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1LkDyC3wiHt5fk4u7Kuru3",
+      "spotifyUrl": "https://open.spotify.com/track/1LkDyC3wiHt5fk4u7Kuru3",
+      "youtubeId": "ZrIL7v122tU"
+    },
+    {
+      "rank": 2,
+      "title": "Los Sabanales",
+      "artist": "Los Corraleros de Majagual",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0252d7ef8b3720778988ec4997",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1CkC4DWgPvj4eEMgxcs0me",
+      "spotifyUrl": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me",
+      "youtubeId": "JIiDuJ1Reco"
+    },
+    {
+      "rank": 3,
+      "title": "Adonay",
+      "artist": "Los Hispanos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0217f99499c00a713e4bc0c0cc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6aMhENDm72fgzbg3HkGExn",
+      "spotifyUrl": "https://open.spotify.com/track/6aMhENDm72fgzbg3HkGExn",
+      "youtubeId": "Jmfttqjhm4g"
+    },
+    {
+      "rank": 4,
+      "title": "Cumbia Cienaguera",
+      "artist": "Luis Enrique Martínez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026089f6e9cccc915f357c9893",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:23n8pxuErYqzUkW8qVciom",
+      "spotifyUrl": "https://open.spotify.com/track/23n8pxuErYqzUkW8qVciom",
+      "youtubeId": "KmCbno8yyoQ"
+    },
+    {
+      "rank": 5,
+      "title": "La Colegiala",
+      "artist": "Rodolfo Aicardi y Su Típica RA7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02785e7afdd3ace78e1df598fa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7jZmi57RVJazoWKZjDK0qe",
+      "spotifyUrl": "https://open.spotify.com/track/7jZmi57RVJazoWKZjDK0qe",
+      "youtubeId": "UuYDNIBcLpQ"
+    },
+    {
+      "rank": 6,
+      "title": "Yo Me Llamo Cumbia",
+      "artist": "Los Corraleros de Majagual",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027dc746f61d59cfaf450d21fe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4rqkjJFcEQ0kUaOAtSwgif",
+      "spotifyUrl": "https://open.spotify.com/track/4rqkjJFcEQ0kUaOAtSwgif",
+      "youtubeId": "0pmnA1qLXTo"
+    },
+    {
+      "rank": 7,
+      "title": "Cariñito de Mi Vida",
+      "artist": "Los Graduados",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a5779a2f04a513fac2fd1d15",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3V8UKqhEK5zBkBb6d6ub8i",
+      "spotifyUrl": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i",
+      "youtubeId": "O3HG4o-PU0M"
+    },
+    {
+      "rank": 8,
+      "title": "Festival en Guararé",
+      "artist": "Los Corraleros de Majagual",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0200b0955cdf5e161406a04ae6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7tVw5GcH0ZL29FkTdLexhI",
+      "spotifyUrl": "https://open.spotify.com/track/7tVw5GcH0ZL29FkTdLexhI",
+      "youtubeId": "pCOp7eV5yRc"
+    },
+    {
+      "rank": 9,
+      "title": "Honolulu",
+      "artist": "Romancito y Su Combo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02203c126433fb997c2827af9b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:74LShhmHGvU2YGDgWUWxtH",
+      "spotifyUrl": "https://open.spotify.com/track/74LShhmHGvU2YGDgWUWxtH",
+      "youtubeId": "YGwoD9PNffA"
+    },
+    {
+      "rank": 10,
+      "title": "Tesura",
+      "artist": "Fruko y Sus Tesos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02feb63e7156c5f0a83dbd0756",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0b9gi2CZCB32OOGxnkTnKE",
+      "spotifyUrl": "https://open.spotify.com/track/0b9gi2CZCB32OOGxnkTnKE",
+      "youtubeId": "Sy3IcUChQSQ"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/01iCmtPLekswfMpEa9VcOA"
+}

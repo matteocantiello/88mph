@@ -1,0 +1,98 @@
+{
+  "country": "my",
+  "year": 2005,
+  "context": "Malaysia's 2005 saw the Akademi Fantasia phenomenon reshape the pop landscape, producing stars like Mawi and Felix. Siti Nurhaliza remained dominant, while the rivalry between reality TV graduates energized the industry. Rock kapak legend Wings and pop acts like Ning Baizura competed for radio supremacy alongside the new talent show graduates.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Aduh Saliha",
+      "artist": "Mawi",
+      "youtubeId": "8xXoos36Mw8",
+      "spotifyUri": "spotify:track:14BCWJMdXTWPXt4nqp5YGz",
+      "spotifyUrl": "https://open.spotify.com/track/14BCWJMdXTWPXt4nqp5YGz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027c67b70b77eef26694ff8865"
+    },
+    {
+      "rank": 2,
+      "title": "Al-Amin",
+      "artist": "Mawi",
+      "youtubeId": "uTlJzRiNwis",
+      "spotifyUri": "spotify:track:0VNJoaS9Nc8xkSYj49xb4G",
+      "spotifyUrl": "https://open.spotify.com/track/0VNJoaS9Nc8xkSYj49xb4G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a51797fa943055fc6a1f021a"
+    },
+    {
+      "rank": 3,
+      "title": "Nirmala",
+      "artist": "Siti Nurhaliza",
+      "youtubeId": "q49FYNFxrzQ",
+      "spotifyUri": "spotify:track:3PAOUWSTKKbweCCVi58IDt",
+      "spotifyUrl": "https://open.spotify.com/track/3PAOUWSTKKbweCCVi58IDt",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024cd9a4680245fe4fbc5a5e30"
+    },
+    {
+      "rank": 4,
+      "title": "Aku Stacy",
+      "artist": "Stacy",
+      "youtubeId": "Cz8uL2MzZ9A",
+      "spotifyUri": "spotify:track:3sYNZunjmufbMF93n5yD7b",
+      "spotifyUrl": "https://open.spotify.com/track/3sYNZunjmufbMF93n5yD7b",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0299f835e4501eabb809344374"
+    },
+    {
+      "rank": 5,
+      "title": "Gemilang",
+      "artist": "Faizal Tahir",
+      "youtubeId": "vd87di7PTJE",
+      "spotifyUri": "spotify:track:176xH8tvkwhqXa2sEFUYlw",
+      "spotifyUrl": "https://open.spotify.com/track/176xH8tvkwhqXa2sEFUYlw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d4ca8beefba417fdf71a4be1"
+    },
+    {
+      "rank": 6,
+      "title": "Nanti",
+      "artist": "Dato' Siti Nurhaliza",
+      "youtubeId": "ndTsrTcqfII",
+      "spotifyUri": "spotify:track:7qf9r2CuRXyskGOqx2Smen",
+      "spotifyUrl": "https://open.spotify.com/track/7qf9r2CuRXyskGOqx2Smen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ccaa7087a6a91ad258f7c041"
+    },
+    {
+      "rank": 7,
+      "title": "Belenggu",
+      "artist": "Wings",
+      "youtubeId": "Wrq6GMiT2uY",
+      "spotifyUri": "spotify:track:3WPPinzgaC21mNMgakCNEX",
+      "spotifyUrl": "https://open.spotify.com/track/3WPPinzgaC21mNMgakCNEX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c60de699c67d63de6c8dafd0"
+    },
+    {
+      "rank": 8,
+      "title": "Cinta Arjuna",
+      "artist": "Ning Baizura",
+      "youtubeId": "311rqZXw1KI",
+      "spotifyUri": "spotify:track:2mgdug637qkbLmHA3PH6JZ",
+      "spotifyUrl": "https://open.spotify.com/track/2mgdug637qkbLmHA3PH6JZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023c887f5ada1d0c900ca12cb2"
+    },
+    {
+      "rank": 9,
+      "title": "Anggerik",
+      "artist": "Ziana Zain",
+      "youtubeId": "144Tgm13Rzo",
+      "spotifyUri": "spotify:track:75o6H0SX2JmdFklVj6dEDX",
+      "spotifyUrl": "https://open.spotify.com/track/75o6H0SX2JmdFklVj6dEDX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02891d52e0cd384cd645628152"
+    },
+    {
+      "rank": 10,
+      "title": "Khilaf",
+      "artist": "Misha Omar",
+      "youtubeId": "VCI_fW3zs3o",
+      "spotifyUri": "spotify:track:1FW4swNEymgzOzSq6kgs32",
+      "spotifyUrl": "https://open.spotify.com/track/1FW4swNEymgzOzSq6kgs32",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027f2a65b00c3b8395ff3b77a1"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7s2QIewtG2GobCjm9mY2dh"
+}

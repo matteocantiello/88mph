@@ -1,0 +1,98 @@
+{
+  "country": "ph",
+  "year": 2025,
+  "context": "The Philippines in 2025 saw P-pop reach new heights with SB19's continued dominance and the rise of BINI as a major girl group. OPM artists like Ben&Ben and Zack Tabudlo maintained strong streaming numbers alongside K-pop and Western pop. The Filipino music industry increasingly competed on the international stage.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Pantropiko",
+      "artist": "BINI",
+      "youtubeId": "L4KvD79RwbM",
+      "spotifyUri": "spotify:track:6Csrqur3IfnVp0EtHskjMw",
+      "spotifyUrl": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0295a69386806a14d1949bbb9c"
+    },
+    {
+      "rank": 2,
+      "title": "WYAT (Where You At)",
+      "artist": "SB19",
+      "youtubeId": "TgD3tAvxQUs",
+      "spotifyUri": "spotify:track:1AETKQIoTmDINUnQxpdg58",
+      "spotifyUrl": "https://open.spotify.com/track/1AETKQIoTmDINUnQxpdg58",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d7d44494a8090ecaa22986dd"
+    },
+    {
+      "rank": 3,
+      "title": "Pano",
+      "artist": "Zack Tabudlo",
+      "youtubeId": "oXsal8_683M",
+      "spotifyUri": "spotify:track:08MFgEQeVLF37EyZ7jcwLc",
+      "spotifyUrl": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028c6111f0717dd3d85fdcbafd"
+    },
+    {
+      "rank": 4,
+      "title": "Habang Buhay",
+      "artist": "Zack Tabudlo",
+      "youtubeId": "OGL-L9Fycps",
+      "spotifyUri": "spotify:track:63bmIgH9sS6sX5Sc7MetGq",
+      "spotifyUrl": "https://open.spotify.com/track/63bmIgH9sS6sX5Sc7MetGq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020acfd1cc37e7d4eacfa49c48"
+    },
+    {
+      "rank": 5,
+      "title": "Dilaw",
+      "artist": "Maki",
+      "youtubeId": "cG_HkYeuZII",
+      "spotifyUri": "spotify:track:2ADSh3Mp744n2586tpUtIW",
+      "spotifyUrl": "https://open.spotify.com/track/2ADSh3Mp744n2586tpUtIW",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025d806ce0b1d16932a70aaf16"
+    },
+    {
+      "rank": 6,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "DiTd771WumE",
+      "spotifyUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+      "spotifyUrl": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0246085aa1855bd888abc51a5a"
+    },
+    {
+      "rank": 7,
+      "title": "Mundo",
+      "artist": "IV of Spades",
+      "youtubeId": "omFa4Yk9Fmg",
+      "spotifyUri": "spotify:track:61vyXXtY7OSYFRtSzv5ehw",
+      "spotifyUrl": "https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021aaed2d9bea791b5488e08a2"
+    },
+    {
+      "rank": 8,
+      "title": "Uhaw (Tayong Lahat)",
+      "artist": "Dilaw",
+      "youtubeId": "1s9hESyHwnM",
+      "spotifyUri": "spotify:track:47OFMuRu5lzJHRbtEXPBbs",
+      "spotifyUrl": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0297b30daa4d5614ca233e9ea3"
+    },
+    {
+      "rank": 9,
+      "title": "Karera",
+      "artist": "BINI",
+      "youtubeId": "QNV2DmBxChQ",
+      "spotifyUri": "spotify:track:6xfsvHFXr8GgRzaFAkmjAY",
+      "spotifyUrl": "https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023c8cf1ec61e1b3ab4ab3daeb"
+    },
+    {
+      "rank": 10,
+      "title": "Die With a Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "DlFXDl_ROAM",
+      "spotifyUri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5dy6KarGpxMaRoyvPSYFJO"
+}

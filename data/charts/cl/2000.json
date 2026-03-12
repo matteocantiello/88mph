@@ -1,0 +1,108 @@
+{
+  "country": "cl",
+  "year": 2000,
+  "context": "Chile in 2000 was defined by the rock en español movement, with La Ley at their commercial peak and Los Tres representing a more rootsy alternative. Pop-rock and Latin ballads dominated radio, while the influence of Argentine rock nacional was deeply felt across Chilean airwaves.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Aquí",
+      "artist": "La Ley",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02547bfabf73834f28cee47bf8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4aDtCVcQCkR7zYa8jwLciP",
+      "spotifyUrl": "https://open.spotify.com/track/4aDtCVcQCkR7zYa8jwLciP",
+      "youtubeId": "QOnhiDP7X8M"
+    },
+    {
+      "rank": 2,
+      "title": "Ángel para un Final",
+      "artist": "Silvio Rodríguez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0217cee9c12ecabc80331991f8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:435DLZTUNauRGf1gOIa9CP",
+      "spotifyUrl": "https://open.spotify.com/track/435DLZTUNauRGf1gOIa9CP",
+      "youtubeId": "a5sxuu5MLG8"
+    },
+    {
+      "rank": 3,
+      "title": "El Duelo",
+      "artist": "La Ley",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ebd88db34e2219ca3121fe08",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3XHg42QOqlevRU7jXRkAKk",
+      "spotifyUrl": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk",
+      "youtubeId": "MEDrB-anWlY"
+    },
+    {
+      "rank": 4,
+      "title": "Un Amor Violento",
+      "artist": "Los Tres",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c90c7ca59a3055ba78ae5d89",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7zpNN01FLMP70EYGcxCCDY",
+      "spotifyUrl": "https://open.spotify.com/track/7zpNN01FLMP70EYGcxCCDY",
+      "youtubeId": "LNtNPKr3iUk"
+    },
+    {
+      "rank": 5,
+      "title": "Livin' la Vida Loca",
+      "artist": "Ricky Martin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e7e9b85cc1f021ec12130d80",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Ph6L4l8dYUuXFmb71Ajnd",
+      "spotifyUrl": "https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd",
+      "youtubeId": "98B9ZHOlk2E"
+    },
+    {
+      "rank": 6,
+      "title": "Mentira",
+      "artist": "La Ley",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0259cc72552d7a7b58af7553f5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5Em7MA991Gn3yhheaul0CX",
+      "spotifyUrl": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX",
+      "youtubeId": "9uVuodKHkko"
+    },
+    {
+      "rank": 7,
+      "title": "De Música Ligera",
+      "artist": "Soda Stereo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2WD9ggmpZE7Wodh3qVVCgg",
+      "spotifyUrl": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg",
+      "youtubeId": "tXNR2LMzDiE"
+    },
+    {
+      "rank": 8,
+      "title": "Ojos Así",
+      "artist": "Shakira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4EDfdYJ7mqXRoWAqzF1PVO",
+      "spotifyUrl": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO",
+      "youtubeId": "WHF_PdQ6zIE"
+    },
+    {
+      "rank": 9,
+      "title": "1977",
+      "artist": "Ana Tijoux",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024df623fbd5de762b73ee9a03",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7tOAN6w4a1LD0iqkRnIrhZ",
+      "spotifyUrl": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ",
+      "youtubeId": "RWsLO0n0kTg"
+    },
+    {
+      "rank": 10,
+      "title": "Corazones Rojos",
+      "artist": "Los Prisioneros",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0298daeb6fc14ffafc7abaa4c6",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:244nCwfi32MNrkALQi2qga",
+      "spotifyUrl": "https://open.spotify.com/track/244nCwfi32MNrkALQi2qga",
+      "youtubeId": "cFs0uKJ0co0"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3iEaUUwybgdsmcPudI81as"
+}

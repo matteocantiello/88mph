@@ -1,0 +1,98 @@
+{
+  "country": "tr",
+  "year": 1975,
+  "context": "Turkey's 1975 was the golden age of Anatolian rock, a psychedelic fusion of Turkish folk music with Western rock. Barış Manço, Cem Karaca, and Erkin Koray were the movement's icons, while arabesk — an emotional, orchestral genre blending Turkish, Arabic, and Western elements — was beginning its rise from the margins to the mainstream.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Dağlar Dağlar",
+      "artist": "Barış Manço",
+      "youtubeId": "ZOfocI3d1SE",
+      "spotifyUri": "spotify:track:7iDB2RmJfPGIrgN42PBDLw",
+      "spotifyUrl": "https://open.spotify.com/track/7iDB2RmJfPGIrgN42PBDLw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a8e6638a50402dfdb96077e"
+    },
+    {
+      "rank": 2,
+      "title": "Tamirci Çırağı",
+      "artist": "Barış Manço",
+      "youtubeId": "RHlhva-1DiQ",
+      "spotifyUri": "spotify:track:01F8naUG7sn9LWvk68vauX",
+      "spotifyUrl": "https://open.spotify.com/track/01F8naUG7sn9LWvk68vauX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02258dc405fd943a2ad6cb2eb1"
+    },
+    {
+      "rank": 3,
+      "title": "Beyaz Giyme Toz Olur",
+      "artist": "Cem Karaca",
+      "youtubeId": "HlXEsHutcwg",
+      "spotifyUri": "spotify:track:4Bo5m5tVPa6eSgnACaRpqk",
+      "spotifyUrl": "https://open.spotify.com/track/4Bo5m5tVPa6eSgnACaRpqk",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02792acfee0ab461b5264ca4b4"
+    },
+    {
+      "rank": 4,
+      "title": "Resimdeki Gözyaşları",
+      "artist": "Cem Karaca",
+      "youtubeId": "Mvsn1ebR7Gs",
+      "spotifyUri": "spotify:track:1FWtprHStw6VvFqFXDmLT9",
+      "spotifyUrl": "https://open.spotify.com/track/1FWtprHStw6VvFqFXDmLT9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e709b675435b35b045bb39dc"
+    },
+    {
+      "rank": 5,
+      "title": "Gurbet",
+      "artist": "Erkin Koray",
+      "youtubeId": "-4zj_xtqW0Q",
+      "spotifyUri": "spotify:track:10kwvh4Prhtrm2Xz5JUpQO",
+      "spotifyUrl": "https://open.spotify.com/track/10kwvh4Prhtrm2Xz5JUpQO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020dfd3995f7baa649aad2e4bc"
+    },
+    {
+      "rank": 6,
+      "title": "Sevdan Olmasa",
+      "artist": "Orhan Gencebay",
+      "youtubeId": "t-gbzHV_iw4",
+      "spotifyUri": "spotify:track:0n8NJb6hPAHCE5QpXSkg5q",
+      "spotifyUrl": "https://open.spotify.com/track/0n8NJb6hPAHCE5QpXSkg5q",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d26c6da58e144e2919ea83f3"
+    },
+    {
+      "rank": 7,
+      "title": "Peki Peki Anladık",
+      "artist": "Barış Manço",
+      "youtubeId": "AXsF3gCfWDo",
+      "spotifyUri": "spotify:track:4O0QzXVASBtxTEwMRcjq7O",
+      "spotifyUrl": "https://open.spotify.com/track/4O0QzXVASBtxTEwMRcjq7O",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02265a71576961e090b91ada4a"
+    },
+    {
+      "rank": 8,
+      "title": "Gözleri Aşka Gülen",
+      "artist": "Zeki Müren",
+      "youtubeId": "UpgBcCg0lis",
+      "spotifyUri": "spotify:track:2Srl8ssLsNRraXPw17Q4jl",
+      "spotifyUrl": "https://open.spotify.com/track/2Srl8ssLsNRraXPw17Q4jl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02105b3fb4f495d566c58903bb"
+    },
+    {
+      "rank": 9,
+      "title": "Batsın Bu Dünya",
+      "artist": "Orhan Gencebay",
+      "youtubeId": "oKN5MEiol1Y",
+      "spotifyUri": "spotify:track:02gpdpyXZ9nq9ceMD3jwNj",
+      "spotifyUrl": "https://open.spotify.com/track/02gpdpyXZ9nq9ceMD3jwNj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022af4aeb4184cc5bb7a91cded"
+    },
+    {
+      "rank": 10,
+      "title": "Çeşmi Siyahım",
+      "artist": "Barış Manço",
+      "youtubeId": "0J5rdGf4U7A",
+      "spotifyUri": "spotify:track:01F8naUG7sn9LWvk68vauX",
+      "spotifyUrl": "https://open.spotify.com/track/01F8naUG7sn9LWvk68vauX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02258dc405fd943a2ad6cb2eb1"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6WfnDgZ1ETFIWs1yGm3bwb"
+}

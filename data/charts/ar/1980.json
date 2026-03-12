@@ -1,0 +1,108 @@
+{
+  "country": "ar",
+  "year": 1980,
+  "context": "In 1980, Argentina was under military dictatorship, and rock nacional became a covert vehicle for resistance and expression. Charly García with Serú Girán, Luis Alberto Spinetta, and León Gieco created anthems that spoke to a generation yearning for freedom. The Malvinas War in 1982 would further boost Argentine rock's prominence.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Canción de Alicia en el País",
+      "artist": "Serú Girán",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0291334daa58be7ede30e4b603",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:519WGo9DQCtYP72a7Lmprj",
+      "spotifyUrl": "https://open.spotify.com/track/519WGo9DQCtYP72a7Lmprj",
+      "youtubeId": "dd_zTHf752Q"
+    },
+    {
+      "rank": 2,
+      "title": "Viernes 3 AM",
+      "artist": "Serú Girán",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02587f0851afdf757e5c77ddc2",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:41tcjjAImkOeFHEaGghqqI",
+      "spotifyUrl": "https://open.spotify.com/track/41tcjjAImkOeFHEaGghqqI",
+      "youtubeId": "ocOVqp1ISzs"
+    },
+    {
+      "rank": 3,
+      "title": "Sólo le Pido a Dios",
+      "artist": "León Gieco",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0258b372b5c69c59aec0c99989",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3L7BpEVfClIMpJHy5e0Ehv",
+      "spotifyUrl": "https://open.spotify.com/track/3L7BpEVfClIMpJHy5e0Ehv",
+      "youtubeId": "p9h3-IjHXmA"
+    },
+    {
+      "rank": 4,
+      "title": "Yo No Quiero Volverme Tan Loco",
+      "artist": "Charly García",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02209f16b555132048defda48a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:68LeIVjVDRMXPlfdFHhID6",
+      "spotifyUrl": "https://open.spotify.com/track/68LeIVjVDRMXPlfdFHhID6",
+      "youtubeId": "8XXGMzGKWfs"
+    },
+    {
+      "rank": 5,
+      "title": "Rezo por Vos",
+      "artist": "Charly García & Luis Alberto Spinetta",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02db8504f569e554a2453e3136",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4CKGM9AIglnOMGsH0r5uAN",
+      "spotifyUrl": "https://open.spotify.com/track/4CKGM9AIglnOMGsH0r5uAN",
+      "youtubeId": "PqO3ns8iHR0"
+    },
+    {
+      "rank": 6,
+      "title": "No Soy un Extraño",
+      "artist": "Charly García",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b14842a87b833bc0a9339f60",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5f3EtD85N6tTekD3HVja4j",
+      "spotifyUrl": "https://open.spotify.com/track/5f3EtD85N6tTekD3HVja4j",
+      "youtubeId": "L9mMo4k048E"
+    },
+    {
+      "rank": 7,
+      "title": "Seminare",
+      "artist": "Serú Girán",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e43a1468d51f6b0cbcd4c3f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7yPsoib9EoQVmK3loJgptI",
+      "spotifyUrl": "https://open.spotify.com/track/7yPsoib9EoQVmK3loJgptI",
+      "youtubeId": "seYKJZ9xAyY"
+    },
+    {
+      "rank": 8,
+      "title": "Mariposas de Madera",
+      "artist": "Luis Alberto Spinetta",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02db8504f569e554a2453e3136",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6goQGJKRXEEUdBdAEmV7Eu",
+      "spotifyUrl": "https://open.spotify.com/track/6goQGJKRXEEUdBdAEmV7Eu",
+      "youtubeId": "IsJsEJTD3T4"
+    },
+    {
+      "rank": 9,
+      "title": "Encuentro con el Diablo",
+      "artist": "La Torre",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f69fbf30c2cd1089e0e675b7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:60cjWFWxGrR5ODt5bqxqIP",
+      "spotifyUrl": "https://open.spotify.com/track/60cjWFWxGrR5ODt5bqxqIP",
+      "youtubeId": "HsCwAhJjGQ0"
+    },
+    {
+      "rank": 10,
+      "title": "José Mercado",
+      "artist": "Serú Girán",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025e73b5c3235f1dae08842ed4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Y21XGk4R87cPCi4oR53l6",
+      "spotifyUrl": "https://open.spotify.com/track/2Y21XGk4R87cPCi4oR53l6",
+      "youtubeId": "PYOy9WHASaE"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2Qq11aLtXVpiLRktF96AID"
+}

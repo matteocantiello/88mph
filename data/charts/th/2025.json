@@ -1,0 +1,96 @@
+{
+  "country": "th",
+  "year": 2025,
+  "context": "Thailand's 2025 solidified T-pop's regional dominance, with Jeff Satur achieving international recognition and MILLI representing Thai hip-hop on global stages. BL drama soundtracks continued driving music discovery, while a fusion of Thai, K-pop, and Western pop influences created a distinctly modern Thai sound that resonated across Southeast Asia.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Jai Dee",
+      "artist": "Jeff Satur",
+      "youtubeId": "r0Dd43zOe6k",
+      "spotifyUri": "spotify:track:1weVfOVVCNUadzABZeXg7j",
+      "spotifyUrl": "https://open.spotify.com/track/1weVfOVVCNUadzABZeXg7j",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d77299e3d29f44495cd7fbcb"
+    },
+    {
+      "rank": 2,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "youtubeId": "DiTd771WumE",
+      "spotifyUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+      "spotifyUrl": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0246085aa1855bd888abc51a5a"
+    },
+    {
+      "rank": 3,
+      "title": "Khon Dee Mee Mak",
+      "artist": "PP Krit",
+      "youtubeId": "uXjJFJ5UyzA",
+      "spotifyUri": "spotify:track:7q6wwqx89xMGFHsDdVAyDx",
+      "spotifyUrl": "https://open.spotify.com/track/7q6wwqx89xMGFHsDdVAyDx",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0216023d81ea694b0ad2131e6e"
+    },
+    {
+      "rank": 4,
+      "title": "Mirror Mirror",
+      "artist": "MILLI",
+      "youtubeId": "l0SNfSba3TQ",
+      "spotifyUri": "spotify:track:59WuWdDH06AYXgdoMENEa3",
+      "spotifyUrl": "https://open.spotify.com/track/59WuWdDH06AYXgdoMENEa3",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0286c430414a211622a35b7093"
+    },
+    {
+      "rank": 5,
+      "title": "Lom Phat Phaa",
+      "artist": "Tilly Birds",
+      "spotifyUri": "spotify:track:6YEhvZ7oXglrru5cNgtlhQ",
+      "spotifyUrl": "https://open.spotify.com/track/6YEhvZ7oXglrru5cNgtlhQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02df310e70e539503d64661705"
+    },
+    {
+      "rank": 6,
+      "title": "Die With a Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtubeId": "DlFXDl_ROAM",
+      "spotifyUri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45"
+    },
+    {
+      "rank": 7,
+      "title": "Rak Dee Dee",
+      "artist": "Ink Waruntorn",
+      "youtubeId": "pKZ1sraf-Eo",
+      "spotifyUri": "spotify:track:3WErTZdFOI6c7UE71LJYQd",
+      "spotifyUrl": "https://open.spotify.com/track/3WErTZdFOI6c7UE71LJYQd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f130329d20bd361dcdd54ef9"
+    },
+    {
+      "rank": 8,
+      "title": "Yahk Roo Wah Thur Roo Suek Yangrai",
+      "artist": "Getsunova",
+      "youtubeId": "oNuB6286xbU",
+      "spotifyUri": "spotify:track:0FqSI5fSmaauSg0i9OnHbo",
+      "spotifyUrl": "https://open.spotify.com/track/0FqSI5fSmaauSg0i9OnHbo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020237d6e3f43ff4386ee3ca59"
+    },
+    {
+      "rank": 9,
+      "title": "Kor Hai Mee Khwam Suk",
+      "artist": "Bright Vachirawit",
+      "spotifyUri": "spotify:track:0nTP8Cr0AE1CG6rKKL9BTT",
+      "spotifyUrl": "https://open.spotify.com/track/0nTP8Cr0AE1CG6rKKL9BTT",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e534e98ed27a1baf0f1993b"
+    },
+    {
+      "rank": 10,
+      "title": "Krai Ja Maa Rak Rao",
+      "artist": "Num Kala",
+      "youtubeId": "c-YbBwAGwf4",
+      "spotifyUri": "spotify:track:63jAurt6lldJDm4gdtrN6i",
+      "spotifyUrl": "https://open.spotify.com/track/63jAurt6lldJDm4gdtrN6i",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fbba44cdc577bbb538006f3d"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7j7dzjEcRpo4uCSkZmORJ2"
+}

@@ -1,0 +1,98 @@
+{
+  "country": "ph",
+  "year": 1985,
+  "context": "The mid-1980s Philippines was defined by the EDSA Revolution's political upheaval and a golden age of OPM (Original Pilipino Music). Freddie Aguilar's 'Anak' had become an international phenomenon, while artists like Sharon Cuneta, Gary Valenciano, and Martin Nievera dominated the mainstream with romantic ballads and dance-pop.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Anak",
+      "artist": "Freddie Aguilar",
+      "youtubeId": "Be1qMUPiSWM",
+      "spotifyUri": "spotify:track:4clfDrcEBdZQt3aSTfAWIf",
+      "spotifyUrl": "https://open.spotify.com/track/4clfDrcEBdZQt3aSTfAWIf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024572306a60e5b780ba1adc9a"
+    },
+    {
+      "rank": 2,
+      "title": "Mr. DJ",
+      "artist": "Sharon Cuneta",
+      "youtubeId": "WUlpPa18nq4",
+      "spotifyUri": "spotify:track:2VYyf8Zt8yYjKhNXw6X0Jz",
+      "spotifyUrl": "https://open.spotify.com/track/2VYyf8Zt8yYjKhNXw6X0Jz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022e5ffa36cc34e681827f8377"
+    },
+    {
+      "rank": 3,
+      "title": "Narito Ako",
+      "artist": "Gary Valenciano",
+      "youtubeId": "fi8LaUT27mk",
+      "spotifyUri": "spotify:track:49TJ5u4Rio1peC5fOdwfHr",
+      "spotifyUrl": "https://open.spotify.com/track/49TJ5u4Rio1peC5fOdwfHr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025e16287539b265d79ae74d3e"
+    },
+    {
+      "rank": 4,
+      "title": "Paano Na Kaya",
+      "artist": "Bugoy Drilon",
+      "youtubeId": "xElp8j1v4JY",
+      "spotifyUri": "spotify:track:4jJYeiq0rJVeDKUni8aZ59",
+      "spotifyUrl": "https://open.spotify.com/track/4jJYeiq0rJVeDKUni8aZ59",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027fb66c1589077f7fd774f5c0"
+    },
+    {
+      "rank": 5,
+      "title": "Sana Maulit Muli",
+      "artist": "Gary Valenciano",
+      "youtubeId": "k17fEB9U0R8",
+      "spotifyUri": "spotify:track:7iiOLoFR4czrQTjY4cS22L",
+      "spotifyUrl": "https://open.spotify.com/track/7iiOLoFR4czrQTjY4cS22L",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c692addd1744f74d099e39d6"
+    },
+    {
+      "rank": 6,
+      "title": "Handog",
+      "artist": "Florante",
+      "youtubeId": "gu6f0kOx8C8",
+      "spotifyUri": "spotify:track:03aY6WbKaiZ6HFGNE74sR9",
+      "spotifyUrl": "https://open.spotify.com/track/03aY6WbKaiZ6HFGNE74sR9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020eeeeb64ad8bc49bb0ea4958"
+    },
+    {
+      "rank": 7,
+      "title": "Say That You Love Me",
+      "artist": "Martin Nievera",
+      "youtubeId": "tPvDHPC4-6U",
+      "spotifyUri": "spotify:track:7fO7l5Z8yPspcVqffgOi9Y",
+      "spotifyUrl": "https://open.spotify.com/track/7fO7l5Z8yPspcVqffgOi9Y",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024952b6a14b67b47aa64b27ec"
+    },
+    {
+      "rank": 8,
+      "title": "Bayan Ko",
+      "artist": "Freddie Aguilar",
+      "youtubeId": "JrZWeHuLbUk",
+      "spotifyUri": "spotify:track:0GlTltXWKisaL8WFaObeop",
+      "spotifyUrl": "https://open.spotify.com/track/0GlTltXWKisaL8WFaObeop",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021410d6658c57b3c6f7dbe58e"
+    },
+    {
+      "rank": 9,
+      "title": "Kailan",
+      "artist": "Smokey Mountain",
+      "youtubeId": "VClGnytqXo0",
+      "spotifyUri": "spotify:track:6ZFoYoNxmAglxFQ3RwqlE9",
+      "spotifyUrl": "https://open.spotify.com/track/6ZFoYoNxmAglxFQ3RwqlE9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a46082d16096b46413522514"
+    },
+    {
+      "rank": 10,
+      "title": "Kapantay Ay Langit",
+      "artist": "Sharon Cuneta",
+      "youtubeId": "K8DfcEsZDi8",
+      "spotifyUri": "spotify:track:7o0AgYsnwVZBe8B9bbucj7",
+      "spotifyUrl": "https://open.spotify.com/track/7o0AgYsnwVZBe8B9bbucj7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f189e933c5ca9b81ec71e313"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7vXYbgQNlcWtWWyOJMJ7ME"
+}

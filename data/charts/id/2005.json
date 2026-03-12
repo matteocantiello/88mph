@@ -1,0 +1,108 @@
+{
+  "country": "id",
+  "year": 2005,
+  "context": "2005 was the year Peterpan (later renamed Noah) became Indonesia's biggest band, with 'Mungkin Nanti' and 'Yang Terdalam' becoming generational anthems. The Indonesian pop-rock scene was at its commercial zenith, supported by massive album sales, MTV Asia, and a flourishing live music circuit.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Mungkin Nanti",
+      "artist": "Peterpan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d41db981af67267ff9145438",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3IZduSshBfpO2qZGCusLsg",
+      "spotifyUrl": "https://open.spotify.com/track/3IZduSshBfpO2qZGCusLsg",
+      "youtubeId": "zPImzktSfVA"
+    },
+    {
+      "rank": 2,
+      "title": "Yang Terdalam",
+      "artist": "Peterpan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ef6b4f2c2161b3462b0b6fa7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4zQy94D4CqvrI5TDf8JjmE",
+      "spotifyUrl": "https://open.spotify.com/track/4zQy94D4CqvrI5TDf8JjmE",
+      "youtubeId": "pXAfNOZiv8o"
+    },
+    {
+      "rank": 3,
+      "title": "Kupu-Kupu Malam",
+      "artist": "Peterpan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02016bfcc42c0be10cf2ffd8ed",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6w88ebfNDbESaEyLzuKlMh",
+      "spotifyUrl": "https://open.spotify.com/track/6w88ebfNDbESaEyLzuKlMh",
+      "youtubeId": "GnG3KehyqmY"
+    },
+    {
+      "rank": 4,
+      "title": "Ada Apa Denganmu",
+      "artist": "Peterpan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d41db981af67267ff9145438",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0s7lGC3TIFXnc5F087oKRN",
+      "spotifyUrl": "https://open.spotify.com/track/0s7lGC3TIFXnc5F087oKRN",
+      "youtubeId": "b3oOzsWjdvU"
+    },
+    {
+      "rank": 5,
+      "title": "Laskar Pelangi",
+      "artist": "Nidji",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02801ab61ae6086d0381265658",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0ejpHFKbEqTcNQ4OMBawrP",
+      "spotifyUrl": "https://open.spotify.com/track/0ejpHFKbEqTcNQ4OMBawrP",
+      "youtubeId": "OthSgKuDi8I"
+    },
+    {
+      "rank": 6,
+      "title": "Separuh Aku",
+      "artist": "Noah",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ef9c61634ef59e7ee439dacc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4sJmv194lQKWjytpaxH1Vj",
+      "spotifyUrl": "https://open.spotify.com/track/4sJmv194lQKWjytpaxH1Vj",
+      "youtubeId": "tstwxIh6xJw"
+    },
+    {
+      "rank": 7,
+      "title": "Aku Bukan Untukmu",
+      "artist": "Rossa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028c39c4d88b818026927af825",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2JJegjDJUiuQ0h6HFuGDWo",
+      "spotifyUrl": "https://open.spotify.com/track/2JJegjDJUiuQ0h6HFuGDWo",
+      "youtubeId": "6PCMQur7sEY"
+    },
+    {
+      "rank": 8,
+      "title": "Dan...",
+      "artist": "Sheila on 7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0254270208627aa8061a8abe21",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1MdjZzEInrmDBXf8zs0nKS",
+      "spotifyUrl": "https://open.spotify.com/track/1MdjZzEInrmDBXf8zs0nKS",
+      "youtubeId": "k1BfsO0mxWQ"
+    },
+    {
+      "rank": 9,
+      "title": "Tak Bisakah",
+      "artist": "Peterpan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0200f98503376497ab98757f0a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:58ZlToja2Ew7gsrqtuHoIs",
+      "spotifyUrl": "https://open.spotify.com/track/58ZlToja2Ew7gsrqtuHoIs",
+      "youtubeId": "RoTS66Cxitw"
+    },
+    {
+      "rank": 10,
+      "title": "Cinta Kan Membawamu Kembali",
+      "artist": "Dewa 19",
+      "albumArt": "https://i.scdn.co/image/dbb127abf2d9f53acf344c6461fb8ae23fdd1730",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6MwIBSBiAMGomp4I80Xkgw",
+      "spotifyUrl": "https://open.spotify.com/track/6MwIBSBiAMGomp4I80Xkgw",
+      "youtubeId": "lnqJLGUHcPk"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6zA7wOa1yTXjkZdm1ah9Xm"
+}

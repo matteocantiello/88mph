@@ -1,0 +1,98 @@
+{
+  "country": "tr",
+  "year": 2000,
+  "context": "Tarkan had become Turkey's biggest global export by 2000, with 'Şımarık (Kiss Kiss)' a worldwide hit. Turkish pop was in its commercial golden age, with Sertab Erener, Mustafa Sandal, and Hadise representing a glamorous, Eurovision-ready sound. The arabesk tradition persisted through İbrahim Tatlıses and Müslüm Gürses.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Kuzu Kuzu",
+      "artist": "Tarkan",
+      "youtubeId": "_xgryOIbJj4",
+      "spotifyUri": "spotify:track:3ajYmPDtB3P7JTPQ64Dr7P",
+      "spotifyUrl": "https://open.spotify.com/track/3ajYmPDtB3P7JTPQ64Dr7P",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d3d5d5dcf25a85205584c1ff"
+    },
+    {
+      "rank": 2,
+      "title": "Bu Aralar",
+      "artist": "Tarkan",
+      "youtubeId": "pu9co0YRKHg",
+      "spotifyUri": "spotify:track:1JcYQfCTP7qXC4F8AO0h9W",
+      "spotifyUrl": "https://open.spotify.com/track/1JcYQfCTP7qXC4F8AO0h9W",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0279dbe6c33d218de4aa59223b"
+    },
+    {
+      "rank": 3,
+      "title": "Cevapsız Sorular",
+      "artist": "maNga",
+      "youtubeId": "7fcMUU-_DGU",
+      "spotifyUri": "spotify:track:03INrUW4VCJpDXKQzNEaKS",
+      "spotifyUrl": "https://open.spotify.com/track/03INrUW4VCJpDXKQzNEaKS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028264a63ea2fc164e56133b72"
+    },
+    {
+      "rank": 4,
+      "title": "Araba",
+      "artist": "Mustafa Sandal",
+      "youtubeId": "-lcfABgHKfs",
+      "spotifyUri": "spotify:track:2GJpzACZjFfVSxE5jMDC3j",
+      "spotifyUrl": "https://open.spotify.com/track/2GJpzACZjFfVSxE5jMDC3j",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028bf087cfc5a7d1c4e56b671e"
+    },
+    {
+      "rank": 5,
+      "title": "Lale Devri",
+      "artist": "Sertab Erener",
+      "youtubeId": "tnQHG-Gf1hc",
+      "spotifyUri": "spotify:track:2XICLqBfH8o2Q2piceksGR",
+      "spotifyUrl": "https://open.spotify.com/track/2XICLqBfH8o2Q2piceksGR",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a813eccafa91999a7cf0548"
+    },
+    {
+      "rank": 6,
+      "title": "İsyankar",
+      "artist": "Mustafa Sandal",
+      "youtubeId": "Nb4G-O1LHhc",
+      "spotifyUri": "spotify:track:4OjNQv8on0pFfArve1BvTQ",
+      "spotifyUrl": "https://open.spotify.com/track/4OjNQv8on0pFfArve1BvTQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02053ce2a173f105c9197062e6"
+    },
+    {
+      "rank": 7,
+      "title": "Yazık",
+      "artist": "İbrahim Tatlıses",
+      "youtubeId": "qj2MW_De-E8",
+      "spotifyUri": "spotify:track:70ZRVjaA30Ef4F1iMysKeG",
+      "spotifyUrl": "https://open.spotify.com/track/70ZRVjaA30Ef4F1iMysKeG",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024f1e178ae7f33c64c1a33837"
+    },
+    {
+      "rank": 8,
+      "title": "Acı Veriyor",
+      "artist": "Sezen Aksu",
+      "youtubeId": "t81qtlBN6q4",
+      "spotifyUri": "spotify:track:0e4cgVebpYpDMxgV4EwGFO",
+      "spotifyUrl": "https://open.spotify.com/track/0e4cgVebpYpDMxgV4EwGFO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c3d2b8750efee2e12599999c"
+    },
+    {
+      "rank": 9,
+      "title": "Yüzünden",
+      "artist": "Sertab Erener",
+      "youtubeId": "XGlekfOM-F4",
+      "spotifyUri": "spotify:track:76GWdGGt1HU6f8qxmvt74a",
+      "spotifyUrl": "https://open.spotify.com/track/76GWdGGt1HU6f8qxmvt74a",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029ea4a37477e3806b26bdc64c"
+    },
+    {
+      "rank": 10,
+      "title": "Hoşçakal",
+      "artist": "Kenan Doğulu",
+      "youtubeId": "6XZuTNsksq8",
+      "spotifyUri": "spotify:track:0nJVAwPZjuuBS9rc9KVD2v",
+      "spotifyUrl": "https://open.spotify.com/track/0nJVAwPZjuuBS9rc9KVD2v",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fcc2cf97f7dfbf2f4ce99a4e"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4wdPnZhgFoKw4uypuiKOjm"
+}

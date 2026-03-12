@@ -1,0 +1,108 @@
+{
+  "country": "cl",
+  "year": 2025,
+  "context": "Chilean urban music reached new heights in 2025, with Standly, Polimá Westcoast, and Kidd Voodoo leading a wave of homegrown talent competing with international heavyweights. The Chilean reggaeton and trap scene carved its own identity, while Cami and Mon Laferte continued to represent Chile's pop and indie rock traditions on global stages.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+      "spotifyUrl": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "youtubeId": "TiebZllW8As"
+    },
+    {
+      "rank": 2,
+      "title": "Si Antes Te Hubiera Conocido",
+      "artist": "Karol G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026c0294796e2ee5cf87a47b5f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:73scB4Q4fcOmnsBVZPmk32",
+      "spotifyUrl": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32",
+      "youtubeId": "eih8K1MZqZc"
+    },
+    {
+      "rank": 3,
+      "title": "Amargura",
+      "artist": "Karol G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282de1ca074ae63cb18fce335",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:505v13epFXodT9fVAJ6h8k",
+      "spotifyUrl": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k",
+      "youtubeId": "fEWhm_TVvUw"
+    },
+    {
+      "rank": 4,
+      "title": "La Falda",
+      "artist": "Myke Towers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02754362398bd77e0347dbada3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7iUtQNMRB8ZkKC4AmEuCJC",
+      "spotifyUrl": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC",
+      "youtubeId": "lbGkAN0sO10"
+    },
+    {
+      "rank": 5,
+      "title": "Ultra Solo (Remix)",
+      "artist": "Polimá Westcoast & Pailita feat. Paloma Mami",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fe872a087ef8cbf8fe97dd36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1i9rlrWjN971seDbkgdPGa",
+      "spotifyUrl": "https://open.spotify.com/track/1i9rlrWjN971seDbkgdPGa",
+      "youtubeId": "lBMKNwEAXqE"
+    },
+    {
+      "rank": 6,
+      "title": "Perro Negro",
+      "artist": "Bad Bunny feat. Feid",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022ea1f035463d11e1fc3b193d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7iQXYTyuG13aoeHxGG28Nh",
+      "spotifyUrl": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh",
+      "youtubeId": "HekrZ0QcI3g"
+    },
+    {
+      "rank": 7,
+      "title": "Copa Vacía",
+      "artist": "Shakira & Manuel Turizo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026720ca5bee8851b8afa0fa13",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2iVgM5C7m1G4CJGbms301G",
+      "spotifyUrl": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G",
+      "youtubeId": "sBtZlbIHUeE"
+    },
+    {
+      "rank": 8,
+      "title": "Qlona",
+      "artist": "Karol G feat. Peso Pluma",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02558bb4a3f9e4857b8b073a66",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Rs0Bu2s2Eh7h4A3COk9Ac",
+      "spotifyUrl": "https://open.spotify.com/track/3Rs0Bu2s2Eh7h4A3COk9Ac",
+      "youtubeId": "hWbKLIH3N8c"
+    },
+    {
+      "rank": 9,
+      "title": "Columbia",
+      "artist": "Quevedo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a935d458be0651a13d87d612",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0uqt3MShCD4uYCIRNm6d4o",
+      "spotifyUrl": "https://open.spotify.com/track/0uqt3MShCD4uYCIRNm6d4o",
+      "youtubeId": "46LjJXT2E6c"
+    },
+    {
+      "rank": 10,
+      "title": "Lala",
+      "artist": "Myke Towers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d646ace05ec913ac690a00c3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ABLbnD53cQK00mhcaOUVG",
+      "spotifyUrl": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG",
+      "youtubeId": "j243uiKP5pg"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3Vw9SQt50KrLPvllDJVFfj"
+}

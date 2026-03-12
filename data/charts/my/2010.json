@@ -1,0 +1,98 @@
+{
+  "country": "my",
+  "year": 2010,
+  "context": "Malaysia's 2010 music scene saw the continued dominance of Akademi Fantasia graduates alongside established stars. Yuna emerged as a breakthrough indie-pop artist who would later sign with a US label, while Dato' Siti Nurhaliza maintained her reign. The RIM charts showed a healthy mix of Malay pop, rock, and international hits.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Dan Sebenarnya",
+      "artist": "Yuna",
+      "youtubeId": "a7frtdab6KI",
+      "spotifyUri": "spotify:track:0lSeCvNTE1bypj5FaOFiVQ",
+      "spotifyUrl": "https://open.spotify.com/track/0lSeCvNTE1bypj5FaOFiVQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02241c6c03efb49734bd6163fc"
+    },
+    {
+      "rank": 2,
+      "title": "Faizal Tahir",
+      "artist": "Aku Punya",
+      "youtubeId": "aiPXr0ilpZ0",
+      "spotifyUri": "spotify:track:0OYsyK6p5NYdiLyRN7Axnc",
+      "spotifyUrl": "https://open.spotify.com/track/0OYsyK6p5NYdiLyRN7Axnc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025108667bfd6190a7c3db7588"
+    },
+    {
+      "rank": 3,
+      "title": "Bencinta",
+      "artist": "Dato' Siti Nurhaliza",
+      "youtubeId": "rcvHnJCpr0A",
+      "spotifyUri": "spotify:track:4arXMX7u6GSz4EJG92db1F",
+      "spotifyUrl": "https://open.spotify.com/track/4arXMX7u6GSz4EJG92db1F",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0205cd2a75d03c2434cc2648d3"
+    },
+    {
+      "rank": 4,
+      "title": "Cahaya Cinta",
+      "artist": "Siti Nurhaliza",
+      "youtubeId": "fItEMerNv_M",
+      "spotifyUri": "spotify:track:2TKYXJsrUE5O5X7mnneEHN",
+      "spotifyUrl": "https://open.spotify.com/track/2TKYXJsrUE5O5X7mnneEHN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026e9c975b75595c62261bb7fd"
+    },
+    {
+      "rank": 5,
+      "title": "Falling in Love",
+      "artist": "Faizal Tahir",
+      "youtubeId": "4G9zUC79vZw",
+      "spotifyUri": "spotify:track:44AyOl4qVkzS48vBsbNXaC",
+      "spotifyUrl": "https://open.spotify.com/track/44AyOl4qVkzS48vBsbNXaC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b184226408f981e3dd17c606"
+    },
+    {
+      "rank": 6,
+      "title": "Lagu Untukmu",
+      "artist": "Meet Uncle Hussain",
+      "youtubeId": "A6FZxd8Dcss",
+      "spotifyUri": "spotify:track:5aP1IYlbVPpjGTJ8tNHOdc",
+      "spotifyUrl": "https://open.spotify.com/track/5aP1IYlbVPpjGTJ8tNHOdc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0272ceb619f16a06f9e59df692"
+    },
+    {
+      "rank": 7,
+      "title": "Lebih Indah",
+      "artist": "Adera",
+      "youtubeId": "RuwhTpTEYS0",
+      "spotifyUri": "spotify:track:66V6QeI1Y9PQO4J7p7JGJO",
+      "spotifyUrl": "https://open.spotify.com/track/66V6QeI1Y9PQO4J7p7JGJO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f2dcbff793a8e4ba321e2fa7"
+    },
+    {
+      "rank": 8,
+      "title": "Khayalan",
+      "artist": "Hujan",
+      "youtubeId": "ASSeu4xqybw",
+      "spotifyUri": "spotify:track:6cjHmahVMaVHXYgXJcir8R",
+      "spotifyUrl": "https://open.spotify.com/track/6cjHmahVMaVHXYgXJcir8R",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0219e5d034f84dcb8f9aff75ff"
+    },
+    {
+      "rank": 9,
+      "title": "Gadis Jolobu",
+      "artist": "W.A.R.I.S feat. Dato' Hattan",
+      "youtubeId": "jtXZ2FA8p9A",
+      "spotifyUri": "spotify:track:44UKvkBXUbUOmBWKuqjsor",
+      "spotifyUrl": "https://open.spotify.com/track/44UKvkBXUbUOmBWKuqjsor",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02338f89bf7aaf4fb5dedc6cce"
+    },
+    {
+      "rank": 10,
+      "title": "Bukan Niatku",
+      "artist": "Alif Satar",
+      "youtubeId": "sM7X4C8LmO8",
+      "spotifyUri": "spotify:track:1Eg8cuVhVOpjALg0tstOwG",
+      "spotifyUrl": "https://open.spotify.com/track/1Eg8cuVhVOpjALg0tstOwG",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02405a305d690a51bc49aea963"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4BQpzB6BXZ5bFVmvDFyDvZ"
+}

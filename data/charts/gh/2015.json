@@ -1,0 +1,104 @@
+{
+  "country": "gh",
+  "year": 2015,
+  "context": "By 2015 Ghana's sound was splitting between afrobeats, dancehall, and hiplife, with Shatta Wale and Stonebwoy leading a fierce dancehall rivalry while Sarkodie reigned in rap. Bisa Kdei revived contemporary highlife, and cross-border collaborations with Nigerian artists became routine, signaling Ghana's growing influence across West Africa.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Mansa",
+      "artist": "Bisa Kdei",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c548d3b2a5ba7d24d3ae3d82",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3Aajl2Cw5V0KOIyIbHg6rT",
+      "spotifyUrl": "https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT",
+      "youtubeId": "_cF7XRmQz6M"
+    },
+    {
+      "rank": 2,
+      "title": "Hol' It",
+      "artist": "Shatta Wale",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ec782725cf4888bbe66db7d3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6ZjFLGj3lBrMRhySPmuT5f",
+      "spotifyUrl": "https://open.spotify.com/track/6ZjFLGj3lBrMRhySPmuT5f",
+      "youtubeId": "zaYYus9hSHk"
+    },
+    {
+      "rank": 3,
+      "title": "Go Higher",
+      "artist": "Stonebwoy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02698d8210ce30d3c04f2533b4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ri5iYIku9FOlYzdDNK010",
+      "spotifyUrl": "https://open.spotify.com/track/7ri5iYIku9FOlYzdDNK010",
+      "youtubeId": "zln9W38T-hM"
+    },
+    {
+      "rank": 4,
+      "title": "Makoma",
+      "artist": "R2Bees",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cf3b5679fb6d75bbe883c34a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7eNjCnXceIhUpOSeVd3Yt5",
+      "spotifyUrl": "https://open.spotify.com/track/7eNjCnXceIhUpOSeVd3Yt5",
+      "youtubeId": "tk4-VW0_wAs"
+    },
+    {
+      "rank": 5,
+      "title": "Telemo",
+      "artist": "Gasmilla ft. Capasta",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0297410e3d9e94159282831031",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1sSz9IAVitBXDF47mtMB2X",
+      "spotifyUrl": "https://open.spotify.com/track/1sSz9IAVitBXDF47mtMB2X",
+      "youtubeId": "ThW4pbzr5-U"
+    },
+    {
+      "rank": 6,
+      "title": "Ay3 Late",
+      "artist": "Pappy Kojo ft. Sarkodie",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f6962f7a987d2c9d9d597e59",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6muIFAbkBtT9K1sAY2QcAa",
+      "spotifyUrl": "https://open.spotify.com/track/6muIFAbkBtT9K1sAY2QcAa",
+      "youtubeId": "muA-42MSoio"
+    },
+    {
+      "rank": 7,
+      "title": "Ekiki Mi",
+      "artist": "Wisa Greid ft. Luther",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0208f6400f2678e3162d1a2259",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:68KGTn7ENwkf2MvgcmlCSQ",
+      "spotifyUrl": "https://open.spotify.com/track/68KGTn7ENwkf2MvgcmlCSQ",
+      "youtubeId": "_B-91PLCGOE"
+    },
+    {
+      "rank": 8,
+      "title": "Pimpinaa",
+      "artist": "Obrafour ft. Bisa Kdei",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c548d3b2a5ba7d24d3ae3d82",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7ytX0bHnMv3i7Zn4A6M22b",
+      "spotifyUrl": "https://open.spotify.com/track/7ytX0bHnMv3i7Zn4A6M22b",
+      "youtubeId": "sMbIkpthyWg"
+    },
+    {
+      "rank": 9,
+      "title": "Skolom",
+      "artist": "VVIP ft. Sena Dagadu",
+      "youtubeId": "hCoFerwOXcU"
+    },
+    {
+      "rank": 10,
+      "title": "Enemies",
+      "artist": "Jupitar ft. Sarkodie",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029b45da942e4e299c5c35e5a4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:23iSiQeNmxtVzJ3odhBrM2",
+      "spotifyUrl": "https://open.spotify.com/track/23iSiQeNmxtVzJ3odhBrM2",
+      "youtubeId": "isemViHzImE"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4KX4PMwQ6ehzOoltUT9IFj"
+}

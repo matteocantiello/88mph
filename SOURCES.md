@@ -29,6 +29,14 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Billboard Mexico | MX | — | Mexican Billboard charts |
 | RPM Magazine | CA | https://en.wikipedia.org/wiki/RPM_(magazine) | Canada's primary music trade publication (1964–2000); year-end singles charts |
 | Billboard Canadian Hot 100 | CA | https://en.wikipedia.org/wiki/Canadian_Hot_100 | Canadian singles chart (from 2007); year-end data |
+| Billboard Colombia | CO | — | Colombian Billboard charts (year-end data from 2025) |
+| Billboard Philippines Hot 100 | PH | — | Philippine Billboard charts |
+| CAPIF | AR | — | Argentine Chamber of Phonogram and Videogram Producers |
+| ACINPRO | CO | — | Colombian copyright society (historical chart data) |
+| MediaForest | IL | https://mediaforest.biz/ | Israeli music chart monitoring service |
+| IFPI/TECA Chart | TH | — | Official Thai music chart (IFPI Thailand) |
+| RIM Charts | MY | https://en.wikipedia.org/wiki/Recording_Industry_Association_of_Malaysia | Recording Industry of Malaysia charts |
+| Radiomonitor | TR | — | Turkish radio airplay charts |
 
 ## Awards & Radio Data
 
@@ -38,6 +46,8 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Zolotoy Grammofon | RU | Russian music awards (from 1996) |
 | TopHit Radio Charts | RU | Modern Russian radio airplay data |
 | KBS Music Awards | KR | Korean broadcast music awards (historical K-pop data) |
+| Ghana Music Awards | GH | Annual Ghanaian music awards (primary historical source) |
+| מצעד הפזמונים (Hit Parade) | IL | Israeli IBA radio countdown (historical chart data) |
 
 ## Specialized Archives & Databases
 
@@ -60,6 +70,13 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Wikipedia | All | https://en.wikipedia.org/ | Year-end chart compilations, cultural context, music history |
 | QQ Music | CN | https://y.qq.com/ | Chinese streaming platform (reference for modern Chinese charts) |
 | Springbok Radio | ZA | — | Historical South African radio charts (apartheid era) |
+| Apple Music | EG, GH, KE, TH, MY, PH | https://music.apple.com/ | Year-end charts and streaming data for countries without formal chart infrastructure |
+| Boomplay | GH, KE | https://www.boomplay.com/ | African music streaming platform |
+| Music In Africa | GH, KE | https://www.musicinafrica.net/ | African music documentation and charts |
+| Arabsounds | EG | https://www.arabsounds.net/ | Arabic music news and charts |
+| Spotify Wrapped | EG, ID, TH, MY, PH, IL, TR | https://spotify.com/ | Year-end streaming data by country |
+| Prambors | ID | — | Indonesian radio station charts |
+| Rotana Records | EG | — | Major Arabic music label (historical reference) |
 
 ## Coverage by Country
 
@@ -85,8 +102,20 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Nigeria | ng | 8 | 1975–2025 | TurnTable, cultural significance (Afrobeat/Afrobeats documentation) |
 | South Africa | za | 8 | 1965–2025 | Springbok Radio, cultural significance |
 | Canada | ca | 12 | 1970–2025 | RPM Magazine (1970–2000), Billboard Canadian Hot 100 (2005–2025) |
+| Egypt | eg | 6 | 2000–2025 | Spotify Wrapped, Apple Music, Rotana Records, cultural significance |
+| Ghana | gh | 6 | 2000–2025 | Ghana Music Awards, Apple Music, Boomplay, Music In Africa |
+| Kenya | ke | 6 | 2000–2025 | Apple Music, Music In Africa, Mdundo, cultural significance |
+| Argentina | ar | 9 | 1970–2025 | CAPIF, Spotify, Billboard, cultural significance (rock nacional) |
+| Colombia | co | 8 | 1970–2025 | Billboard Colombia, ACINPRO, Spotify, cultural significance |
+| Chile | cl | 6 | 2000–2025 | Spotify Chile, Billboard Hits of the World |
+| Turkey | tr | 9 | 1975–2025 | Radiomonitor, Spotify, Billboard Hits of the World |
+| Philippines | ph | 8 | 1975–2025 | Billboard Philippines, OPM charts, cultural significance |
+| Indonesia | id | 7 | 1985–2025 | Prambors, Spotify, Billboard Hits of the World |
+| Israel | il | 9 | 1970–2025 | MediaForest, מצעד הפזמונים (Wikipedia) |
+| Thailand | th | 6 | 2000–2025 | IFPI/TECA Chart, Spotify, Billboard |
+| Malaysia | my | 6 | 2000–2025 | RIM Charts (Wikipedia), Spotify, Billboard |
 
-**Total: 230 charts across 20 countries (1940–2025)**
+**Total: 316 charts across 32 countries (1940–2025)**
 
 ## Notes
 
@@ -95,4 +124,9 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 - Italian charts were verified directly against hitparadeitalia.it official year-end data; existing charts for 1965, 1985, and 2000 matched the official source exactly.
 - Indian pre-1994 data uses Binaca Geetmala (later Cibaca Geetmala) annual countdown rankings, the most authoritative source for that era.
 - Spotify enrichment adds `spotifyUri` and `spotifyUrl` to each track. Album art from Spotify is used when no YouTube thumbnail is available. Preview URLs may be null due to Spotify's late-2024 policy changes restricting 30-second previews; in those cases, the app offers a "Play on Spotify" external link instead.
-- All 230 charts have pre-created public Spotify playlists on the dedicated 88mph account, with postcard cover images. The `spotifyPlaylistUrl` field in each chart JSON links directly to the playlist. Only 2 tracks across the entire dataset could not be found on Spotify (both Russian).
+- The original 230 charts have pre-created public Spotify playlists on the dedicated 88mph account, with postcard cover images. The `spotifyPlaylistUrl` field in each chart JSON links directly to the playlist. Only 2 tracks across the entire dataset could not be found on Spotify (both Russian). The 86 new charts (12 new countries added March 2026) still need Spotify enrichment and playlist creation.
+- For countries without formal chart infrastructure (Egypt, Ghana, Kenya pre-2015, Philippines pre-2000, Indonesia pre-2000, Thailand, Malaysia), data is compiled from streaming platform year-end data (Spotify Wrapped, Apple Music), music awards, radio play, and cultural significance rankings.
+- Israeli chart data uses the מצעד הפזמונים (Israeli Hit Parade) for historical years, supplemented by MediaForest modern chart data.
+- Turkish pre-2000 data relies on Anatolian rock and arabesk cultural archives, as formal Turkish charts were not standardized until the streaming era.
+- Argentine rock nacional data (1970-1990) is compiled from cultural significance and retrospective rankings, as Argentina lacked formal singles charts during this period.
+- Colombian pre-2010 data uses cultural significance, Discos Fuentes catalog records, and music historians, as Monitor Latino did not start tracking Colombia until 2012.

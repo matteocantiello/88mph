@@ -1,0 +1,95 @@
+{
+  "country": "th",
+  "year": 2020,
+  "context": "Thailand's 2020 saw T-pop explode as a major genre, fueled by the success of Thai BL (Boys' Love) drama soundtracks and a new generation of idol-adjacent artists. Bright Vachirawit and Win Metawin became cultural phenomena, while established acts like Bodyslam and indie darlings Scrubb continued to chart. TikTok accelerated Thai music's regional reach.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Phai (Still Together)",
+      "artist": "Bright Vachirawit",
+      "youtubeId": "WFUbpJoaEkg",
+      "spotifyUri": "spotify:track:5ZwlnR8yGofZ0669mEh8Xm",
+      "spotifyUrl": "https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c5b34e22c26ee36af18aa30b"
+    },
+    {
+      "rank": 2,
+      "title": "Rak Tae Mak Loei (Why Don't You Stay)",
+      "artist": "Jeff Satur",
+      "youtubeId": "osNQ76NrZJU",
+      "spotifyUri": "spotify:track:30Z9tL8HxtFqKcSNz6jnnh",
+      "spotifyUrl": "https://open.spotify.com/track/30Z9tL8HxtFqKcSNz6jnnh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dab00e68d6e1cbe467ecbfcd"
+    },
+    {
+      "rank": 3,
+      "title": "Ruk Hai Dai Sak Khrang",
+      "artist": "Getsunova",
+      "youtubeId": "0Qxi-qPFJGI",
+      "spotifyUri": "spotify:track:4RjzkgRnmTnlZowgg0RHot",
+      "spotifyUrl": "https://open.spotify.com/track/4RjzkgRnmTnlZowgg0RHot",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02992e64c7edb097258be2bce1"
+    },
+    {
+      "rank": 4,
+      "title": "Pom Mai Chai Poo Rai",
+      "artist": "Num Kala",
+      "youtubeId": "NsURtZA4hno",
+      "spotifyUri": "spotify:track:6JLbMP9MeGB7Odhw8PO1QB",
+      "spotifyUrl": "https://open.spotify.com/track/6JLbMP9MeGB7Odhw8PO1QB",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a94c393899fc359c25795af"
+    },
+    {
+      "rank": 5,
+      "title": "Pleng Rak",
+      "artist": "Bodyslam",
+      "youtubeId": "ah68Gld28IM",
+      "spotifyUri": "spotify:track:32RpWCwfIZ6lErqfZ9x37f",
+      "spotifyUrl": "https://open.spotify.com/track/32RpWCwfIZ6lErqfZ9x37f",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022b94c7a5fbf0cd593fc1e413"
+    },
+    {
+      "rank": 6,
+      "title": "Dynamite",
+      "artist": "BTS",
+      "youtubeId": "HaEYUJ2aRHs",
+      "spotifyUri": "spotify:track:5QDLhrAOJJdNAmCTJ8xMyW",
+      "spotifyUrl": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c07d5d2fdc02ae252fcd07e5"
+    },
+    {
+      "rank": 7,
+      "title": "Khong Khun Khong Chan",
+      "artist": "Ink Waruntorn",
+      "youtubeId": "aWSBm7gGkXc",
+      "spotifyUri": "spotify:track:0HoimIevP015OpVBROD9vq",
+      "spotifyUrl": "https://open.spotify.com/track/0HoimIevP015OpVBROD9vq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024d665adf47c67d173ea8d2df"
+    },
+    {
+      "rank": 8,
+      "title": "Ruk Ja",
+      "artist": "Scrubb",
+      "youtubeId": "jQmUv3IR3_M",
+      "spotifyUri": "spotify:track:3InIAYQyi22mfV4g1T9Jkc",
+      "spotifyUrl": "https://open.spotify.com/track/3InIAYQyi22mfV4g1T9Jkc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022e44757f6ea4eb34d2a0d42f"
+    },
+    {
+      "rank": 9,
+      "title": "Leuan",
+      "artist": "MILLI",
+      "youtubeId": "XaP7kYfyIFw"
+    },
+    {
+      "rank": 10,
+      "title": "Yah Long",
+      "artist": "Big Ass",
+      "youtubeId": "p86ncGX3FoM",
+      "spotifyUri": "spotify:track:4E7PqvqZ8hifROCSpbmk5f",
+      "spotifyUrl": "https://open.spotify.com/track/4E7PqvqZ8hifROCSpbmk5f",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022fe71513c853c1ccbf6476e7"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/59XbGOi9gN7MIt9EOB5kWN"
+}

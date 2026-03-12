@@ -1,0 +1,101 @@
+{
+  "country": "il",
+  "year": 2005,
+  "context": "By 2005, Israeli hip-hop led by Subliminal and Hadag Nahash had gone mainstream, while mizrahi pop continued its dominance through Eyal Golan and Sarit Hadad. The Idan Raichel Project achieved international recognition with its world music fusion, and Israeli electronic/trance music (Infected Mushroom) gained a global following.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ha'Tikva",
+      "artist": "Subliminal",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f019d5c5c8dc178922768830",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5QdYKRqBprV1JDQiiqITFe",
+      "spotifyUrl": "https://open.spotify.com/track/5QdYKRqBprV1JDQiiqITFe",
+      "youtubeId": "_KeuRKX_UEk"
+    },
+    {
+      "rank": 2,
+      "title": "Stam",
+      "artist": "Hadag Nahash",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0287603e34126afa0f37f71694",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1UxPPRzZOUhZPTslSjzagr",
+      "spotifyUrl": "https://open.spotify.com/track/1UxPPRzZOUhZPTslSjzagr",
+      "youtubeId": "TKMibx6c9vY"
+    },
+    {
+      "rank": 3,
+      "title": "Bo'i",
+      "artist": "Idan Raichel Project",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02647d224e660ed3528a779c05",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2mfXTYqOqSdhNvwXS8V9of",
+      "spotifyUrl": "https://open.spotify.com/track/2mfXTYqOqSdhNvwXS8V9of",
+      "youtubeId": "rJNaEJ24JCc"
+    },
+    {
+      "rank": 4,
+      "title": "Kama She'Tishtefi",
+      "artist": "Eyal Golan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0241ea012760dc38c79bfe1e02",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1JWgLV9n7Red2x6qwE2K25",
+      "spotifyUrl": "https://open.spotify.com/track/1JWgLV9n7Red2x6qwE2K25"
+    },
+    {
+      "rank": 5,
+      "title": "Lo Yodaat",
+      "artist": "Sarit Hadad",
+      "youtubeId": "8QG1fWKJZsY",
+      "spotifyUri": "spotify:track:14uCYjc3tEJmK61fWQl3KK",
+      "spotifyUrl": "https://open.spotify.com/track/14uCYjc3tEJmK61fWQl3KK",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0210c63318f75fd1516f04cee6"
+    },
+    {
+      "rank": 6,
+      "title": "Becoming",
+      "artist": "Infected Mushroom",
+      "youtubeId": "wVwQYSVNJVM",
+      "spotifyUri": "spotify:track:4zh13oEiKl6W8qn9zsdQrp",
+      "spotifyUrl": "https://open.spotify.com/track/4zh13oEiKl6W8qn9zsdQrp",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02961a1d69bf272921a0137534"
+    },
+    {
+      "rank": 7,
+      "title": "Lecha Dodi",
+      "artist": "Idan Raichel Project",
+      "youtubeId": "24cMDy1j86U",
+      "spotifyUri": "spotify:track:3rjpaHauS05qHKFF1BMUMS",
+      "spotifyUrl": "https://open.spotify.com/track/3rjpaHauS05qHKFF1BMUMS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0276612dfd247a676c52535ebc"
+    },
+    {
+      "rank": 8,
+      "title": "Ze Ma She'Ani",
+      "artist": "Eyal Golan",
+      "youtubeId": "L4JICrzqC14",
+      "spotifyUri": "spotify:track:7Hmm9Ym0pVyZ9VldcjeZJo",
+      "spotifyUrl": "https://open.spotify.com/track/7Hmm9Ym0pVyZ9VldcjeZJo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244ae44c09eabdeef350c8437"
+    },
+    {
+      "rank": 9,
+      "title": "Shirat Ha'Sticker",
+      "artist": "Hadag Nahash",
+      "youtubeId": "YgJJoYCBkvM",
+      "spotifyUri": "spotify:track:6q407anU9HRxKp0ek7SHf9",
+      "spotifyUrl": "https://open.spotify.com/track/6q407anU9HRxKp0ek7SHf9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b9fefd17a50526e979076913"
+    },
+    {
+      "rank": 10,
+      "title": "Lama Lo Ba Li",
+      "artist": "Rita",
+      "youtubeId": "IB-h_wfEpQk",
+      "spotifyUri": "spotify:track:27U5lNULc7C9nCcuXpMogA",
+      "spotifyUrl": "https://open.spotify.com/track/27U5lNULc7C9nCcuXpMogA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b5f3264319e9b70e0eb5103"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/11AZQpNHSUhPNDQdKvZXKB"
+}

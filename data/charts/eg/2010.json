@@ -1,0 +1,108 @@
+{
+  "country": "eg",
+  "year": 2010,
+  "context": "Egypt's 2010 music scene straddled the old guard and emerging voices on the eve of the Arab Spring. Amr Diab's single 'Aslaha Betefrea' dominated radio, while Tamer Hosny reached peak commercial power with his album 'Ikhtart Sah.' Mohamed Hamaki won MTV's Best Arabia Act, and the underground mahraganat scene was beginning to stir in Cairo's working-class neighborhoods.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Aslaha Betefrea",
+      "artist": "Amr Diab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022a37edda69e67266f05a9753",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
+      "spotifyUrl": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+      "youtubeId": "KqqI8Ig7T7w"
+    },
+    {
+      "rank": 2,
+      "title": "Allah Yebarekly Feek",
+      "artist": "Tamer Hosny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02652d75589e59453b6156abf4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:71fJvs0aE74AG9ipEAxghJ",
+      "spotifyUrl": "https://open.spotify.com/track/71fJvs0aE74AG9ipEAxghJ",
+      "youtubeId": "ihiQh_IV4bU"
+    },
+    {
+      "rank": 3,
+      "title": "Wahda Wahda",
+      "artist": "Mohamed Hamaki",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c83903b5f2a1ab9ecdd1985b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:033pjWqhlOYhivrZStkFl0",
+      "spotifyUrl": "https://open.spotify.com/track/033pjWqhlOYhivrZStkFl0",
+      "youtubeId": "EcWsMDaXNQ4"
+    },
+    {
+      "rank": 4,
+      "title": "Ikhtart Sah",
+      "artist": "Tamer Hosny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021b1cc62b38ae667c7dc001e3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1ucenS2VPhg9ycdApR9kG1",
+      "spotifyUrl": "https://open.spotify.com/track/1ucenS2VPhg9ycdApR9kG1",
+      "youtubeId": "p6p0hTRsCiU"
+    },
+    {
+      "rank": 5,
+      "title": "Zekrayatak Meeh",
+      "artist": "Mohamed Hamaki",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a880327eb5dca0244295143",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:26YGvlmMNFT41QtXWGR0Xi",
+      "spotifyUrl": "https://open.spotify.com/track/26YGvlmMNFT41QtXWGR0Xi",
+      "youtubeId": "rMlOboS95kU"
+    },
+    {
+      "rank": 6,
+      "title": "Sabry Aaleel",
+      "artist": "Sherine",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f5efd372331919ebd9d0fc9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7qLXBcYW78is9LygQBziAU",
+      "spotifyUrl": "https://open.spotify.com/track/7qLXBcYW78is9LygQBziAU",
+      "youtubeId": "cs_ZAIrzUio"
+    },
+    {
+      "rank": 7,
+      "title": "Tagroba W Adeet",
+      "artist": "Amr Diab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02722715296503494b046a66ac",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2UNKku3gCCIWpjW0nXeeSn",
+      "spotifyUrl": "https://open.spotify.com/track/2UNKku3gCCIWpjW0nXeeSn",
+      "youtubeId": "Lw4c5u5YBho"
+    },
+    {
+      "rank": 8,
+      "title": "Kol Marra",
+      "artist": "Mohamed Mounir",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02caf9ffa9fb3d61d45455cedd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Kb87SCKl8pFyKm0yD9TYf",
+      "spotifyUrl": "https://open.spotify.com/track/0Kb87SCKl8pFyKm0yD9TYf",
+      "youtubeId": "YdJQreiBVPM"
+    },
+    {
+      "rank": 9,
+      "title": "Haga Mestakhabeya",
+      "artist": "Tamer Hosny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0290cb2b280a874813c29d311b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3tFY9TfC6GrF8hwIQxQCVx",
+      "spotifyUrl": "https://open.spotify.com/track/3tFY9TfC6GrF8hwIQxQCVx",
+      "youtubeId": "YP08Ds_PMqo"
+    },
+    {
+      "rank": 10,
+      "title": "Ba7ebak Enta",
+      "artist": "Tamer Hosny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021fae10f549a9dba866e9d15f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1IwaVdKM8GjnaNfYxkIlZb",
+      "spotifyUrl": "https://open.spotify.com/track/1IwaVdKM8GjnaNfYxkIlZb",
+      "youtubeId": "xtbOkomDVVQ"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7JJRJhRoGOM1POdyjtuRSa"
+}

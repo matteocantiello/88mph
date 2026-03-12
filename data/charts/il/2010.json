@@ -1,0 +1,98 @@
+{
+  "country": "il",
+  "year": 2010,
+  "context": "Israel's 2010 music scene saw the emergence of a new pop generation alongside enduring mizrahi stars. Omer Adam began his rise to become Israel's biggest pop star, while Static & Ben El would soon revolutionize Israeli pop with their electronic-mizrahi fusion. International hits competed for chart space alongside a strong domestic music industry.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tel Aviv Ya Habibi",
+      "artist": "Omer Adam",
+      "youtubeId": "AoKwsP0RYHI",
+      "spotifyUri": "spotify:track:06gpZtgeFQEcmr5TVwfkbS",
+      "spotifyUrl": "https://open.spotify.com/track/06gpZtgeFQEcmr5TVwfkbS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0227394a07e91477f0723e4b22"
+    },
+    {
+      "rank": 2,
+      "title": "Lama Lo Ba Li",
+      "artist": "Eyal Golan",
+      "youtubeId": "2p3rtnQ_7y4",
+      "spotifyUri": "spotify:track:1Hsxz3THpMGPlUfs6ut8kv",
+      "spotifyUrl": "https://open.spotify.com/track/1Hsxz3THpMGPlUfs6ut8kv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ef12005dd15dcd28a2fccbbe"
+    },
+    {
+      "rank": 3,
+      "title": "Ahava Ktana",
+      "artist": "Harel Skaat",
+      "youtubeId": "YBmnG70_x14",
+      "spotifyUri": "spotify:track:2tWpGexLmGbQbWE22dh9nr",
+      "spotifyUrl": "https://open.spotify.com/track/2tWpGexLmGbQbWE22dh9nr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025524689d9913b2c10bb3ca07"
+    },
+    {
+      "rank": 4,
+      "title": "Milim",
+      "artist": "Harel Skaat",
+      "youtubeId": "qkP8L0MvIl0",
+      "spotifyUri": "spotify:track:5Xf6oYzSxNrRlz5vdNfNSS",
+      "spotifyUrl": "https://open.spotify.com/track/5Xf6oYzSxNrRlz5vdNfNSS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022aa04d6942976291cc3c2345"
+    },
+    {
+      "rank": 5,
+      "title": "Emtza Ha'Derech",
+      "artist": "Shlomo Artzi",
+      "youtubeId": "yRDJj6bLv-M",
+      "spotifyUri": "spotify:track:2gK92y6pVz6ygq8Fc7N2xL",
+      "spotifyUrl": "https://open.spotify.com/track/2gK92y6pVz6ygq8Fc7N2xL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0201f29cb95808086322951517"
+    },
+    {
+      "rank": 6,
+      "title": "Bo Nelech",
+      "artist": "Idan Raichel Project",
+      "youtubeId": "rJNaEJ24JCc",
+      "spotifyUri": "spotify:track:6ISqS9NCSeExL1x4VHmp38",
+      "spotifyUrl": "https://open.spotify.com/track/6ISqS9NCSeExL1x4VHmp38",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02be04194351345a8e3a648d6b"
+    },
+    {
+      "rank": 7,
+      "title": "Shevet Achim Ve'Achayot",
+      "artist": "Subliminal & Eyal Golan",
+      "youtubeId": "bAhxhiyhWtk",
+      "spotifyUri": "spotify:track:5ve92gLYGAgRLQCFTlQ67I",
+      "spotifyUrl": "https://open.spotify.com/track/5ve92gLYGAgRLQCFTlQ67I",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f6baa3dfd144bfeb237fc55a"
+    },
+    {
+      "rank": 8,
+      "title": "Toda",
+      "artist": "Sarit Hadad",
+      "youtubeId": "fZ4adayME8I",
+      "spotifyUri": "spotify:track:6RLQXtGsWZZsDd3Sa5swwF",
+      "spotifyUrl": "https://open.spotify.com/track/6RLQXtGsWZZsDd3Sa5swwF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021bbc84bb8dd47d76d357e01c"
+    },
+    {
+      "rank": 9,
+      "title": "Achshav Ze Ha'Zman",
+      "artist": "Miri Mesika",
+      "youtubeId": "QoEYVEDADGk",
+      "spotifyUri": "spotify:track:0rXOX9yyDrbDRXVrBtb3Qa",
+      "spotifyUrl": "https://open.spotify.com/track/0rXOX9yyDrbDRXVrBtb3Qa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02246dd456ad6730fb8a01c99a"
+    },
+    {
+      "rank": 10,
+      "title": "Ha'Kol Over Habibi",
+      "artist": "Ethnix",
+      "youtubeId": "ziqqdjpf-Oo",
+      "spotifyUri": "spotify:track:1bPUUqR2dMjar8Xnifzv6v",
+      "spotifyUrl": "https://open.spotify.com/track/1bPUUqR2dMjar8Xnifzv6v",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f872b329dc271bdbedd7d4ac"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2sv5mwtsqkt1nSiiIU7L8c"
+}

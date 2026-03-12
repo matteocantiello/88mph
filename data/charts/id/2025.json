@@ -1,0 +1,108 @@
+{
+  "country": "id",
+  "year": 2025,
+  "context": "Indonesia's 2025 music scene continued its streaming-driven evolution, with artists like Mahalini, Nadin Amizah, and Tulus commanding massive audiences across Southeast Asia. Indonesian pop's emotional sincerity and melodic sophistication attracted growing international attention, while dangdut koplo remained a cultural institution through viral TikTok moments.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Sial",
+      "artist": "Mahalini",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f713eb92ebf7ca05a562542",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6O0WEM0QNEhqpU50BKui7o",
+      "spotifyUrl": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o",
+      "youtubeId": "2MyjWg7P00A"
+    },
+    {
+      "rank": 2,
+      "title": "Hati-Hati di Jalan",
+      "artist": "Tulus",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d34a0632f6861e8875d6899b",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2hHeGD57S0BcopfVcmehdl",
+      "spotifyUrl": "https://open.spotify.com/track/2hHeGD57S0BcopfVcmehdl",
+      "youtubeId": "E7kHvjvU6JY"
+    },
+    {
+      "rank": 3,
+      "title": "Bohong",
+      "artist": "Mahalini",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f713eb92ebf7ca05a562542",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6gARWk9hXgTUImaKUsTu6w",
+      "spotifyUrl": "https://open.spotify.com/track/6gARWk9hXgTUImaKUsTu6w",
+      "youtubeId": "EFa3y1dIlN8"
+    },
+    {
+      "rank": 4,
+      "title": "Bernadya",
+      "artist": "Apa Mungkin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028869d13091935994879f2a47",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5KYUrBgdbIcqwaGSIgfXPl",
+      "spotifyUrl": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl",
+      "youtubeId": "uQRPYI_MrYs"
+    },
+    {
+      "rank": 5,
+      "title": "Kini Mereka Tahu",
+      "artist": "Nadin Amizah",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0294847679fe7b10e27d9803f5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5P84OAFuXOV18E3PQJ8dFz",
+      "spotifyUrl": "https://open.spotify.com/track/5P84OAFuXOV18E3PQJ8dFz",
+      "youtubeId": "IqVSxkOxboE"
+    },
+    {
+      "rank": 6,
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0246085aa1855bd888abc51a5a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+      "spotifyUrl": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+      "youtubeId": "DiTd771WumE"
+    },
+    {
+      "rank": 7,
+      "title": "Satu Rasa Cinta",
+      "artist": "Arief",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02abb03e2330d646ab68508773",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2rzHka4Hnut1s1kBucyn7C",
+      "spotifyUrl": "https://open.spotify.com/track/2rzHka4Hnut1s1kBucyn7C",
+      "youtubeId": "QR1sRkvE7m0"
+    },
+    {
+      "rank": 8,
+      "title": "Die With a Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+      "youtubeId": "DlFXDl_ROAM"
+    },
+    {
+      "rank": 9,
+      "title": "Ku Ingin Pisah",
+      "artist": "Bernadya",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b7044a4b1d903117ab7594b1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1uy2DsaTtdBO9jBo7KBLWE",
+      "spotifyUrl": "https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE",
+      "youtubeId": "-PvSxXZ4GHo"
+    },
+    {
+      "rank": 10,
+      "title": "Pura-Pura Lupa",
+      "artist": "Mahen",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a1d20ea063bdfe3f4989bdee",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:48x5fpsRMinILFWmbidU10",
+      "spotifyUrl": "https://open.spotify.com/track/48x5fpsRMinILFWmbidU10",
+      "youtubeId": "tSMVAp6eouE"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/00DFm9dDigNoTWsGor8gKO"
+}

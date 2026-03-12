@@ -1,0 +1,108 @@
+{
+  "country": "gh",
+  "year": 2010,
+  "context": "Ghana's music scene in 2010 saw the rise of a new generation led by Sarkodie and R2Bees alongside hiplife veterans like Castro and VIP. The Azonto dance craze was emerging, Castro's collaboration with footballer Asamoah Gyan became a continental hit, and highlife-infused pop from Becca and Kwabena Kwabena balanced the hip-hop dominance.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "African Girls",
+      "artist": "Castro ft. Asamoah Gyan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6e3542eeb65089f096623a5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2gJyU3SUGCO3RIwyx34q1P",
+      "spotifyUrl": "https://open.spotify.com/track/2gJyU3SUGCO3RIwyx34q1P",
+      "youtubeId": "6VzywnvgpbY"
+    },
+    {
+      "rank": 2,
+      "title": "Aha Yede",
+      "artist": "Nana Boroo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02936d37089407a7ab6509cbc4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:46cGEBhmfIsSpJm8G7nQ0Q",
+      "spotifyUrl": "https://open.spotify.com/track/46cGEBhmfIsSpJm8G7nQ0Q",
+      "youtubeId": "TdIQN7MD8bY"
+    },
+    {
+      "rank": 3,
+      "title": "Simple",
+      "artist": "Bradez (Flowking Stone & Okyeame Kwame)",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c2f037ce0ac7af6e96b73191",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2miVKYn9hxqcybcc0SRlT5",
+      "spotifyUrl": "https://open.spotify.com/track/2miVKYn9hxqcybcc0SRlT5",
+      "youtubeId": "yjUYcncbduc"
+    },
+    {
+      "rank": 4,
+      "title": "Baby (Babe)",
+      "artist": "Sarkodie ft. Mugeez",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029ec7d8d768caec61f3ebeb1a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1DW5V8xF4x7yUnY3dRjTvO",
+      "spotifyUrl": "https://open.spotify.com/track/1DW5V8xF4x7yUnY3dRjTvO",
+      "youtubeId": "8tDOTuzrXP4"
+    },
+    {
+      "rank": 5,
+      "title": "Daa Ke Daa",
+      "artist": "Becca",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ddc945de33bf802546d26e81",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2LGrTlZ5Zh2WH0L5h4GAhS",
+      "spotifyUrl": "https://open.spotify.com/track/2LGrTlZ5Zh2WH0L5h4GAhS",
+      "youtubeId": "nBz0lNNf3NI"
+    },
+    {
+      "rank": 6,
+      "title": "Push",
+      "artist": "Sarkodie",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02257c88b1b7e1db5582b49b3c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0kwQUzF4rvRkwdO6J3dTsx",
+      "spotifyUrl": "https://open.spotify.com/track/0kwQUzF4rvRkwdO6J3dTsx",
+      "youtubeId": "XWK5-VUEYQ8"
+    },
+    {
+      "rank": 7,
+      "title": "My Life",
+      "artist": "Trigmatic",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02070754b1fc09d567f596cb36",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:68Xvid952bnDlZfnJZNNkM",
+      "spotifyUrl": "https://open.spotify.com/track/68Xvid952bnDlZfnJZNNkM",
+      "youtubeId": "a-J2v9iOCrc"
+    },
+    {
+      "rank": 8,
+      "title": "Dadea Anoma",
+      "artist": "Kwabena Kwabena",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c9f46c1e91a55ce66ba01afa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4whMB5bQLGBWqP2LSUFcAp",
+      "spotifyUrl": "https://open.spotify.com/track/4whMB5bQLGBWqP2LSUFcAp",
+      "youtubeId": "oWsp78F1C5w"
+    },
+    {
+      "rank": 9,
+      "title": "Seihor",
+      "artist": "Castro",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0215e1330b77b90e3d2413d9cf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5iv7WkYexGay1BNXXLWYI1",
+      "spotifyUrl": "https://open.spotify.com/track/5iv7WkYexGay1BNXXLWYI1",
+      "youtubeId": "9_hDr3hrmWA"
+    },
+    {
+      "rank": 10,
+      "title": "Get on the Dancefloor",
+      "artist": "D-Black",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ee94a4d6192c39eda0761a73",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2vuFWqqxlc8Jyup71l7LgS",
+      "spotifyUrl": "https://open.spotify.com/track/2vuFWqqxlc8Jyup71l7LgS",
+      "youtubeId": "WWDTKZ3OuDI"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6Dfrz2TR3dCXSGv5JMIk0c"
+}

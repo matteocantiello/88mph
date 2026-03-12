@@ -1,0 +1,108 @@
+{
+  "country": "co",
+  "year": 2000,
+  "context": "The year 2000 saw Colombia's music internationalize dramatically. Shakira was conquering global markets with 'Ojos Así' and her MTV Unplugged, while Carlos Vives continued modernizing vallenato-pop. Juanes debuted with 'Fíjate Bien,' winning three Latin Grammys, and the tropipop movement was emerging.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ojos Así",
+      "artist": "Shakira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4EDfdYJ7mqXRoWAqzF1PVO",
+      "spotifyUrl": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO",
+      "youtubeId": "WHF_PdQ6zIE"
+    },
+    {
+      "rank": 2,
+      "title": "Fíjate Bien",
+      "artist": "Juanes",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0229c76e25ad189e78fc769d2c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3wE4fvPhhScUAhY37TDc1D",
+      "spotifyUrl": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D",
+      "youtubeId": "GNz58cPbkwc"
+    },
+    {
+      "rank": 3,
+      "title": "Fruta Fresca",
+      "artist": "Carlos Vives",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a27a644e5a9238511847224",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1lcaG7worZLgdGuniOfGje",
+      "spotifyUrl": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje",
+      "youtubeId": "in8rFQZsagQ"
+    },
+    {
+      "rank": 4,
+      "title": "Carito",
+      "artist": "Carlos Vives",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0256ca6e39fb22dc21d9b9ac73",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5czkBkWogUvTf2jleGyHaQ",
+      "spotifyUrl": "https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ",
+      "youtubeId": "1hKd8xRAR-k"
+    },
+    {
+      "rank": 5,
+      "title": "Estoy Aquí",
+      "artist": "Shakira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02021b9779a9dbaa6a976edb2d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4M1lEbqPzlEw1JYWB6aE7K",
+      "spotifyUrl": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K",
+      "youtubeId": "2LdMMk8V3V8"
+    },
+    {
+      "rank": 6,
+      "title": "Mi Primer Millón",
+      "artist": "Bacilos",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e1f4c211ce1ef95454bbbcc4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5fSDXbY8o9pA3TKwAbfwML",
+      "spotifyUrl": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML",
+      "youtubeId": "MpMGgzx9fiE"
+    },
+    {
+      "rank": 7,
+      "title": "Pa' Mayte",
+      "artist": "Carlos Vives",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ad704eb183a0a6f01bbc56d8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:00gAVWgRJy92PCAHFzVu83",
+      "spotifyUrl": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83",
+      "youtubeId": "ANzuVrjx3Nc"
+    },
+    {
+      "rank": 8,
+      "title": "Cómo Te Extraño Mi Amor",
+      "artist": "Café Tacvba",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244fc111787f221cf5629a2b9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6hFHsQWB7HdVrSe7efRR82",
+      "spotifyUrl": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82",
+      "youtubeId": "W5ka8Y3Cu4Q"
+    },
+    {
+      "rank": 9,
+      "title": "Inevitable",
+      "artist": "Shakira",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:78dbqYDvx6FOefROApu9w0",
+      "spotifyUrl": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0",
+      "youtubeId": "KvsC0FXhAwU"
+    },
+    {
+      "rank": 10,
+      "title": "La Tierra del Olvido",
+      "artist": "Carlos Vives",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ad704eb183a0a6f01bbc56d8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1TPZ028i7BWWS5xW4UN9ss",
+      "spotifyUrl": "https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss",
+      "youtubeId": "xC-oRMeWd3I"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0IXK7dsqp80w77fgJdgLrH"
+}

@@ -1,0 +1,105 @@
+{
+  "country": "il",
+  "year": 2000,
+  "context": "Israel's music scene in 2000 was vibrant and diverse, with Dana International's Eurovision triumph still resonating. Eyal Golan became the king of modern mizrahi pop, Sarit Hadad dominated radio with her powerful vocals, and the Idan Raichel Project began its groundbreaking fusion of Ethiopian, Middle Eastern, and electronic sounds.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Bo",
+      "artist": "Sarit Hadad",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021bbc84bb8dd47d76d357e01c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6RLQXtGsWZZsDd3Sa5swwF",
+      "spotifyUrl": "https://open.spotify.com/track/6RLQXtGsWZZsDd3Sa5swwF",
+      "youtubeId": "AGVJ6AdX6PA"
+    },
+    {
+      "rank": 2,
+      "title": "Hayom Ze Ha'Yom",
+      "artist": "Eyal Golan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028b31df1979f773bb17366c91",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7gBx9hfV6Lgn2GC6jduEMm",
+      "spotifyUrl": "https://open.spotify.com/track/7gBx9hfV6Lgn2GC6jduEMm",
+      "youtubeId": "8QG1fWKJZsY"
+    },
+    {
+      "rank": 3,
+      "title": "Diva",
+      "artist": "Dana International",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020e3d0c03490ab7549192c937",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5g4rGXAdV7dYKGPmrUQ3ge",
+      "spotifyUrl": "https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge",
+      "youtubeId": "Hix1p6JT8Js"
+    },
+    {
+      "rank": 4,
+      "title": "Ahava Ze Lo Raq Miluim",
+      "artist": "Shlomo Artzi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244ae44c09eabdeef350c8437",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:15NPHbxFNQJ2kZDLRrwJeI",
+      "spotifyUrl": "https://open.spotify.com/track/15NPHbxFNQJ2kZDLRrwJeI"
+    },
+    {
+      "rank": 5,
+      "title": "Lama Li",
+      "artist": "Sarit Hadad",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02def3abb4064a350f26da7331",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0oy9MSfxuqqda3ysYJwHf6",
+      "spotifyUrl": "https://open.spotify.com/track/0oy9MSfxuqqda3ysYJwHf6",
+      "youtubeId": "QdFmb-ZSJcY"
+    },
+    {
+      "rank": 6,
+      "title": "Mi'Ma'amakim",
+      "artist": "Idan Raichel Project",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e8927570a53e6679f4c63bd",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0EItG9IYrhffJ2MOU9pW0Q",
+      "spotifyUrl": "https://open.spotify.com/track/0EItG9IYrhffJ2MOU9pW0Q",
+      "youtubeId": "24cMDy1j86U"
+    },
+    {
+      "rank": 7,
+      "title": "Lev Zahav",
+      "artist": "Eyal Golan",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0276612dfd247a676c52535ebc",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3rjpaHauS05qHKFF1BMUMS",
+      "spotifyUrl": "https://open.spotify.com/track/3rjpaHauS05qHKFF1BMUMS",
+      "youtubeId": "QhzAg2sQyOM"
+    },
+    {
+      "rank": 8,
+      "title": "Rak Itcha",
+      "artist": "Subliminal & The Shadow",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a23f88f9cf1eebd57812b9c3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3KBJBBoFFrTS43aFrxphLk",
+      "spotifyUrl": "https://open.spotify.com/track/3KBJBBoFFrTS43aFrxphLk"
+    },
+    {
+      "rank": 9,
+      "title": "Seret Hodi",
+      "artist": "Subliminal",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ac4f20a3ca2dfde626a53bf5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4RZxj7BmKmlKAryPNkDXjt",
+      "spotifyUrl": "https://open.spotify.com/track/4RZxj7BmKmlKAryPNkDXjt",
+      "youtubeId": "f9gAT9I3KJw"
+    },
+    {
+      "rank": 10,
+      "title": "Ahava Hi Milchama",
+      "artist": "Rita",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d164c65c0f80ad3257abe1f5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:363ehd00Bbas1dfKX4Ltl7",
+      "spotifyUrl": "https://open.spotify.com/track/363ehd00Bbas1dfKX4Ltl7"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1mdRaEj7vf4I9TWeaGaTCW"
+}

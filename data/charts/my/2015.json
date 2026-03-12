@@ -1,0 +1,98 @@
+{
+  "country": "my",
+  "year": 2015,
+  "context": "Malaysia's 2015 saw streaming platforms begin to reshape the industry alongside traditional radio. Dato' Siti Nurhaliza remained Malaysia's biggest artist, while Yuna achieved international recognition with her Owl City collaboration. Local hip-hop and R&B acts like SonaOne and Altimet gained ground, and K-pop's influence grew among Malaysian youth.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Aku Cinta Padamu",
+      "artist": "Dato' Siti Nurhaliza",
+      "youtubeId": "FfN3RiAFIQo",
+      "spotifyUri": "spotify:track:7IsErGQbe4jnjBKLd2uGoq",
+      "spotifyUrl": "https://open.spotify.com/track/7IsErGQbe4jnjBKLd2uGoq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0208504dfe14087e53eb7f9b2f"
+    },
+    {
+      "rank": 2,
+      "title": "Crush",
+      "artist": "Yuna feat. Usher",
+      "youtubeId": "zEN5ssnldUw",
+      "spotifyUri": "spotify:track:3Txcx4jhuiTZSvhAL0WaRc",
+      "spotifyUrl": "https://open.spotify.com/track/3Txcx4jhuiTZSvhAL0WaRc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0243af1e35eb5caee319858e51"
+    },
+    {
+      "rank": 3,
+      "title": "No More",
+      "artist": "SonaOne",
+      "youtubeId": "OVLB4CHgOZc",
+      "spotifyUri": "spotify:track:1yWsZh7G6lgB1wvJ6Mi5CO",
+      "spotifyUrl": "https://open.spotify.com/track/1yWsZh7G6lgB1wvJ6Mi5CO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0266f982660f33d09a283a482b"
+    },
+    {
+      "rank": 4,
+      "title": "Bukan Cinta Biasa",
+      "artist": "Afgan",
+      "youtubeId": "x32MH5RLPRw",
+      "spotifyUri": "spotify:track:2kXUq8SIHCF1Go1RhSEZ3G",
+      "spotifyUrl": "https://open.spotify.com/track/2kXUq8SIHCF1Go1RhSEZ3G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6484860372d99e76c078b59"
+    },
+    {
+      "rank": 5,
+      "title": "Anugerah Terindah",
+      "artist": "Alif Satar",
+      "youtubeId": "nJZcGQZgNX4",
+      "spotifyUri": "spotify:track:3thk64qVZxCjkuTgzfrdon",
+      "spotifyUrl": "https://open.spotify.com/track/3thk64qVZxCjkuTgzfrdon",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023e2bc4529cf01542260ae25f"
+    },
+    {
+      "rank": 6,
+      "title": "Pelangi Senja",
+      "artist": "Aizat Amdan",
+      "youtubeId": "UJrbbAXHUM0",
+      "spotifyUri": "spotify:track:3QXXfiedawWWQQUljBwh75",
+      "spotifyUrl": "https://open.spotify.com/track/3QXXfiedawWWQQUljBwh75",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02118f4474b18701955ea75e80"
+    },
+    {
+      "rank": 7,
+      "title": "Demi Cinta",
+      "artist": "Kerispatih",
+      "youtubeId": "O9wqqT7-KI0",
+      "spotifyUri": "spotify:track:2SscarnRY3zdkORvPu9JGZ",
+      "spotifyUrl": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02899fb8089df3acdc70fc2459"
+    },
+    {
+      "rank": 8,
+      "title": "Aku Skandal",
+      "artist": "Siti Nordiana",
+      "youtubeId": "vreI7neUhq0",
+      "spotifyUri": "spotify:track:3Xdr8h6pG9y2qLx8VIJPSb",
+      "spotifyUrl": "https://open.spotify.com/track/3Xdr8h6pG9y2qLx8VIJPSb",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b34ba980fea1e66918709a8"
+    },
+    {
+      "rank": 9,
+      "title": "Takkan Pernah Hilang",
+      "artist": "Akim & The Majistret",
+      "youtubeId": "dj-ug6Mf0do",
+      "spotifyUri": "spotify:track:5TomwekdYPBKzfgLdWZcxS",
+      "spotifyUrl": "https://open.spotify.com/track/5TomwekdYPBKzfgLdWZcxS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029990835a6bee1e786bcfa579"
+    },
+    {
+      "rank": 10,
+      "title": "Cinta Syurga",
+      "artist": "Dato' Sri Siti Nurhaliza & Khai Bahar",
+      "youtubeId": "TMcMpy7gryY",
+      "spotifyUri": "spotify:track:2rkvQ9DHfTCh6jay5T8uTU",
+      "spotifyUrl": "https://open.spotify.com/track/2rkvQ9DHfTCh6jay5T8uTU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e72e476ee8e2510aee62913"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/7KlamwArspsZNDGApcQRmw"
+}

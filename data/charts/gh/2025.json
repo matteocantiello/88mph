@@ -1,0 +1,108 @@
+{
+  "country": "gh",
+  "year": 2025,
+  "context": "Black Sherif's sophomore album 'Iron Boy' dominated 2025, claiming all top 10 spots on Apple Music Ghana and breaking single-day streaming records. MOLIY's 'Shake It to the Max' became a global viral hit reaching the Billboard Hot 100, King Promise won Artist of the Year at the Telecel Ghana Music Awards, and Ghana's afrobeats-drill fusion continued its international ascent.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Sacrifice",
+      "artist": "Black Sherif",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240bf26bf68342abecb59ba93",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3bdntVS2dHPTPitwms9gLK",
+      "spotifyUrl": "https://open.spotify.com/track/3bdntVS2dHPTPitwms9gLK",
+      "youtubeId": "MqkcvZsql-E"
+    },
+    {
+      "rank": 2,
+      "title": "Shake It to the Max (Fly)",
+      "artist": "MOLIY & Silent Addy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020069ee4e37f913fb1653b389",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0QCIpQV3twfqo9kh0t8Zza",
+      "spotifyUrl": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza",
+      "youtubeId": "EVwh5pJj5KY"
+    },
+    {
+      "rank": 3,
+      "title": "Iron Boy",
+      "artist": "Black Sherif",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240bf26bf68342abecb59ba93",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:59X0S97TIZ0h1cs7nnNROJ",
+      "spotifyUrl": "https://open.spotify.com/track/59X0S97TIZ0h1cs7nnNROJ",
+      "youtubeId": "JBrtuXvHnMI"
+    },
+    {
+      "rank": 4,
+      "title": "So It Goes",
+      "artist": "Black Sherif ft. Fireboy DML",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a646a495fa34b32e880acdbe",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6vdBrKmHnc4olLRIqunqnK",
+      "spotifyUrl": "https://open.spotify.com/track/6vdBrKmHnc4olLRIqunqnK",
+      "youtubeId": "dJQ6LLH_HEc"
+    },
+    {
+      "rank": 5,
+      "title": "Aseda",
+      "artist": "King Paluta",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02727daf34f681a9a0d02fe9f0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6oNuASyQEzd7Z6VsF1hKNG",
+      "spotifyUrl": "https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG",
+      "youtubeId": "sJ_pTQJ0_CE"
+    },
+    {
+      "rank": 6,
+      "title": "Top of the Morning",
+      "artist": "Black Sherif",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240bf26bf68342abecb59ba93",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7C2ld7CGhCilI6w07NG3jZ",
+      "spotifyUrl": "https://open.spotify.com/track/7C2ld7CGhCilI6w07NG3jZ",
+      "youtubeId": "ayzacSYLFtI"
+    },
+    {
+      "rank": 7,
+      "title": "Paris",
+      "artist": "King Promise",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026d619b3fff01aec604513b08",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3varTiHGif7hoPSflFz0pQ",
+      "spotifyUrl": "https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ",
+      "youtubeId": "Yss0AUX6t9o"
+    },
+    {
+      "rank": 8,
+      "title": "Lomo Lomo",
+      "artist": "KiDi ft. Black Sherif",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0297caf214c674cd2d6b0f4f14",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:12jJRu9yInIX7oTxoXtM0S",
+      "spotifyUrl": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S",
+      "youtubeId": "y4yaPXSFOCw"
+    },
+    {
+      "rank": 9,
+      "title": "Dreamer",
+      "artist": "Black Sherif",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0240bf26bf68342abecb59ba93",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2kLiFLe4F3YCBqOd3YrWED",
+      "spotifyUrl": "https://open.spotify.com/track/2kLiFLe4F3YCBqOd3YrWED",
+      "youtubeId": "0p_9j2aEg8g"
+    },
+    {
+      "rank": 10,
+      "title": "Jejereje",
+      "artist": "Stonebwoy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025233715c743eef33e6b257d7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:41Hcaaq9M9sOX8mte5JkcF",
+      "spotifyUrl": "https://open.spotify.com/track/41Hcaaq9M9sOX8mte5JkcF",
+      "youtubeId": "-EOMXcHQ3_k"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3lm4W9MdiR7ttz0H61IN5k"
+}

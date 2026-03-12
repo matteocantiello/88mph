@@ -1,0 +1,104 @@
+{
+  "country": "gh",
+  "year": 2000,
+  "context": "The year 2000 marked the golden age of hiplife, the genre born from fusing hip-hop with traditional highlife rhythms. Daddy Lumba dominated highlife, Reggie Rockstone remained the godfather of hiplife, and groups like VIP, Buk Bak, and Akyeame were at their peak, performing in Twi and pidgin to massive local audiences.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Aben Wo Ha",
+      "artist": "Daddy Lumba",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024778dc8dc17a2c9af3a4c9e1",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1sw1Ahq16MtmeFIwEgXxKm",
+      "spotifyUrl": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm",
+      "youtubeId": "yUK-Bx1Q8Uw"
+    },
+    {
+      "rank": 2,
+      "title": "Masan Aba",
+      "artist": "Akyeame",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282b411d1249a11e249b4400a",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4cEWZvR2wkb8aEB1vkTQDS",
+      "spotifyUrl": "https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS",
+      "youtubeId": "hb1CFsKazDY"
+    },
+    {
+      "rank": 3,
+      "title": "Yaanom",
+      "artist": "Obrafour",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020a7289b58b04a975917d2982",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:73lU8bRM34fEEISyAD9qSD",
+      "spotifyUrl": "https://open.spotify.com/track/73lU8bRM34fEEISyAD9qSD",
+      "youtubeId": "-fnQmFKnMCk"
+    },
+    {
+      "rank": 4,
+      "title": "Ahomka Womu",
+      "artist": "VIP",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025ddd6209285054f51335db82",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4s5OFaXyadqE9uTaNYTKQw",
+      "spotifyUrl": "https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw",
+      "youtubeId": "xXKdLWEO5nc"
+    },
+    {
+      "rank": 5,
+      "title": "Klu Blofo",
+      "artist": "Buk Bak",
+      "youtubeId": "1UR1jGOOtFA"
+    },
+    {
+      "rank": 6,
+      "title": "Keep Your Eyes on the Road",
+      "artist": "Reggie Rockstone",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0223fad9f55383b7ca9382cac0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:639cMnli2vqHWDrPo1mEba",
+      "spotifyUrl": "https://open.spotify.com/track/639cMnli2vqHWDrPo1mEba",
+      "youtubeId": "nKSLtuoz7Gs"
+    },
+    {
+      "rank": 7,
+      "title": "Odo Colour",
+      "artist": "K.K. Fosu",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02557a2cde14354eb1c1f3267d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7kyYt8uQdjJwSP60Vcgsw2",
+      "spotifyUrl": "https://open.spotify.com/track/7kyYt8uQdjJwSP60Vcgsw2",
+      "youtubeId": "ncbBq3IGCG4"
+    },
+    {
+      "rank": 8,
+      "title": "Naanka Ebeye Den",
+      "artist": "Nana Acheampong",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02888244114c01bfddf32f8ebf",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4SOul3MZSc3bVRrfMXZoHY",
+      "spotifyUrl": "https://open.spotify.com/track/4SOul3MZSc3bVRrfMXZoHY",
+      "youtubeId": "naSJHqKYsZc"
+    },
+    {
+      "rank": 9,
+      "title": "Sweetie Sweetie",
+      "artist": "Nana Quame",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c00d12ec2b2724ea9461d2c5",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:23O2AlkIgwf3Gyqq4wiOtr",
+      "spotifyUrl": "https://open.spotify.com/track/23O2AlkIgwf3Gyqq4wiOtr",
+      "youtubeId": "IOsSHmO_bmQ"
+    },
+    {
+      "rank": 10,
+      "title": "Nsuo Amma",
+      "artist": "Ofori Amponsah",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025855feb1782c1a6c1d1ae3fa",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:29KSNCJYEeCHjGILRTHvFa",
+      "spotifyUrl": "https://open.spotify.com/track/29KSNCJYEeCHjGILRTHvFa",
+      "youtubeId": "_RXL9nDbVa4"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2xLbayigUjbx3EHQkTft9R"
+}

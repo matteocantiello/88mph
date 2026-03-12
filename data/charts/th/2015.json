@@ -1,0 +1,94 @@
+{
+  "country": "th",
+  "year": 2015,
+  "context": "Thailand's 2015 music scene reflected a growing digital-first culture, with YouTube and streaming reshaping consumption. Getsunova led a wave of Thai indie-pop crossover, while established acts like Bodyslam and Potato maintained their dominance. K-pop's influence grew stronger, and Thai hip-hop began its mainstream emergence.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Kon Kae Sai Jai",
+      "artist": "Getsunova",
+      "youtubeId": "NZY62fSJ1Cg",
+      "spotifyUri": "spotify:track:2H4jIi6TjpY8bXOq6BRzNF",
+      "spotifyUrl": "https://open.spotify.com/track/2H4jIi6TjpY8bXOq6BRzNF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a5f8e9b2afc916454d4f58f"
+    },
+    {
+      "rank": 2,
+      "title": "Kraam",
+      "artist": "Bodyslam",
+      "youtubeId": "6uxTE0h6w94"
+    },
+    {
+      "rank": 3,
+      "title": "Fan Ja",
+      "artist": "Palmy",
+      "youtubeId": "ePPBGxFEfuw",
+      "spotifyUri": "spotify:track:6xH4G9LcES3cNwg5Yl0sde",
+      "spotifyUrl": "https://open.spotify.com/track/6xH4G9LcES3cNwg5Yl0sde",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02338dea32aa79482bce09e40e"
+    },
+    {
+      "rank": 4,
+      "title": "Kha Noi Nid Nueng",
+      "artist": "Da Endorphine",
+      "spotifyUri": "spotify:track:26EUempXuAcWOmVrWboKEU",
+      "spotifyUrl": "https://open.spotify.com/track/26EUempXuAcWOmVrWboKEU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0223d481ccab488ac020cd4d57"
+    },
+    {
+      "rank": 5,
+      "title": "Khop Khun Thi Rak Gan",
+      "artist": "Potato",
+      "youtubeId": "Bcrwejmc9EU",
+      "spotifyUri": "spotify:track:6g8a85AOqNgBAMFiqtgyWh",
+      "spotifyUrl": "https://open.spotify.com/track/6g8a85AOqNgBAMFiqtgyWh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024fa5f6e780926257bc6a8572"
+    },
+    {
+      "rank": 6,
+      "title": "Yahk Bok Hai Roo",
+      "artist": "Stamp",
+      "youtubeId": "cfE3OMA11Is",
+      "spotifyUri": "spotify:track:6DOdNyLa1CQeZbI7gdRaUr",
+      "spotifyUrl": "https://open.spotify.com/track/6DOdNyLa1CQeZbI7gdRaUr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e5a32d7c4af26c2d20962040"
+    },
+    {
+      "rank": 7,
+      "title": "Rak Thur Mak Loei",
+      "artist": "Bird Thongchai McIntyre",
+      "youtubeId": "s58QNEs4Kn8",
+      "spotifyUri": "spotify:track:0HoimIevP015OpVBROD9vq",
+      "spotifyUrl": "https://open.spotify.com/track/0HoimIevP015OpVBROD9vq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024d665adf47c67d173ea8d2df"
+    },
+    {
+      "rank": 8,
+      "title": "Pleng Ruk",
+      "artist": "25hours",
+      "youtubeId": "ovLjBUFa_gg",
+      "spotifyUri": "spotify:track:7AAiVAlgGaimkVEVCf3h5n",
+      "spotifyUrl": "https://open.spotify.com/track/7AAiVAlgGaimkVEVCf3h5n",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02409d8b39d411526f5903754f"
+    },
+    {
+      "rank": 9,
+      "title": "Fai Yen",
+      "artist": "Getsunova",
+      "youtubeId": "VbpGYCj-oGA",
+      "spotifyUri": "spotify:track:1rGxB4JU4qemdKErRszshK",
+      "spotifyUrl": "https://open.spotify.com/track/1rGxB4JU4qemdKErRszshK",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026fa5dff2130a632bdf7076a7"
+    },
+    {
+      "rank": 10,
+      "title": "Ruk Nai Sai Lom",
+      "artist": "Scrubb",
+      "youtubeId": "03xOU4xyYMo",
+      "spotifyUri": "spotify:track:0QjD1hM2XoQ6dcsuYEMPL3",
+      "spotifyUrl": "https://open.spotify.com/track/0QjD1hM2XoQ6dcsuYEMPL3",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6cf85b087601c5ed3920eb9"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1drfFQRFJURQdsfCQFg2Bf"
+}

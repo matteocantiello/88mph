@@ -1,0 +1,108 @@
+{
+  "country": "cl",
+  "year": 2015,
+  "context": "Chile's 2015 saw reggaeton and Latin pop take over the mainstream, with J Balvin and Nicky Jam leading the charge. Mon Laferte was emerging as Chile's most exciting new artist, blending ranchera, pop, and indie into a distinctive sound that would make her a continental star.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "El Perdón",
+      "artist": "Nicky Jam feat. Enrique Iglesias",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b242b4213fb5c21d97dbbf4d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7qCAVkHWZkF44OzOUKf8Cr",
+      "spotifyUrl": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr",
+      "youtubeId": "zs6aDvOTlMo"
+    },
+    {
+      "rank": 2,
+      "title": "Ginza",
+      "artist": "J Balvin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02734b36a0655aae40d78d70f4",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2C2TGgFzrTRIOdQS1vUN5h",
+      "spotifyUrl": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h",
+      "youtubeId": "T2eguXvbV7s"
+    },
+    {
+      "rank": 3,
+      "title": "Lean On",
+      "artist": "Major Lazer & DJ Snake feat. MØ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ebfa624d999cf26524bfb90",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0gL7suKdyvMzjm752AQzMd",
+      "spotifyUrl": "https://open.spotify.com/track/0gL7suKdyvMzjm752AQzMd",
+      "youtubeId": "5vOid-7uBdQ"
+    },
+    {
+      "rank": 4,
+      "title": "Tu Falta de Querer",
+      "artist": "Mon Laferte",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025eebf3f8ec6e9807105f3151",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4skuEIloXWuxxgekKupkEH",
+      "spotifyUrl": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH",
+      "youtubeId": "53hsFyX4Hh8"
+    },
+    {
+      "rank": 5,
+      "title": "Bailando",
+      "artist": "Enrique Iglesias feat. Gente de Zona",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0290b2ea6298a6e5d98e60d6ec",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5H8bSa8cVKMS44Wy6ngAHU",
+      "spotifyUrl": "https://open.spotify.com/track/5H8bSa8cVKMS44Wy6ngAHU",
+      "youtubeId": "Iz0hjRq40ko"
+    },
+    {
+      "rank": 6,
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02442b53773d50e1b5369bb16c",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2iuZJX9X9P0GKaE93xcPjk",
+      "spotifyUrl": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk",
+      "youtubeId": "iPcX6EpJI3o"
+    },
+    {
+      "rank": 7,
+      "title": "Ay Vamos",
+      "artist": "J Balvin",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024277da4c011dcc87f012bbab",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6Ges5C2IE738iJh4HyQizQ",
+      "spotifyUrl": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ",
+      "youtubeId": "6B76JriqgSY"
+    },
+    {
+      "rank": 8,
+      "title": "Travesuras",
+      "artist": "Nicky Jam",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02df424ca04adbeee670990046",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7AJ4RXkc0JWZqeQqzymSjv",
+      "spotifyUrl": "https://open.spotify.com/track/7AJ4RXkc0JWZqeQqzymSjv",
+      "youtubeId": "OxxggwHFj7M"
+    },
+    {
+      "rank": 9,
+      "title": "See You Again",
+      "artist": "Wiz Khalifa feat. Charlie Puth",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e5df11b17b2727da2b718d8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2JzZzZUQj3Qff7wapcbKjc",
+      "spotifyUrl": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc",
+      "youtubeId": "xl8thVrlvjI"
+    },
+    {
+      "rank": 10,
+      "title": "Mi Amor",
+      "artist": "Mon Laferte",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ac6e52ed084e8209691f208f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:28UP90XhjCovLtieduYr9P",
+      "spotifyUrl": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P",
+      "youtubeId": "bId_8k1gfjA"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4S0KZgNCXjZBt9EjOECtC8"
+}

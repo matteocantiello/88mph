@@ -1,0 +1,108 @@
+{
+  "country": "ar",
+  "year": 2025,
+  "context": "Argentina cemented its status as Latin America's trap and urban music powerhouse in 2025. Duki, María Becerra, and Tini dominated both domestic and international streaming charts. The Argentine sound — characterized by trap beats, cumbia fusions, and reggaeton — continued its global conquest, with Buenos Aires rivaling Medellín as a Latin music capital.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+      "spotifyUrl": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "youtubeId": "TiebZllW8As"
+    },
+    {
+      "rank": 2,
+      "title": "Amargura",
+      "artist": "Karol G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282de1ca074ae63cb18fce335",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:505v13epFXodT9fVAJ6h8k",
+      "spotifyUrl": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k",
+      "youtubeId": "fEWhm_TVvUw"
+    },
+    {
+      "rank": 3,
+      "title": "Si Antes Te Hubiera Conocido",
+      "artist": "Karol G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026c0294796e2ee5cf87a47b5f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:73scB4Q4fcOmnsBVZPmk32",
+      "spotifyUrl": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32",
+      "youtubeId": "eih8K1MZqZc"
+    },
+    {
+      "rank": 4,
+      "title": "Contigo",
+      "artist": "Tini & María Becerra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02903f1a327630a0be2a9856f0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3dEtfTtCXWW7N8WQ9FD29z",
+      "spotifyUrl": "https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z",
+      "youtubeId": "ZYetOeg1FnU"
+    },
+    {
+      "rank": 5,
+      "title": "Ando",
+      "artist": "Duki",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c32960c97393521616307684",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:5osIW2HbGpu5facWGLx68R",
+      "spotifyUrl": "https://open.spotify.com/track/5osIW2HbGpu5facWGLx68R",
+      "youtubeId": "8DUptbTvwtI"
+    },
+    {
+      "rank": 6,
+      "title": "La Falda",
+      "artist": "Myke Towers",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02754362398bd77e0347dbada3",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7iUtQNMRB8ZkKC4AmEuCJC",
+      "spotifyUrl": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC",
+      "youtubeId": "lbGkAN0sO10"
+    },
+    {
+      "rank": 7,
+      "title": "Un Finde | Bzrp Music Sessions #55",
+      "artist": "Bizarrap & Nicki Nicole",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02256e4fd17616bfe624911861",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2uPMsTEKx79gJ8rB3AcT0v",
+      "spotifyUrl": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v",
+      "youtubeId": "HNUVsaO8na4"
+    },
+    {
+      "rank": 8,
+      "title": "Hablando de Voz",
+      "artist": "María Becerra",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02903f1a327630a0be2a9856f0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3dEtfTtCXWW7N8WQ9FD29z",
+      "spotifyUrl": "https://open.spotify.com/track/3dEtfTtCXWW7N8WQ9FD29z",
+      "youtubeId": "o6wgNeHNnd8"
+    },
+    {
+      "rank": 9,
+      "title": "Copa Vacía",
+      "artist": "Shakira & Manuel Turizo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026720ca5bee8851b8afa0fa13",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2iVgM5C7m1G4CJGbms301G",
+      "spotifyUrl": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G",
+      "youtubeId": "sBtZlbIHUeE"
+    },
+    {
+      "rank": 10,
+      "title": "Piel",
+      "artist": "Tini",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d208d3056fb86d4c4778ce3d",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:48zX8xUDcKIKNrKYifhGNT",
+      "spotifyUrl": "https://open.spotify.com/track/48zX8xUDcKIKNrKYifhGNT",
+      "youtubeId": "b_g30FWCUHE"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1B8LZYBpuq3N3lbmqZVDMs"
+}

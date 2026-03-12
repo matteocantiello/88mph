@@ -1,0 +1,108 @@
+{
+  "country": "id",
+  "year": 2015,
+  "context": "Indonesia's 2015 saw the rise of pop soloists like Raisa and Isyana Sarasvati alongside streaming's growth. Indonesian pop became more polished and internationally influenced, while dangdut koplo continued its grassroots popularity. YouTube was the dominant music platform, making Indonesia one of the world's top music video markets.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Kau Adalah",
+      "artist": "Isyana Sarasvati",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ffc9ac3ebb41f53584de7657",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2WoRw2nWZoj5ty0rOQP4FQ",
+      "spotifyUrl": "https://open.spotify.com/track/2WoRw2nWZoj5ty0rOQP4FQ",
+      "youtubeId": "7XkrplA8hvc"
+    },
+    {
+      "rank": 2,
+      "title": "Apalah Arti Menunggu",
+      "artist": "Raisa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028bd2fdd47fa594b1362682a9",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6iBuCdHWsIJ3qCDs50w2lS",
+      "spotifyUrl": "https://open.spotify.com/track/6iBuCdHWsIJ3qCDs50w2lS",
+      "youtubeId": "Db1cRp6TXDw"
+    },
+    {
+      "rank": 3,
+      "title": "Merindukanmu",
+      "artist": "Dash Uciha",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f3b57cbbabab69c611d0dece",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:74UJ0UWLS3yad8I0M7bLlz",
+      "spotifyUrl": "https://open.spotify.com/track/74UJ0UWLS3yad8I0M7bLlz",
+      "youtubeId": "cZ3anjoYrW8"
+    },
+    {
+      "rank": 4,
+      "title": "Tetap Dalam Jiwa",
+      "artist": "Isyana Sarasvati",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ffc9ac3ebb41f53584de7657",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1cKm6kQLMhc7N3mHS238fk",
+      "spotifyUrl": "https://open.spotify.com/track/1cKm6kQLMhc7N3mHS238fk",
+      "youtubeId": "aE0r5AVrRG0"
+    },
+    {
+      "rank": 5,
+      "title": "Cinta Luar Biasa",
+      "artist": "Andmesh Kamaleng",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02db80402ee1d664e9c4670d50",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4XyAYEVNRiMFWm17HkRnnk",
+      "spotifyUrl": "https://open.spotify.com/track/4XyAYEVNRiMFWm17HkRnnk",
+      "youtubeId": "ZUm1iTjI8VQ"
+    },
+    {
+      "rank": 6,
+      "title": "Janji Suci",
+      "artist": "Yovie & Nuno",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026a37fc6f96faf4206f4845e7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6eekwSXpB57v26oEzcAhcf",
+      "spotifyUrl": "https://open.spotify.com/track/6eekwSXpB57v26oEzcAhcf",
+      "youtubeId": "_ur4iwhYzxU"
+    },
+    {
+      "rank": 7,
+      "title": "Jangan Cintai Aku Apa Adanya",
+      "artist": "Titi DJ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027c52c7f7d1da8625e4376795",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:51oQZ1A2BZe6b4klnpTFzK",
+      "spotifyUrl": "https://open.spotify.com/track/51oQZ1A2BZe6b4klnpTFzK",
+      "youtubeId": "fDdIzpS7AqE"
+    },
+    {
+      "rank": 8,
+      "title": "Biar Aku yang Pergi",
+      "artist": "Aldy Maldini",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244717c5a23ee598d174c7c85",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:3BPogo8LQS0IbKCdqvmHJH",
+      "spotifyUrl": "https://open.spotify.com/track/3BPogo8LQS0IbKCdqvmHJH",
+      "youtubeId": "KF3A7o1P3qA"
+    },
+    {
+      "rank": 9,
+      "title": "Ku Kan Pergi",
+      "artist": "Once",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0208504dfe14087e53eb7f9b2f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7IsErGQbe4jnjBKLd2uGoq",
+      "spotifyUrl": "https://open.spotify.com/track/7IsErGQbe4jnjBKLd2uGoq",
+      "youtubeId": "Qvep9h3916Q"
+    },
+    {
+      "rank": 10,
+      "title": "Separuh Nafas",
+      "artist": "Dewa 19",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0269222d0908ecf5d22cc9d960",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6JusI70TeT9M2O1MXyXRRv",
+      "spotifyUrl": "https://open.spotify.com/track/6JusI70TeT9M2O1MXyXRRv",
+      "youtubeId": "aY8kKw19RVE"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5n7oBkXEUJzODkLdAvZCsi"
+}

@@ -1,0 +1,98 @@
+{
+  "country": "tr",
+  "year": 2020,
+  "context": "Turkey's 2020 was dominated by pandemic-era streaming, with Turkish pop and arabesk-pop fusions topping charts. Aleyna Tilki and Reynmen represented the new digital-native generation, while classic artists like Tarkan remained relevant. Turkish rap, led by Ceza, Ben Fero, and Ezhel, had become a mainstream force.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Geçmiş Olsun",
+      "artist": "Tarkan",
+      "youtubeId": "KlZComzKqNc",
+      "spotifyUri": "spotify:track:5lmDG8zSFwhJ4dd6M8ASD1",
+      "spotifyUrl": "https://open.spotify.com/track/5lmDG8zSFwhJ4dd6M8ASD1",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d3da47e9ca7ba0e17f07c1f1"
+    },
+    {
+      "rank": 2,
+      "title": "Sen Olsan Bari",
+      "artist": "Aleyna Tilki",
+      "youtubeId": "x26Zj22Yc9U",
+      "spotifyUri": "spotify:track:5ExsZq3AmQGxavPJOzf0M5",
+      "spotifyUrl": "https://open.spotify.com/track/5ExsZq3AmQGxavPJOzf0M5",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ebdced8ca4ee6efc9ee28e14"
+    },
+    {
+      "rank": 3,
+      "title": "Ela",
+      "artist": "Reynmen",
+      "youtubeId": "ePe8WajQoNc",
+      "spotifyUri": "spotify:track:77RSPptbdmXNAdg44hJNAh",
+      "spotifyUrl": "https://open.spotify.com/track/77RSPptbdmXNAdg44hJNAh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02227e9226015a6c1612dc836e"
+    },
+    {
+      "rank": 4,
+      "title": "Susamam",
+      "artist": "Şanışer feat. Various Artists",
+      "youtubeId": "1rRd3E6k6Go",
+      "spotifyUri": "spotify:track:2hViTNK4UE8Ock4Bvpi7zi",
+      "spotifyUrl": "https://open.spotify.com/track/2hViTNK4UE8Ock4Bvpi7zi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ab1de47200b8082ba16b73a1"
+    },
+    {
+      "rank": 5,
+      "title": "Yanıyoruz",
+      "artist": "Tarkan",
+      "youtubeId": "GB5J_2jWxMQ",
+      "spotifyUri": "spotify:track:6vEL7E8TGzrxuxbrgdlkLL",
+      "spotifyUrl": "https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d0cc776df48f41116f43d449"
+    },
+    {
+      "rank": 6,
+      "title": "Yak",
+      "artist": "Hadise",
+      "youtubeId": "YyEdUbsN6t8",
+      "spotifyUri": "spotify:track:0CVHlWoRDl05QJ4wgfXh9x",
+      "spotifyUrl": "https://open.spotify.com/track/0CVHlWoRDl05QJ4wgfXh9x",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0254b2f8d37649c2b016658c54"
+    },
+    {
+      "rank": 7,
+      "title": "Gel Gel",
+      "artist": "Edis",
+      "youtubeId": "oC4YACXyI2g",
+      "spotifyUri": "spotify:track:3pAnNygIZT4YVfiBXrmgiq",
+      "spotifyUrl": "https://open.spotify.com/track/3pAnNygIZT4YVfiBXrmgiq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0239757f599dca411e95403d8a"
+    },
+    {
+      "rank": 8,
+      "title": "Zemheri",
+      "artist": "Ezhel",
+      "youtubeId": "rX-kW10PEgU",
+      "spotifyUri": "spotify:track:0R0o8uOkDz40XsR6uwThfQ",
+      "spotifyUrl": "https://open.spotify.com/track/0R0o8uOkDz40XsR6uwThfQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ecd10eea07796a0edf4fb609"
+    },
+    {
+      "rank": 9,
+      "title": "Kolpa",
+      "artist": "Simge",
+      "youtubeId": "my97F3xGMJQ",
+      "spotifyUri": "spotify:track:5PdcxLk48vWQqMeY4qqdsZ",
+      "spotifyUrl": "https://open.spotify.com/track/5PdcxLk48vWQqMeY4qqdsZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6cdd18beb682c660f7ad8ff"
+    },
+    {
+      "rank": 10,
+      "title": "Yağmur",
+      "artist": "İrem Derici",
+      "youtubeId": "eTFYSrUdZ8Q",
+      "spotifyUri": "spotify:track:4eQ0ZnwARKyVON72sf2FlX",
+      "spotifyUrl": "https://open.spotify.com/track/4eQ0ZnwARKyVON72sf2FlX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b1d496d9946f041166feec73"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5lMJAKyrXcWrx48RdbtkMq"
+}

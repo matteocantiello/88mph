@@ -1,0 +1,104 @@
+{
+  "country": "eg",
+  "year": 2000,
+  "context": "Egypt's music scene in 2000 was dominated by romantic pop, led by Amr Diab's era-defining 'Tamally Maak,' which became one of the most iconic Arabic songs ever recorded. Mohamed Mounir, Ehab Tawfik, and Hakim also released landmark albums, while satellite music channels like Rotana and Melody amplified hits across the Arab world.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tamally Maak",
+      "artist": "Amr Diab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022a37edda69e67266f05a9753",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
+      "spotifyUrl": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+      "youtubeId": "UuADYIYRmA8"
+    },
+    {
+      "rank": 2,
+      "title": "Fi Eshq El Banat",
+      "artist": "Mohamed Mounir",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ea8dc8d3a9a300ecdd612fc0",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:6NmGlzeBRAUTs3FIXgXlO6",
+      "spotifyUrl": "https://open.spotify.com/track/6NmGlzeBRAUTs3FIXgXlO6",
+      "youtubeId": "Q3xeMl5xrg0"
+    },
+    {
+      "rank": 3,
+      "title": "Nari Nari",
+      "artist": "Hisham Abbas",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02433fd7cc0a00898b9f68396f",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2Tv4jOsTKvUkzYVD20SGhO",
+      "spotifyUrl": "https://open.spotify.com/track/2Tv4jOsTKvUkzYVD20SGhO",
+      "youtubeId": "MgDzzRtfaEI"
+    },
+    {
+      "rank": 4,
+      "title": "Allah Aleik Ya Seidy",
+      "artist": "Ehab Tawfik",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cb7e76fbae8690b2295239d7",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:2vknxlulbj1JApedTlmrZv",
+      "spotifyUrl": "https://open.spotify.com/track/2vknxlulbj1JApedTlmrZv",
+      "youtubeId": "vVBBKxwk-Ik"
+    },
+    {
+      "rank": 5,
+      "title": "Youm Wara Youm",
+      "artist": "Samira Said & Cheb Mami",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025f5f0f94ec2b767de63ca8d8",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:76ej94nqmhe05PyEvw15wK",
+      "spotifyUrl": "https://open.spotify.com/track/76ej94nqmhe05PyEvw15wK",
+      "youtubeId": "toAp3S-AErc"
+    },
+    {
+      "rank": 6,
+      "title": "Afresh",
+      "artist": "Hakim",
+      "youtubeId": "cOgqWpqJrqk"
+    },
+    {
+      "rank": 7,
+      "title": "Leilet Habibi",
+      "artist": "Samira Said",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0249dd2c1316314c12213d7273",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:1jvB7ZZUZhwD3RBBLpe6WR",
+      "spotifyUrl": "https://open.spotify.com/track/1jvB7ZZUZhwD3RBBLpe6WR",
+      "youtubeId": "4S9Ne72fwgw"
+    },
+    {
+      "rank": 8,
+      "title": "Alam Tany",
+      "artist": "Khaled Selim",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02356bafd039735387734fef66",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:7BigeE51xN6f2Mb6Ygi2yt",
+      "spotifyUrl": "https://open.spotify.com/track/7BigeE51xN6f2Mb6Ygi2yt",
+      "youtubeId": "RN5G7DAbVWc"
+    },
+    {
+      "rank": 9,
+      "title": "Keda Eny Einak",
+      "artist": "Amr Diab",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022a37edda69e67266f05a9753",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:0Bu6NNsRKZR7a8pwrYVjWF",
+      "spotifyUrl": "https://open.spotify.com/track/0Bu6NNsRKZR7a8pwrYVjWF",
+      "youtubeId": "MZWlk-AcrNQ"
+    },
+    {
+      "rank": 10,
+      "title": "Ana Baashak El Bahr",
+      "artist": "Latifa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0293a20cb096ff2cc4059171db",
+      "previewUrl": null,
+      "spotifyUri": "spotify:track:4e06CQlrrP28hmdFxJm5EV",
+      "spotifyUrl": "https://open.spotify.com/track/4e06CQlrrP28hmdFxJm5EV",
+      "youtubeId": "EW8pdIWS958"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2oEHYT0i8im91pPJ6dRWW1"
+}
