@@ -74,6 +74,14 @@ Update the relevant tables (Official Chart Organizations, Coverage by Country, e
 5. **Document Results**: Add review section to `tasks/todo.md`
 6. **Capture Lessons**: Update `tasks/lessons.md` after corrections
 
+## ⚠️ MANDATORY: Postcard Image Quality
+
+When generating postcard images for new charts:
+1. **Write hand-crafted prompts** — Do NOT use the auto-generated template prompts. Every country has custom, evocative scene descriptions (e.g., "1985 Swiss alpine ski resort disco, a crowded dance floor with mirrored walls..."). See existing entries in `data/postcard-prompts.jsonl` for the style.
+2. **Always use FLUX Pro** — Run `generate-images.mjs` with `--model black-forest-labs/FLUX.1.1-pro --steps 20 --height 736`. The default model (FLUX.1-schnell) is low-quality and must NOT be used for production postcards.
+
+---
+
 ## Core Principles
 - **Simplicity First**: Make every change as simple as possible. Impact minimal code.
 - **No Laziness**: Find root causes. No temporary fixes. Senior developer standards.

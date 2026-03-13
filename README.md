@@ -236,9 +236,9 @@ node scripts/postcards/generate-prompts.mjs
 
 This reads all chart JSONs and adds entries to `data/postcard-prompts.jsonl` for any charts that don't have a prompt yet. It preserves existing prompts.
 
-#### 7b. Improve the prompts
+#### 7b. Write hand-crafted prompts (MANDATORY)
 
-The auto-generated prompts are generic. **Replace them with hand-crafted prompts** that match the style of existing entries. A good prompt:
+The auto-generated prompts are generic templates and will produce low-quality postcards. **You MUST replace them with hand-crafted, evocative scene descriptions** that match the style of existing entries. Do NOT skip this step — every country in the project uses custom prompts. A good prompt:
 
 - Starts with the year and country/city (e.g., "1985 Milan, a futuristic Italian TV studio...")
 - Includes specific visual details tied to the music and culture of that exact year
@@ -258,17 +258,19 @@ it/1965: "1965 Rome Cinecittà, a Spaghetti Western film set with Ennio Morricon
 
 Edit the new entries in `data/postcard-prompts.jsonl` directly (it's JSONL — one JSON object per line).
 
-#### 7c. Generate images
+#### 7c. Generate images with FLUX Pro (MANDATORY)
+
+**Always use `FLUX.1.1-pro`** for production postcards. The default model (`FLUX.1-schnell`) is a fast/low-quality preview model and should NOT be used for final images.
 
 ```bash
 # Dry run first
-node scripts/postcards/generate-images.mjs --dry-run
+node scripts/postcards/generate-images.mjs --country ch --dry-run
 
-# Generate with high-quality model (recommended for production)
-node scripts/postcards/generate-images.mjs --model black-forest-labs/FLUX.1.1-pro --steps 20 --height 736
+# CORRECT: Generate with FLUX Pro (always use this for production)
+node scripts/postcards/generate-images.mjs --country ch --model black-forest-labs/FLUX.1.1-pro --steps 20 --height 736
 
-# Generate only new images (skips existing)
-# Use --force to regenerate all
+# Use --force to regenerate existing images
+node scripts/postcards/generate-images.mjs --country ch --model black-forest-labs/FLUX.1.1-pro --steps 20 --height 736 --force
 ```
 
 Requires `TOGETHER_API_KEY` in `.env.local`. Images are saved to `public/postcards/{country}_{year}.webp` and automatically displayed on chart pages.
