@@ -82,6 +82,12 @@ When generating postcard images for new charts:
 
 ---
 
+## ⚠️ MANDATORY: Vercel Image Optimization
+
+All `<Image>` components MUST use the `unoptimized` prop. Vercel's free tier has a source image optimization quota that returns **402 errors** when exceeded, silently breaking images in production. Since our images are already optimized (postcards are pre-generated .webp, album art comes from Spotify CDN), Next.js optimization is unnecessary. Always add `unoptimized` to any new `<Image>` usage.
+
+---
+
 ## Core Principles
 - **Simplicity First**: Make every change as simple as possible. Impact minimal code.
 - **No Laziness**: Find root causes. No temporary fixes. Senior developer standards.
