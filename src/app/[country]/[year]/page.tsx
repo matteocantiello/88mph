@@ -146,6 +146,7 @@ export default async function ChartPage({ params }: PageProps) {
                 alt=""
                 fill
                 priority
+                unoptimized
                 className="object-cover object-center"
                 sizes="100vw"
               />
