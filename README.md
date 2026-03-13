@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>A musical time machine.</strong><br>
-  Select a country and year to discover the top 10 songs that defined an era — from 1940s big band to 2020s Afrobeats, across 32 countries.
+  Select a country and year to discover the top 10 songs that defined an era — from 1940s big band to 2020s Afrobeats, across 33 countries.
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Copy `.env.local.example` to `.env.local` and fill in as needed:
 
 ## What's Inside
 
-- **316 charts** across **32 countries**, spanning **1940–2025**
+- **329 charts** across **33 countries**, spanning **1940–2025**
 - Interactive world map for browsing countries by region
 - Back to the Future–inspired time circuit display showing destination, present, and last departed eras
 - Decade-based color themes that shift the entire UI palette per era
@@ -98,6 +98,7 @@ Copy `.env.local.example` to `.env.local` and fill in as needed:
 | Malaysia | `my` | 6 | 2000, 2005, 2010, 2015, 2020, 2025 |
 | Philippines | `ph` | 8 | 1975, 1985, 2000, 2005, 2010, 2015, 2020, 2025 |
 | Thailand | `th` | 6 | 2000, 2005, 2010, 2015, 2020, 2025 |
+| Switzerland | `ch` | 13 | 1968, 1975, 1980, 1985, 1990, 1995, 1998, 2000, 2005, 2010, 2015, 2020, 2025 |
 | Turkey | `tr` | 9 | 1975, 1985, 1995, 2000, 2005, 2010, 2015, 2020, 2025 |
 
 Chart data is sourced from official chart organizations (Billboard, Oricon, ARIA, OCC, etc.) and documented in [`SOURCES.md`](SOURCES.md).

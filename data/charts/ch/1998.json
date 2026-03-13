@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 1998,
+  "context": "The late 1990s in Switzerland reflected a pan-European pop sensibility, with Celine Dion's Titanic ballad dominating and the World Cup fueling Ricky Martin's crossover hit. German-language pop from Oli. P and Eurodance acts like Loona showed Switzerland's multilingual chart tastes.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "My Heart Will Go On",
+      "artist": "Céline Dion",
+      "spotifyUri": "spotify:track:33LC84JgLvK2KuW43MfaNq",
+      "spotifyUrl": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02def7146ca744f3b1bf838404",
+      "youtubeId": "Siz-xBfIqpg"
+    },
+    {
+      "rank": 2,
+      "title": "It's Like That",
+      "artist": "Run-D.M.C. vs. Jason Nevins",
+      "spotifyUri": "spotify:track:6nMeygKn0XfnF9G1h39Sdc",
+      "spotifyUrl": "https://open.spotify.com/track/6nMeygKn0XfnF9G1h39Sdc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ff2bc2a9ab3b39d8149f4242",
+      "youtubeId": "4XBDbr21x68"
+    },
+    {
+      "rank": 3,
+      "title": "Ghetto Supastar (That Is What You Are)",
+      "artist": "Pras Michel feat. ODB & Mýa",
+      "spotifyUri": "spotify:track:3ZI94oaQBva1OK6DmpIGG7",
+      "spotifyUrl": "https://open.spotify.com/track/3ZI94oaQBva1OK6DmpIGG7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c810dd6eaabcc870967615e6",
+      "youtubeId": "MnWogQTfSIY"
+    },
+    {
+      "rank": 4,
+      "title": "Flugzeuge im Bauch",
+      "artist": "Oli. P",
+      "spotifyUri": "spotify:track:5tYNY1VFSIl30D9TQWcUJ1",
+      "spotifyUrl": "https://open.spotify.com/track/5tYNY1VFSIl30D9TQWcUJ1",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c82b941654f4db2f60d96628",
+      "youtubeId": "mBxBlbLYOZQ"
+    },
+    {
+      "rank": 5,
+      "title": "I Don't Want To Miss A Thing",
+      "artist": "Aerosmith",
+      "spotifyUri": "spotify:track:5qlJg0Wbj3sslxfwiaRNpq",
+      "spotifyUrl": "https://open.spotify.com/track/5qlJg0Wbj3sslxfwiaRNpq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f039d2a6afcfab0827bb9bc0",
+      "youtubeId": "YZSGRv02THg"
+    },
+    {
+      "rank": 6,
+      "title": "Frozen",
+      "artist": "Madonna",
+      "spotifyUri": "spotify:track:6lknMmJZALXxx7emwwZWLX",
+      "spotifyUrl": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e56e182fe6309bddd1dc5852",
+      "youtubeId": "JkPieADAVew"
+    },
+    {
+      "rank": 7,
+      "title": "Torn",
+      "artist": "Natalie Imbruglia",
+      "spotifyUri": "spotify:track:1Jaah2tmN9Hv81A87KZ1MU",
+      "spotifyUrl": "https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0284bb2b1e87d5ba0bac8871a2",
+      "youtubeId": "rIGAt5yvfmw"
+    },
+    {
+      "rank": 8,
+      "title": "Bailando",
+      "artist": "Loona",
+      "spotifyUri": "spotify:track:0oxOXYVVZ7vDknU6kagLwO",
+      "spotifyUrl": "https://open.spotify.com/track/0oxOXYVVZ7vDknU6kagLwO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d0008ca23cd2e0b7f2dce88f",
+      "youtubeId": "LmT3Cj44JXE"
+    },
+    {
+      "rank": 9,
+      "title": "La copa de la vida",
+      "artist": "Ricky Martin",
+      "spotifyUri": "spotify:track:0KnZ3Fgnqjmz4Sl2OA5zwa",
+      "spotifyUrl": "https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e7e9b85cc1f021ec12130d80",
+      "youtubeId": "Qm9KCQd3mg4"
+    },
+    {
+      "rank": 10,
+      "title": "Stand By Me",
+      "artist": "4 The Cause",
+      "spotifyUri": "spotify:track:7oqvT7zwySTA2BjDVyXZFD",
+      "spotifyUrl": "https://open.spotify.com/track/7oqvT7zwySTA2BjDVyXZFD",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ca2ddb43eec419f4ede496b",
+      "youtubeId": "inV4yR8oRMk"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1FkYaC7F0itkv6yxhBppLS"
+}

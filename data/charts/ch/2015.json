@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 2015,
+  "context": "Tropical house and feel-good dance tracks dominated Switzerland in 2015, with Belgian producer Lost Frequencies and German remixer Felix Jaehn propelling European-flavored hits to the top. Adele's comeback with 'Hello' and Hozier's viral breakout reflected the year's blend of streaming-era pop and soulful balladry.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Are You with Me",
+      "artist": "Lost Frequencies",
+      "spotifyUri": "spotify:track:4255amV4enzl28KAn16rUO",
+      "spotifyUrl": "https://open.spotify.com/track/4255amV4enzl28KAn16rUO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c01ab1c4b2dceb2cfc89e6fa",
+      "youtubeId": "SmVGZdLVVhc"
+    },
+    {
+      "rank": 2,
+      "title": "Cheerleader (Felix Jaehn Remix)",
+      "artist": "Omi",
+      "spotifyUri": "spotify:track:023OVLNzXhX0j7CxswUt6D",
+      "spotifyUrl": "https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021c61cec78c70409b783d1480",
+      "youtubeId": "jGflUbPQfW8"
+    },
+    {
+      "rank": 3,
+      "title": "Lean On",
+      "artist": "Major Lazer & DJ Snake feat. MØ",
+      "spotifyUri": "spotify:track:01aTsQoKoeXofSTvKuunzv",
+      "spotifyUrl": "https://open.spotify.com/track/01aTsQoKoeXofSTvKuunzv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6d24aee7b49a2db98a76856",
+      "youtubeId": "5vOid-7uBdQ"
+    },
+    {
+      "rank": 4,
+      "title": "El Perdón",
+      "artist": "Nicky Jam & Enrique Iglesias",
+      "spotifyUri": "spotify:track:7qCAVkHWZkF44OzOUKf8Cr",
+      "spotifyUrl": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b242b4213fb5c21d97dbbf4d",
+      "youtubeId": "zs6aDvOTlMo"
+    },
+    {
+      "rank": 5,
+      "title": "See You Again",
+      "artist": "Wiz Khalifa feat. Charlie Puth",
+      "spotifyUri": "spotify:track:2JzZzZUQj3Qff7wapcbKjc",
+      "spotifyUrl": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e5df11b17b2727da2b718d8",
+      "youtubeId": "xl8thVrlvjI"
+    },
+    {
+      "rank": 6,
+      "title": "Hello",
+      "artist": "Adele",
+      "spotifyUri": "spotify:track:62PaSfnXSMyLshYJrlTuL3",
+      "spotifyUrl": "https://open.spotify.com/track/62PaSfnXSMyLshYJrlTuL3",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0247ce408fb4926d69da6713c2",
+      "youtubeId": "yjo_aXygRDI"
+    },
+    {
+      "rank": 7,
+      "title": "Take Me to Church",
+      "artist": "Hozier",
+      "spotifyUri": "spotify:track:1CS7Sd1u5tWkstBhpssyjP",
+      "spotifyUrl": "https://open.spotify.com/track/1CS7Sd1u5tWkstBhpssyjP",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bd5c6f1a9461fc68c5dc1623",
+      "youtubeId": "MYSVMgRr6pw"
+    },
+    {
+      "rank": 8,
+      "title": "Love Me like You Do",
+      "artist": "Ellie Goulding",
+      "spotifyUri": "spotify:track:3zHq9ouUJQFQRf3cm1rRLu",
+      "spotifyUrl": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026bdee14242f244d9d6ddf2fd",
+      "youtubeId": "6eW99oNNRvI"
+    },
+    {
+      "rank": 9,
+      "title": "Uptown Funk!",
+      "artist": "Mark Ronson feat. Bruno Mars",
+      "spotifyUri": "spotify:track:32OlwWuMpZ6b0aN2RZOeMS",
+      "spotifyUrl": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029860171ddfee17f77a570cf6",
+      "youtubeId": "tYvFa2ARD24"
+    },
+    {
+      "rank": 10,
+      "title": "Firestone",
+      "artist": "Kygo feat. Conrad",
+      "spotifyUri": "spotify:track:1I8tHoNBFTuoJAlh4hfVVE",
+      "spotifyUrl": "https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027247979b8bc6027bf97043ef",
+      "youtubeId": "BKHklv6-hJI"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2t4chGlmSyliK2cNqLV6Si"
+}

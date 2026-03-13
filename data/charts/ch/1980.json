@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 1980,
+  "context": "The 1980 Swiss charts captured the transition from disco to new wave and synth-pop, with Pink Floyd's anti-establishment anthem topping the list. The chart mixed American funk and disco (Lipps Inc., Diana Ross, Blondie) with European pop acts (Earth & Fire, Goombay Dance Band, Oliver Onions), reflecting Switzerland's position as a crossroads of Anglo-American and Continental European musical tastes.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Another Brick In The Wall (Part II)",
+      "artist": "Pink Floyd",
+      "spotifyUri": "spotify:track:4gMgiXfqyzZLMhsksGmbQV",
+      "spotifyUrl": "https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b694e89ba937dd2631ff584c",
+      "youtubeId": "Ey8gm1W-e1Y"
+    },
+    {
+      "rank": 2,
+      "title": "Funkytown",
+      "artist": "Lipps, Inc.",
+      "spotifyUri": "spotify:track:0KQh7AuuZvpTKWhcJa8Pbr",
+      "spotifyUrl": "https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ff20337899af5e6a29e9bb8f",
+      "youtubeId": "OAC4ItP0xWM"
+    },
+    {
+      "rank": 3,
+      "title": "Boat On The River",
+      "artist": "Styx",
+      "spotifyUri": "spotify:track:4o9DSo7c1ICv4CtFWFSmGx",
+      "spotifyUrl": "https://open.spotify.com/track/4o9DSo7c1ICv4CtFWFSmGx",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025375070081edf3a7b188f0c7",
+      "youtubeId": "QaI_51ZYKZY"
+    },
+    {
+      "rank": 4,
+      "title": "Upside Down",
+      "artist": "Diana Ross",
+      "spotifyUri": "spotify:track:3pbtBomO4Zt5gGiqsYeiBH",
+      "spotifyUrl": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02abc5193decc1a2984a93f31e",
+      "youtubeId": "hDHW5wXBvLw"
+    },
+    {
+      "rank": 5,
+      "title": "Weekend",
+      "artist": "Earth & Fire",
+      "spotifyUri": "spotify:track:1bZr5vH0cfmKu5ODpD0DEO",
+      "spotifyUrl": "https://open.spotify.com/track/1bZr5vH0cfmKu5ODpD0DEO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028f61466436d69cf298c65810",
+      "youtubeId": "o5r22zXbRrA"
+    },
+    {
+      "rank": 6,
+      "title": "Sun Of Jamaica",
+      "artist": "Goombay Dance Band",
+      "spotifyUri": "spotify:track:2Vq1xH6QA1a9Kyf5OzyA5V",
+      "spotifyUrl": "https://open.spotify.com/track/2Vq1xH6QA1a9Kyf5OzyA5V",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020ec98d004d1f429ea95a7234",
+      "youtubeId": "oqrFpSzBzWo"
+    },
+    {
+      "rank": 7,
+      "title": "Xanadu",
+      "artist": "Olivia Newton-John & Electric Light Orchestra",
+      "spotifyUri": "spotify:track:4zdspHPxpExPiU8RolxBUH",
+      "spotifyUrl": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aca44ea06c236b60416359ee",
+      "youtubeId": "aUkR8YhJNn8"
+    },
+    {
+      "rank": 8,
+      "title": "Donna musica",
+      "artist": "Collage",
+      "spotifyUri": "spotify:track:3bbnZLKrIYsRjdYnJ1sGCx",
+      "spotifyUrl": "https://open.spotify.com/track/3bbnZLKrIYsRjdYnJ1sGCx",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b8a59208bad8b446766d2cdc",
+      "youtubeId": "vI1q2DlgVRI"
+    },
+    {
+      "rank": 9,
+      "title": "Call Me",
+      "artist": "Blondie",
+      "spotifyUri": "spotify:track:7HKxTNVlkHsfMLhigmhC0I",
+      "spotifyUrl": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0213cbe3e4dfa81fe5b91f2f1c",
+      "youtubeId": "tykf2xYPNdc"
+    },
+    {
+      "rank": 10,
+      "title": "Santa Maria",
+      "artist": "Oliver Onions",
+      "spotifyUri": "spotify:track:3GYdFB1UtGEqKGlf6R80Nx",
+      "spotifyUrl": "https://open.spotify.com/track/3GYdFB1UtGEqKGlf6R80Nx",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0218912085dd84eade44ac4816",
+      "youtubeId": "LLx8yxF_3Og"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4SBJa18ue77TMdD43urwx6"
+}

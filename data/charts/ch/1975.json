@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 1975,
+  "context": "The 1975 Swiss charts showcased Switzerland's multilingual culture, blending Italian pop (I Santo California), French chanson (Alain Barriere), and German Schlager (Udo Jurgens, Howard Carpendale) alongside international hits. ABBA's breakthrough was evident with two entries, while the chart reflected Europe's love of melodic, sentimental pop.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Tornero",
+      "artist": "I Santo California",
+      "spotifyUri": "spotify:track:1Aoqljayd85Nuy2eQMmVXN",
+      "spotifyUrl": "https://open.spotify.com/track/1Aoqljayd85Nuy2eQMmVXN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fa3457d12c73c28dff76580a",
+      "youtubeId": "hoh2YWSuYZQ"
+    },
+    {
+      "rank": 2,
+      "title": "Paloma Blanca",
+      "artist": "George Baker Selection",
+      "spotifyUri": "spotify:track:7Eo7zJMxFp0CnzkZpWNitq",
+      "spotifyUrl": "https://open.spotify.com/track/7Eo7zJMxFp0CnzkZpWNitq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0249ba2fa97de6c6f82bf0ac36",
+      "youtubeId": "txpzAuXdpi0"
+    },
+    {
+      "rank": 3,
+      "title": "Tu t'en vas",
+      "artist": "Alain Barriere",
+      "spotifyUri": "spotify:track:1TUqHgO8HXWhWVTlcYB3VG",
+      "spotifyUrl": "https://open.spotify.com/track/1TUqHgO8HXWhWVTlcYB3VG",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d9d1f31e50968aa083674509",
+      "youtubeId": "640pJpLm8co"
+    },
+    {
+      "rank": 4,
+      "title": "Griechischer Wein",
+      "artist": "Udo Jurgens",
+      "spotifyUri": "spotify:track:2f8Hc0w7BpDtzwoa6BHKec",
+      "spotifyUrl": "https://open.spotify.com/track/2f8Hc0w7BpDtzwoa6BHKec",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0286f8b7ae69137fea4479cbf3",
+      "youtubeId": "eKveb4BjK_c"
+    },
+    {
+      "rank": 5,
+      "title": "I Can Help",
+      "artist": "Billy Swan",
+      "spotifyUri": "spotify:track:4oW1lGOw5Q5OLvoJv92qoE",
+      "spotifyUrl": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6c066b8cb1cf84f7f9a8ace",
+      "youtubeId": "oygRCAJkAqQ"
+    },
+    {
+      "rank": 6,
+      "title": "Dolannes Melodie",
+      "artist": "Jean-Claude Borelly",
+      "spotifyUri": "spotify:track:7qqnQFC8rnyCOhfd4DTWzO",
+      "spotifyUrl": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02912a25535d284b2dcc2889f1",
+      "youtubeId": "qvcvH592A4Q"
+    },
+    {
+      "rank": 7,
+      "title": "I Do, I Do, I Do, I Do, I Do",
+      "artist": "ABBA",
+      "spotifyUri": "spotify:track:1PtJclc46wTk367PlsU6Uj",
+      "spotifyUrl": "https://open.spotify.com/track/1PtJclc46wTk367PlsU6Uj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aa22899360d8ba6704732dec",
+      "youtubeId": "bXep0aHynAQ"
+    },
+    {
+      "rank": 8,
+      "title": "S.O.S.",
+      "artist": "ABBA",
+      "spotifyUri": "spotify:track:5pMmWfuL0FTGshYt7HVJ8P",
+      "spotifyUrl": "https://open.spotify.com/track/5pMmWfuL0FTGshYt7HVJ8P",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f7ecaf9daf2c1d5ca89f7312",
+      "youtubeId": "CxMcD8QHVag"
+    },
+    {
+      "rank": 9,
+      "title": "Longfellow Serenade",
+      "artist": "Neil Diamond",
+      "spotifyUri": "spotify:track:5MhMAWghLuvQMNRf7kPmVg",
+      "spotifyUrl": "https://open.spotify.com/track/5MhMAWghLuvQMNRf7kPmVg",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023dbfc643faee938bbca9e939",
+      "youtubeId": "4XRGMaI46zw"
+    },
+    {
+      "rank": 10,
+      "title": "Deine Spuren im Sand",
+      "artist": "Howard Carpendale",
+      "spotifyUri": "spotify:track:1ILeE1MCCvgGWouG4a3fUk",
+      "spotifyUrl": "https://open.spotify.com/track/1ILeE1MCCvgGWouG4a3fUk",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0265b17d5a1d2d1b1991e9ade4",
+      "youtubeId": "FUMra_BKWGw"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0zkmdT9osTaibqcworzY0g"
+}

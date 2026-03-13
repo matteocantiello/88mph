@@ -51,6 +51,7 @@ const ISO_N3_TO_CODE: Record<string, string> = {
   "608": "ph", // Philippines
   "764": "th", // Thailand
   "792": "tr", // Turkey
+  "756": "ch", // Switzerland
 };
 
 // Map our codes to ISO 3166-1 alpha-2 for flag CDN (flagcdn.com)
@@ -87,6 +88,7 @@ const CODE_TO_FLAG_ISO: Record<string, string> = {
   ph: "ph",
   th: "th",
   tr: "tr",
+  ch: "ch",
 };
 
 function WorldMap({

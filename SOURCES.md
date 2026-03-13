@@ -37,6 +37,7 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | IFPI/TECA Chart | TH | — | Official Thai music chart (IFPI Thailand) |
 | RIM Charts | MY | https://en.wikipedia.org/wiki/Recording_Industry_Association_of_Malaysia | Recording Industry of Malaysia charts |
 | Radiomonitor | TR | — | Turkish radio airplay charts |
+| Swiss Hitparade (hitparade.ch) | CH | https://hitparade.ch/ | Official Swiss year-end singles charts (Schweizer Hitparade, from 1968) |
 
 ## Awards & Radio Data
 
@@ -114,8 +115,9 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Israel | il | 9 | 1970–2025 | MediaForest, מצעד הפזמונים (Wikipedia) |
 | Thailand | th | 6 | 2000–2025 | IFPI/TECA Chart, Spotify, Billboard |
 | Malaysia | my | 6 | 2000–2025 | RIM Charts (Wikipedia), Spotify, Billboard |
+| Switzerland | ch | 13 | 1968–2025 | Swiss Hitparade (hitparade.ch) |
 
-**Total: 316 charts across 32 countries (1940–2025)**
+**Total: 329 charts across 33 countries (1940–2025)**
 
 ## Notes
 

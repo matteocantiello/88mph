@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 1995,
+  "context": "The mid-90s Swiss chart blended Eurodance (La Bouche, Scatman John) with nostalgic novelty acts like Rednex and Gompie, reflecting Europe's love of high-energy pop. Bryan Adams topped the chart with his ballad from the film Don Juan DeMarco, while The Cranberries and Take That represented the era's alternative rock and boyband movements.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Have You Ever Really Loved A Woman?",
+      "artist": "Bryan Adams",
+      "spotifyUri": "spotify:track:32Gf5A7Hr8RdgggXG0Fdks",
+      "spotifyUrl": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02224985553276e439be6640e3",
+      "youtubeId": "QfUc4zc4kTY"
+    },
+    {
+      "rank": 2,
+      "title": "Conquest Of Paradise",
+      "artist": "Vangelis",
+      "spotifyUri": "spotify:track:5avVpUakfMHD6qGpaH26CF",
+      "spotifyUrl": "https://open.spotify.com/track/5avVpUakfMHD6qGpaH26CF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02625060ac99d008a20ef834e1",
+      "youtubeId": "Nd-DlMOLCY4"
+    },
+    {
+      "rank": 3,
+      "title": "Wish You Were Here",
+      "artist": "Rednex",
+      "spotifyUri": "spotify:track:4fLMUXKKMAY3KLrqfVKryb",
+      "spotifyUrl": "https://open.spotify.com/track/4fLMUXKKMAY3KLrqfVKryb",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a4fe57b156def68bdcc6f58b",
+      "youtubeId": "V_jEoBFTsRo"
+    },
+    {
+      "rank": 4,
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "artist": "Scatman John",
+      "spotifyUri": "spotify:track:623rRTKwGmgjH6sjE9uWLh",
+      "spotifyUrl": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c7ed51b9dc1014285cae2ae2",
+      "youtubeId": "Eht9W25tDZo"
+    },
+    {
+      "rank": 5,
+      "title": "Be My Lover",
+      "artist": "La Bouche",
+      "spotifyUri": "spotify:track:3YB6nCSuFqNiqOvPtAPK9X",
+      "spotifyUrl": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d4c3788166b9c4de0921f6b0",
+      "youtubeId": "P3MtiifXp9k"
+    },
+    {
+      "rank": 6,
+      "title": "Alice, Who The X Is Alice?",
+      "artist": "Gompie",
+      "spotifyUri": "spotify:track:5I7U682YEAEOFpAZxA7TdA",
+      "spotifyUrl": "https://open.spotify.com/track/5I7U682YEAEOFpAZxA7TdA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d121504175889c433dc38d45",
+      "youtubeId": "SHoCN_N2dKE"
+    },
+    {
+      "rank": 7,
+      "title": "Zombie",
+      "artist": "The Cranberries",
+      "spotifyUri": "spotify:track:3gjHnylel3PTRpjS44ocqr",
+      "spotifyUrl": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0220a28883cdd0fc7d5f85a9a9",
+      "youtubeId": "yGxHDmHoqXc"
+    },
+    {
+      "rank": 8,
+      "title": "Back For Good",
+      "artist": "Take That",
+      "spotifyUri": "spotify:track:6vcdzohhBSbNdsZBh5IRpQ",
+      "spotifyUrl": "https://open.spotify.com/track/6vcdzohhBSbNdsZBh5IRpQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02db5d336c648e8f540262a1c2",
+      "youtubeId": "wdOwlQZmLCk"
+    },
+    {
+      "rank": 9,
+      "title": "Think Twice",
+      "artist": "Céline Dion",
+      "spotifyUri": "spotify:track:5T0VoskNbpJIqm2RSPU2Xt",
+      "spotifyUrl": "https://open.spotify.com/track/5T0VoskNbpJIqm2RSPU2Xt",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0263e07c2dbc7450974a146e96",
+      "youtubeId": "YjvB0vXT2vE"
+    },
+    {
+      "rank": 10,
+      "title": "Cotton Eye Joe",
+      "artist": "Rednex",
+      "spotifyUri": "spotify:track:0Jg602cHeMCnPez9baacIe",
+      "spotifyUrl": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a4fe57b156def68bdcc6f58b",
+      "youtubeId": "cuf5LNp1nbc"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4owePKMa8w2kOmNslO6xiq"
+}

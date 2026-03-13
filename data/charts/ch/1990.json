@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 1990,
+  "context": "The 1990 Swiss chart was shaped by the FIFA World Cup in Italy, with the tournament anthem 'Un'estate italiana' claiming the top spot. German-language schlager pop held strong with Matthias Reim, while the early Eurodance movement emerged through Snap! and Twenty 4 Seven alongside crossover ballads from Roxette and Sinead O'Connor.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Un'estate italiana",
+      "artist": "Edoardo Bennato & Gianna Nannini",
+      "spotifyUri": "spotify:track:4RcV7ENKupTF0FReXnhlMp",
+      "spotifyUrl": "https://open.spotify.com/track/4RcV7ENKupTF0FReXnhlMp",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fdd3417e2c3e4a4d54aa62b1",
+      "youtubeId": "eifJJkSJwPs"
+    },
+    {
+      "rank": 2,
+      "title": "Verdammt - ich lieb' dich",
+      "artist": "Matthias Reim",
+      "spotifyUri": "spotify:track:4C9fCiueWcpCpnS47sFrsZ",
+      "spotifyUrl": "https://open.spotify.com/track/4C9fCiueWcpCpnS47sFrsZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027ff71fe6a1e101b9aaca7d55",
+      "youtubeId": "2x3FlS0nTck"
+    },
+    {
+      "rank": 3,
+      "title": "I Promised Myself",
+      "artist": "Nick Kamen",
+      "spotifyUri": "spotify:track:5jVJAojK3LFKETjI2gYb8O",
+      "spotifyUrl": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a0a0479b794ec14a0804bbd9",
+      "youtubeId": "hq4ZF1b5lHA"
+    },
+    {
+      "rank": 4,
+      "title": "I Can't Stand It!",
+      "artist": "Twenty 4 Seven feat. Capt. Hollywood",
+      "spotifyUri": "spotify:track:2qihqCQnAgBi95hTXivjd9",
+      "spotifyUrl": "https://open.spotify.com/track/2qihqCQnAgBi95hTXivjd9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023d25615621775837cf81b1f1",
+      "youtubeId": "eccgB3nxu7Y"
+    },
+    {
+      "rank": 5,
+      "title": "It Must Have Been Love",
+      "artist": "Roxette",
+      "spotifyUri": "spotify:track:6kvoHl80mfCVTv7XnZkjQn",
+      "spotifyUrl": "https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c957c20238e5f9f543439be0",
+      "youtubeId": "lnl9U-hHp1I"
+    },
+    {
+      "rank": 6,
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinéad O'Connor",
+      "spotifyUri": "spotify:track:5GHY1DFWKz3Prg2V0Iodqo",
+      "spotifyUrl": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02919c02d20d8634f96ccd75ae",
+      "youtubeId": "Ouf9-bOqJVk"
+    },
+    {
+      "rank": 7,
+      "title": "What's A Woman?",
+      "artist": "Vaya Con Dios",
+      "spotifyUri": "spotify:track:5Phy3qS90Q5I8DGcTxmSIL",
+      "spotifyUrl": "https://open.spotify.com/track/5Phy3qS90Q5I8DGcTxmSIL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020e900fbc8cb94d536589e11a",
+      "youtubeId": "Lj7I3pph_50"
+    },
+    {
+      "rank": 8,
+      "title": "Ooops Up",
+      "artist": "Snap!",
+      "spotifyUri": "spotify:track:3ZZCDg52LIMMLXch7IaYDO",
+      "spotifyUrl": "https://open.spotify.com/track/3ZZCDg52LIMMLXch7IaYDO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02233e9214e557aa8f60e6df47",
+      "youtubeId": "1ynC-q0lJ-o"
+    },
+    {
+      "rank": 9,
+      "title": "The Power",
+      "artist": "Snap!",
+      "spotifyUri": "spotify:track:0gRhXiFgrIz8OfSW4up1k1",
+      "spotifyUrl": "https://open.spotify.com/track/0gRhXiFgrIz8OfSW4up1k1",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dbdaebc580486417330f2500",
+      "youtubeId": "fUwf21uaVvw"
+    },
+    {
+      "rank": 10,
+      "title": "Black Velvet",
+      "artist": "Alannah Myles",
+      "spotifyUri": "spotify:track:3469whchIAwhnlg2Sfuf8Z",
+      "spotifyUrl": "https://open.spotify.com/track/3469whchIAwhnlg2Sfuf8Z",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c45bb46127a23d1beeead273",
+      "youtubeId": "-aCSWbbVbq8"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6VO0G307TpbLeIpf0ePPv8"
+}

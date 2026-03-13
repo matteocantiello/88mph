@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 2000,
+  "context": "The millennium brought an eclectic Swiss chart with Finnish breakbeat act Bomfunk MCs topping the list and Santana's comeback proving huge across Europe. The mix of Eminem's provocative rap, Britney's pop, and Bon Jovi's arena rock reflected the genre-blending tastes of Swiss listeners at the turn of the century.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Freestyler",
+      "artist": "Bomfunk MCs",
+      "spotifyUri": "spotify:track:5Axl2Rjg3wOC3JHju1Gess",
+      "spotifyUrl": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ac837fe7ef01d3d03fc9f70f",
+      "youtubeId": "ymNFyxvIdaM"
+    },
+    {
+      "rank": 2,
+      "title": "Maria Maria",
+      "artist": "Santana feat. The Product G&B",
+      "spotifyUri": "spotify:track:3XKIUb7HzIF1Vu9usunMzc",
+      "spotifyUrl": "https://open.spotify.com/track/3XKIUb7HzIF1Vu9usunMzc",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0247eb3ea5a92904c19e102e54",
+      "youtubeId": "Y9XXeznskQ4"
+    },
+    {
+      "rank": 3,
+      "title": "It's My Life",
+      "artist": "Bon Jovi",
+      "spotifyUri": "spotify:track:0v1XpBHnsbkCn7iJ9Ucr1l",
+      "spotifyUrl": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a231174875d7930de9dad58",
+      "youtubeId": "bY3vXr7fm8k"
+    },
+    {
+      "rank": 4,
+      "title": "I'm Outta Love",
+      "artist": "Anastacia",
+      "spotifyUri": "spotify:track:2CaseM6BKvQpi6blK8nbxC",
+      "spotifyUrl": "https://open.spotify.com/track/2CaseM6BKvQpi6blK8nbxC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02183e648365a7a2e944725a2e",
+      "youtubeId": "DjzHNmY-7wo"
+    },
+    {
+      "rank": 5,
+      "title": "The Real Slim Shady",
+      "artist": "Eminem",
+      "spotifyUri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR",
+      "spotifyUrl": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42",
+      "youtubeId": "r5MR7_INQwg"
+    },
+    {
+      "rank": 6,
+      "title": "Lady (Hear Me Tonight)",
+      "artist": "Modjo",
+      "spotifyUri": "spotify:track:49X0LAl6faAusYq02PRAY6",
+      "spotifyUrl": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0254c5c304064df85d61253ac7",
+      "youtubeId": "MR3uP7IYz44"
+    },
+    {
+      "rank": 7,
+      "title": "Oops!... I Did It Again",
+      "artist": "Britney Spears",
+      "spotifyUri": "spotify:track:6naxalmIoLFWR0siv8dnQQ",
+      "spotifyUrl": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c50b7d96737041f4bfd844d6",
+      "youtubeId": "wsHbHR3Os6U"
+    },
+    {
+      "rank": 8,
+      "title": "Never Be The Same Again",
+      "artist": "Melanie C feat. Lisa \"Left Eye\" Lopes",
+      "spotifyUri": "spotify:track:79EAVfOpzgfHx3IE2BVFQv",
+      "spotifyUrl": "https://open.spotify.com/track/79EAVfOpzgfHx3IE2BVFQv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026809892ec4db63e0a6ee661c",
+      "youtubeId": "U-cjzFRj7v0"
+    },
+    {
+      "rank": 9,
+      "title": "If I Could Turn Back The Hands Of Time",
+      "artist": "R. Kelly",
+      "spotifyUri": "spotify:track:7tNU9Ax7hzHA4nzo57aZb3",
+      "spotifyUrl": "https://open.spotify.com/track/7tNU9Ax7hzHA4nzo57aZb3",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021a81e3abee4b067492baaf44",
+      "youtubeId": "zxdm75qdroA"
+    },
+    {
+      "rank": 10,
+      "title": "Sex Bomb",
+      "artist": "Tom Jones and Mousse T.",
+      "spotifyUri": "spotify:track:3GQL2H0dLNDNkAiOLq38st",
+      "spotifyUrl": "https://open.spotify.com/track/3GQL2H0dLNDNkAiOLq38st",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022a9607a1eb9433a6a8d6dcae",
+      "youtubeId": "KfGHjjovIe8"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0eBQMyra453Q5xqpHIKvez"
+}

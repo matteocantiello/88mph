@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 1968,
+  "context": "In 1968, the Swiss charts reflected a strong British Invasion influence, with The Beatles and Bee Gees dominating alongside European acts. Les Sauterelles, a Swiss band from Bern, scored a rare domestic hit with 'Heavenly Club,' while the international charts were shaped by the cultural upheaval of the late 1960s.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Monja",
+      "artist": "Roland W.",
+      "spotifyUri": "spotify:track:1tmPzXSnTBcswWeO8T7AWT",
+      "spotifyUrl": "https://open.spotify.com/track/1tmPzXSnTBcswWeO8T7AWT",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020624a270815e1449dc3637f9",
+      "youtubeId": "BJiBD_B2UU0"
+    },
+    {
+      "rank": 2,
+      "title": "Judy In Disguise (With Glasses)",
+      "artist": "John Fred & His Playboy Band",
+      "spotifyUri": "spotify:track:2p7mA5rSVwIaoNslO9zylp",
+      "spotifyUrl": "https://open.spotify.com/track/2p7mA5rSVwIaoNslO9zylp",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e8a3d7a41294a91e7a3c811d",
+      "youtubeId": "I0bLoaVFpTQ"
+    },
+    {
+      "rank": 3,
+      "title": "Words",
+      "artist": "Bee Gees",
+      "spotifyUri": "spotify:track:07PIhdmyYIw8dMeDMsx9FU",
+      "spotifyUrl": "https://open.spotify.com/track/07PIhdmyYIw8dMeDMsx9FU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020038accd6a5c1b5130e3730a",
+      "youtubeId": "cvKmh_jWC5c"
+    },
+    {
+      "rank": 4,
+      "title": "Lady Madonna",
+      "artist": "The Beatles",
+      "spotifyUri": "spotify:track:1fSHw7Gt4ha9kJew9a0a55",
+      "spotifyUrl": "https://open.spotify.com/track/1fSHw7Gt4ha9kJew9a0a55",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026e3d3c964df32136fb1cd594",
+      "youtubeId": "PjjEw8_HU-4"
+    },
+    {
+      "rank": 5,
+      "title": "Delilah",
+      "artist": "Tom Jones",
+      "spotifyUri": "spotify:track:2v8B8d17Xxu9uLU5sNiHSL",
+      "spotifyUrl": "https://open.spotify.com/track/2v8B8d17Xxu9uLU5sNiHSL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aca45b9b634ffaa918c191a4",
+      "youtubeId": "Qvo5SeAwz88"
+    },
+    {
+      "rank": 6,
+      "title": "A Man Without Love",
+      "artist": "Engelbert",
+      "spotifyUri": "spotify:track:0oUBuOO4g9P4lREqfqR5nq",
+      "spotifyUrl": "https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0213f61b73b155d49c9ad671b9",
+      "youtubeId": "o0WWaA3oFa4"
+    },
+    {
+      "rank": 7,
+      "title": "Heavenly Club",
+      "artist": "Les Sauterelles",
+      "spotifyUri": "spotify:track:0CC5XzClS4dmalFmZ6Mdpl",
+      "spotifyUrl": "https://open.spotify.com/track/0CC5XzClS4dmalFmZ6Mdpl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fca3dc6a0a62248a83c82f62",
+      "youtubeId": "UqE3T5KpJ5Y"
+    },
+    {
+      "rank": 8,
+      "title": "Hey Jude",
+      "artist": "The Beatles",
+      "spotifyUri": "spotify:track:1eT2CjXwFXNx6oY5ydvzKU",
+      "spotifyUrl": "https://open.spotify.com/track/1eT2CjXwFXNx6oY5ydvzKU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0230503dbc30e621c96913379b",
+      "youtubeId": "mQER0A0ej0M"
+    },
+    {
+      "rank": 9,
+      "title": "Those Were The Days",
+      "artist": "Mary Hopkin",
+      "spotifyUri": "spotify:track:6QOg1CWFpLAsIK7I54JX4G",
+      "spotifyUrl": "https://open.spotify.com/track/6QOg1CWFpLAsIK7I54JX4G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022af71bc7c47b3ae12aadcbb8",
+      "youtubeId": "1DQepQaporY"
+    },
+    {
+      "rank": 10,
+      "title": "With A Little Help From My Friends",
+      "artist": "Joe Cocker",
+      "spotifyUri": "spotify:track:0YZ3J8xzGwLOg4yEgST1YK",
+      "spotifyUrl": "https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025bb09aa81ffb17ccf902629f",
+      "youtubeId": "Fa-28dotvOg"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3nnAFkal6PcGHu9O1N831w"
+}

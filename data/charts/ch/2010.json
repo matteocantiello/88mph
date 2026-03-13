@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 2010,
+  "context": "The 2010 FIFA World Cup in South Africa dominated the Swiss charts, with Shakira's 'Waka Waka' and K'naan's 'Wavin' Flag' both landing in the top 5. European dance-pop from Stromae and Edward Maya reflected Switzerland's proximity to the broader continental club scene.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Waka Waka (This Time for Africa)",
+      "artist": "Shakira feat. Freshlyground",
+      "spotifyUri": "spotify:track:6bNB5gxFX6Q87DbQWb8OWZ",
+      "spotifyUrl": "https://open.spotify.com/track/6bNB5gxFX6Q87DbQWb8OWZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6da56e427f7f87f0e544c6f",
+      "youtubeId": "Z_slTWayFK0"
+    },
+    {
+      "rank": 2,
+      "title": "We No Speak Americano",
+      "artist": "Yolanda Be Cool & DCup",
+      "spotifyUri": "spotify:track:0CJ1quCQhVX9Ax2jYwwovA",
+      "spotifyUrl": "https://open.spotify.com/track/0CJ1quCQhVX9Ax2jYwwovA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d9f80b2064ea74295afe64cc",
+      "youtubeId": "lj2gs8DuJXk"
+    },
+    {
+      "rank": 3,
+      "title": "Love the Way You Lie",
+      "artist": "Eminem feat. Rihanna",
+      "spotifyUri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "spotifyUrl": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c08d5fa5c0f1a834acef5100",
+      "youtubeId": "RnkShwdXfyc"
+    },
+    {
+      "rank": 4,
+      "title": "Wavin' Flag",
+      "artist": "K'naan",
+      "spotifyUri": "spotify:track:4nOygULhEuDO5ZBRNPFaso",
+      "spotifyUrl": "https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bc777b7053754412f01d52d0",
+      "youtubeId": "cc4og_BpscM"
+    },
+    {
+      "rank": 5,
+      "title": "Alors on danse",
+      "artist": "Stromae",
+      "spotifyUri": "spotify:track:2GYHyAoLWpkxLVa4oYTVko",
+      "spotifyUrl": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae373174b14e3eac81554402",
+      "youtubeId": "VHoT4N43jK8"
+    },
+    {
+      "rank": 6,
+      "title": "TiK ToK",
+      "artist": "Ke$ha",
+      "spotifyUri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
+      "spotifyUrl": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0297c7b770b28ffeed164f4d0e",
+      "youtubeId": "RxUZLmN5RsY"
+    },
+    {
+      "rank": 7,
+      "title": "Stereo Love",
+      "artist": "Edward Maya & Vika Jigulina",
+      "spotifyUri": "spotify:track:1aklRy3btsbucImSXvR2SY",
+      "spotifyUrl": "https://open.spotify.com/track/1aklRy3btsbucImSXvR2SY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02695991d6f4a544a05df4c1c0",
+      "youtubeId": "bfl76Sr-Rsk"
+    },
+    {
+      "rank": 8,
+      "title": "Alejandro",
+      "artist": "Lady Gaga",
+      "spotifyUri": "spotify:track:1HHeOs6zRdF8Ck58easiAY",
+      "spotifyUrl": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa",
+      "youtubeId": "e6NIlIMSVdg"
+    },
+    {
+      "rank": 9,
+      "title": "Break Your Heart",
+      "artist": "Taio Cruz feat. Ludacris",
+      "spotifyUri": "spotify:track:1CdqVF1ywD0ZO1zXtB9yWa",
+      "spotifyUrl": "https://open.spotify.com/track/1CdqVF1ywD0ZO1zXtB9yWa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a9006ae892a2255a865c0f7a",
+      "youtubeId": "P09-6KI2yqE"
+    },
+    {
+      "rank": 10,
+      "title": "Empire State of Mind",
+      "artist": "Jay-Z + Alicia Keys",
+      "spotifyUri": "spotify:track:2igwFfvr1OAGX9SKDCPBwO",
+      "spotifyUrl": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fec1b815bb3c50a64a90fd10",
+      "youtubeId": "_ydMlTassYc"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2CSmZf3rGpNBj8gvq6WCa3"
+}

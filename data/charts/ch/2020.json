@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 2020,
+  "context": "The Weeknd's 'Blinding Lights' was an inescapable global phenomenon that topped the Swiss year-end chart, while pandemic-era viral hits like 'Dance Monkey' and the Jerusalema remix soundtracked lockdown life. The chart leaned heavily toward streaming-driven dance-pop and remixes reflecting Switzerland's affinity for European electronic producers.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "spotifyUri": "spotify:track:0VjIjW4GlUZAMYd2vXMi3b",
+      "spotifyUrl": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+      "youtubeId": "J7p4bzqLvCw"
+    },
+    {
+      "rank": 2,
+      "title": "Dance Monkey",
+      "artist": "Tones and I",
+      "spotifyUri": "spotify:track:2N8m6CYs74qQO4mjVcXO30",
+      "spotifyUrl": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02931a1c33d7850f20ee23a5e1",
+      "youtubeId": "Hx4nWW9z0ig"
+    },
+    {
+      "rank": 3,
+      "title": "Roses (Imanbek Remix)",
+      "artist": "SAINt JHN",
+      "spotifyUri": "spotify:track:72GVdRHK49beKrC1NqRCqj",
+      "spotifyUrl": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028e51ad44471425be0ddcc6a0",
+      "youtubeId": "t0aXItJPodE"
+    },
+    {
+      "rank": 4,
+      "title": "Breaking Me",
+      "artist": "Topic feat. A7S",
+      "spotifyUri": "spotify:track:3H7ihDc1dqLriiWXwsc2po",
+      "spotifyUrl": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ca801dab96017456b9847ac2",
+      "youtubeId": "ltl6A-A01Pg"
+    },
+    {
+      "rank": 5,
+      "title": "Savage Love (Laxed - Siren Beat)",
+      "artist": "Jawsh 685 & Jason Derulo",
+      "spotifyUri": "spotify:track:1xQ6trAsedVPCdbtDAmk0c",
+      "spotifyUrl": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020f619e50cfa37c94e3f8300e",
+      "youtubeId": "zfvfxA166eQ"
+    },
+    {
+      "rank": 6,
+      "title": "Rockstar",
+      "artist": "DaBaby feat. Roddy Ricch",
+      "spotifyUri": "spotify:track:7ytR5pFWmSjzHJIeQkgog4",
+      "spotifyUrl": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647",
+      "youtubeId": "dmcUUgBsITU"
+    },
+    {
+      "rank": 7,
+      "title": "Jerusalema (Remix)",
+      "artist": "Master KG feat. Burna Boy & Nomcebo Zikode",
+      "spotifyUri": "spotify:track:1dmES1X8l1AnFBy2gR3wYA",
+      "spotifyUrl": "https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020d19cc1dd2613be1481f8263",
+      "youtubeId": "XoNj9SJlT_w"
+    },
+    {
+      "rank": 8,
+      "title": "Ride It",
+      "artist": "Regard",
+      "spotifyUri": "spotify:track:2tnVG71enUj33Ic2nFN6kZ",
+      "spotifyUrl": "https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c27813ae019011fcb370c78",
+      "youtubeId": "ucVUEmjKsko"
+    },
+    {
+      "rank": 9,
+      "title": "In Your Eyes",
+      "artist": "Robin Schulz feat. Alida",
+      "spotifyUri": "spotify:track:1ME3PNQYZbMGN73NN2Vhlh",
+      "spotifyUrl": "https://open.spotify.com/track/1ME3PNQYZbMGN73NN2Vhlh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0213b3d26c842bf89627c68958",
+      "youtubeId": "1WryM0TqPOw"
+    },
+    {
+      "rank": 10,
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "spotifyUri": "spotify:track:7qEHsqek33rTcFNT9PFqLf",
+      "spotifyUrl": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fc2101e6889d6ce9025f85f2",
+      "youtubeId": "AyCrypt1pdI"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4uup7wv7Wr3yTdWbZRW83t"
+}

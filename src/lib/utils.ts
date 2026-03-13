@@ -31,6 +31,7 @@ export const COUNTRIES: Record<string, { name: string; flag: string }> = {
   il: { name: "Israel", flag: "🇮🇱" },
   th: { name: "Thailand", flag: "🇹🇭" },
   my: { name: "Malaysia", flag: "🇲🇾" },
+  ch: { name: "Switzerland", flag: "🇨🇭" },
 };
 
 export function getCountryName(code: string): string {
@@ -63,7 +64,7 @@ export interface Region {
 export const REGIONS: Region[] = [
   { name: "Americas", countries: ["us", "ca", "br", "mx", "ar", "co", "cl"] },
   { name: "Oceania", countries: ["au"] },
-  { name: "Europe", countries: ["uk", "fr", "de", "it", "es", "se", "no", "nl"] },
+  { name: "Europe", countries: ["uk", "fr", "de", "it", "es", "se", "no", "nl", "ch"] },
   { name: "Asia", countries: ["jp", "kr", "in", "cn", "ph", "id", "th", "my"] },
   { name: "Eurasia", countries: ["ru", "tr"] },
   { name: "Middle East", countries: ["eg", "il"] },

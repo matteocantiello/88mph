@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 2025,
+  "context": "The 2025 Swiss chart reflected a globalized pop landscape, with K-pop crossover (Rosé & Bruno Mars' 'APT.'), Latin reggaeton (Bad Bunny), and homegrown Swiss talent like WizTheMc all coexisting in the top 10. Lady Gaga's collaboration with Bruno Mars and the Berlin-rooted Keinemusik collective's 'Move' highlighted the continued European electronic influence on Swiss tastes.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "spotifyUri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
+      "spotifyUrl": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028d18d73bbfc8985d52865edf",
+      "youtubeId": "byxFUKxhT3s"
+    },
+    {
+      "rank": 2,
+      "title": "APT.",
+      "artist": "Rosé & Bruno Mars",
+      "spotifyUri": "spotify:track:5vNRhkKd0yEAg8suGBpjeY",
+      "spotifyUrl": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0246085aa1855bd888abc51a5a",
+      "youtubeId": "DiTd771WumE"
+    },
+    {
+      "rank": 3,
+      "title": "Die with a Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "spotifyUri": "spotify:track:2plbrEY59IikOBgBGLjaoe",
+      "spotifyUrl": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282ea2e9e1858aa012c57cd45",
+      "youtubeId": "DlFXDl_ROAM"
+    },
+    {
+      "rank": 4,
+      "title": "Messy",
+      "artist": "Lola Young",
+      "spotifyUri": "spotify:track:35ISBknsCeZQtq66xABI9g",
+      "spotifyUrl": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026aa2a180c7b009ca8454ef89",
+      "youtubeId": "Y03n19YRXD4"
+    },
+    {
+      "rank": 5,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "spotifyUri": "spotify:track:3xkHsmpQCBMytMJNiDf3Ii",
+      "spotifyUrl": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02831949037a1db10b87b005fa",
+      "youtubeId": "Oa_RSwwpPaA"
+    },
+    {
+      "rank": 6,
+      "title": "I Adore You",
+      "artist": "Hugel x Topic x Arash feat. Daecolm",
+      "spotifyUri": "spotify:track:6ikCQEYDC3MQqt76WFhOBf",
+      "spotifyUrl": "https://open.spotify.com/track/6ikCQEYDC3MQqt76WFhOBf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a12a0a5581b1f58baf1e00c1",
+      "youtubeId": "Mf_pvNkNJjk"
+    },
+    {
+      "rank": 7,
+      "title": "DtMF",
+      "artist": "Bad Bunny",
+      "spotifyUri": "spotify:track:3sK8wGT43QFpWrvNQsrQya",
+      "spotifyUrl": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bbd45c8d36e0e045ef640411",
+      "youtubeId": "GcAsY7xQHb0"
+    },
+    {
+      "rank": 8,
+      "title": "Show Me Love",
+      "artist": "WizTheMc x Bees & Honey",
+      "spotifyUri": "spotify:track:0a4SMs889NwP8oWI7Vemle",
+      "spotifyUrl": "https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0204481c826dd292e5e4983b3f",
+      "youtubeId": "wapa1-S03Ek"
+    },
+    {
+      "rank": 9,
+      "title": "Move",
+      "artist": "Adam Port, Stryv, Keinemusik, Orso & Malachiii",
+      "spotifyUri": "spotify:track:1BJJbSX6muJVF2AK7uH1x4",
+      "spotifyUrl": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a959d221820e650bee1ca487",
+      "youtubeId": "si6Ox8IuZeU"
+    },
+    {
+      "rank": 10,
+      "title": "Birds of a Feather",
+      "artist": "Billie Eilish",
+      "spotifyUri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
+      "spotifyUrl": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0271d62ea7ea8a5be92d3c1f62",
+      "youtubeId": "WKZO-CWeOVA"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2LpgFLjWWw34P8zYW5s8D4"
+}

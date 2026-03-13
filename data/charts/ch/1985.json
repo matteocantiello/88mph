@@ -1,0 +1,98 @@
+{
+  "country": "ch",
+  "year": 1985,
+  "context": "Switzerland's 1985 chart reflected the dominant Eurodisco and synth-pop era, with Austrian acts Opus and Falco scoring massive hits. The charity single 'We Are The World' and Tina Turner's post-Mad Max anthem showed the global reach of Anglo-American pop alongside a strong continental European presence.",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Live Is Life",
+      "artist": "Opus",
+      "spotifyUri": "spotify:track:5luOvrlnzfvJQdQjrScVj4",
+      "spotifyUrl": "https://open.spotify.com/track/5luOvrlnzfvJQdQjrScVj4",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02680c56a0f621a43edf19046a",
+      "youtubeId": "BODBiJz7RoY"
+    },
+    {
+      "rank": 2,
+      "title": "Tarzan Boy",
+      "artist": "Baltimora",
+      "spotifyUri": "spotify:track:273uCXd7NPrInaiNqtkOrA",
+      "spotifyUrl": "https://open.spotify.com/track/273uCXd7NPrInaiNqtkOrA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02de82204a5baa683ce85d57cb",
+      "youtubeId": "xkmgcvr5Ezc"
+    },
+    {
+      "rank": 3,
+      "title": "You're My Heart, You're My Soul",
+      "artist": "Modern Talking",
+      "spotifyUri": "spotify:track:0Zn63G0XTiqXwr1KSmARWz",
+      "spotifyUrl": "https://open.spotify.com/track/0Zn63G0XTiqXwr1KSmARWz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0299aab0b95eb4bb1e7e24c795",
+      "youtubeId": "4USMXubaAmc"
+    },
+    {
+      "rank": 4,
+      "title": "We Are The World",
+      "artist": "USA For Africa",
+      "spotifyUri": "spotify:track:3Z2tPWiNiIpg8UMMoowHIk",
+      "spotifyUrl": "https://open.spotify.com/track/3Z2tPWiNiIpg8UMMoowHIk",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02920f421260033ee54865d673",
+      "youtubeId": "GiRE7LhiXaM"
+    },
+    {
+      "rank": 5,
+      "title": "Rock Me Amadeus",
+      "artist": "Falco",
+      "spotifyUri": "spotify:track:0DfG1ltJnZyq4Tx3ZLL7ZU",
+      "spotifyUrl": "https://open.spotify.com/track/0DfG1ltJnZyq4Tx3ZLL7ZU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02731d2eb04541bef9e4434d4e",
+      "youtubeId": "OKxBk4V79Co"
+    },
+    {
+      "rank": 6,
+      "title": "We Don't Need Another Hero (Thunderdome)",
+      "artist": "Tina Turner",
+      "spotifyUri": "spotify:track:50XXRUFNjs85P0MjCZ1c9X",
+      "spotifyUrl": "https://open.spotify.com/track/50XXRUFNjs85P0MjCZ1c9X",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0269284341c1d703caaa1e0ee1",
+      "youtubeId": "8reyk0XqA6Q"
+    },
+    {
+      "rank": 7,
+      "title": "19",
+      "artist": "Paul Hardcastle",
+      "spotifyUri": "spotify:track:4YNyU0vEEC5grHkHnO9lhF",
+      "spotifyUrl": "https://open.spotify.com/track/4YNyU0vEEC5grHkHnO9lhF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021cc5d2698191dca71ceafc5a",
+      "youtubeId": "oho9KaoxI-4"
+    },
+    {
+      "rank": 8,
+      "title": "One Night In Bangkok",
+      "artist": "Murray Head",
+      "spotifyUri": "spotify:track:0NwB4MtnpUGEaGotcX0vmt",
+      "spotifyUrl": "https://open.spotify.com/track/0NwB4MtnpUGEaGotcX0vmt",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ad9f788a09c333d700f0daf1",
+      "youtubeId": "Ix3WVxFzW_M"
+    },
+    {
+      "rank": 9,
+      "title": "You're A Woman",
+      "artist": "Bad Boys Blue",
+      "spotifyUri": "spotify:track:1oP3OXN5VK57w5UveOjZmW",
+      "spotifyUrl": "https://open.spotify.com/track/1oP3OXN5VK57w5UveOjZmW",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02982630895c9b2d63c843e6cc",
+      "youtubeId": "m08O1uD-Ra4"
+    },
+    {
+      "rank": 10,
+      "title": "(I'll Never Be) Maria Magdalena",
+      "artist": "Sandra",
+      "spotifyUri": "spotify:track:7LNP6YNYDeMgBeG4JBfAdq",
+      "spotifyUrl": "https://open.spotify.com/track/7LNP6YNYDeMgBeG4JBfAdq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ade47900d03a0276737982b",
+      "youtubeId": "5B8a9WcYC6A"
+    }
+  ],
+  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0QsdQ1zuSoH2uY0CsLWzmc"
+}
