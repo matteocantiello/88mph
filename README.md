@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>A musical time machine.</strong><br>
-  Select a country and year to discover the top 10 songs that defined an era — from 1940s big band to 2020s Afrobeats, across 20 countries.
+  Select a country and year to discover the top 10 songs that defined an era — from 1940s big band to 2020s Afrobeats, across 32 countries.
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@ Copy `.env.local.example` to `.env.local` and fill in as needed:
 
 ## What's Inside
 
-- **230 charts** across **20 countries**, spanning **1940–2025**
+- **316 charts** across **32 countries**, spanning **1940–2025**
 - Interactive world map for browsing countries by region
 - Back to the Future–inspired time circuit display showing destination, present, and last departed eras
 - Decade-based color themes that shift the entire UI palette per era
@@ -87,6 +87,18 @@ Copy `.env.local.example` to `.env.local` and fill in as needed:
 | Nigeria | `ng` | 8 | 1975, 1990, 2000, 2005, 2010, 2015, 2020, 2025 |
 | Norway | `no` | 8 | 1970, 1985, 2000, 2005, 2010, 2015, 2020, 2025 |
 | South Africa | `za` | 8 | 1965, 1985, 2000, 2005, 2010, 2015, 2020, 2025 |
+| Argentina | `ar` | 9 | 1970, 1980, 1990, 2000, 2005, 2010, 2015, 2020, 2025 |
+| Chile | `cl` | 6 | 2000, 2005, 2010, 2015, 2020, 2025 |
+| Colombia | `co` | 8 | 1970, 1985, 2000, 2005, 2010, 2015, 2020, 2025 |
+| Egypt | `eg` | 6 | 2000, 2005, 2010, 2015, 2020, 2025 |
+| Ghana | `gh` | 6 | 2000, 2005, 2010, 2015, 2020, 2025 |
+| Indonesia | `id` | 7 | 1985, 2000, 2005, 2010, 2015, 2020, 2025 |
+| Israel | `il` | 9 | 1970, 1980, 1990, 2000, 2005, 2010, 2015, 2020, 2025 |
+| Kenya | `ke` | 6 | 2000, 2005, 2010, 2015, 2020, 2025 |
+| Malaysia | `my` | 6 | 2000, 2005, 2010, 2015, 2020, 2025 |
+| Philippines | `ph` | 8 | 1975, 1985, 2000, 2005, 2010, 2015, 2020, 2025 |
+| Thailand | `th` | 6 | 2000, 2005, 2010, 2015, 2020, 2025 |
+| Turkey | `tr` | 9 | 1975, 1985, 1995, 2000, 2005, 2010, 2015, 2020, 2025 |
 
 Chart data is sourced from official chart organizations (Billboard, Oricon, ARIA, OCC, etc.) and documented in [`SOURCES.md`](SOURCES.md).
 
@@ -117,6 +129,18 @@ Research the **year-end top 10 singles** for a given country and year. Use offic
 | Gaon/Circle Chart | South Korea | |
 | FIMI | Italy | Use Sanremo winners + Musica e Dischi for pre-1995 |
 | SNEP | France | |
+| CAPIF / CMTV | Argentina | Argentine Chamber of Phonogram Producers |
+| IFPI Chile / Sociedad Chilena del Derecho de Autor | Chile | |
+| Acinpro / Monitor Latino | Colombia | |
+| Egyptian Radio & TV Union | Egypt | Cultural significance–based for pre-2010 |
+| Ghana Music Awards / Charterhouse | Ghana | Cultural significance–based |
+| ASIRI / Spotify Indonesia Charts | Indonesia | |
+| Media Forest / IBA Charts | Israel | |
+| MCSK / Spotify Kenya Charts | Kenya | Cultural significance–based |
+| RIM / Spotify Malaysia Charts | Malaysia | |
+| PARI / PhilPop / Spotify Philippines | Philippines | |
+| TECA / Spotify Thailand Charts | Thailand | |
+| MÜ-YAP / Spotify Turkey Charts | Turkey | |
 | Wikipedia year-end chart pages | All | Good secondary source for most countries |
 
 For countries/years without formal charts (e.g., Soviet-era Russia, pre-2000 China, Nigeria, India), compile from cultural significance, award shows, and widely-documented best-known songs of that era.
