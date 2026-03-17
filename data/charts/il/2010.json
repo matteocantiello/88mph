@@ -1,37 +1,28 @@
 {
   "country": "il",
   "year": 2010,
-  "context": "Israel's 2010 music scene saw the emergence of a new pop generation alongside enduring mizrahi stars. Omer Adam began his rise to become Israel's biggest pop star, while Static & Ben El would soon revolutionize Israeli pop with their electronic-mizrahi fusion. International hits competed for chart space alongside a strong domestic music industry.",
+  "context": "Israel's 2010 saw a new generation of pop stars emerge alongside established acts. International hits dominated the radio charts, with Lady Gaga, Ke$ha, and Rihanna leading airplay. Israeli artists like Harel Skaat (Eurovision 2010 representative), Omer Adam, and veteran Shlomo Artzi maintained strong domestic presence.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Tel Aviv Ya Habibi",
-      "artist": "Omer Adam",
-      "youtubeId": "AoKwsP0RYHI",
-      "spotifyUri": "spotify:track:06gpZtgeFQEcmr5TVwfkbS",
-      "spotifyUrl": "https://open.spotify.com/track/06gpZtgeFQEcmr5TVwfkbS",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0227394a07e91477f0723e4b22"
+      "title": "Bad Romance",
+      "artist": "Lady Gaga",
+      "youtubeId": "52QarK_LoHE",
+      "spotifyUri": "spotify:track:0SiywuOBRcynK0uKGWdCnn",
+      "spotifyUrl": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa"
     },
     {
       "rank": 2,
-      "title": "Lama Lo Ba Li",
-      "artist": "Eyal Golan",
-      "youtubeId": "2p3rtnQ_7y4",
-      "spotifyUri": "spotify:track:1Hsxz3THpMGPlUfs6ut8kv",
-      "spotifyUrl": "https://open.spotify.com/track/1Hsxz3THpMGPlUfs6ut8kv",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ef12005dd15dcd28a2fccbbe"
+      "title": "TiK ToK",
+      "artist": "Ke$ha",
+      "youtubeId": "RxUZLmN5RsY",
+      "spotifyUri": "spotify:track:0HPD5WQqrq7wPWR7P7Dw1i",
+      "spotifyUrl": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0297c7b770b28ffeed164f4d0e"
     },
     {
       "rank": 3,
-      "title": "Ahava Ktana",
-      "artist": "Harel Skaat",
-      "youtubeId": "YBmnG70_x14",
-      "spotifyUri": "spotify:track:2tWpGexLmGbQbWE22dh9nr",
-      "spotifyUrl": "https://open.spotify.com/track/2tWpGexLmGbQbWE22dh9nr",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e025524689d9913b2c10bb3ca07"
-    },
-    {
-      "rank": 4,
       "title": "Milim",
       "artist": "Harel Skaat",
       "youtubeId": "qkP8L0MvIl0",
@@ -40,59 +31,66 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e022aa04d6942976291cc3c2345"
     },
     {
+      "rank": 4,
+      "title": "Rude Boy",
+      "artist": "Rihanna",
+      "youtubeId": "bqUsUhz41jY",
+      "spotifyUri": "spotify:track:60jzFy6Nn4M0iD1d94oteF",
+      "spotifyUrl": "https://open.spotify.com/track/60jzFy6Nn4M0iD1d94oteF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ab647295c0c97446c1f1a3b5"
+    },
+    {
       "rank": 5,
-      "title": "Emtza Ha'Derech",
-      "artist": "Shlomo Artzi",
-      "youtubeId": "yRDJj6bLv-M",
-      "spotifyUri": "spotify:track:2gK92y6pVz6ygq8Fc7N2xL",
-      "spotifyUrl": "https://open.spotify.com/track/2gK92y6pVz6ygq8Fc7N2xL",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0201f29cb95808086322951517"
+      "title": "Alejandro",
+      "artist": "Lady Gaga",
+      "youtubeId": "e6NIlIMSVdg",
+      "spotifyUri": "spotify:track:1HHeOs6zRdF8Ck58easiAY",
+      "spotifyUrl": "https://open.spotify.com/track/1HHeOs6zRdF8Ck58easiAY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa"
     },
     {
       "rank": 6,
-      "title": "Bo Nelech",
-      "artist": "Idan Raichel Project",
-      "youtubeId": "rJNaEJ24JCc",
-      "spotifyUri": "spotify:track:6ISqS9NCSeExL1x4VHmp38",
-      "spotifyUrl": "https://open.spotify.com/track/6ISqS9NCSeExL1x4VHmp38",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02be04194351345a8e3a648d6b"
+      "title": "Telephone",
+      "artist": "Lady Gaga feat. Beyoncé",
+      "youtubeId": "XkGIneCJRlc",
+      "spotifyUri": "spotify:track:4TCL0qqKyqsMZml0G3M9IM",
+      "spotifyUrl": "https://open.spotify.com/track/4TCL0qqKyqsMZml0G3M9IM",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c9890c0456a3719eeecd8aa"
     },
     {
       "rank": 7,
-      "title": "Shevet Achim Ve'Achayot",
-      "artist": "Subliminal & Eyal Golan",
-      "youtubeId": "bAhxhiyhWtk",
-      "spotifyUri": "spotify:track:5ve92gLYGAgRLQCFTlQ67I",
-      "spotifyUrl": "https://open.spotify.com/track/5ve92gLYGAgRLQCFTlQ67I",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f6baa3dfd144bfeb237fc55a"
+      "title": "Baby",
+      "artist": "Justin Bieber feat. Ludacris",
+      "youtubeId": "GqWYJT-iMTw",
+      "spotifyUri": "spotify:track:6epn3r7S14KUqlReYr77hA",
+      "spotifyUrl": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02629dc9e2e3bc20bbd7d92e4a"
     },
     {
       "rank": 8,
-      "title": "Toda",
-      "artist": "Sarit Hadad",
-      "youtubeId": "fZ4adayME8I",
-      "spotifyUri": "spotify:track:6RLQXtGsWZZsDd3Sa5swwF",
-      "spotifyUrl": "https://open.spotify.com/track/6RLQXtGsWZZsDd3Sa5swwF",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e021bbc84bb8dd47d76d357e01c"
+      "title": "Hey, Soul Sister",
+      "artist": "Train",
+      "youtubeId": "_2qJy5r-WAY",
+      "spotifyUri": "spotify:track:4HlFJV71xXKIGcU3kRyttv",
+      "spotifyUrl": "https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026ff8bc258e3ebc835ffe14ca"
     },
     {
       "rank": 9,
-      "title": "Achshav Ze Ha'Zman",
-      "artist": "Miri Mesika",
-      "youtubeId": "QoEYVEDADGk",
-      "spotifyUri": "spotify:track:0rXOX9yyDrbDRXVrBtb3Qa",
-      "spotifyUrl": "https://open.spotify.com/track/0rXOX9yyDrbDRXVrBtb3Qa",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02246dd456ad6730fb8a01c99a"
+      "title": "Gever Metumtam",
+      "artist": "Omer Adam",
+      "spotifyUri": "spotify:track:4ml1tecvYSfbETHZXVmXkH",
+      "spotifyUrl": "https://open.spotify.com/track/4ml1tecvYSfbETHZXVmXkH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022b17e1a552e595e62027c79b"
     },
     {
       "rank": 10,
-      "title": "Ha'Kol Over Habibi",
-      "artist": "Ethnix",
-      "youtubeId": "ziqqdjpf-Oo",
-      "spotifyUri": "spotify:track:1bPUUqR2dMjar8Xnifzv6v",
-      "spotifyUrl": "https://open.spotify.com/track/1bPUUqR2dMjar8Xnifzv6v",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f872b329dc271bdbedd7d4ac"
+      "title": "Lama Li",
+      "artist": "Shlomo Artzi",
+      "youtubeId": "ogQ6gK645o4",
+      "spotifyUri": "spotify:track:0Xz0yXSiYaC2nyxwjZGTd5",
+      "spotifyUrl": "https://open.spotify.com/track/0Xz0yXSiYaC2nyxwjZGTd5",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021e6cc8efe63a90d4436933f0"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2sv5mwtsqkt1nSiiIU7L8c"
+  ]
 }

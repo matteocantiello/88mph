@@ -1,108 +1,97 @@
 {
   "country": "ar",
   "year": 1980,
-  "context": "In 1980, Argentina was under military dictatorship, and rock nacional became a covert vehicle for resistance and expression. Charly García with Serú Girán, Luis Alberto Spinetta, and León Gieco created anthems that spoke to a generation yearning for freedom. The Malvinas War in 1982 would further boost Argentine rock's prominence.",
+  "context": "In 1980, Argentina was under military dictatorship. Pop charts were dominated by international disco and pop, while rock nacional simmered underground. Serú Girán released their masterpiece 'Bicicleta' with coded political lyrics, Spinetta Jade debuted with jazz-rock fusion, and Riff introduced heavy metal to Argentina.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Canción de Alicia en el País",
-      "artist": "Serú Girán",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0291334daa58be7ede30e4b603",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:519WGo9DQCtYP72a7Lmprj",
-      "spotifyUrl": "https://open.spotify.com/track/519WGo9DQCtYP72a7Lmprj",
-      "youtubeId": "dd_zTHf752Q"
+      "title": "Funkytown",
+      "artist": "Lipps Inc.",
+      "youtubeId": "OAC4ItP0xWM",
+      "spotifyUri": "spotify:track:0KQh7AuuZvpTKWhcJa8Pbr",
+      "spotifyUrl": "https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ff20337899af5e6a29e9bb8f"
     },
     {
       "rank": 2,
-      "title": "Viernes 3 AM",
+      "title": "Canción de Alicia en el País",
       "artist": "Serú Girán",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02587f0851afdf757e5c77ddc2",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:41tcjjAImkOeFHEaGghqqI",
-      "spotifyUrl": "https://open.spotify.com/track/41tcjjAImkOeFHEaGghqqI",
-      "youtubeId": "ocOVqp1ISzs"
+      "youtubeId": "dd_zTHf752Q",
+      "spotifyUri": "spotify:track:519WGo9DQCtYP72a7Lmprj",
+      "spotifyUrl": "https://open.spotify.com/track/519WGo9DQCtYP72a7Lmprj",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0291334daa58be7ede30e4b603"
     },
     {
       "rank": 3,
-      "title": "Sólo le Pido a Dios",
-      "artist": "León Gieco",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0258b372b5c69c59aec0c99989",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3L7BpEVfClIMpJHy5e0Ehv",
-      "spotifyUrl": "https://open.spotify.com/track/3L7BpEVfClIMpJHy5e0Ehv",
-      "youtubeId": "p9h3-IjHXmA"
+      "title": "D.I.S.C.O.",
+      "artist": "Ottawan",
+      "youtubeId": "EO51YkA3qys",
+      "spotifyUri": "spotify:track:7KkdYJqxvq4ZFq9gvFy06v",
+      "spotifyUrl": "https://open.spotify.com/track/7KkdYJqxvq4ZFq9gvFy06v",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f6f713a49f98ec228d7f9883"
     },
     {
       "rank": 4,
-      "title": "Yo No Quiero Volverme Tan Loco",
-      "artist": "Charly García",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02209f16b555132048defda48a",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:68LeIVjVDRMXPlfdFHhID6",
-      "spotifyUrl": "https://open.spotify.com/track/68LeIVjVDRMXPlfdFHhID6",
-      "youtubeId": "8XXGMzGKWfs"
+      "title": "Desarma y Sangra",
+      "artist": "Serú Girán",
+      "youtubeId": "GmggLyi6wjA",
+      "spotifyUri": "spotify:track:2LmFypafhOlB3z2WRsrHjA",
+      "spotifyUrl": "https://open.spotify.com/track/2LmFypafhOlB3z2WRsrHjA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0291334daa58be7ede30e4b603"
     },
     {
       "rank": 5,
-      "title": "Rezo por Vos",
-      "artist": "Charly García & Luis Alberto Spinetta",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02db8504f569e554a2453e3136",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4CKGM9AIglnOMGsH0r5uAN",
-      "spotifyUrl": "https://open.spotify.com/track/4CKGM9AIglnOMGsH0r5uAN",
-      "youtubeId": "PqO3ns8iHR0"
+      "title": "Shandi",
+      "artist": "Kiss",
+      "youtubeId": "svARnIWJiOs",
+      "spotifyUri": "spotify:track:1aJtdcYdncvyNrVKCcj0eD",
+      "spotifyUrl": "https://open.spotify.com/track/1aJtdcYdncvyNrVKCcj0eD",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0223d04b20480a3ed0809d36ab"
     },
     {
       "rank": 6,
-      "title": "No Soy un Extraño",
-      "artist": "Charly García",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b14842a87b833bc0a9339f60",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5f3EtD85N6tTekD3HVja4j",
-      "spotifyUrl": "https://open.spotify.com/track/5f3EtD85N6tTekD3HVja4j",
-      "youtubeId": "L9mMo4k048E"
+      "title": "Mientras Miro las Nuevas Olas",
+      "artist": "Serú Girán",
+      "youtubeId": "wDDeVyaWES4",
+      "spotifyUri": "spotify:track:20HOkeup7WSNOaOVQKbDNp",
+      "spotifyUrl": "https://open.spotify.com/track/20HOkeup7WSNOaOVQKbDNp",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0291334daa58be7ede30e4b603"
     },
     {
       "rank": 7,
-      "title": "Seminare",
-      "artist": "Serú Girán",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e43a1468d51f6b0cbcd4c3f",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7yPsoib9EoQVmK3loJgptI",
-      "spotifyUrl": "https://open.spotify.com/track/7yPsoib9EoQVmK3loJgptI",
-      "youtubeId": "seYKJZ9xAyY"
+      "title": "Cara de Gitana",
+      "artist": "Daniel Magal",
+      "youtubeId": "K9ZvD1DSf40",
+      "spotifyUri": "spotify:track:64nhtPnSMHjuAnkdlFJz9B",
+      "spotifyUrl": "https://open.spotify.com/track/64nhtPnSMHjuAnkdlFJz9B",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029f7b04be43a552040030c8ea"
     },
     {
       "rank": 8,
-      "title": "Mariposas de Madera",
-      "artist": "Luis Alberto Spinetta",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02db8504f569e554a2453e3136",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:6goQGJKRXEEUdBdAEmV7Eu",
-      "spotifyUrl": "https://open.spotify.com/track/6goQGJKRXEEUdBdAEmV7Eu",
-      "youtubeId": "IsJsEJTD3T4"
+      "title": "Alma de Diamante",
+      "artist": "Spinetta Jade",
+      "youtubeId": "34F56VJL2lY",
+      "spotifyUri": "spotify:track:6F3VxUPgfcvDDpk2UxsJ5a",
+      "spotifyUrl": "https://open.spotify.com/track/6F3VxUPgfcvDDpk2UxsJ5a",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02290f02e58c17fe12c3797b85"
     },
     {
       "rank": 9,
-      "title": "Encuentro con el Diablo",
-      "artist": "La Torre",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f69fbf30c2cd1089e0e675b7",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:60cjWFWxGrR5ODt5bqxqIP",
-      "spotifyUrl": "https://open.spotify.com/track/60cjWFWxGrR5ODt5bqxqIP",
-      "youtubeId": "HsCwAhJjGQ0"
+      "title": "Morir al Lado de Mi Amor",
+      "artist": "Demis Roussos",
+      "youtubeId": "6zMhqqXBWxw",
+      "spotifyUri": "spotify:track:3pg1YGYgsqsKEyNyI8ycPf",
+      "spotifyUrl": "https://open.spotify.com/track/3pg1YGYgsqsKEyNyI8ycPf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02818562485a8bea8e3a736677"
     },
     {
       "rank": 10,
-      "title": "José Mercado",
-      "artist": "Serú Girán",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e025e73b5c3235f1dae08842ed4",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2Y21XGk4R87cPCi4oR53l6",
-      "spotifyUrl": "https://open.spotify.com/track/2Y21XGk4R87cPCi4oR53l6",
-      "youtubeId": "PYOy9WHASaE"
+      "title": "Ruedas de Metal",
+      "artist": "Riff",
+      "youtubeId": "s7EvIyuXEac",
+      "spotifyUri": "spotify:track:3tycTEE2eMMCwJ2SI8s3YZ",
+      "spotifyUrl": "https://open.spotify.com/track/3tycTEE2eMMCwJ2SI8s3YZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e029cd3779c688e5be2ea2f189c"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2Qq11aLtXVpiLRktF96AID"
+  ]
 }

@@ -1,108 +1,97 @@
 {
   "country": "eg",
   "year": 2005,
-  "context": "By 2005, Egyptian pop had matured into a massive pan-Arab industry with Rotana Records dominating distribution. Amr Diab's 'Kammel Kalamak' was a blockbuster release, while a new generation including Tamer Hosny, Ruby, and Sherine became household names through film soundtracks and satellite TV music video rotation.",
+  "context": "By 2005, Egyptian pop had matured into a massive pan-Arab industry with Rotana Records dominating distribution. Amr Diab's 'Kammel Kalamak' was a blockbuster release selling 1.5 million copies, while a new generation including Tamer Hosny, Ruby, and Sherine became household names through film soundtracks and satellite TV music video rotation.",
   "tracks": [
     {
       "rank": 1,
       "title": "Kammel Kalamak",
       "artist": "Amr Diab",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02027b0429b1d6ae7aa630f865",
-      "previewUrl": null,
+      "youtubeId": "GWLlLHqPXFs",
       "spotifyUri": "spotify:track:7GiDZ7B0zXC9JmDcMK6Llu",
       "spotifyUrl": "https://open.spotify.com/track/7GiDZ7B0zXC9JmDcMK6Llu",
-      "youtubeId": "GWLlLHqPXFs"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02027b0429b1d6ae7aa630f865"
     },
     {
       "rank": 2,
-      "title": "Ya Ghaly Alaya",
-      "artist": "WAMA",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02420ba9691aa4d86817ba6460",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2xI9n1ZsjHVDVsMffLeXHp",
-      "spotifyUrl": "https://open.spotify.com/track/2xI9n1ZsjHVDVsMffLeXHp",
-      "youtubeId": "avPToXXsuWg"
+      "title": "Leh Beydary Keda",
+      "artist": "Ruby",
+      "youtubeId": "zX7ZTPTJLRM",
+      "spotifyUri": "spotify:track:4iKQHYDFlFsX28FeViuwSK",
+      "spotifyUrl": "https://open.spotify.com/track/4iKQHYDFlFsX28FeViuwSK",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02eec7b64b4deaedf0bae9016e"
     },
     {
       "rank": 3,
-      "title": "Leh Beydari Keda",
-      "artist": "Ruby",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02eec7b64b4deaedf0bae9016e",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4iKQHYDFlFsX28FeViuwSK",
-      "spotifyUrl": "https://open.spotify.com/track/4iKQHYDFlFsX28FeViuwSK",
-      "youtubeId": "zX7ZTPTJLRM"
+      "title": "Lazem Ayesh",
+      "artist": "Sherine",
+      "youtubeId": "TKIwKziHQFc",
+      "spotifyUri": "spotify:track:5tWp2gjC7LBULwOut8KU5E",
+      "spotifyUrl": "https://open.spotify.com/track/5tWp2gjC7LBULwOut8KU5E",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e7de831d0cb09443cb874bf2"
     },
     {
       "rank": 4,
-      "title": "Arrab Habibi",
-      "artist": "Tamer Hosny",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f38d8362d65506defd6e80df",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5O5VV0ESA52Eu0YHSlrnO0",
-      "spotifyUrl": "https://open.spotify.com/track/5O5VV0ESA52Eu0YHSlrnO0",
-      "youtubeId": "y5WM-7En5R0"
+      "title": "Ya Ghaly Alaya",
+      "artist": "WAMA",
+      "youtubeId": "avPToXXsuWg",
+      "spotifyUri": "spotify:track:2xI9n1ZsjHVDVsMffLeXHp",
+      "spotifyUrl": "https://open.spotify.com/track/2xI9n1ZsjHVDVsMffLeXHp",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02420ba9691aa4d86817ba6460"
     },
     {
       "rank": 5,
-      "title": "Lazem Ayesh",
-      "artist": "Sherine",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e7de831d0cb09443cb874bf2",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5tWp2gjC7LBULwOut8KU5E",
-      "spotifyUrl": "https://open.spotify.com/track/5tWp2gjC7LBULwOut8KU5E",
-      "youtubeId": "TKIwKziHQFc"
+      "title": "We Maloh",
+      "artist": "Amr Diab",
+      "youtubeId": "n45XOgKijec",
+      "spotifyUri": "spotify:track:7z1OHWVyKvynHMiIGHVLon",
+      "spotifyUrl": "https://open.spotify.com/track/7z1OHWVyKvynHMiIGHVLon",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02027b0429b1d6ae7aa630f865"
     },
     {
       "rank": 6,
-      "title": "We Maloh",
-      "artist": "Amr Diab",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02027b0429b1d6ae7aa630f865",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7z1OHWVyKvynHMiIGHVLon",
-      "spotifyUrl": "https://open.spotify.com/track/7z1OHWVyKvynHMiIGHVLon",
-      "youtubeId": "n45XOgKijec"
+      "title": "Arrab Habibi",
+      "artist": "Tamer Hosny",
+      "youtubeId": "y5WM-7En5R0",
+      "spotifyUri": "spotify:track:5O5VV0ESA52Eu0YHSlrnO0",
+      "spotifyUrl": "https://open.spotify.com/track/5O5VV0ESA52Eu0YHSlrnO0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f38d8362d65506defd6e80df"
     },
     {
       "rank": 7,
       "title": "Ah Ya Leil",
       "artist": "Sherine",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0275b86894ea27251481a438ae",
-      "previewUrl": null,
+      "youtubeId": "qeIsFhHr85c",
       "spotifyUri": "spotify:track:0SnJfQjlOqpHFnaSPnSlWT",
       "spotifyUrl": "https://open.spotify.com/track/0SnJfQjlOqpHFnaSPnSlWT",
-      "youtubeId": "qeIsFhHr85c"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0275b86894ea27251481a438ae"
     },
     {
       "rank": 8,
       "title": "Ahla Haga Feeki",
       "artist": "Mohamed Hamaki",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02efed63c14ec5825ceb603f35",
-      "previewUrl": null,
+      "youtubeId": "n_1f2cbFnkQ",
       "spotifyUri": "spotify:track:06uo1USMfngzC6C7RB9SXb",
       "spotifyUrl": "https://open.spotify.com/track/06uo1USMfngzC6C7RB9SXb",
-      "youtubeId": "n_1f2cbFnkQ"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02efed63c14ec5825ceb603f35"
     },
     {
       "rank": 9,
       "title": "Ya Bent El Eh",
       "artist": "Tamer Hosny",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02652d75589e59453b6156abf4",
-      "previewUrl": null,
+      "youtubeId": "zwXw7EDczjA",
       "spotifyUri": "spotify:track:0sWYFm96d3AHiNn949l61O",
       "spotifyUrl": "https://open.spotify.com/track/0sWYFm96d3AHiNn949l61O",
-      "youtubeId": "zwXw7EDczjA"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02652d75589e59453b6156abf4"
     },
     {
       "rank": 10,
-      "title": "Shamandora",
-      "artist": "Mohamed Mounir",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e024535dcf5bce21d67be0e3799",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3IaSGJ74SCZAXxzSUmfhdE",
-      "spotifyUrl": "https://open.spotify.com/track/3IaSGJ74SCZAXxzSUmfhdE",
-      "youtubeId": "rK9V1lVOvOU"
+      "title": "Oddam Oyounak",
+      "artist": "Amr Diab",
+      "youtubeId": "UW0PqpJdR4k",
+      "spotifyUri": "spotify:track:6TYFcqqQVQPb3YsgfRhvqs",
+      "spotifyUrl": "https://open.spotify.com/track/6TYFcqqQVQPb3YsgfRhvqs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022a37edda69e67266f05a9753"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1Gat3Bl5eH1z87h1ZqbOrP"
+  ]
 }

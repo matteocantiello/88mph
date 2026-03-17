@@ -1,108 +1,97 @@
 {
   "country": "co",
   "year": 1985,
-  "context": "The mid-1980s marked the peak of vallenato's mainstream dominance in Colombia, with Diomedes Díaz as the undisputed king. Joe Arroyo was simultaneously revolutionizing tropical music with his orchestra La Verdad, while the Grupo Niche salsa movement from Cali was rising. Vallenato and salsa coexisted as the twin pillars of Colombian popular music.",
+  "context": "The mid-1980s marked the peak of vallenato's mainstream dominance in Colombia, with Diomedes Díaz (then paired with El Cocha Molina) as the undisputed king. Joe Arroyo was simultaneously revolutionizing tropical music with La Verdad, while Grupo Niche's salsa from Cali was ascending and Binomio de Oro defined romantic vallenato.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Tú Eres la Reina",
-      "artist": "Diomedes Díaz & Juancho Rois",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e023ccef69da22117088fcd8104",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:15Q3jbXrqgd9DqW8I4iKl4",
-      "spotifyUrl": "https://open.spotify.com/track/15Q3jbXrqgd9DqW8I4iKl4",
-      "youtubeId": "JkUu_1MMBwM"
+      "title": "Cali Pachanguero",
+      "artist": "Grupo Niche",
+      "youtubeId": "YLjGoiOi8ac",
+      "spotifyUri": "spotify:track:6GsxCYC9UaL0J8b8MVrRqX",
+      "spotifyUrl": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0231f52b4562e4a6b06d4ec3b2"
     },
     {
       "rank": 2,
-      "title": "Rebelión",
+      "title": "Tumbatecho",
       "artist": "Joe Arroyo y La Verdad",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ef8d6139c380eb2ffb2d7d97",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0SZxeUYe7xTAVG2zMOozz4",
-      "spotifyUrl": "https://open.spotify.com/track/0SZxeUYe7xTAVG2zMOozz4",
-      "youtubeId": "e700cKd4uqU"
+      "youtubeId": "o-RKiZNXcvQ",
+      "spotifyUri": "spotify:track:46mZMNRGcEaX54lMXQRKFs",
+      "spotifyUrl": "https://open.spotify.com/track/46mZMNRGcEaX54lMXQRKFs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ddb522445d2dff08f65fdd33"
     },
     {
       "rank": 3,
-      "title": "Rosa Angelina",
-      "artist": "Joe Arroyo y La Verdad",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ca60721e5adc444e6a15d59d",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2DtRiKsrdaXbQZ6Ns4LXMV",
-      "spotifyUrl": "https://open.spotify.com/track/2DtRiKsrdaXbQZ6Ns4LXMV",
-      "youtubeId": "4FitNkTSi2c"
+      "title": "Alma Herida",
+      "artist": "Diomedes Díaz & El Cocha Molina",
+      "youtubeId": "1RBRbTPOLSU",
+      "spotifyUri": "spotify:track:3NKvDIErsnwQyN2kGkGg0U",
+      "spotifyUrl": "https://open.spotify.com/track/3NKvDIErsnwQyN2kGkGg0U",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028d8eaa224d1da05580d87a4d"
     },
     {
       "rank": 4,
-      "title": "Sin Medir Distancias",
-      "artist": "Diomedes Díaz & Juancho Rois",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e021a0545de9d227b48707f0ed1",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3NcPDaUA2u9cv8NHbuojE0",
-      "spotifyUrl": "https://open.spotify.com/track/3NcPDaUA2u9cv8NHbuojE0",
-      "youtubeId": "vZBBpRdtWJw"
+      "title": "Me Le Fugué a la Candela",
+      "artist": "Joe Arroyo y La Verdad",
+      "youtubeId": "m9Z5J5jeR7M",
+      "spotifyUri": "spotify:track:0w0e3Te2Rd4t8gGKi3sU6a",
+      "spotifyUrl": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b7a46e20a5af267c6ba14de8"
     },
     {
       "rank": 5,
-      "title": "Cali Pachanguero",
-      "artist": "Grupo Niche",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0231f52b4562e4a6b06d4ec3b2",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:6GsxCYC9UaL0J8b8MVrRqX",
-      "spotifyUrl": "https://open.spotify.com/track/6GsxCYC9UaL0J8b8MVrRqX",
-      "youtubeId": "YLjGoiOi8ac"
+      "title": "Estar Enamorado",
+      "artist": "Binomio de Oro",
+      "youtubeId": "PgIafxtzZXQ",
+      "spotifyUri": "spotify:track:6iFBpJWQqo8Vv9HV6No2Rf",
+      "spotifyUrl": "https://open.spotify.com/track/6iFBpJWQqo8Vv9HV6No2Rf",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022710c65004f23216a1739e0a"
     },
     {
       "rank": 6,
-      "title": "Olvidemos el Pasado",
-      "artist": "Alfredo Gutiérrez",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b1f9ceac8585a42a6947df4b",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:50fZP6OYJRCgjXKf9LBYwX",
-      "spotifyUrl": "https://open.spotify.com/track/50fZP6OYJRCgjXKf9LBYwX",
-      "youtubeId": "35lL6BIx0MY"
+      "title": "La Escoba Nueva",
+      "artist": "Diomedes Díaz & El Cocha Molina",
+      "youtubeId": "y_0CQ1uwpUc",
+      "spotifyUri": "spotify:track:1DSnDSgtdgTpSh2YYFZHg7",
+      "spotifyUrl": "https://open.spotify.com/track/1DSnDSgtdgTpSh2YYFZHg7",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028d8eaa224d1da05580d87a4d"
     },
     {
       "rank": 7,
-      "title": "El Mochuelo",
-      "artist": "Otto Serge",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a96bfcb79b11b97f67263841",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1dQQtzeKGUtVTUzLoRI01j",
-      "spotifyUrl": "https://open.spotify.com/track/1dQQtzeKGUtVTUzLoRI01j",
-      "youtubeId": "x550hYzXQFA"
+      "title": "Tú",
+      "artist": "Los Diablitos",
+      "youtubeId": "wC61QoaHVMg",
+      "spotifyUri": "spotify:track:0Nopkik2zpnQdAl11v5qnl",
+      "spotifyUrl": "https://open.spotify.com/track/0Nopkik2zpnQdAl11v5qnl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f04218e4f8da63b791336ffa"
     },
     {
       "rank": 8,
-      "title": "Déjame Quererte",
-      "artist": "Binomio de Oro",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e022710c65004f23216a1739e0a",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2pdx5eLAspXwzUxAmENhKO",
-      "spotifyUrl": "https://open.spotify.com/track/2pdx5eLAspXwzUxAmENhKO",
-      "youtubeId": "5vzeY-K2aUg"
+      "title": "Mi Único Consuelo",
+      "artist": "Diomedes Díaz & El Cocha Molina",
+      "youtubeId": "rpsmMgaAzbg",
+      "spotifyUri": "spotify:track:1WzQzf1LJqUxExctGqfYMg",
+      "spotifyUrl": "https://open.spotify.com/track/1WzQzf1LJqUxExctGqfYMg",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028d8eaa224d1da05580d87a4d"
     },
     {
       "rank": 9,
-      "title": "Tabaco y Ron",
-      "artist": "La Sonora Dinamita",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f84dad51cdfbcd4505de9999",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:67fYwGTNhiUsqRxPZIWAJE",
-      "spotifyUrl": "https://open.spotify.com/track/67fYwGTNhiUsqRxPZIWAJE",
-      "youtubeId": "ZPGxREAnXjo"
+      "title": "Olvidemos el Pasado",
+      "artist": "Alfredo Gutiérrez",
+      "youtubeId": "35lL6BIx0MY",
+      "spotifyUri": "spotify:track:50fZP6OYJRCgjXKf9LBYwX",
+      "spotifyUrl": "https://open.spotify.com/track/50fZP6OYJRCgjXKf9LBYwX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b1f9ceac8585a42a6947df4b"
     },
     {
       "rank": 10,
-      "title": "Amarte Más No Pude",
-      "artist": "Diomedes Díaz & Juancho Rois",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bb351ebdd85195a71cebca37",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0oTn6wwj6KdI5Gzdcujf9Z",
-      "spotifyUrl": "https://open.spotify.com/track/0oTn6wwj6KdI5Gzdcujf9Z",
-      "youtubeId": "mY0kAaTVawU"
+      "title": "También Te Quiero",
+      "artist": "Binomio de Oro",
+      "youtubeId": "edVxTf5rN0k",
+      "spotifyUri": "spotify:track:0ui5C1qyuEGGG4ifutfy3W",
+      "spotifyUrl": "https://open.spotify.com/track/0ui5C1qyuEGGG4ifutfy3W",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027486bf8282d286f7db93b7fb"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5o62g2DHNnohIa425mufdP"
+  ]
 }

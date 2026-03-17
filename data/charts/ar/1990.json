@@ -1,108 +1,97 @@
 {
   "country": "ar",
   "year": 1990,
-  "context": "1990 was the peak of Argentine rock's golden era. Soda Stereo was Latin America's biggest rock band, Fito Páez released critically acclaimed albums, and Los Fabulosos Cadillacs brought ska to the mainstream. The cumbia villera movement was beginning to stir in Buenos Aires' working-class barrios.",
+  "context": "In 1990, Soda Stereo released their landmark album 'Canción Animal' and launched the massive Gira Animal tour across Latin America. Charly García and Fito Páez both released albums that year, while international pop dominated radio with Madonna's 'Vogue' and Sinéad O'Connor's iconic ballad.",
   "tracks": [
     {
       "rank": 1,
       "title": "De Música Ligera",
       "artist": "Soda Stereo",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
-      "previewUrl": null,
+      "youtubeId": "tXNR2LMzDiE",
       "spotifyUri": "spotify:track:2WD9ggmpZE7Wodh3qVVCgg",
       "spotifyUrl": "https://open.spotify.com/track/2WD9ggmpZE7Wodh3qVVCgg",
-      "youtubeId": "tXNR2LMzDiE"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58"
     },
     {
       "rank": 2,
-      "title": "En la Ciudad de la Furia",
-      "artist": "Soda Stereo",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282cf3a9e2e2b6b1b3f994d38",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7J2885UBOaG6x3LLkp2YGf",
-      "spotifyUrl": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf",
-      "youtubeId": "vo7jBHB66q4"
+      "title": "Vogue",
+      "artist": "Madonna",
+      "youtubeId": "QJ1LOC_4n0g",
+      "spotifyUri": "spotify:track:3WFgRhgECxQYyy8Ldhk2PG",
+      "spotifyUrl": "https://open.spotify.com/track/3WFgRhgECxQYyy8Ldhk2PG",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d92f642943d7eab422fdaf13"
     },
     {
       "rank": 3,
-      "title": "El Amor Después del Amor",
-      "artist": "Fito Páez",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b80f37385bd537d17f9be93a",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1PQzZbitOJ6XPFg7FFzsKQ",
-      "spotifyUrl": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ",
-      "youtubeId": "wFCpNO0o638"
+      "title": "Nothing Compares 2 U",
+      "artist": "Sinéad O'Connor",
+      "youtubeId": "Ouf9-bOqJVk",
+      "spotifyUri": "spotify:track:5GHY1DFWKz3Prg2V0Iodqo",
+      "spotifyUrl": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02919c02d20d8634f96ccd75ae"
     },
     {
       "rank": 4,
-      "title": "Matador",
-      "artist": "Los Fabulosos Cadillacs",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02721cad4da1b767b70e8aa699",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4bMZ60QNM6OEehI6b8RtS4",
-      "spotifyUrl": "https://open.spotify.com/track/4bMZ60QNM6OEehI6b8RtS4",
-      "youtubeId": "dKJM2ux3bF8"
+      "title": "En el Séptimo Día",
+      "artist": "Soda Stereo",
+      "youtubeId": "BxDciewLqAU",
+      "spotifyUri": "spotify:track:4xVZmLJtBTedcXbDB3qYdX",
+      "spotifyUrl": "https://open.spotify.com/track/4xVZmLJtBTedcXbDB3qYdX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c451ed28353639e79b4d97d9"
     },
     {
       "rank": 5,
-      "title": "Cuando Pase el Temblor",
+      "title": "Un Millón de Años Luz",
       "artist": "Soda Stereo",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2ExpCKBxiHbgzepERl1t4D",
-      "spotifyUrl": "https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D",
-      "youtubeId": "7PHqjNbwnwU"
+      "youtubeId": "k1GbPYtRQbI",
+      "spotifyUri": "spotify:track:0nJrTGcXdJWkKz02UMQdzO",
+      "spotifyUrl": "https://open.spotify.com/track/0nJrTGcXdJWkKz02UMQdzO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c451ed28353639e79b4d97d9"
     },
     {
       "rank": 6,
-      "title": "Yo Vengo a Ofrecer Mi Corazón",
-      "artist": "Fito Páez",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02921417baf700cc9da1d43b80",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2PhrL2xyZCqr5OPQJirv0i",
-      "spotifyUrl": "https://open.spotify.com/track/2PhrL2xyZCqr5OPQJirv0i",
-      "youtubeId": "0wWThHdh2RM"
+      "title": "Enjoy the Silence",
+      "artist": "Depeche Mode",
+      "youtubeId": "Vd_nkokQwnQ",
+      "spotifyUri": "spotify:track:0yp3TvJNlG50Q4tAHWNCRm",
+      "spotifyUrl": "https://open.spotify.com/track/0yp3TvJNlG50Q4tAHWNCRm",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02972ac79d249efed1c7b2c8c1"
     },
     {
       "rank": 7,
-      "title": "Corazón Delator",
-      "artist": "Soda Stereo",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0282cf3a9e2e2b6b1b3f994d38",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2zaZ81JI8KbYaL7210BB0U",
-      "spotifyUrl": "https://open.spotify.com/track/2zaZ81JI8KbYaL7210BB0U",
-      "youtubeId": "4l3oYRETotc"
+      "title": "Tumbas de la Gloria",
+      "artist": "Fito Páez",
+      "youtubeId": "rce7JBHnNs8",
+      "spotifyUri": "spotify:track:5JVOw3uyvIjyldy57dS592",
+      "spotifyUrl": "https://open.spotify.com/track/5JVOw3uyvIjyldy57dS592",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b80f37385bd537d17f9be93a"
     },
     {
       "rank": 8,
-      "title": "Un Vestido y un Amor",
-      "artist": "Fito Páez",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b80f37385bd537d17f9be93a",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2fuN5UVkZFtak2aOpXJSln",
-      "spotifyUrl": "https://open.spotify.com/track/2fuN5UVkZFtak2aOpXJSln",
-      "youtubeId": "7aSsSf-e4zQ"
+      "title": "Hacelo por Mí",
+      "artist": "Attaque 77",
+      "youtubeId": "GoMg-IUetzk",
+      "spotifyUri": "spotify:track:5zqXco5gN08t20hf5AO62z",
+      "spotifyUrl": "https://open.spotify.com/track/5zqXco5gN08t20hf5AO62z",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02834dbc2fb7fc8fb32cd593ff"
     },
     {
       "rank": 9,
-      "title": "Juegos de Seducción",
-      "artist": "Soda Stereo",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e28947f6ad2f100af9c1965a",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:39YibHWQJLIgjQ0xWKlq6t",
-      "spotifyUrl": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t",
-      "youtubeId": "1WKN8uwct74"
+      "title": "Step by Step",
+      "artist": "New Kids on the Block",
+      "youtubeId": "GDEDQ8TCzW8",
+      "spotifyUri": "spotify:track:6J6RWKCPN5RFKHUKEUFjxS",
+      "spotifyUrl": "https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fcabb3685e3ddab2bd0296d5"
     },
     {
       "rank": 10,
-      "title": "La Rueda Mágica",
-      "artist": "Los Fabulosos Cadillacs",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e026f41a299791d5833d41d78f2",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5WvQjVukHeE6bc3r8nxVd4",
-      "spotifyUrl": "https://open.spotify.com/track/5WvQjVukHeE6bc3r8nxVd4",
-      "youtubeId": "5o3XzW2GGc8"
+      "title": "Filosofía Barata y Zapatos de Goma",
+      "artist": "Charly García",
+      "youtubeId": "w8WlBy9q9qY",
+      "spotifyUri": "spotify:track:03mG8gRIri8ZO92bYmcERo",
+      "spotifyUrl": "https://open.spotify.com/track/03mG8gRIri8ZO92bYmcERo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0247d26bd3b4735d81fb4b1e84"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4tP7o3OZ1dpCrPSMxKzomN"
+  ]
 }

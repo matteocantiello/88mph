@@ -1,108 +1,97 @@
 {
   "country": "br",
   "year": 1960,
-  "context": "1960 was the year bossa nova consolidated as a global phenomenon. João Gilberto's second album introduced compositions by Antonio Carlos Jobim that would become jazz standards worldwide. Brazil was in a period of optimism under President Kubitschek, who had just inaugurated the new capital Brasília, and the cool sophistication of bossa nova perfectly reflected this modernizing spirit.",
+  "context": "Brazil's 1960 marked the height of bossa nova's impact. The Parada de Sucesso charts mixed international hits like Percy Faith's 'Theme from A Summer Place' with the new Brazilian sound. Celly Campello became a teen idol with 'Banho de Lua,' while the cool sophistication of bossa nova reflected the optimism of the Kubitschek era and the new capital Brasília.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Samba de Uma Nota Só (One Note Samba)",
-      "artist": "João Gilberto",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02360032ee95ddcd644bc5a4fa",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2zd9LVZFGJ8mTPlnOwyUW6",
-      "spotifyUrl": "https://open.spotify.com/track/2zd9LVZFGJ8mTPlnOwyUW6",
-      "youtubeId": "J3g9uP2V_js"
+      "title": "Theme from 'A Summer Place'",
+      "artist": "Percy Faith",
+      "youtubeId": "3ofmPuHBCCc",
+      "spotifyUri": "spotify:track:6zwvB879PJSpTyFcg2wwnL",
+      "spotifyUrl": "https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ae5534556d63b3935e7532e0"
     },
     {
       "rank": 2,
-      "title": "Corcovado (Quiet Nights of Quiet Stars)",
-      "artist": "João Gilberto",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02417cc363d7286a88489dee3c",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0Wh99eifNTNqDFRtzWhCE2",
-      "spotifyUrl": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2",
-      "youtubeId": "VEMWhrfFVDc"
+      "title": "Banho de Lua",
+      "artist": "Celly Campello",
+      "youtubeId": "EC5DnY7Dm_g",
+      "spotifyUri": "spotify:track:42XECa4EbqBcuKtQazB58c",
+      "spotifyUrl": "https://open.spotify.com/track/42XECa4EbqBcuKtQazB58c",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020825cc0e0349e7213601073e"
     },
     {
       "rank": 3,
-      "title": "O Pato",
-      "artist": "João Gilberto",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02937268cc4480e4ae7dcc6570",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5nHimcXKoQiJtKytX9Gx21",
-      "spotifyUrl": "https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21",
-      "youtubeId": "hL-BHnN6ADc"
+      "title": "A Noite do Meu Bem",
+      "artist": "Dolores Duran",
+      "youtubeId": "PX5xdKezaR8",
+      "spotifyUri": "spotify:track:7p6PaTUkga30kLrRM7nKZ8",
+      "spotifyUrl": "https://open.spotify.com/track/7p6PaTUkga30kLrRM7nKZ8",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e35fb39def77b8d13ffd9bb7"
     },
     {
       "rank": 4,
-      "title": "Meditação (Meditation)",
-      "artist": "João Gilberto",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02937268cc4480e4ae7dcc6570",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0mdesrM7UZZuDAu8RjBkMy",
-      "spotifyUrl": "https://open.spotify.com/track/0mdesrM7UZZuDAu8RjBkMy",
-      "youtubeId": "s5_aPM3usEw"
+      "title": "Esmeralda",
+      "artist": "Carlos José",
+      "youtubeId": "szfJC15kDp0",
+      "spotifyUri": "spotify:track:4tfjfsZIFh3GEdcibHzgXU",
+      "spotifyUrl": "https://open.spotify.com/track/4tfjfsZIFh3GEdcibHzgXU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d3ecb3929c56e33666d96474"
     },
     {
       "rank": 5,
-      "title": "Eu Sei Que Vou Te Amar",
-      "artist": "João Gilberto",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d9e6016d3452a2001ef8faa5",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1qIAd4J0X3WyxFOkiJshLo",
-      "spotifyUrl": "https://open.spotify.com/track/1qIAd4J0X3WyxFOkiJshLo",
-      "youtubeId": "dkcvGpkqzsM"
+      "title": "Mulher de Trinta",
+      "artist": "Miltinho",
+      "youtubeId": "FS9Tf45H1Yw",
+      "spotifyUri": "spotify:track:3tIQ3NEpoRet1NLDVdvuPU",
+      "spotifyUrl": "https://open.spotify.com/track/3tIQ3NEpoRet1NLDVdvuPU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0254a58afbca82bf2f30e73f4e"
     },
     {
       "rank": 6,
-      "title": "Minha Namorada",
-      "artist": "Carlos Lyra",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e39ee0f6461668aded57209a",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:36hQwYXJ2D1VBZvMKJg7AX",
-      "spotifyUrl": "https://open.spotify.com/track/36hQwYXJ2D1VBZvMKJg7AX",
-      "youtubeId": "-4b9kS-VDUQ"
+      "title": "Menina Moça",
+      "artist": "Tito Madi",
+      "youtubeId": "rx7H-q15QLo",
+      "spotifyUri": "spotify:track:5RJTgFInfsLIHBVqhdJv60",
+      "spotifyUrl": "https://open.spotify.com/track/5RJTgFInfsLIHBVqhdJv60",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ad004c0373fc689ac7801207"
     },
     {
       "rank": 7,
-      "title": "Discussão",
-      "artist": "João Gilberto",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02937268cc4480e4ae7dcc6570",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3VnhsZlQH67PzGHZNK5SWL",
-      "spotifyUrl": "https://open.spotify.com/track/3VnhsZlQH67PzGHZNK5SWL",
-      "youtubeId": "e-RkyP0SvvM"
+      "title": "Marina",
+      "artist": "Cauby Peixoto",
+      "youtubeId": "N7s7AhxbFm4",
+      "spotifyUri": "spotify:track:0GEs9ShYv9e4He9CLpFMRR",
+      "spotifyUrl": "https://open.spotify.com/track/0GEs9ShYv9e4He9CLpFMRR",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0239b186efb7b02b923a91a4ab"
     },
     {
       "rank": 8,
-      "title": "Doralice",
-      "artist": "João Gilberto",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02417cc363d7286a88489dee3c",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2s9UFO4G23DGzo8kYBkZcT",
-      "spotifyUrl": "https://open.spotify.com/track/2s9UFO4G23DGzo8kYBkZcT",
-      "youtubeId": "PMGKQC3WIYM"
+      "title": "Put Your Head On My Shoulder",
+      "artist": "Paul Anka",
+      "youtubeId": "kvazBqAlx58",
+      "spotifyUri": "spotify:track:2DpJ9T2RVRanZcYFHKOAfA",
+      "spotifyUrl": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02686c29818cd37e585c48e7ef"
     },
     {
       "rank": 9,
-      "title": "Se É Tarde Me Perdoa",
-      "artist": "Carlos Lyra",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e45a9a525c00927f07d8f94d",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7u6HCgW0Nlljh83hbr64VX",
-      "spotifyUrl": "https://open.spotify.com/track/7u6HCgW0Nlljh83hbr64VX",
-      "youtubeId": "VEm4bgpy15o"
+      "title": "Alguém Me Disse",
+      "artist": "Anísio Silva",
+      "youtubeId": "wd-8OQ8Q3Po",
+      "spotifyUri": "spotify:track:6EZ4T6El2NGmPgChLPD8LL",
+      "spotifyUrl": "https://open.spotify.com/track/6EZ4T6El2NGmPgChLPD8LL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021aedd7eb7878a78cec37b9ee"
     },
     {
       "rank": 10,
-      "title": "Manhã de Carnaval",
-      "artist": "Luiz Bonfá",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fc68119636179eb966102594",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2fQbtkh0GJLHbOCdbdb5Lm",
-      "spotifyUrl": "https://open.spotify.com/track/2fQbtkh0GJLHbOCdbdb5Lm",
-      "youtubeId": "FNK-OaWhwGU"
+      "title": "Everybody's Somebody's Fool",
+      "artist": "Connie Francis",
+      "youtubeId": "GT0xaJllZws",
+      "spotifyUri": "spotify:track:0d8FE2qM1lDEv5TI8VuivT",
+      "spotifyUrl": "https://open.spotify.com/track/0d8FE2qM1lDEv5TI8VuivT",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022df22857add21cbe07a87b49"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0Bl3PMRmelTHdbzbRz3mDG"
+  ]
 }

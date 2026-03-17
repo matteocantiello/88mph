@@ -1,108 +1,97 @@
 {
   "country": "br",
   "year": 2005,
-  "context": "Sertanejo universitário and pagode dominated Brazilian radio in 2005, with Zezé Di Camargo & Luciano leading the airplay charts. International pop and Brazilian rock also crossed over, with Skank and Roberto Carlos anchoring domestic playlists. Banda Calypso drove forró and tecnobrega into mainstream consciousness while actress Marjorie Estiano's soap opera theme became an unlikely chart-topper.",
+  "context": "Brazil's 2005 charts reflected the country's diverse musical landscape: sertanejo universitário from Zezé Di Camargo & Luciano and Bruno & Marrone dominated alongside international rock (Green Day) and R&B (Usher, Akon). Marjorie Estiano crossed over from TV acting to music stardom, and CPM 22 led the punk rock scene.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Você Sempre Será",
-      "artist": "Marjorie Estiano",
-      "youtubeId": "FTu3cygjOxA",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6be62f505ba1354a62b3d61",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:6P4wNF8aZ0EFnbcy6yiLWL",
-      "spotifyUrl": "https://open.spotify.com/track/6P4wNF8aZ0EFnbcy6yiLWL"
+      "title": "My Boo",
+      "artist": "Usher & Alicia Keys",
+      "youtubeId": "7T2A9V3mEWc",
+      "spotifyUri": "spotify:track:68vgtRHr7iZHpzGpon6Jlo",
+      "spotifyUrl": "https://open.spotify.com/track/68vgtRHr7iZHpzGpon6Jlo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02365b3fb800c19f7ff72602da"
     },
     {
       "rank": 2,
-      "title": "Fui Eu",
+      "title": "Eu Amo",
       "artist": "Zezé Di Camargo & Luciano",
-      "youtubeId": "s97tByOukzE",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02de32d123f0354f5228681721",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3hE9Jl1WqcnlQzkU1LctRo",
-      "spotifyUrl": "https://open.spotify.com/track/3hE9Jl1WqcnlQzkU1LctRo"
+      "youtubeId": "iXwWCFSCYVM",
+      "spotifyUri": "spotify:track:4OGqHQ4TYPrD8RBYunfSxH",
+      "spotifyUrl": "https://open.spotify.com/track/4OGqHQ4TYPrD8RBYunfSxH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0223980825085bdd3153510351"
     },
     {
       "rank": 3,
-      "title": "Festa no Apê",
-      "artist": "Latino",
-      "youtubeId": "zjnxBbGILY0",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d93a5db1fc32376b66b7a0f2",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4MhdkKwzXifgDrdtNvMvJJ",
-      "spotifyUrl": "https://open.spotify.com/track/4MhdkKwzXifgDrdtNvMvJJ"
-    },
-    {
-      "rank": 4,
-      "title": "A Volta",
-      "artist": "Roberto Carlos",
-      "youtubeId": "TXxFKb5z_NQ",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b25eb7836116d5a665fbbd0d",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3gc8UQm8dHt8WOxcY3shHc",
-      "spotifyUrl": "https://open.spotify.com/track/3gc8UQm8dHt8WOxcY3shHc"
-    },
-    {
-      "rank": 5,
-      "title": "É Amor Demais",
-      "artist": "Edson & Hudson",
-      "youtubeId": "y98NBN3hrxM",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0269986b723f237dda714b36aa",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0F3PfVZjrm2MmDAf4umDqc",
-      "spotifyUrl": "https://open.spotify.com/track/0F3PfVZjrm2MmDAf4umDqc"
-    },
-    {
-      "rank": 6,
-      "title": "Vamos Fugir",
-      "artist": "Skank",
-      "youtubeId": "p48AHCVaL80",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02703adc9ba56d69b5aba64ba1",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7dxK6RSoCWZcb5gobxs1h9",
-      "spotifyUrl": "https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9"
-    },
-    {
-      "rank": 7,
-      "title": "Cadê Meu Amor",
-      "artist": "Zeca Pagodinho",
-      "youtubeId": "C7fGL0w4Dlg",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c78cad872c5f1af79aac6218",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:6yZAQ3nMUPrqaAsxqajuqs",
-      "spotifyUrl": "https://open.spotify.com/track/6yZAQ3nMUPrqaAsxqajuqs"
-    },
-    {
-      "rank": 8,
-      "title": "Os Amantes",
-      "artist": "Daniel",
-      "youtubeId": "53D8DdgForU",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0216d0817eece45d91048223a3",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3qoUms8benEwOXt0ueqgJ0",
-      "spotifyUrl": "https://open.spotify.com/track/3qoUms8benEwOXt0ueqgJ0"
-    },
-    {
-      "rank": 9,
       "title": "Quer Casar Comigo?",
       "artist": "Bruno & Marrone",
       "youtubeId": "GMmdZ6SQrR0",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0242d5094a807a74695421a10d",
-      "previewUrl": null,
       "spotifyUri": "spotify:track:154TUoBh612uPO2phkrLPh",
-      "spotifyUrl": "https://open.spotify.com/track/154TUoBh612uPO2phkrLPh"
+      "spotifyUrl": "https://open.spotify.com/track/154TUoBh612uPO2phkrLPh",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0242d5094a807a74695421a10d"
+    },
+    {
+      "rank": 4,
+      "title": "Fui Eu",
+      "artist": "Zezé Di Camargo & Luciano",
+      "youtubeId": "s97tByOukzE",
+      "spotifyUri": "spotify:track:3hE9Jl1WqcnlQzkU1LctRo",
+      "spotifyUrl": "https://open.spotify.com/track/3hE9Jl1WqcnlQzkU1LctRo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02de32d123f0354f5228681721"
+    },
+    {
+      "rank": 5,
+      "title": "Boulevard Of Broken Dreams",
+      "artist": "Green Day",
+      "youtubeId": "FPrHuDvXEBw",
+      "spotifyUri": "spotify:track:0U87auHx1iZTEFcq9KVdmO",
+      "spotifyUrl": "https://open.spotify.com/track/0U87auHx1iZTEFcq9KVdmO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0291809a44f16f6434927c1e3f"
+    },
+    {
+      "rank": 6,
+      "title": "Choram As Rosas",
+      "artist": "Bruno & Marrone",
+      "youtubeId": "8oQXTz1oSIQ",
+      "spotifyUri": "spotify:track:2KcT5cTNwcHVK4C6xv54KF",
+      "spotifyUrl": "https://open.spotify.com/track/2KcT5cTNwcHVK4C6xv54KF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0283b02f18ebd3eb0950d02132"
+    },
+    {
+      "rank": 7,
+      "title": "Você Sempre Será",
+      "artist": "Marjorie Estiano",
+      "youtubeId": "FTu3cygjOxA",
+      "spotifyUri": "spotify:track:6P4wNF8aZ0EFnbcy6yiLWL",
+      "spotifyUrl": "https://open.spotify.com/track/6P4wNF8aZ0EFnbcy6yiLWL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d6be62f505ba1354a62b3d61"
+    },
+    {
+      "rank": 8,
+      "title": "Como Vai Você",
+      "artist": "Zezé Di Camargo & Luciano feat. Antonio Marco",
+      "youtubeId": "v-erwLmSleI",
+      "spotifyUri": "spotify:track:5myIRpLrsq35JPaT1RkoaA",
+      "spotifyUrl": "https://open.spotify.com/track/5myIRpLrsq35JPaT1RkoaA",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026fd1c2c1474e4e89fde3c014"
+    },
+    {
+      "rank": 9,
+      "title": "Um Minuto Para O Fim Do Mundo",
+      "artist": "CPM 22",
+      "youtubeId": "2Z8Fyuj-gxo",
+      "spotifyUri": "spotify:track:7ATfTQCF4OGSY91yKk42km",
+      "spotifyUrl": "https://open.spotify.com/track/7ATfTQCF4OGSY91yKk42km",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0262a0156ebaa038067bbaeccc"
     },
     {
       "rank": 10,
-      "title": "Coração",
-      "artist": "Rapazolla",
-      "youtubeId": "au86MIFlTYs",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02daf01b57ff028b03cb69d5d3",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3KBf5mNCMMX9wJtWSgp3tq",
-      "spotifyUrl": "https://open.spotify.com/track/3KBf5mNCMMX9wJtWSgp3tq"
+      "title": "Lonely",
+      "artist": "Akon",
+      "youtubeId": "nN66uAbiJJw",
+      "spotifyUri": "spotify:track:4v7DCN09hgXkKazefkznDQ",
+      "spotifyUrl": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026ec7ab30397ea37295340a41"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/3FlbQNfgo85tSvDoFKcTQr"
+  ]
 }

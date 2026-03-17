@@ -1,108 +1,97 @@
 {
   "country": "co",
   "year": 2000,
-  "context": "The year 2000 saw Colombia's music internationalize dramatically. Shakira was conquering global markets with 'Ojos Así' and her MTV Unplugged, while Carlos Vives continued modernizing vallenato-pop. Juanes debuted with 'Fíjate Bien,' winning three Latin Grammys, and the tropipop movement was emerging.",
+  "context": "The year 2000 saw Colombia's music internationalize dramatically. Shakira's MTV Unplugged dominated, while Carlos Vives continued modernizing vallenato-pop with 'Fruta Fresca.' Juanes debuted with 'Fíjate Bien,' winning three Latin Grammys, and the tropipop movement was emerging.",
   "tracks": [
     {
       "rank": 1,
       "title": "Ojos Así",
       "artist": "Shakira",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d",
-      "previewUrl": null,
+      "youtubeId": "5BzkbSq7pww",
       "spotifyUri": "spotify:track:4EDfdYJ7mqXRoWAqzF1PVO",
       "spotifyUrl": "https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO",
-      "youtubeId": "WHF_PdQ6zIE"
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d"
     },
     {
       "rank": 2,
-      "title": "Fíjate Bien",
-      "artist": "Juanes",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0229c76e25ad189e78fc769d2c",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3wE4fvPhhScUAhY37TDc1D",
-      "spotifyUrl": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D",
-      "youtubeId": "GNz58cPbkwc"
+      "title": "Fruta Fresca",
+      "artist": "Carlos Vives",
+      "youtubeId": "in8rFQZsagQ",
+      "spotifyUri": "spotify:track:1lcaG7worZLgdGuniOfGje",
+      "spotifyUrl": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a27a644e5a9238511847224"
     },
     {
       "rank": 3,
-      "title": "Fruta Fresca",
-      "artist": "Carlos Vives",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a27a644e5a9238511847224",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1lcaG7worZLgdGuniOfGje",
-      "spotifyUrl": "https://open.spotify.com/track/1lcaG7worZLgdGuniOfGje",
-      "youtubeId": "in8rFQZsagQ"
+      "title": "Fíjate Bien",
+      "artist": "Juanes",
+      "youtubeId": "GNz58cPbkwc",
+      "spotifyUri": "spotify:track:3wE4fvPhhScUAhY37TDc1D",
+      "spotifyUrl": "https://open.spotify.com/track/3wE4fvPhhScUAhY37TDc1D",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0229c76e25ad189e78fc769d2c"
     },
     {
       "rank": 4,
-      "title": "Carito",
-      "artist": "Carlos Vives",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0256ca6e39fb22dc21d9b9ac73",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5czkBkWogUvTf2jleGyHaQ",
-      "spotifyUrl": "https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ",
-      "youtubeId": "1hKd8xRAR-k"
+      "title": "No Creo",
+      "artist": "Shakira",
+      "youtubeId": "cNIJCqmUlJI",
+      "spotifyUri": "spotify:track:4suenIuyqxZYV0VIjsbYrG",
+      "spotifyUrl": "https://open.spotify.com/track/4suenIuyqxZYV0VIjsbYrG",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d"
     },
     {
       "rank": 5,
-      "title": "Estoy Aquí",
+      "title": "Inevitable",
       "artist": "Shakira",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02021b9779a9dbaa6a976edb2d",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4M1lEbqPzlEw1JYWB6aE7K",
-      "spotifyUrl": "https://open.spotify.com/track/4M1lEbqPzlEw1JYWB6aE7K",
-      "youtubeId": "2LdMMk8V3V8"
+      "youtubeId": "nYbcVK2jjXc",
+      "spotifyUri": "spotify:track:78dbqYDvx6FOefROApu9w0",
+      "spotifyUrl": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d"
     },
     {
       "rank": 6,
-      "title": "Mi Primer Millón",
-      "artist": "Bacilos",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e1f4c211ce1ef95454bbbcc4",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5fSDXbY8o9pA3TKwAbfwML",
-      "spotifyUrl": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML",
-      "youtubeId": "MpMGgzx9fiE"
+      "title": "Moscas en la Casa",
+      "artist": "Shakira",
+      "youtubeId": "vtsE5L3Powc",
+      "spotifyUri": "spotify:track:1j5NOlhczuiPnZdT6aovgY",
+      "spotifyUrl": "https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d"
     },
     {
       "rank": 7,
-      "title": "Pa' Mayte",
+      "title": "Amor de Mi Tierra",
       "artist": "Carlos Vives",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ad704eb183a0a6f01bbc56d8",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:00gAVWgRJy92PCAHFzVu83",
-      "spotifyUrl": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83",
-      "youtubeId": "ANzuVrjx3Nc"
+      "youtubeId": "u66oTr-3HvI",
+      "spotifyUri": "spotify:track:3t7E1ZrqjIH6xGtSq3gMj9",
+      "spotifyUrl": "https://open.spotify.com/track/3t7E1ZrqjIH6xGtSq3gMj9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024a27a644e5a9238511847224"
     },
     {
       "rank": 8,
-      "title": "Cómo Te Extraño Mi Amor",
-      "artist": "Café Tacvba",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244fc111787f221cf5629a2b9",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:6hFHsQWB7HdVrSe7efRR82",
-      "spotifyUrl": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82",
-      "youtubeId": "W5ka8Y3Cu4Q"
+      "title": "Quiero Más",
+      "artist": "Shakira",
+      "youtubeId": "GfenBxT15fA",
+      "spotifyUri": "spotify:track:4dUJ7JsLy4H8PvUa6vzltN",
+      "spotifyUrl": "https://open.spotify.com/track/4dUJ7JsLy4H8PvUa6vzltN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ddc196bb4c3306560af82238"
     },
     {
       "rank": 9,
-      "title": "Inevitable",
+      "title": "Si Te Vas",
       "artist": "Shakira",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:78dbqYDvx6FOefROApu9w0",
-      "spotifyUrl": "https://open.spotify.com/track/78dbqYDvx6FOefROApu9w0",
-      "youtubeId": "KvsC0FXhAwU"
+      "youtubeId": "Ea655Ji3kKE",
+      "spotifyUri": "spotify:track:7Apo6o7oxgFyXaSmdx6NHN",
+      "spotifyUrl": "https://open.spotify.com/track/7Apo6o7oxgFyXaSmdx6NHN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bfcff1dd252b22bba16a2a5d"
     },
     {
       "rank": 10,
-      "title": "La Tierra del Olvido",
+      "title": "La Gota Fría",
       "artist": "Carlos Vives",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ad704eb183a0a6f01bbc56d8",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1TPZ028i7BWWS5xW4UN9ss",
-      "spotifyUrl": "https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss",
-      "youtubeId": "xC-oRMeWd3I"
+      "youtubeId": "cMn3ortVBeE",
+      "spotifyUri": "spotify:track:4tXR895KKljrC2VptgyEhJ",
+      "spotifyUrl": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0219620bc7b11768a982b843cd"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0IXK7dsqp80w77fgJdgLrH"
+  ]
 }

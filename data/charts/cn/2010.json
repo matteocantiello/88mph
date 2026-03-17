@@ -90,7 +90,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e0277f4fa35ebf1757f35e38993",
       "previewUrl": null,
       "spotifyUri": "spotify:track:4wK1EPnweq89yCUZismV5r",
-      "spotifyUrl": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r"
+      "spotifyUrl": "https://open.spotify.com/track/4wK1EPnweq89yCUZismV5r",
+      "youtubeId": "9I7Ou4NdW5Y"
     },
     {
       "rank": 10,
@@ -99,7 +100,8 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e027a3b3f86733e6be561a1f103",
       "previewUrl": null,
       "spotifyUri": "spotify:track:5tmJwsRDPVa9QujKGuAtIf",
-      "spotifyUrl": "https://open.spotify.com/track/5tmJwsRDPVa9QujKGuAtIf"
+      "spotifyUrl": "https://open.spotify.com/track/5tmJwsRDPVa9QujKGuAtIf",
+      "youtubeId": "Ob5chfkTXZ4"
     }
   ],
   "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1x7uzTZFln34cCMMFdterV"

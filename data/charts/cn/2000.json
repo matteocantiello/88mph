@@ -1,108 +1,97 @@
 {
   "country": "cn",
   "year": 2000,
-  "context": "The year 2000 marked a pivotal turning point in Mandopop: Faye Wong was named best-selling Cantopop female by Guinness World Records, Stefanie Sun debuted and swept 15 newcomer awards across Asia, and Jay Chou signed his debut album. The Four Heavenly Kings remained dominant from their 1990s peak while mainland and Taiwanese pop began to converge.",
+  "context": "The year 2000 was a pivotal moment in Mandopop: Jay Chou debuted with his self-titled album, Stefanie Sun swept Asia with 'Tian Hei Hei,' Mayday broke through with 'Wen Rou,' and Faye Wong released her experimental album 'Fable.' Cantopop and Mandopop were converging into a unified Chinese-language pop landscape.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Tian Kong",
-      "artist": "Faye Wong",
-      "youtubeId": "xLv8UeDTMqc",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e025cb1d2103dea499cb64c28f3",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0htep22LKT8dBKM89oKBYT",
-      "spotifyUrl": "https://open.spotify.com/track/0htep22LKT8dBKM89oKBYT"
+      "title": "Wen Rou",
+      "artist": "Mayday",
+      "youtubeId": "DaJSR5Ro6us",
+      "spotifyUri": "spotify:track:1EgGTmmFGtlWuqgXFLrp9x",
+      "spotifyUrl": "https://open.spotify.com/track/1EgGTmmFGtlWuqgXFLrp9x",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ecffec71478b28134ebc7fa5"
     },
     {
       "rank": 2,
       "title": "Tian Hei Hei",
       "artist": "Stefanie Sun",
-      "youtubeId": "lngbs_0j8QM",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e024ffc7cd5198a11da6dc2d8e5",
-      "previewUrl": null,
+      "youtubeId": "DOH5uhwn5F4",
       "spotifyUri": "spotify:track:2wso0v7nIbeOnMf078XSVQ",
-      "spotifyUrl": "https://open.spotify.com/track/2wso0v7nIbeOnMf078XSVQ"
+      "spotifyUrl": "https://open.spotify.com/track/2wso0v7nIbeOnMf078XSVQ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024ffc7cd5198a11da6dc2d8e5"
     },
     {
       "rank": 3,
-      "title": "Tong Hua",
-      "artist": "Andy Lau",
-      "youtubeId": "AQF8Gt-_vWo",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02649ac34f3dab589ab823ee63",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:6Jr5FFKxo75wRIgsw4LzDK",
-      "spotifyUrl": "https://open.spotify.com/track/6Jr5FFKxo75wRIgsw4LzDK"
+      "title": "Ai Qing Zheng Shu",
+      "artist": "Stefanie Sun",
+      "youtubeId": "D3ULIKeMi4s",
+      "spotifyUri": "spotify:track:4BD9LjL7c0QoQjGEd684km",
+      "spotifyUrl": "https://open.spotify.com/track/4BD9LjL7c0QoQjGEd684km",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024ffc7cd5198a11da6dc2d8e5"
     },
     {
       "rank": 4,
-      "title": "Wan Mei De Yi Tian",
-      "artist": "Jacky Cheung",
-      "youtubeId": "iBcqh9uEjxU",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e028532fe0d39acd77ea73ea301",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2JMWj3mh5mTA1ADOTiyRpS",
-      "spotifyUrl": "https://open.spotify.com/track/2JMWj3mh5mTA1ADOTiyRpS"
+      "title": "Pu Tong Peng You",
+      "artist": "David Tao",
+      "youtubeId": "1hY-dcBLIWk",
+      "spotifyUri": "spotify:track:7CTitzr4eVIDCPUJi5Dr4B",
+      "spotifyUrl": "https://open.spotify.com/track/7CTitzr4eVIDCPUJi5Dr4B",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020aee670b96c585c15ec6d127"
     },
     {
       "rank": 5,
-      "title": "Ai Ni",
-      "artist": "Aaron Kwok",
-      "youtubeId": "jFeIe-KfoKE",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e023ceb894bf1b993f80943aa1d",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7rcOYwL1lRH5utsDYTrZl7",
-      "spotifyUrl": "https://open.spotify.com/track/7rcOYwL1lRH5utsDYTrZl7"
+      "title": "Gei Zi Ji De Qing Shu",
+      "artist": "Faye Wong",
+      "youtubeId": "cnlfpQf5d7A",
+      "spotifyUri": "spotify:track:6qA8OS4y8lwDvAaHDWUxnO",
+      "spotifyUrl": "https://open.spotify.com/track/6qA8OS4y8lwDvAaHDWUxnO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02fd9d63f39b6d680e5f9406de"
     },
     {
       "rank": 6,
-      "title": "Tian Di",
+      "title": "Ke Ai Nv Ren",
       "artist": "Jay Chou",
-      "youtubeId": "IDX8OG01Hw8",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0277b87d409cbbd955a5aa905a",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:17r0QOU13yjiEP38skWLjo",
-      "spotifyUrl": "https://open.spotify.com/track/17r0QOU13yjiEP38skWLjo"
+      "youtubeId": "hlb8YbCjN1Y",
+      "spotifyUri": "spotify:track:0vsaLFneNZqtAenWWk6t0A",
+      "spotifyUrl": "https://open.spotify.com/track/0vsaLFneNZqtAenWWk6t0A",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02da5c0a5199bf536700244278"
     },
     {
       "rank": 7,
-      "title": "Liao Jie Ni",
-      "artist": "Leon Lai",
-      "youtubeId": "mYqC1sFP-LQ",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02addd3cee7f5be9be53991954",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1G3KBDcbkfOp2MWKalQQyp",
-      "spotifyUrl": "https://open.spotify.com/track/1G3KBDcbkfOp2MWKalQQyp"
+      "title": "Hao Xiang Hao Hao Ai Ni",
+      "artist": "Zhou Hui",
+      "youtubeId": "QAdFljBHAM4",
+      "spotifyUri": "spotify:track:6klk47awY6nWs6nMGp6Ivy",
+      "spotifyUrl": "https://open.spotify.com/track/6klk47awY6nWs6nMGp6Ivy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c988bd641d38d9c0087380c8"
     },
     {
       "rank": 8,
-      "title": "Yan Zi",
-      "artist": "Stefanie Sun",
-      "youtubeId": "ZFukosP6LOw",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0238338823ebd6550cd49329bc",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4Xg2ixb9KEDKZioDOrpH4n",
-      "spotifyUrl": "https://open.spotify.com/track/4Xg2ixb9KEDKZioDOrpH4n"
+      "title": "Ru Guo You Yi Tian",
+      "artist": "Fish Leong",
+      "youtubeId": "S9xqs6ghN6g",
+      "spotifyUri": "spotify:track:4GoEVf675f5tDxZsVrf5gw",
+      "spotifyUrl": "https://open.spotify.com/track/4GoEVf675f5tDxZsVrf5gw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024f33cc2b3adabd7493e44619"
     },
     {
       "rank": 9,
-      "title": "Ni Hai Ai Wo Ma",
-      "artist": "Na Ying",
-      "youtubeId": "B4U_RjNBpLY",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0271b5109552c46ab16da648d1",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1agtt2O9XTELuju4KYGpfQ",
-      "spotifyUrl": "https://open.spotify.com/track/1agtt2O9XTELuju4KYGpfQ"
+      "title": "Nan Ren Ku Ba Bu Shi Zui",
+      "artist": "Andy Lau",
+      "youtubeId": "muXSQOh5NvU",
+      "spotifyUri": "spotify:track:29hlSWTZeYVvumzKKf4KZ9",
+      "spotifyUrl": "https://open.spotify.com/track/29hlSWTZeYVvumzKKf4KZ9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020f51ba046deae4a5bd792b0f"
     },
     {
       "rank": 10,
-      "title": "Jue Dui",
-      "artist": "Wang Leehom",
-      "youtubeId": "ziwKHypu4EA",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0208621891f5e9d4db19741f5c",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:44VsCDWlS0D2BmOv03Y5gX",
-      "spotifyUrl": "https://open.spotify.com/track/44VsCDWlS0D2BmOv03Y5gX"
+      "title": "K Ge Zhi Wang",
+      "artist": "Eason Chan",
+      "youtubeId": "vJ1SMy6a9vo",
+      "spotifyUri": "spotify:track:7EvrasH1vNzZ7DFt8vNuFT",
+      "spotifyUrl": "https://open.spotify.com/track/7EvrasH1vNzZ7DFt8vNuFT",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023b5b5d4f255556eded931632"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1vCINukd9z7RQ8mzQn7STx"
+  ]
 }

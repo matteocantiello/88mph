@@ -1,108 +1,97 @@
 {
   "country": "id",
   "year": 1985,
-  "context": "Indonesia's 1985 was dominated by dangdut king Rhoma Irama and the sophisticated pop of Chrisye. Dangdut — a uniquely Indonesian genre blending Indian, Malay, and Arabic musical elements — was at its commercial peak, while pop Indonesia offered a more cosmopolitan alternative influenced by Western soft rock and jazz.",
+  "context": "Indonesia's 1985 was a golden year for pop Indonesia, with Chrisye, Nicky Astria, and Vina Panduwinata leading a sophisticated pop scene. Bill & Brod's 'Madu dan Racun' was selected to represent Indonesia at the ASEAN Pop Song Festival and sold over a million copies. The era produced some of Indonesia's most enduring pop classics.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Begadang",
-      "artist": "Rhoma Irama",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02880cf90d8e872847b7727cdf",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5TFBJunwkbdRjnUzKaZeJt",
-      "spotifyUrl": "https://open.spotify.com/track/5TFBJunwkbdRjnUzKaZeJt",
-      "youtubeId": "ailTsa1VQsI"
+      "title": "Madu dan Racun",
+      "artist": "Bill & Brod",
+      "youtubeId": "M144UVhQygc",
+      "spotifyUri": "spotify:track:4B8JZahpWWNXvjZL78zzhq",
+      "spotifyUrl": "https://open.spotify.com/track/4B8JZahpWWNXvjZL78zzhq",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ffc64c9a951a73df530805d"
     },
     {
       "rank": 2,
-      "title": "Lilin-Lilin Kecil",
+      "title": "Aku Cinta Dia",
       "artist": "Chrisye",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0216dd514d5c6ca5471eb8bfa6",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7iDpViFQbGCoLw7QCA5fS4",
-      "spotifyUrl": "https://open.spotify.com/track/7iDpViFQbGCoLw7QCA5fS4",
-      "youtubeId": "MN_-ghTd2UQ"
+      "youtubeId": "HYLnmRiuc5w",
+      "spotifyUri": "spotify:track:4fDWO9Z69ydDGbtB1xMsCn",
+      "spotifyUrl": "https://open.spotify.com/track/4fDWO9Z69ydDGbtB1xMsCn",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024388a8f946e927d52ef9e8b2"
     },
     {
       "rank": 3,
-      "title": "Jangan Sakiti Hatinya",
-      "artist": "Nike Ardilla",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e023b4e4a4011cdd6d7939fbfc7",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7uABk1gbtLCut4i3bMYFod",
-      "spotifyUrl": "https://open.spotify.com/track/7uABk1gbtLCut4i3bMYFod",
-      "youtubeId": "sIIF9tD1hNI"
+      "title": "Gelas Gelas Kaca",
+      "artist": "Nia Daniaty",
+      "youtubeId": "ZP8A7MtLHIw",
+      "spotifyUri": "spotify:track:5WZAZjBuAe30UHnDBsFvck",
+      "spotifyUrl": "https://open.spotify.com/track/5WZAZjBuAe30UHnDBsFvck",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026bf0426abc5295931d6b3ea5"
     },
     {
       "rank": 4,
-      "title": "Pernahkah Dulu",
-      "artist": "Betharia Sonata",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0236e075cfb2e5a888b56404ed",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4FVbw2kZPAOPYjoAPxte2E",
-      "spotifyUrl": "https://open.spotify.com/track/4FVbw2kZPAOPYjoAPxte2E",
-      "youtubeId": "cEFH9fWLmsk"
+      "title": "Jarum Neraka",
+      "artist": "Nicky Astria",
+      "youtubeId": "nYoU4RPB94o",
+      "spotifyUri": "spotify:track:5eGNhjrHIy9hSfSYu3elJN",
+      "spotifyUrl": "https://open.spotify.com/track/5eGNhjrHIy9hSfSYu3elJN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ed990fcfd89e2fd9bc9eca59"
     },
     {
       "rank": 5,
-      "title": "Damai Bersamamu",
-      "artist": "Chrisye",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f7f60f54d771cf90783f8c31",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7xSq21ht4d4bw7M5fql6ez",
-      "spotifyUrl": "https://open.spotify.com/track/7xSq21ht4d4bw7M5fql6ez",
-      "youtubeId": "Zt3zI655PUw"
+      "title": "Antara Benci dan Rindu",
+      "artist": "Ratih Purwasih",
+      "youtubeId": "gStn--2PcLs",
+      "spotifyUri": "spotify:track:6wIJoAKsMDVow7vIkLlhep",
+      "spotifyUrl": "https://open.spotify.com/track/6wIJoAKsMDVow7vIkLlhep",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027fd5fac725de8c1e3491596c"
     },
     {
       "rank": 6,
-      "title": "Hati yang Luka",
-      "artist": "Betharia Sonata",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02014de162f1fe41f563d0d257",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7biuMlxzy39x2vnkzQexNL",
-      "spotifyUrl": "https://open.spotify.com/track/7biuMlxzy39x2vnkzQexNL",
-      "youtubeId": "XbBuTL9CRWU"
+      "title": "Cinta",
+      "artist": "Vina Panduwinata",
+      "youtubeId": "cAb_7H4ll2M",
+      "spotifyUri": "spotify:track:66iuR9zZSIXPG5Ys4HKiq2",
+      "spotifyUrl": "https://open.spotify.com/track/66iuR9zZSIXPG5Ys4HKiq2",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c8999de82508bd1ff1e97131"
     },
     {
       "rank": 7,
-      "title": "Rupiah",
-      "artist": "Rhoma Irama",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02880cf90d8e872847b7727cdf",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:73zXH4dZuvHtwHPiUXGHXX",
-      "spotifyUrl": "https://open.spotify.com/track/73zXH4dZuvHtwHPiUXGHXX",
-      "youtubeId": "5WbEhibVEIA"
+      "title": "Kerinduan",
+      "artist": "Meriam Bellina",
+      "youtubeId": "zly6ug-hlTI",
+      "spotifyUri": "spotify:track:4nHpnWp8ZRYcJBeGEnFANn",
+      "spotifyUrl": "https://open.spotify.com/track/4nHpnWp8ZRYcJBeGEnFANn",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a83c9714d7933f692f277321"
     },
     {
       "rank": 8,
-      "title": "Sabda Alam",
-      "artist": "Chrisye",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e023489495ebe848d6e7459c7c1",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1g35iGjFu0LXTmhcyn4P0E",
-      "spotifyUrl": "https://open.spotify.com/track/1g35iGjFu0LXTmhcyn4P0E",
-      "youtubeId": "fr6nt_BtgIw"
+      "title": "Bunga dan Kumbang",
+      "artist": "Endang S. Taurina",
+      "youtubeId": "hMs0_6HRB8s",
+      "spotifyUri": "spotify:track:2WnMZPsRHm6DpJPQFUHdws",
+      "spotifyUrl": "https://open.spotify.com/track/2WnMZPsRHm6DpJPQFUHdws",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b2557c4317e894b211d1bd9b"
     },
     {
       "rank": 9,
-      "title": "Gala-Gala",
-      "artist": "Rhoma Irama",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e026e8ac03db4f9f0887f5c730c",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0vTa1tRGtgPyRnGKkfmQaH",
-      "spotifyUrl": "https://open.spotify.com/track/0vTa1tRGtgPyRnGKkfmQaH",
-      "youtubeId": "nxl7AEuZXlo"
+      "title": "Sorga dan Neraka",
+      "artist": "Hetty Koes Endang",
+      "youtubeId": "gp2P2bmdaRM",
+      "spotifyUri": "spotify:track:6dOYByACK0TbHos0n1PXQi",
+      "spotifyUrl": "https://open.spotify.com/track/6dOYByACK0TbHos0n1PXQi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dce1f3cb2adcada3e5eb39cb"
     },
     {
       "rank": 10,
-      "title": "Badai Pasti Berlalu",
-      "artist": "Chrisye",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02deb9e7770721e44232230043",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:02QILbqLTVjjynNu2aM19M",
-      "spotifyUrl": "https://open.spotify.com/track/02QILbqLTVjjynNu2aM19M",
-      "youtubeId": "N4MzEytt6Io"
+      "title": "Cintaku Sedalam Lautan Atlantik",
+      "artist": "Ria Resty Fauzy",
+      "youtubeId": "s9yocK7aHok",
+      "spotifyUri": "spotify:track:3NCWl7RYIvg7nXztipklak",
+      "spotifyUrl": "https://open.spotify.com/track/3NCWl7RYIvg7nXztipklak",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020963b8af1e50eb998c383c7a"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/4HolAkF3RWkQZGtsFux6Sm"
+  ]
 }

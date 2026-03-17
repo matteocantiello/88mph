@@ -1,108 +1,97 @@
 {
   "country": "ar",
   "year": 2000,
-  "context": "Argentina in 2000 saw rock nacional at a crossroads, with new bands like Bersuit Vergarabat and Babasonicos pushing boundaries while the country headed toward its devastating 2001 economic crisis. Cumbia villera exploded as the soundtrack of the crisis, and Los Rodriguez's Andrés Calamaro went solo with massive success.",
+  "context": "Argentina in 2000 was on the verge of its devastating economic crisis. Rodrigo Bueno dominated with cuarteto before his tragic death in June, while La Mosca Tsé-Tsé's infectious 'Para No Verte Más' became an anthem. International pop from Bon Jovi and Madonna shared the airwaves with Argentine rock from Divididos and Bersuit Vergarabat.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Flaca",
-      "artist": "Andrés Calamaro",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e4b8ec3d2ffe1f77c7185d48",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1p7m9H4H8s0Y7SgRm7j3ED",
-      "spotifyUrl": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED",
-      "youtubeId": "uEV4RqqnlSE"
+      "title": "Ocho Cuarenta",
+      "artist": "Rodrigo",
+      "youtubeId": "OQnZtrM-ISg",
+      "spotifyUri": "spotify:track:6jDx3MNG0yJdrvEBZohKBE",
+      "spotifyUrl": "https://open.spotify.com/track/6jDx3MNG0yJdrvEBZohKBE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026cad176e0218599f4bca434c"
     },
     {
       "rank": 2,
-      "title": "La Vida Tombola",
-      "artist": "Manu Chao",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e37f9a3fdedc3d7dc2c49b26",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3U34tMYhMbr6tBWZdCUp6f",
-      "spotifyUrl": "https://open.spotify.com/track/3U34tMYhMbr6tBWZdCUp6f",
-      "youtubeId": "r3XsLHwirwU"
+      "title": "It's My Life",
+      "artist": "Bon Jovi",
+      "youtubeId": "bY3vXr7fm8k",
+      "spotifyUri": "spotify:track:0v1XpBHnsbkCn7iJ9Ucr1l",
+      "spotifyUrl": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e027a231174875d7930de9dad58"
     },
     {
       "rank": 3,
-      "title": "Jesse James",
-      "artist": "Bersuit Vergarabat",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e029b979c559ea40fc088c07f6b",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4iABTqDgx71UVIhfUNLZng",
-      "spotifyUrl": "https://open.spotify.com/track/4iABTqDgx71UVIhfUNLZng",
-      "youtubeId": "p5_Kosxcq0M"
+      "title": "Para No Verte Más",
+      "artist": "La Mosca Tsé-Tsé",
+      "youtubeId": "myW8YuosTq4",
+      "spotifyUri": "spotify:track:19CmuECYssqkPWANF4nLWM",
+      "spotifyUrl": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0260fc79eea7acba5248619f82"
     },
     {
       "rank": 4,
-      "title": "Loco (Tu Forma de Ser)",
-      "artist": "Los Auténticos Decadentes",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0262d6b9c62691db6f63608eac",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3ydweVPwq9PCEVJ8WwqT6u",
-      "spotifyUrl": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u",
-      "youtubeId": "9PSudEJdCNI"
+      "title": "La Mano de Dios",
+      "artist": "Rodrigo",
+      "youtubeId": "fCZLaLzbhrI",
+      "spotifyUri": "spotify:track:5s8onl5Lw5q1AijP5BUm7G",
+      "spotifyUrl": "https://open.spotify.com/track/5s8onl5Lw5q1AijP5BUm7G",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028edb22d5f154fc55319f5647"
     },
     {
       "rank": 5,
-      "title": "Cómo Eran las Cosas",
-      "artist": "Babasonicos",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b50bb73f2ef9047afa0644a4",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5RzXSxR7BUhEtpqh77lMbR",
-      "spotifyUrl": "https://open.spotify.com/track/5RzXSxR7BUhEtpqh77lMbR",
-      "youtubeId": "L095O5hU4VI"
+      "title": "Par Mil",
+      "artist": "Divididos",
+      "youtubeId": "FirN0SmVYu4",
+      "spotifyUri": "spotify:track:0wUFXsXHZc2h6wKRcmJNWF",
+      "spotifyUrl": "https://open.spotify.com/track/0wUFXsXHZc2h6wKRcmJNWF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028875cc2685c8d483e0e667f0"
     },
     {
       "rank": 6,
-      "title": "Amo y Señor",
-      "artist": "Leo Dan",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e028ad34e1f526e13770fe56a81",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0pnyOit504K6A1594D0uZV",
-      "spotifyUrl": "https://open.spotify.com/track/0pnyOit504K6A1594D0uZV",
-      "youtubeId": "igQqGk8R-Ks"
+      "title": "Music",
+      "artist": "Madonna",
+      "youtubeId": "A9EvnyhUZrA",
+      "spotifyUri": "spotify:track:6WzRpISELf3YglGAh7TXcG",
+      "spotifyUrl": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024c8f092adc59b4bf4212389d"
     },
     {
       "rank": 7,
-      "title": "La Perla",
-      "artist": "Babasonicos",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e025c0540f97b3f95e387a9b58e",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1V14rt4SEpMU1wCdmGz6eB",
-      "spotifyUrl": "https://open.spotify.com/track/1V14rt4SEpMU1wCdmGz6eB",
-      "youtubeId": "L8H822UtvOg"
+      "title": "Cha Cha Cha",
+      "artist": "La Mosca Tsé-Tsé",
+      "youtubeId": "fAPrsBfjplM",
+      "spotifyUri": "spotify:track:36in1jDriTe1PQhU4iTKkv",
+      "spotifyUrl": "https://open.spotify.com/track/36in1jDriTe1PQhU4iTKkv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0260fc79eea7acba5248619f82"
     },
     {
       "rank": 8,
-      "title": "Estadio Azteca",
-      "artist": "Andrés Calamaro",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02687f3027948e525c171d0440",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:03Ntkzzjkz7nFJldcPbL90",
-      "spotifyUrl": "https://open.spotify.com/track/03Ntkzzjkz7nFJldcPbL90",
-      "youtubeId": "ctEfRni9sQQ"
+      "title": "Beautiful Day",
+      "artist": "U2",
+      "youtubeId": "vCqlrhnl68g",
+      "spotifyUri": "spotify:track:1VuBmEauSZywQVtqbxNqka",
+      "spotifyUrl": "https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e3f4221446f724b575a9aafb"
     },
     {
       "rank": 9,
-      "title": "Sr. Cobranza",
+      "title": "La Bolsa",
       "artist": "Bersuit Vergarabat",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a0fc7851f47a216e9a902aa6",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0zXMZx9kvFO6x58JiIh4BJ",
-      "spotifyUrl": "https://open.spotify.com/track/0zXMZx9kvFO6x58JiIh4BJ",
-      "youtubeId": "yvjgke19zZw"
+      "youtubeId": "C41Zp--DWt4",
+      "spotifyUri": "spotify:track:0C3PenkD2aq1IdDFkJcA0x",
+      "spotifyUrl": "https://open.spotify.com/track/0C3PenkD2aq1IdDFkJcA0x",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02062f7fb870c9412e7b7c7ccd"
     },
     {
       "rank": 10,
-      "title": "No Voy en Tren",
-      "artist": "Charly García",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0242542c948d51893462874c89",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5MV4J9OdmVGz63b1gnezp6",
-      "spotifyUrl": "https://open.spotify.com/track/5MV4J9OdmVGz63b1gnezp6",
-      "youtubeId": "RIaZM8d9oCA"
+      "title": "A Puro Dolor",
+      "artist": "Son by Four",
+      "youtubeId": "MAr4uwe2rsA",
+      "spotifyUri": "spotify:track:28upjDakWVnHAgW2anm273",
+      "spotifyUrl": "https://open.spotify.com/track/28upjDakWVnHAgW2anm273",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0286d271377d16a14bdc0914dd"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/5KAAHtcWGaaJun7lb1rd0U"
+  ]
 }

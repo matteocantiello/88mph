@@ -1,10 +1,19 @@
 {
   "country": "tr",
   "year": 1975,
-  "context": "Turkey's 1975 was the golden age of Anatolian rock, a psychedelic fusion of Turkish folk music with Western rock. Barış Manço, Cem Karaca, and Erkin Koray were the movement's icons, while arabesk — an emotional, orchestral genre blending Turkish, Arabic, and Western elements — was beginning its rise from the margins to the mainstream.",
+  "context": "Turkey's 1975 was the golden age of Anatolian rock, a psychedelic fusion of Turkish folk music with Western rock. Cem Karaca's 'Tamirci Çırağı' was a massive hit, while Barış Manço released the landmark album '2023.' Arabesk was beginning its rise from the margins, and Turkish pop divas like Ajda Pekkan bridged East and West.",
   "tracks": [
     {
       "rank": 1,
+      "title": "Tamirci Çırağı",
+      "artist": "Cem Karaca",
+      "youtubeId": "hipoufhRi8c",
+      "spotifyUri": "spotify:track:0xWB2vkNuXO9f31e9FsuJw",
+      "spotifyUrl": "https://open.spotify.com/track/0xWB2vkNuXO9f31e9FsuJw",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c02834b8004444773a670c03"
+    },
+    {
+      "rank": 2,
       "title": "Dağlar Dağlar",
       "artist": "Barış Manço",
       "youtubeId": "ZOfocI3d1SE",
@@ -13,86 +22,76 @@
       "albumArt": "https://i.scdn.co/image/ab67616d00001e024a8e6638a50402dfdb96077e"
     },
     {
-      "rank": 2,
-      "title": "Tamirci Çırağı",
-      "artist": "Barış Manço",
-      "youtubeId": "RHlhva-1DiQ",
-      "spotifyUri": "spotify:track:01F8naUG7sn9LWvk68vauX",
-      "spotifyUrl": "https://open.spotify.com/track/01F8naUG7sn9LWvk68vauX",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02258dc405fd943a2ad6cb2eb1"
-    },
-    {
       "rank": 3,
-      "title": "Beyaz Giyme Toz Olur",
-      "artist": "Cem Karaca",
-      "youtubeId": "HlXEsHutcwg",
-      "spotifyUri": "spotify:track:4Bo5m5tVPa6eSgnACaRpqk",
-      "spotifyUrl": "https://open.spotify.com/track/4Bo5m5tVPa6eSgnACaRpqk",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02792acfee0ab461b5264ca4b4"
+      "title": "Nasılsın İyi Misin",
+      "artist": "Ajda Pekkan",
+      "youtubeId": "YMw3PlJYUY0",
+      "spotifyUri": "spotify:track:4Qs35ihWlLKSUHGTUcVunR",
+      "spotifyUrl": "https://open.spotify.com/track/4Qs35ihWlLKSUHGTUcVunR",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0290285b44991f782687968ef1"
     },
     {
       "rank": 4,
-      "title": "Resimdeki Gözyaşları",
+      "title": "Nem Kaldı",
       "artist": "Cem Karaca",
-      "youtubeId": "Mvsn1ebR7Gs",
-      "spotifyUri": "spotify:track:1FWtprHStw6VvFqFXDmLT9",
-      "spotifyUrl": "https://open.spotify.com/track/1FWtprHStw6VvFqFXDmLT9",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e709b675435b35b045bb39dc"
+      "youtubeId": "ncfR9schgoo",
+      "spotifyUri": "spotify:track:2aTPG2sMZkoxTTNRfaxbtV",
+      "spotifyUrl": "https://open.spotify.com/track/2aTPG2sMZkoxTTNRfaxbtV",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025238b431d6a7388b191a9996"
     },
     {
       "rank": 5,
-      "title": "Gurbet",
+      "title": "Estarabim",
       "artist": "Erkin Koray",
-      "youtubeId": "-4zj_xtqW0Q",
-      "spotifyUri": "spotify:track:10kwvh4Prhtrm2Xz5JUpQO",
-      "spotifyUrl": "https://open.spotify.com/track/10kwvh4Prhtrm2Xz5JUpQO",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e020dfd3995f7baa649aad2e4bc"
+      "youtubeId": "Dc1JGOkNCrM",
+      "spotifyUri": "spotify:track:1tNLt6jyPlu36SoDlNGz5T",
+      "spotifyUrl": "https://open.spotify.com/track/1tNLt6jyPlu36SoDlNGz5T",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e023910daf3974ae0074432eefb"
     },
     {
       "rank": 6,
-      "title": "Sevdan Olmasa",
-      "artist": "Orhan Gencebay",
-      "youtubeId": "t-gbzHV_iw4",
-      "spotifyUri": "spotify:track:0n8NJb6hPAHCE5QpXSkg5q",
-      "spotifyUrl": "https://open.spotify.com/track/0n8NJb6hPAHCE5QpXSkg5q",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d26c6da58e144e2919ea83f3"
+      "title": "Sessiz Gemi",
+      "artist": "Hümeyra",
+      "youtubeId": "54IrGCbZ9uk",
+      "spotifyUri": "spotify:track:1hJ448kD4yTFp4AItGeiNa",
+      "spotifyUrl": "https://open.spotify.com/track/1hJ448kD4yTFp4AItGeiNa",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e021f93a354b8a148febc8bb9ee"
     },
     {
       "rank": 7,
-      "title": "Peki Peki Anladık",
-      "artist": "Barış Manço",
-      "youtubeId": "AXsF3gCfWDo",
-      "spotifyUri": "spotify:track:4O0QzXVASBtxTEwMRcjq7O",
-      "spotifyUrl": "https://open.spotify.com/track/4O0QzXVASBtxTEwMRcjq7O",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02265a71576961e090b91ada4a"
+      "title": "Kara Sevda",
+      "artist": "Behiye Aksoy",
+      "youtubeId": "spESoUT6Zvg",
+      "spotifyUri": "spotify:track:3X5F2qGybRH90FYHoOlzQl",
+      "spotifyUrl": "https://open.spotify.com/track/3X5F2qGybRH90FYHoOlzQl",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026c6df5713d90e6dc2b0a3b4b"
     },
     {
       "rank": 8,
-      "title": "Gözleri Aşka Gülen",
-      "artist": "Zeki Müren",
-      "youtubeId": "UpgBcCg0lis",
-      "spotifyUri": "spotify:track:2Srl8ssLsNRraXPw17Q4jl",
-      "spotifyUrl": "https://open.spotify.com/track/2Srl8ssLsNRraXPw17Q4jl",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02105b3fb4f495d566c58903bb"
+      "title": "Ya Mustafa",
+      "artist": "Nil Burak",
+      "youtubeId": "9-2Uh-03TQQ",
+      "spotifyUri": "spotify:track:3YNGBpOr5f3GEphFVLOQqs",
+      "spotifyUrl": "https://open.spotify.com/track/3YNGBpOr5f3GEphFVLOQqs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c6ac2d31cf084895bd6f3574"
     },
     {
       "rank": 9,
-      "title": "Batsın Bu Dünya",
-      "artist": "Orhan Gencebay",
-      "youtubeId": "oKN5MEiol1Y",
-      "spotifyUri": "spotify:track:02gpdpyXZ9nq9ceMD3jwNj",
-      "spotifyUrl": "https://open.spotify.com/track/02gpdpyXZ9nq9ceMD3jwNj",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e022af4aeb4184cc5bb7a91cded"
+      "title": "Yalan Yalan",
+      "artist": "Yeliz",
+      "youtubeId": "JtgZ7fzxTG8",
+      "spotifyUri": "spotify:track:1gIkCa1dk6RHhCP7PAD8XE",
+      "spotifyUrl": "https://open.spotify.com/track/1gIkCa1dk6RHhCP7PAD8XE",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e47bf6e93abfca1e13a9eb62"
     },
     {
       "rank": 10,
-      "title": "Çeşmi Siyahım",
-      "artist": "Barış Manço",
-      "youtubeId": "0J5rdGf4U7A",
-      "spotifyUri": "spotify:track:01F8naUG7sn9LWvk68vauX",
-      "spotifyUrl": "https://open.spotify.com/track/01F8naUG7sn9LWvk68vauX",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02258dc405fd943a2ad6cb2eb1"
+      "title": "Açıl Susam Açıl",
+      "artist": "Şenay",
+      "youtubeId": "32jPcq6qtRk",
+      "spotifyUri": "spotify:track:4rAn4fu9kw4RK1aDTnYQYs",
+      "spotifyUrl": "https://open.spotify.com/track/4rAn4fu9kw4RK1aDTnYQYs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bc3042d5ee6aa383a71c600e"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/6WfnDgZ1ETFIWs1yGm3bwb"
+  ]
 }

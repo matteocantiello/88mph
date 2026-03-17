@@ -1,108 +1,96 @@
 {
   "country": "ar",
   "year": 2005,
-  "context": "Post-crisis Argentina saw its music scene rebuild with fierce creative energy. Gustavo Cerati's solo career soared, Miranda! brought synth-pop glamour, and cumbia villera remained a cultural force. International reggaeton hits like 'Gasolina' were penetrating Argentine radio alongside the dominant rock nacional scene.",
+  "context": "Post-crisis Argentina rebuilt its music scene with fierce creative energy. Shakira and Alejandro Sanz dominated with 'La Tortura', while Argentine punk band Attaque 77 and alternative rockers Catupecu Machu proved rock nacional was thriving. International acts like Black Eyed Peas and Juanes competed for radio play alongside local artists.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Crimen",
-      "artist": "Gustavo Cerati",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d543f7c7de880da5370922c0",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3oqWr0jDWNXxWufNogGREp",
-      "spotifyUrl": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp",
-      "youtubeId": "YVXNPPdh6wE"
+      "title": "La Tortura",
+      "artist": "Shakira & Alejandro Sanz",
+      "youtubeId": "GdgiSOHcswI",
+      "spotifyUri": "spotify:track:53AafWSzYsiJKnAtJTUB5f",
+      "spotifyUrl": "https://open.spotify.com/track/53AafWSzYsiJKnAtJTUB5f",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02afccde0243b5c750c07f6825"
     },
     {
       "rank": 2,
-      "title": "Don",
-      "artist": "Miranda!",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0241ca8a8fdfcce2d6ff7f2d05",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0WajUW5XINeraP2w0F3F8E",
-      "spotifyUrl": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E",
-      "youtubeId": "32DOcN9A0TQ"
+      "title": "Arranca Corazones",
+      "artist": "Attaque 77",
+      "youtubeId": "fhE77pA6_Es",
+      "spotifyUri": "spotify:track:6bwEePeBplAGGIBiWC3Ujb",
+      "spotifyUrl": "https://open.spotify.com/track/6bwEePeBplAGGIBiWC3Ujb",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0231c15ce239ccd8677651e8d2"
     },
     {
       "rank": 3,
-      "title": "Persiana Americana",
-      "artist": "Soda Stereo",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02017ed8a01b6648a9d1fe2f58",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7JZP7kQsuFFWOrtAI7uNiW",
-      "spotifyUrl": "https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW",
-      "youtubeId": "Z3L5M7GHAkw"
+      "title": "Volverte a Ver",
+      "artist": "Juanes",
+      "youtubeId": "NhFXgemJofg",
+      "spotifyUri": "spotify:track:2ZqFfDwNjKvPu3USx3onhO",
+      "spotifyUrl": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c091c40987e92a9256d2f210"
     },
     {
       "rank": 4,
-      "title": "Tratame Suavemente",
-      "artist": "Soda Stereo",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e028fd9b16eb6bdd20c95717258",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:65DBZofI0b79kfHTcWWDuU",
-      "spotifyUrl": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU",
-      "youtubeId": "VbFfuHxyGEI"
+      "title": "Magia Veneno",
+      "artist": "Catupecu Machu",
+      "youtubeId": "Tdqzmnw6uw4",
+      "spotifyUri": "spotify:track:6zielPkg61vCK5DfqqvjE9",
+      "spotifyUrl": "https://open.spotify.com/track/6zielPkg61vCK5DfqqvjE9",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026961872106b3ce3d9cf7d230"
     },
     {
       "rank": 5,
-      "title": "Yo No Quiero Volverme Tan Loco",
-      "artist": "Charly García",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02209f16b555132048defda48a",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:68LeIVjVDRMXPlfdFHhID6",
-      "spotifyUrl": "https://open.spotify.com/track/68LeIVjVDRMXPlfdFHhID6",
-      "youtubeId": "8XXGMzGKWfs"
+      "title": "Don't Lie",
+      "artist": "Black Eyed Peas",
+      "youtubeId": "bvvnUVN6vrk",
+      "spotifyUri": "spotify:track:6tp27J7xy18DQiQXut3GsF",
+      "spotifyUrl": "https://open.spotify.com/track/6tp27J7xy18DQiQXut3GsF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c6710b4a52539506c30e5354"
     },
     {
       "rank": 6,
-      "title": "Gasolina",
-      "artist": "Daddy Yankee",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0211b9999b620ef9bc0e957623",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5YoITs1m0q8UOQ4AW7N5ga",
-      "spotifyUrl": "https://open.spotify.com/track/5YoITs1m0q8UOQ4AW7N5ga",
-      "youtubeId": "2djj_KnGwjk"
+      "title": "La Camisa Negra",
+      "artist": "Juanes",
+      "spotifyUri": "spotify:track:2EM9zpAc7PVeoAydmbfVIL",
+      "spotifyUrl": "https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c091c40987e92a9256d2f210"
     },
     {
       "rank": 7,
-      "title": "Adiós",
-      "artist": "Gustavo Cerati",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d543f7c7de880da5370922c0",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1rh4kDY9T4fHVDum8Foi5k",
-      "spotifyUrl": "https://open.spotify.com/track/1rh4kDY9T4fHVDum8Foi5k",
-      "youtubeId": "217Bw85-5cw"
+      "title": "Óyelo",
+      "artist": "Bahiano",
+      "youtubeId": "YVgo-KHVaVQ",
+      "spotifyUri": "spotify:track:4MI8GKRUQ14JrZuZGW0Uiy",
+      "spotifyUrl": "https://open.spotify.com/track/4MI8GKRUQ14JrZuZGW0Uiy",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e1c1e8d8021312c48485a423"
     },
     {
       "rank": 8,
-      "title": "Enamorada Vía Internet",
-      "artist": "Los Caligaris",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d40c6088a66f5397aa397649",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2LojOTCV3KiolvhHRVSMpb",
-      "spotifyUrl": "https://open.spotify.com/track/2LojOTCV3KiolvhHRVSMpb",
-      "youtubeId": "LMY0FxpJPvk"
+      "title": "Te Está Pasando Lo Mismo Que a Mí",
+      "artist": "Marcela Morelo",
+      "youtubeId": "nCBqACy1HWY",
+      "spotifyUri": "spotify:track:0ltLL7VmjU97AudR9TPYZr",
+      "spotifyUrl": "https://open.spotify.com/track/0ltLL7VmjU97AudR9TPYZr",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02acca56431172d763d1d8167d"
     },
     {
       "rank": 9,
-      "title": "El Sensei",
-      "artist": "Bersuit Vergarabat",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e024088617e750f6f13d036a70b",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7cLvOmqVoZHdjqrIYKOOjH",
-      "spotifyUrl": "https://open.spotify.com/track/7cLvOmqVoZHdjqrIYKOOjH",
-      "youtubeId": "rzsJaYPz6GY"
+      "title": "A Veces Vuelvo",
+      "artist": "Catupecu Machu",
+      "youtubeId": "mlc53HdWFag",
+      "spotifyUri": "spotify:track:2E2dLZK0gSTl6vjr53BfKM",
+      "spotifyUrl": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026961872106b3ce3d9cf7d230"
     },
     {
       "rank": 10,
-      "title": "La Tortura",
-      "artist": "Shakira feat. Alejandro Sanz",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02afccde0243b5c750c07f6825",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:53AafWSzYsiJKnAtJTUB5f",
-      "spotifyUrl": "https://open.spotify.com/track/53AafWSzYsiJKnAtJTUB5f",
-      "youtubeId": "GdgiSOHcswI"
+      "title": "El Fantasma",
+      "artist": "Árbol",
+      "youtubeId": "PtcmKW6lD0k",
+      "spotifyUri": "spotify:track:0N361WhEqVunVl5ZBkfd70",
+      "spotifyUrl": "https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02c2f2ecbee36586c59284f96d"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/2BFxifRdjuzqgsnePeshTC"
+  ]
 }

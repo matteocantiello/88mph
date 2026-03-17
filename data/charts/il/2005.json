@@ -1,101 +1,95 @@
 {
   "country": "il",
   "year": 2005,
-  "context": "By 2005, Israeli hip-hop led by Subliminal and Hadag Nahash had gone mainstream, while mizrahi pop continued its dominance through Eyal Golan and Sarit Hadad. The Idan Raichel Project achieved international recognition with its world music fusion, and Israeli electronic/trance music (Infected Mushroom) gained a global following.",
+  "context": "By 2005, Israeli music had matured into a diverse scene. The Idan Raichel Project's groundbreaking fusion of Ethiopian, Middle Eastern, and electronic sounds was named both Song of the Year and Band of the Year. Israeli hip-hop led by Subliminal and Hadag Nahash had gone mainstream, while mizrahi pop continued its dominance through Eyal Golan and Sarit Hadad.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Ha'Tikva",
-      "artist": "Subliminal",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f019d5c5c8dc178922768830",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5QdYKRqBprV1JDQiiqITFe",
-      "spotifyUrl": "https://open.spotify.com/track/5QdYKRqBprV1JDQiiqITFe",
-      "youtubeId": "_KeuRKX_UEk"
+      "title": "Mi'Ma'amakim",
+      "artist": "The Idan Raichel Project",
+      "youtubeId": "24cMDy1j86U",
+      "spotifyUri": "spotify:track:0EItG9IYrhffJ2MOU9pW0Q",
+      "spotifyUrl": "https://open.spotify.com/track/0EItG9IYrhffJ2MOU9pW0Q",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e8927570a53e6679f4c63bd"
     },
     {
       "rank": 2,
-      "title": "Stam",
-      "artist": "Hadag Nahash",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0287603e34126afa0f37f71694",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1UxPPRzZOUhZPTslSjzagr",
-      "spotifyUrl": "https://open.spotify.com/track/1UxPPRzZOUhZPTslSjzagr",
-      "youtubeId": "TKMibx6c9vY"
+      "title": "Hazak",
+      "artist": "Subliminal",
+      "youtubeId": "tJfvP6p5jFk",
+      "spotifyUri": "spotify:track:5AgmQ1LOYIEhKk6tChXisU",
+      "spotifyUrl": "https://open.spotify.com/track/5AgmQ1LOYIEhKk6tChXisU",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f054425c4917b72063706854"
     },
     {
       "rank": 3,
-      "title": "Bo'i",
-      "artist": "Idan Raichel Project",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02647d224e660ed3528a779c05",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2mfXTYqOqSdhNvwXS8V9of",
-      "spotifyUrl": "https://open.spotify.com/track/2mfXTYqOqSdhNvwXS8V9of",
-      "youtubeId": "rJNaEJ24JCc"
+      "title": "Histakli Elay",
+      "artist": "Eyal Golan",
+      "youtubeId": "FBtc04QJn5U",
+      "spotifyUri": "spotify:track:30DD4U5gWCwsysBq5pMkP5",
+      "spotifyUrl": "https://open.spotify.com/track/30DD4U5gWCwsysBq5pMkP5",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ff172d157c2c73665e9757a6"
     },
     {
       "rank": 4,
-      "title": "Kama She'Tishtefi",
-      "artist": "Eyal Golan",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0241ea012760dc38c79bfe1e02",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1JWgLV9n7Red2x6qwE2K25",
-      "spotifyUrl": "https://open.spotify.com/track/1JWgLV9n7Red2x6qwE2K25"
+      "title": "Shuv",
+      "artist": "Sarit Hadad",
+      "youtubeId": "3Kiskzjg4ag",
+      "spotifyUri": "spotify:track:3zc9U64NwbxTaPMkRBdDsp",
+      "spotifyUrl": "https://open.spotify.com/track/3zc9U64NwbxTaPMkRBdDsp",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028a72b4ece3a4a6529e1f5202"
     },
     {
       "rank": 5,
-      "title": "Lo Yodaat",
-      "artist": "Sarit Hadad",
-      "youtubeId": "8QG1fWKJZsY",
-      "spotifyUri": "spotify:track:14uCYjc3tEJmK61fWQl3KK",
-      "spotifyUrl": "https://open.spotify.com/track/14uCYjc3tEJmK61fWQl3KK",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0210c63318f75fd1516f04cee6"
+      "title": "Shirat HaSticker",
+      "artist": "Hadag Nahash",
+      "youtubeId": "YgJJoYCBkvM",
+      "spotifyUri": "spotify:track:0M49qBoYRI7ICdw1XJyqpN",
+      "spotifyUrl": "https://open.spotify.com/track/0M49qBoYRI7ICdw1XJyqpN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02cca7fbd2ae44e47d07927299"
     },
     {
       "rank": 6,
-      "title": "Becoming",
-      "artist": "Infected Mushroom",
-      "youtubeId": "wVwQYSVNJVM",
-      "spotifyUri": "spotify:track:4zh13oEiKl6W8qn9zsdQrp",
-      "spotifyUrl": "https://open.spotify.com/track/4zh13oEiKl6W8qn9zsdQrp",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02961a1d69bf272921a0137534"
+      "title": "Bo'i",
+      "artist": "Idan Raichel",
+      "youtubeId": "rJNaEJ24JCc",
+      "spotifyUri": "spotify:track:2mfXTYqOqSdhNvwXS8V9of",
+      "spotifyUrl": "https://open.spotify.com/track/2mfXTYqOqSdhNvwXS8V9of",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02647d224e660ed3528a779c05"
     },
     {
       "rank": 7,
-      "title": "Lecha Dodi",
-      "artist": "Idan Raichel Project",
-      "youtubeId": "24cMDy1j86U",
-      "spotifyUri": "spotify:track:3rjpaHauS05qHKFF1BMUMS",
-      "spotifyUrl": "https://open.spotify.com/track/3rjpaHauS05qHKFF1BMUMS",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0276612dfd247a676c52535ebc"
+      "title": "Ahava Ze Lo Sho'a",
+      "artist": "Eyal Golan",
+      "spotifyUri": "spotify:track:1rqbNjvVGb70Y3SJC3wSoF",
+      "spotifyUrl": "https://open.spotify.com/track/1rqbNjvVGb70Y3SJC3wSoF",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02710923325a48b970d74308db"
     },
     {
       "rank": 8,
-      "title": "Ze Ma She'Ani",
-      "artist": "Eyal Golan",
-      "youtubeId": "L4JICrzqC14",
-      "spotifyUri": "spotify:track:7Hmm9Ym0pVyZ9VldcjeZJo",
-      "spotifyUrl": "https://open.spotify.com/track/7Hmm9Ym0pVyZ9VldcjeZJo",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244ae44c09eabdeef350c8437"
+      "title": "Holech Stam",
+      "artist": "Ivri Lider",
+      "spotifyUri": "spotify:track:4LVt52vRb6NfUVdvS2Pz1P",
+      "spotifyUrl": "https://open.spotify.com/track/4LVt52vRb6NfUVdvS2Pz1P",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d57b0b111b49d7bf8519c536"
     },
     {
       "rank": 9,
-      "title": "Shirat Ha'Sticker",
-      "artist": "Hadag Nahash",
-      "youtubeId": "YgJJoYCBkvM",
-      "spotifyUri": "spotify:track:6q407anU9HRxKp0ek7SHf9",
-      "spotifyUrl": "https://open.spotify.com/track/6q407anU9HRxKp0ek7SHf9",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b9fefd17a50526e979076913"
+      "title": "Seret Hodi",
+      "artist": "Subliminal feat. Shadow",
+      "youtubeId": "Riy-B73plNg",
+      "spotifyUri": "spotify:track:2iyiwqteQAOqC4qGfZ6AtC",
+      "spotifyUrl": "https://open.spotify.com/track/2iyiwqteQAOqC4qGfZ6AtC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ddebe9251f00720bbff63803"
     },
     {
       "rank": 10,
-      "title": "Lama Lo Ba Li",
-      "artist": "Rita",
-      "youtubeId": "IB-h_wfEpQk",
-      "spotifyUri": "spotify:track:27U5lNULc7C9nCcuXpMogA",
-      "spotifyUrl": "https://open.spotify.com/track/27U5lNULc7C9nCcuXpMogA",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e027b5f3264319e9b70e0eb5103"
+      "title": "Kmo Cinderella",
+      "artist": "Sarit Hadad",
+      "youtubeId": "3Kiskzjg4ag",
+      "spotifyUri": "spotify:track:77YFeTSYqvhd20cBb3sujM",
+      "spotifyUrl": "https://open.spotify.com/track/77YFeTSYqvhd20cBb3sujM",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e020301b98d800f9b63f4e50e63"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/11AZQpNHSUhPNDQdKvZXKB"
+  ]
 }

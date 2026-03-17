@@ -1,105 +1,97 @@
 {
   "country": "il",
   "year": 2000,
-  "context": "Israel's music scene in 2000 was vibrant and diverse, with Dana International's Eurovision triumph still resonating. Eyal Golan became the king of modern mizrahi pop, Sarit Hadad dominated radio with her powerful vocals, and the Idan Raichel Project began its groundbreaking fusion of Ethiopian, Middle Eastern, and electronic sounds.",
+  "context": "Israel's 2000 radio charts were heavily international, with dance-pop and pop dominating the airwaves. Melanie C's 'I Turn to You,' Sonique's 'It Feels So Good,' and Britney Spears ruled the year-end charts, reflecting Israel's strong connection to European and American pop culture.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Bo",
-      "artist": "Sarit Hadad",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e021bbc84bb8dd47d76d357e01c",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:6RLQXtGsWZZsDd3Sa5swwF",
-      "spotifyUrl": "https://open.spotify.com/track/6RLQXtGsWZZsDd3Sa5swwF",
-      "youtubeId": "AGVJ6AdX6PA"
+      "title": "I Turn to You",
+      "artist": "Melanie C",
+      "youtubeId": "SXm0V5qnp9A",
+      "spotifyUri": "spotify:track:5x5zRAJy1a8lSKWCCKSCIH",
+      "spotifyUrl": "https://open.spotify.com/track/5x5zRAJy1a8lSKWCCKSCIH",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026809892ec4db63e0a6ee661c"
     },
     {
       "rank": 2,
-      "title": "Hayom Ze Ha'Yom",
-      "artist": "Eyal Golan",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e028b31df1979f773bb17366c91",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7gBx9hfV6Lgn2GC6jduEMm",
-      "spotifyUrl": "https://open.spotify.com/track/7gBx9hfV6Lgn2GC6jduEMm",
-      "youtubeId": "8QG1fWKJZsY"
+      "title": "It Feels So Good",
+      "artist": "Sonique",
+      "youtubeId": "G28dz7JOjQM",
+      "spotifyUri": "spotify:track:7xFy1kfgGWJWTpx1vSHBLi",
+      "spotifyUrl": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aa7df9183be7f3bb8c8ad4bc"
     },
     {
       "rank": 3,
-      "title": "Diva",
-      "artist": "Dana International",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e020e3d0c03490ab7549192c937",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5g4rGXAdV7dYKGPmrUQ3ge",
-      "spotifyUrl": "https://open.spotify.com/track/5g4rGXAdV7dYKGPmrUQ3ge",
-      "youtubeId": "Hix1p6JT8Js"
+      "title": "Born to Make You Happy",
+      "artist": "Britney Spears",
+      "youtubeId": "VA5TkyqjAGo",
+      "spotifyUri": "spotify:track:4l1MNtoCiTxBwf6yxD7kFd",
+      "spotifyUrl": "https://open.spotify.com/track/4l1MNtoCiTxBwf6yxD7kFd",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0236cf58e3e7cf36a145b1da18"
     },
     {
       "rank": 4,
-      "title": "Ahava Ze Lo Raq Miluim",
-      "artist": "Shlomo Artzi",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0244ae44c09eabdeef350c8437",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:15NPHbxFNQJ2kZDLRrwJeI",
-      "spotifyUrl": "https://open.spotify.com/track/15NPHbxFNQJ2kZDLRrwJeI"
+      "title": "Lady (Hear Me Tonight)",
+      "artist": "Modjo",
+      "youtubeId": "MR3uP7IYz44",
+      "spotifyUri": "spotify:track:49X0LAl6faAusYq02PRAY6",
+      "spotifyUrl": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0254c5c304064df85d61253ac7"
     },
     {
       "rank": 5,
-      "title": "Lama Li",
-      "artist": "Sarit Hadad",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02def3abb4064a350f26da7331",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0oy9MSfxuqqda3ysYJwHf6",
-      "spotifyUrl": "https://open.spotify.com/track/0oy9MSfxuqqda3ysYJwHf6",
-      "youtubeId": "QdFmb-ZSJcY"
+      "title": "Pure Shores",
+      "artist": "All Saints",
+      "youtubeId": "exIgCPtZLnk",
+      "spotifyUri": "spotify:track:594P4Vej0r6OfiRme4kovX",
+      "spotifyUrl": "https://open.spotify.com/track/594P4Vej0r6OfiRme4kovX",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e025daf78fa2dc57961f20ed38d"
     },
     {
       "rank": 6,
-      "title": "Mi'Ma'amakim",
-      "artist": "Idan Raichel Project",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e024e8927570a53e6679f4c63bd",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:0EItG9IYrhffJ2MOU9pW0Q",
-      "spotifyUrl": "https://open.spotify.com/track/0EItG9IYrhffJ2MOU9pW0Q",
-      "youtubeId": "24cMDy1j86U"
+      "title": "Back in My Life",
+      "artist": "Alice Deejay",
+      "youtubeId": "B-4hZqD2XeE",
+      "spotifyUri": "spotify:track:557q3cfw95ChPhoupTVUUZ",
+      "spotifyUrl": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028d897b8994ce008298200408"
     },
     {
       "rank": 7,
-      "title": "Lev Zahav",
-      "artist": "Eyal Golan",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0276612dfd247a676c52535ebc",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3rjpaHauS05qHKFF1BMUMS",
-      "spotifyUrl": "https://open.spotify.com/track/3rjpaHauS05qHKFF1BMUMS",
-      "youtubeId": "QhzAg2sQyOM"
+      "title": "The Real Slim Shady",
+      "artist": "Eminem",
+      "youtubeId": "r5MR7_INQwg",
+      "spotifyUri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR",
+      "spotifyUrl": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02dbb3dd82da45b7d7f31b1b42"
     },
     {
       "rank": 8,
-      "title": "Rak Itcha",
-      "artist": "Subliminal & The Shadow",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02a23f88f9cf1eebd57812b9c3",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:3KBJBBoFFrTS43aFrxphLk",
-      "spotifyUrl": "https://open.spotify.com/track/3KBJBBoFFrTS43aFrxphLk"
+      "title": "Groovejet (If This Ain't Love)",
+      "artist": "Spiller",
+      "youtubeId": "Cc_nUcKYlAs",
+      "spotifyUri": "spotify:track:1o2QXBJvkXTgDDM6EvjU9I",
+      "spotifyUrl": "https://open.spotify.com/track/1o2QXBJvkXTgDDM6EvjU9I",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02bcc8cce0e2fa4f6e990fea63"
     },
     {
       "rank": 9,
-      "title": "Seret Hodi",
-      "artist": "Subliminal",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ac4f20a3ca2dfde626a53bf5",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4RZxj7BmKmlKAryPNkDXjt",
-      "spotifyUrl": "https://open.spotify.com/track/4RZxj7BmKmlKAryPNkDXjt",
-      "youtubeId": "f9gAT9I3KJw"
+      "title": "Spinning Around",
+      "artist": "Kylie Minogue",
+      "youtubeId": "F1A5LvxVuL8",
+      "spotifyUri": "spotify:track:0JcgDliDqDac8iOFFRm7tZ",
+      "spotifyUrl": "https://open.spotify.com/track/0JcgDliDqDac8iOFFRm7tZ",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b4bafae67d95046f07a9debd"
     },
     {
       "rank": 10,
-      "title": "Ahava Hi Milchama",
-      "artist": "Rita",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d164c65c0f80ad3257abe1f5",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:363ehd00Bbas1dfKX4Ltl7",
-      "spotifyUrl": "https://open.spotify.com/track/363ehd00Bbas1dfKX4Ltl7"
+      "title": "Adelante",
+      "artist": "Sash!",
+      "youtubeId": "aX_Ip26Y4nQ",
+      "spotifyUri": "spotify:track:3rP3Wk3KmlJpp2vvYC4ByN",
+      "spotifyUrl": "https://open.spotify.com/track/3rP3Wk3KmlJpp2vvYC4ByN",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02e38a709cd318e591edf7abbc"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/1mdRaEj7vf4I9TWeaGaTCW"
+  ]
 }

@@ -1,108 +1,97 @@
 {
   "country": "ar",
   "year": 1970,
-  "context": "Argentina's 1970 was the birth of rock nacional, with Almendra, Manal, and Sui Generis emerging from Buenos Aires' underground. Simultaneously, the nueva ola pop movement and romantic balladeers like Sandro dominated mainstream radio. The era fused folk, tango, and rock into a uniquely Argentine sound.",
+  "context": "Argentina's 1970 charts mixed international pop with local romantic ballads. Sandro's 'Trigal' was a massive hit, while Piero's 'Mi Viejo' became one of the most beloved Argentine songs ever. The nueva ola movement dominated mainstream radio alongside early rock nacional stirrings.",
   "tracks": [
     {
       "rank": 1,
-      "title": "Rosa Rosa",
+      "title": "Trigal",
       "artist": "Sandro",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02aa73b5f891c1a270c22b0e8c",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2xWNLtRPgcQwjTWjhncnJF",
-      "spotifyUrl": "https://open.spotify.com/track/2xWNLtRPgcQwjTWjhncnJF",
-      "youtubeId": "b4pS0j3oimU"
+      "youtubeId": "B5T2VL3tzFk",
+      "spotifyUri": "spotify:track:20HseYfcdD8KFPGKfK5aSS",
+      "spotifyUrl": "https://open.spotify.com/track/20HseYfcdD8KFPGKfK5aSS",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0260eca78d5823500d665fbdad"
     },
     {
       "rank": 2,
-      "title": "Muchacha (Ojos de Papel)",
-      "artist": "Almendra",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02ccf6d7a68e129185513921e8",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:6GPkBUXMrGSkwK3TrrHHXN",
-      "spotifyUrl": "https://open.spotify.com/track/6GPkBUXMrGSkwK3TrrHHXN",
-      "youtubeId": "znK_KQT2vek"
+      "title": "Mi Viejo",
+      "artist": "Piero",
+      "youtubeId": "0mi5VoY4V6s",
+      "spotifyUri": "spotify:track:3bWMCH2M7JWUga1WRagDzs",
+      "spotifyUrl": "https://open.spotify.com/track/3bWMCH2M7JWUga1WRagDzs",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0243e5cd64457274893643336d"
     },
     {
       "rank": 3,
-      "title": "Penumbras",
-      "artist": "Sandro",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0260eca78d5823500d665fbdad",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:1hjmU3RpUy9MNiWLzqccBz",
-      "spotifyUrl": "https://open.spotify.com/track/1hjmU3RpUy9MNiWLzqccBz",
-      "youtubeId": "09a7mDe99qs"
+      "title": "Balada para un Loco",
+      "artist": "Amelita Baltar",
+      "youtubeId": "DhbBz6xLxwI",
+      "spotifyUri": "spotify:track:7elVvHs5wE7rSvU3Slz6lo",
+      "spotifyUrl": "https://open.spotify.com/track/7elVvHs5wE7rSvU3Slz6lo",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02d2b60b5011eea56180e88de5"
     },
     {
       "rank": 4,
-      "title": "Avellaneda Blues",
-      "artist": "Manal",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e021d22d0c6a889e71ee5763075",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:2SeUS7JmN0oLjHPHGvDZFA",
-      "spotifyUrl": "https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA",
-      "youtubeId": "Orer_n39rRs"
+      "title": "Raindrops Keep Fallin' on My Head",
+      "artist": "B.J. Thomas",
+      "youtubeId": "sySlY1XKlhM",
+      "spotifyUri": "spotify:track:2s1Yh0AywJhLsKKZ9vM0tm",
+      "spotifyUrl": "https://open.spotify.com/track/2s1Yh0AywJhLsKKZ9vM0tm",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0206ca44cb5a5cc81212b56051"
     },
     {
       "rank": 5,
-      "title": "La Balsa",
-      "artist": "Los Gatos",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02b0bbe56fb6f5d9dae8bb1d0e",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4J2xMy0kakU9sAin1uppxb",
-      "spotifyUrl": "https://open.spotify.com/track/4J2xMy0kakU9sAin1uppxb",
-      "youtubeId": "gLOzJ0SSGSA"
+      "title": "In the Summertime",
+      "artist": "Mungo Jerry",
+      "youtubeId": "wVI9iEbqFyo",
+      "spotifyUri": "spotify:track:36xVTZU8HMpcgEdlJ4I3Kv",
+      "spotifyUrl": "https://open.spotify.com/track/36xVTZU8HMpcgEdlJ4I3Kv",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022c32773808a599d9aa5f5a54"
     },
     {
       "rank": 6,
-      "title": "Quiero Llenarme de Ti",
-      "artist": "Sandro",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0260eca78d5823500d665fbdad",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:6XXq40TtivGubrIx8wlJ81",
-      "spotifyUrl": "https://open.spotify.com/track/6XXq40TtivGubrIx8wlJ81",
-      "youtubeId": "O4reVaDecBM"
+      "title": "El Arca de Noé",
+      "artist": "Sergio Endrigo",
+      "youtubeId": "520-Z3LJ9Jo",
+      "spotifyUri": "spotify:track:7iGX6Xdi2EnYqBqvzEVEVC",
+      "spotifyUrl": "https://open.spotify.com/track/7iGX6Xdi2EnYqBqvzEVEVC",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e0202b1465a8e6b21d3308c18f4"
     },
     {
       "rank": 7,
-      "title": "Jugo de Tomate Frío",
-      "artist": "Manal",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e021ac03499feca5ec6e31ec809",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5sBF1WJfEo2aJZPHj7eayC",
-      "spotifyUrl": "https://open.spotify.com/track/5sBF1WJfEo2aJZPHj7eayC",
-      "youtubeId": "5hex46fU9E4"
+      "title": "Las Cosas Que Me Alejan de Ti",
+      "artist": "Gian Franco Pagliaro",
+      "youtubeId": "x40CRd17vWs",
+      "spotifyUri": "spotify:track:2LFY6pQFbZpiANxX2LLrQz",
+      "spotifyUrl": "https://open.spotify.com/track/2LFY6pQFbZpiANxX2LLrQz",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e022b51e7e8c1cdd4a4e749f3da"
     },
     {
       "rank": 8,
-      "title": "Suite de los Pescadores",
-      "artist": "Almendra",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0276f1ac7e1d3d2d3e51ce5bb7",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:5r58peFc3ScBBF0OXQcLQI",
-      "spotifyUrl": "https://open.spotify.com/track/5r58peFc3ScBBF0OXQcLQI",
-      "youtubeId": "8rnUhlgNHXs"
+      "title": "Cecilia",
+      "artist": "Simon & Garfunkel",
+      "youtubeId": "voGvFWXPYx8",
+      "spotifyUri": "spotify:track:6QhXQOpyYvbpdbyjgAqKdY",
+      "spotifyUrl": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e028453b853c2cc9c077828eefb"
     },
     {
       "rank": 9,
-      "title": "Presente (El Momento en Que Estás)",
-      "artist": "Vox Dei",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e02054e81dc902db1dd94bebe98",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:4bFUkfOd1ZGrCaszcsBP2L",
-      "spotifyUrl": "https://open.spotify.com/track/4bFUkfOd1ZGrCaszcsBP2L",
-      "youtubeId": "6yaU-WVAymE"
+      "title": "Yellow River",
+      "artist": "Christie",
+      "youtubeId": "KueMOCJFX9A",
+      "spotifyUri": "spotify:track:4VnzKUBMB6cvog8Jvv1few",
+      "spotifyUrl": "https://open.spotify.com/track/4VnzKUBMB6cvog8Jvv1few",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e02f8acc5384b30790e5254362f"
     },
     {
       "rank": 10,
-      "title": "Ayer Nomás",
-      "artist": "Moris",
-      "albumArt": "https://i.scdn.co/image/ab67616d00001e0218caf42637b6a2dd5fb0e839",
-      "previewUrl": null,
-      "spotifyUri": "spotify:track:7cmqCFVEsER4iwBYNuXESP",
-      "spotifyUrl": "https://open.spotify.com/track/7cmqCFVEsER4iwBYNuXESP",
-      "youtubeId": "P3VJ3v26QEk"
+      "title": "Soolaimon",
+      "artist": "Neil Diamond",
+      "youtubeId": "Ug0eNJby2s8",
+      "spotifyUri": "spotify:track:4tOkBMhw0z8npZK6CtPvv2",
+      "spotifyUrl": "https://open.spotify.com/track/4tOkBMhw0z8npZK6CtPvv2",
+      "albumArt": "https://i.scdn.co/image/ab67616d00001e026092ac99aa00b2918ce33ec7"
     }
-  ],
-  "spotifyPlaylistUrl": "https://open.spotify.com/playlist/0mGklwj2jqK5GAqNJ3PT73"
+  ]
 }

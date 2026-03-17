@@ -32,6 +32,8 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Billboard Colombia | CO | — | Colombian Billboard charts (year-end data from 2025) |
 | Billboard Philippines Hot 100 | PH | — | Philippine Billboard charts |
 | CAPIF | AR | — | Argentine Chamber of Phonogram and Videogram Producers |
+| chartsaroundtheworld.com | AR, CL, IL | https://www.chartsaroundtheworld.com/ | FM88 Top 100 (AR), Radioactiva Top 100 (CL), Radio Jerusalem Top 50 (IL); year-end charts |
+| playback.fm | BR | https://playback.fm/charts/brasil/ | Brazilian Parada de Sucesso year-end charts (historical) |
 | ACINPRO | CO | — | Colombian copyright society (historical chart data) |
 | MediaForest | IL | https://mediaforest.biz/ | Israeli music chart monitoring service |
 | IFPI/TECA Chart | TH | — | Official Thai music chart (IFPI Thailand) |
@@ -75,6 +77,9 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Boomplay | GH, KE | https://www.boomplay.com/ | African music streaming platform |
 | Music In Africa | GH, KE | https://www.musicinafrica.net/ | African music documentation and charts |
 | Arabsounds | EG | https://www.arabsounds.net/ | Arabic music news and charts |
+| muzikliste.blogspot.com | TR | — | Turkish historical song lists (1975 verification) |
+| Hit FM Taiwan | CN | — | Hit FM Annual Top 100 (Chinese-language pop charts) |
+| RTHK Gold Songs Awards | CN | — | Hong Kong radio chart awards (Cantopop) |
 | Spotify Wrapped | EG, ID, TH, MY, PH, IL, TR | https://spotify.com/ | Year-end streaming data by country |
 | Prambors | ID | — | Indonesian radio station charts |
 | Rotana Records | EG | — | Major Arabic music label (historical reference) |
@@ -93,12 +98,12 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Japan | jp | 11 | 1968–2025 | Oricon, Billboard Japan |
 | Australia | au | 10 | 1960–2025 | Kent Music Report, ARIA |
 | South Korea | kr | 8 | 1980–2025 | KBS Awards, Gaon/Circle Chart |
-| Brazil | br | 9 | 1960–2025 | Wikipedia, Brazilian music charts |
+| Brazil | br | 9 | 1960–2025 | playback.fm (Parada de Sucesso), Wikipedia |
 | Mexico | mx | 10 | 1965–2025 | Notitas Musicales, Monitor Latino, Billboard Mexico |
 | Sweden | se | 10 | 1965–2025 | Kvällstoppen, Sverigetopplistan |
 | Russia | ru | 9 | 1975–2025 | Pesnya Goda, TopHit, Zolotoy Grammofon |
 | Netherlands | nl | 9 | 1965–2025 | Dutch Top 40 |
-| China | cn | 8 | 1985–2025 | Cultural significance, QQ Music |
+| China | cn | 8 | 1985–2025 | Hit FM Taiwan Top 100, RTHK Gold Songs, QQ Music |
 | Norway | no | 8 | 1970–2025 | VG-lista |
 | Nigeria | ng | 8 | 1975–2025 | TurnTable, cultural significance (Afrobeat/Afrobeats documentation) |
 | South Africa | za | 8 | 1965–2025 | Springbok Radio, cultural significance |
@@ -106,13 +111,13 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 | Egypt | eg | 6 | 2000–2025 | Spotify Wrapped, Apple Music, Rotana Records, cultural significance |
 | Ghana | gh | 6 | 2000–2025 | Ghana Music Awards, Apple Music, Boomplay, Music In Africa |
 | Kenya | ke | 6 | 2000–2025 | Apple Music, Music In Africa, Mdundo, cultural significance |
-| Argentina | ar | 9 | 1970–2025 | CAPIF, Spotify, Billboard, cultural significance (rock nacional) |
+| Argentina | ar | 9 | 1970–2025 | chartsaroundtheworld.com (FM88 Top 100), CAPIF, Wikipedia, Spotify |
 | Colombia | co | 8 | 1970–2025 | Billboard Colombia, ACINPRO, Spotify, cultural significance |
-| Chile | cl | 6 | 2000–2025 | Spotify Chile, Billboard Hits of the World |
-| Turkey | tr | 9 | 1975–2025 | Radiomonitor, Spotify, Billboard Hits of the World |
+| Chile | cl | 6 | 2000–2025 | chartsaroundtheworld.com (Radioactiva Top 100), Spotify Chile |
+| Turkey | tr | 9 | 1975–2025 | muzikliste.blogspot.com, Radiomonitor, Spotify, Billboard |
 | Philippines | ph | 8 | 1975–2025 | Billboard Philippines, OPM charts, cultural significance |
-| Indonesia | id | 7 | 1985–2025 | Prambors, Spotify, Billboard Hits of the World |
-| Israel | il | 9 | 1970–2025 | MediaForest, מצעד הפזמונים (Wikipedia) |
+| Indonesia | id | 7 | 1985–2025 | ASEAN Pop Song Festival records, Prambors, Spotify, Billboard |
+| Israel | il | 9 | 1970–2025 | chartsaroundtheworld.com (Radio Jerusalem Top 50), MediaForest, מצעד הפזמונים |
 | Thailand | th | 6 | 2000–2025 | IFPI/TECA Chart, Spotify, Billboard |
 | Malaysia | my | 6 | 2000–2025 | RIM Charts (Wikipedia), Spotify, Billboard |
 | Switzerland | ch | 13 | 1968–2025 | Swiss Hitparade (hitparade.ch) |
@@ -132,3 +137,19 @@ This document tracks all sources used to compile the music chart data in 88mph. 
 - Turkish pre-2000 data relies on Anatolian rock and arabesk cultural archives, as formal Turkish charts were not standardized until the streaming era.
 - Argentine rock nacional data (1970-1990) is compiled from cultural significance and retrospective rankings, as Argentina lacked formal singles charts during this period.
 - Colombian pre-2010 data uses cultural significance, Discos Fuentes catalog records, and music historians, as Monitor Latino did not start tracking Colombia until 2012.
+
+## Data Corrections (March 2026)
+
+An audit using Spotify release dates identified 20 charts across 9 countries containing songs from the wrong era (LLM hallucination of "culturally important" songs rather than actual year-specific hits). All 20 charts were corrected using verified sources:
+
+| Country | Charts Fixed | Sources Used |
+|---------|-------------|--------------|
+| Argentina | 1970, 1980, 1990, 2000, 2005, 2010 | chartsaroundtheworld.com FM88 Top 100, Wikipedia "List of number-one hits (Argentina)" |
+| Brazil | 1960, 1970, 2005, 2010 | playback.fm/charts/brasil (Parada de Sucesso year-end charts) |
+| Colombia | 1970, 1985, 2000 | Discos Fuentes catalog, Discogs release dates, cultural archives |
+| Chile | 2000 | chartsaroundtheworld.com Radioactiva Top 100 del 2000 |
+| China | 2000 | Hit FM Taiwan Annual Top 100, RTHK Gold Songs Awards |
+| Indonesia | 1985 | ASEAN Pop Song Festival V nominees (1986), Discogs |
+| Israel | 2000, 2005, 2010 | chartsaroundtheworld.com Radio Jerusalem Top 50 |
+| Turkey | 1975 | muzikliste.blogspot.com, Discogs release date verification |
+| Egypt | 2005 | Cultural archives, release date verification |
