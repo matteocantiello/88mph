@@ -27,10 +27,16 @@ const shareTechMono = Share_Tech_Mono({
   display: "swap",
 });
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://88mph.fm";
+
 export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
   title: "88mph — What was the world listening to?",
   description:
     "No algorithm. No 'you might also like.' Just what the world was actually listening to — whether you were there or not.",
+  alternates: {
+    canonical: "/",
+  },
   icons: {
     icon: "/icon.svg",
   },
@@ -39,13 +45,14 @@ export const metadata: Metadata = {
     description: "What was the world listening to?",
     siteName: "88mph",
     type: "website",
-    images: [{ url: "https://88mph.fm/og.webp", width: 1280, height: 736 }],
+    url: SITE_URL,
+    images: [{ url: "/og.webp", width: 1280, height: 736 }],
   },
   twitter: {
     card: "summary_large_image",
     title: "88mph",
     description: "What was the world listening to?",
-    images: ["https://88mph.fm/og.webp"],
+    images: ["/og.webp"],
   },
 };
 

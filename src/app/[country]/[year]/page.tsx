@@ -43,6 +43,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   return {
     title,
     description,
+    alternates: {
+      canonical: pageUrl,
+    },
     openGraph: {
       title: `${name} ${year} — Top 10`,
       description,
@@ -86,8 +89,27 @@ export default async function ChartPage({ params }: PageProps) {
   const postcardPath = path.join(process.cwd(), "public", "postcards", postcardFilename);
   const hasPostcard = fs.existsSync(postcardPath);
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "MusicPlaylist",
+    name: `${getCountryName(country)} ${year} — Top 10`,
+    description: `The year-end top 10 most popular songs in ${getCountryName(country)} in ${year}.`,
+    url: `${SITE_URL}/${country}/${year}`,
+    numTracks: chart.tracks.length,
+    track: chart.tracks.map((t) => ({
+      "@type": "MusicRecording",
+      position: t.rank,
+      name: t.title,
+      byArtist: { "@type": "MusicGroup", name: t.artist },
+    })),
+  };
+
   return (
     <div style={themeVars as React.CSSProperties}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <LastDepartedTracker country={country} year={year} />
       <main className="min-h-screen bg-background text-foreground transition-colors duration-700">
         {/* Top nav */}

@@ -21,8 +21,21 @@ export default async function HomePage() {
   const allEntries = metadata.charts.filter((e) => e.available);
   const spotlights = await pickSpotlightCharts(allEntries);
 
+  const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://88mph.fm";
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "88mph",
+    url: SITE_URL,
+    description: "What was the world listening to? Year-end top 10 charts from around the world.",
+  };
+
   return (
     <main className="min-h-screen bg-background">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* Hero */}
       <header className="relative overflow-x-hidden">
         {/* Hero background image */}
